@@ -45,6 +45,22 @@ Objetivo: seguir el ritmo de las clases + mantener los prácticos al día.
 [ ] Clase 28 — Jue 11
 [ ] Clase 29 — Mar 16 Recuperatorio** 
 
+# Previsión antes de clase (30 min)
+
+Lunes
+→ revisar tema de la clase del martes
+
+Miercoles
+→ revisar tema de la clase del viernes
+
+Objetivo:
+- saber de qué se va a hablar
+- reconocer conceptos
+
+No estudiar en profundidad.
+
+---
+
 ## Temas vistos en clase
 
 Clase 1: Principios basicos de las matrices
