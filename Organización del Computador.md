@@ -49,12 +49,10 @@ seguir las clases + mantener TPs al día.
 
 # Temas vistos en clase
 
-Clase 1:
+Clase 1: Sistemas de numeracion, binario, hexadecimal, decimal, carry out, suma y resta
 -
-
-Clase 2:
+Clase 2: Punto flotante estandar IEEE754, intro a Algebra de Boole
 -
-
 Clase 3:
 -
 

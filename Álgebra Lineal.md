@@ -103,5 +103,5 @@ Clase 3:
 Práctico en curso: 1
 -
 
-Próximo objetivo:
+Próximo objetivo:Dominar la reduccion de matrices simple (Gauss)
 -
