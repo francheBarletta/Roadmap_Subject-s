@@ -16,34 +16,35 @@ seguir las clases + mantener TPs al día.
 
 # Clases
 
-[ ] Clase 1 — Mié 11
-[ ] Clase 2 — Vie 13
-[ ] Clase 3
-[ ] Clase 4
-[ ] Clase 5
-[ ] Clase 6
-[ ] Clase 7
-[ ] Clase 8
-[ ] Clase 9
-[ ] Clase 10
-[ ] Clase 11
-[ ] Clase 12
-[ ] Clase 13
-[ ] Clase 14
-[ ] Clase 15
-[ ] Clase 16
-[ ] Clase 17
-[ ] Clase 18
-[ ] Clase 19
-[ ] Clase 20
-[ ] Clase 21
-[ ] Clase 22
-[ ] Clase 23
-[ ] Clase 24
-[ ] Clase 25
-[ ] Clase 26
-[ ] Clase 27
-[ ] Clase 28
+[x] Clase 1 — Mié 11 Marzo
+[x] Clase 2 — Vie 13
+[ ] Clase 3 — Mié 18
+[ ] Clase 4 — Vie 20
+[ ] Clase 5 — Mié 25
+[ ] Clase 6 — Vie 27
+[ ] Clase 7 — Mié 1 Abril
+[ ] Clase 8 — Vie 3
+[ ] Clase 9 — Mié 8
+[ ] Clase 10 — Vie 10 Posible Lab**
+[ ] Clase 11 — Mié 15 Posible Lab**
+[ ] Clase 12 — Vie 17
+[ ] Clase 13 — Mié 22
+[ ] Clase 14 — Vie 24 1er Parcial**
+[ ] Clase 15 — Mié 29
+[ ] Clase 16 — Vie 1 Mayo
+[ ] Clase 17 — Mié 6
+[ ] Clase 18 — Vie 8
+[ ] Clase 19 — Mié 13
+[ ] Clase 20 — Vie 15
+[ ] Clase 21 — Mié 20
+[ ] Clase 22 — Vie 22
+[ ] Clase 23 — Mié 27
+[ ] Clase 24 — Vie 29
+[ ] Clase 25 — Mié 3 Junio
+[ ] Clase 26 — Vie 5 2do Parcial
+[ ] Clase 27 — Mié 10
+[ ] Clase 28 — Vie 12
+[ ] Clase 29 — Mie 17 Recuperatorios 1 y 2
 
 ---
 
@@ -91,7 +92,7 @@ No estudiar en profundidad.
 # Conceptos clave
 
 ## Representación de datos
-[ ] sistema binario
+[x] sistema binario
 [ ] representación de números negativos
 [ ] punto fijo y flotante
 
@@ -124,36 +125,14 @@ No estudiar en profundidad.
 
 ---
 
-# Rutina semanal
-
-Martes
-→ revisión rápida del tema (30 min)
-
-Miércoles
-→ clase
-
-Jueves
-→ revisión rápida del tema (30 min)
-
-Viernes
-→ clase
-
-Sábado (bloque fuerte)
-→ avanzar TP
-→ entender conceptos difíciles
-
-Domingo
-→ repaso suave / descanso
-
----
 
 # Estado actual
 
-Última clase:
+Última clase: 2
 -
 
-TP en curso:
+TP en curso: 1
 -
 
 Próximo objetivo:
--
+- Dominar Punto flotante y demases
