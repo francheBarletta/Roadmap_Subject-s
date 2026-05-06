@@ -17,7 +17,7 @@ Objetivo: seguir el ritmo de las clases + mantener los prácticos al día.
 
 [x] Clase 1 — Mar 10 Marzo
 [x] Clase 2 — Jue 12
-[ ] Clase 3 — Mar 17
+[x] Clase 3 — Mar 17
 [ ] Clase 4 — Jue 19
 [ ] Clase 5 — Mar 24
 [ ] Clase 6 — Jue 26
@@ -67,7 +67,7 @@ Clase 1: Principios basicos de las matrices
 - 
 Clase 2: Transformaciones lineales, Tecnica Gaussiana
 -
-Clase 3:
+Clase 3: MERF, MRF
 -
 
 # Prácticos
@@ -113,7 +113,7 @@ Clase 3:
 
 # Estado actual
 
-Última clase: 2
+Última clase: 3
 -
 
 Práctico en curso: 1
