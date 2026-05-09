@@ -81,48 +81,79 @@ Prioridad: ALTA para el final
 ### MAYO — Semana 1 (7 al 11)
 
 **Vie 8** *(sesión completa PyE)*
-- INV: Leer probabilidad, axiomas, probabilidad condicional, Teorema de Bayes (HI-PyE-01)
-- Ejercicios: G1 ej. 3, 8, 11, 16
-- Objetivo: reconectar con el tema
+- Ejercicios: G1 ej. 1, 2, 3
+- INV:
+*Ej 1* — Espacio muestral: lista de resultados, eventos y operaciones entre eventos
+*Ej 2* — Propiedades de la probabilidad: contenencia de eventos, P(B-A), desigualdades
+*Ej 3* — Probabilidad de la unión de eventos: regla de inclusión-exclusión
 
 ---
 
 ### MAYO — Semana 2 (12 al 18)
 
-**Lun 11** *(PyE primera del día)*
-- INV: Leer variables aleatorias discretas, fmp, fda, esperanza, varianza (HI-PyE-02)
-- Ejercicios: G2 ej. 1, 2, 6
+**Lun 11** 
+- Ejercicios: G1 ej. 4, 5, 6, 8
+- INV:
+*Ej 4* — Conteo de puntos muestrales: principio multiplicativo
+*Ej 5* — Probabilidad en muestras sin reposición: combinaciones
+*Ej 6* — Probabilidad clásica con combinaciones: selección aleatoria de grupos
+*Ej 8* — Probabilidad condicional: regla del producto, árbol de probabilidades
 
-**Vie 15** *(sesión completa PyE)*
-- Tema: G2 — Distribuciones discretas: Binomial, Poisson, Hipergeométrica
-- Ejercicios: G2 ej. 7, 9, 11, 12, 14
-- SR al final: repasar G1 con caja de zapatos
+**Vie 15** 
+- Ejercicios: G1 ej. 9, 10, 11, 12, 13, 14
+- INV: 
+*Ej 9* — Probabilidad condicional con tablas de doble entrada
+*Ej 10* — Propiedades de la probabilidad condicional: demostración de fórmulas
+*Ej 11* — Teorema de Bayes: probabilidad total y probabilidad inversa
+*Ej 12* — Independencia de eventos: demostración con complementos
+*Ej 13* — Independencia vs dependencia: cálculo de P(A), P(B), P(A∩B)
+*Ej 14* — Probabilidad con combinaciones: distribución de cartas
 
 ---
 
 ### MAYO — Semana 3 (19 al 25)
 
-**Lun 18** *(PyE primera del día)*
-- INV: Leer variables aleatorias continuas, fdp, Normal, Exponencial (HI-PyE-03)
-- Ejercicios: G3 ej. 1, 2, 3
+**Lun 18** 
+- Ejercicios: G1 ej. 15, 16, 17
+- INV:
+*Ej 14* — Probabilidad con combinaciones: distribución de cartas
+*Ej 15* — Probabilidad total con eventos dependientes: ley de probabilidad total
+*Ej 16* — Probabilidad total y Bayes: empresas de correo y llegada tardía
+*Ej 17* *(*)* — Independencia con múltiples componentes: remaches defectuosos
 
 **Vie 22** *(sesión completa PyE)*
-- Tema: G3 — Distribuciones continuas: Normal, Exponencial, otras
-- Ejercicios: G3 ej. 5, 6, 7, 11, 12
-- SR al final: repasar G2
+- Ejercicios: G2 ej. 1, 2, 3, 4, 5
+- INV:
+*Ej 0* — Definición de espacio muestral y variable aleatoria
+*Ej 1* — Función de probabilidad de masa (fmp): verificación y cálculo de probabilidades
+*Ej 2* — fmp y función de distribución acumulada (fda): cálculo de probabilidades por eventos
+*Ej 3* — fda a partir de fmp: lectura e interpretación
+*Ej 4* — fmp desde un experimento aleatorio sin reposición
+*Ej 5* — fmp con experimento de decisiones secuenciales
 
 ---
 
 ### MAYO — Semana 4 (26 al 31)
 
 **Lun 25** *(PyE primera del día)*
-- INV: Leer distribuciones conjuntas, covarianza, correlación, TLC (HI-PyE-04)
-- Ejercicios: G4 ej. 1, 2, 3
+- Ejercicios: G2 ej. 6, 7, 8, 9
+- INV:
+*Ej 6* — Esperanza y varianza de una VA discreta: propiedades de E(X)
+*Ej 7* — Esperanza y varianza: transformaciones lineales y no lineales de X
+*Ej 8* — Esperanza y varianza de VA discreta + costo esperado
+*Ej 9* — Distribución Binomial: probabilidades y valor esperado
+
 
 **Vie 29** *(sesión completa PyE)*
-- Tema: G4 — TLC, distribución de medias muestrales, aproximaciones normales
-- Ejercicios: G4 ej. 9, 10, 11, 12, 13, 14
-- SR al final: repasar G3
+- Ejercicios: G2. 11, 12, 13, 14, 15, 17
+- INV:
+*Ej 11* — Distribución Binomial: probabilidad acumulada
+*Ej 12* — Distribución Hipergeométrica: sin reposición, E(X) y V(X)
+*Ej 13* — Distribución Binomial Negativa: número de ensayos hasta r éxitos
+*Ej 14* — Distribución de Poisson: probabilidades acumuladas y E(X)
+*Ej 15* — Suma de variables de Poisson independientes
+*Ej 16* *(*)* — Poisson con transformación: ganancia esperada
+*Ej 17* — Esperanza y varianza de distribución Hipergeométrica y Binomial Negativa (demostración)
 
 ---
 
@@ -135,58 +166,57 @@ Prioridad: ALTA para el final
 ### JUNIO — Semana 2 (8 al 14)
 
 **Lun 8** *(PyE solo este día)*
-- INV: Leer estimación puntual, estimadores insesgados, método de momentos (HI-PyE-05)
-- Ejercicios: G5 ej. 1, 2, 3, 4
-- Tema: G5 — Máxima verosimilitud, propiedad de invarianza
-- Ejercicios: G5 ej. 6, 7, 8, 9, 10
-- SR al final: repasar G4
+- Ejercicios: G3 ej. 1, 2, 3, 4
+- INV:
+*Ej 1* — Función de densidad (fdp): cálculo de probabilidades e integración
+*Ej 2* — FDA a partir de fdp: cálculo de probabilidades con fda
+*Ej 3* — fdp con parámetro k: percentiles, E(X), V(X), σ
+*Ej 4* — Distribución Uniforme: fdp, fda, E(X), V(X), probabilidades
+
 
 
 **Vie 12** *(sesión completa PyE)*
-- INV: Leer intervalos de confianza para media con σ conocido y desconocido (HI-PyE-06)
-- Anotar: fórmula IC, z_{α/2}, cuándo usar Z vs T
-- Ejercicios: G6 ej. 1, 2, 3, 5, 6, 7, 8
-- SR al final: repasar G5
-- Tema: G6 — IC para varianza (chi-cuadrado) + IC para proporciones
-- Ejercicios: G6 ej. 4, 6b, 7, 8, 9
-- SR al final: repasar G1–G4 rápido
+- Ejercicios: G3 ej 5, 6, 7, 8, 9, 10
+- INV:
+*Ej 5* — Distribución Normal: estandarización y uso de tabla Z
+*Ej 6* — Distribución Normal: probabilidades y percentiles aplicados
+*Ej 7* — Distribución Normal inversa: encontrar µ y σ desde percentiles
+*Ej 8* — Transformación lineal de Normal: Y = aX + b sigue siendo Normal
+*Ej 9* — Combinación de Normales: mezcla de máquinas con distintos parámetros
+*Ej 10* — Distribución Normal: probabilidades acumuladas e intervalo simétrico
 
 ---
-
 ### JUNIO — Semana 3 (15 al 21)
 
 > Semana de recuperatorios Álgebra y ODC — PyE avanza con G7
 
 **Vie 19** *(sesión completa PyE)*
-- INV: Leer prueba de hipótesis — H0, Ha, región de rechazo, errores tipo I y II (HI-PyE-07)
-- Anotar: estructura de una prueba, diferencia error I vs II, relación con IC
-- Ejercicios: G7 ej. 1, 2, 3, 4
-- Tema: G7 — Prueba Z y prueba T (una muestra), p-valor
-- Ejercicios: G7 ej. 5, 7, 8, 9, 10, 14, 15, 16, 17
-- SR al final: repasar G6
+- Ejercicios: G3 ej. 11, 12, 13; G4 ej. 1, 2, 3
+- INV:
+*Ej 11* — Distribución Exponencial: probabilidades, mediana, propiedad sin memoria
+*Ej 12* — Distribución Exponencial: sistema en serie, distribución del mínimo
+*Ej 13* — Distribución de Poisson + Exponencial: sistema de dos bombas
+
+*Ej 1* — Distribución conjunta discreta: probabilidades marginales e independencia
+*Ej 2* — Distribución conjunta continua: constante k, marginales, E(X), V(X), independencia
+*Ej 3* — fdp conjunta continua: probabilidades, marginales, covarianza
 
 ---
 
 ### JUNIO — Semana 4 (22 al 29) → Preparación Final
 
 **Lun 22** *(PyE primera del día)*
-- Tema: G7 — Prueba Z y prueba T (una muestra), p-valor
-- Ejercicios: G7 ej. 5, 7, 8, 9, 10, 14, 15, 16, 17
-- INV: Leer pruebas con dos muestras — independientes y apareadas (HI-PyE-08)
-- Anotar: cuándo usar cada tipo, fórmulas del estadístico
-- Ejercicios: G8 ej. 1, 2, 3
-
-**Vie 26** *(sesión completa PyE)*
-- SR al final: repasar G6
-- Tema: G8 — Pruebas dos muestras: apareadas, varianzas desconocidas
-- Ejercicios: G8 ej. 4, 5, 6, 7, 8
-- SR al final: repasar G7
-
-**Sáb 27** — SR general PyE
-- Caja de zapatos: recorrer todos los compartimentos
-- Repasar hojas de investigación HI-PyE-01 a HI-PyE-08
-
-**Dom 28** — Repaso liviano G5–G8, nada nuevo
+- Ejercicios: G4 ej. 4, 5, 6, 7, 8, 9, 10, 11, 12
+- INV:
+*Ej 4* — Distribución conjunta con Poisson independientes: fmp conjunta, probabilidades
+*Ej 5* — Distribución conjunta Exponencial independiente: fdp conjunta, probabilidades
+*Ej 6* *(*)* — Suma de Binomiales independientes: demostración con identidad de Vandermonde
+*Ej 7* — E(XY) = E(X)·E(Y) para variables independientes + área esperada
+*Ej 8* — Correlación cero no implica independencia: contraejemplo
+*Ej 9* — Covarianza y varianza de combinaciones lineales de VA
+*Ej 10* — Teorema Central del Límite (TLC): distribución de la media muestral
+*Ej 11* — TLC aplicado: probabilidades de suma de tiempos independientes
+*Ej 12* — Aproximación Normal a Binomial con corrección de continuidad
 
 **Dom 29** ⚠️ — FINAL PyE / ÁLGEBRA (1ra fecha)
 
