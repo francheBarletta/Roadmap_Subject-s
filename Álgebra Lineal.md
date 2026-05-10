@@ -80,11 +80,11 @@ Prioridad: ALTA
 
 **Sáb 9** 
 - Tema: Recuperar todo lo que falta copiar
+
+**Dom 10**
 - P3: ej. (6)
 - INV:
 *Ej 6* — Subespacios de R^n: verificación del criterio (cierre bajo suma y escalar)
-
-**Dom 10**
 - Tema: P3 ej (7, 8, 9)
 - INV: 
 *Ej 7* — Subespacios de espacios de funciones continuas y polinomios
@@ -92,7 +92,7 @@ Prioridad: ALTA
 *Ej 9* — Unión de subespacios no es subespacio (en general)
 
 **Lun 11**  
-- Tema: P3 ej. (10); P4 ej. (1, 2, 3)
+- Tema: P4 ej. (10); P4 ej. (1, 2, 3)
 - INV:
 *Ej 10* — Únicos subespacios de R como R-EV; diferencia con Q-EV
 

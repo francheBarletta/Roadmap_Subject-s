@@ -80,14 +80,15 @@ Prioridad: MEDIA
 ### MAYO — Semana 1 (7 al 11)
 
 **Sáb 9** *(Parcial 2)*
-- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 1, 2, 3, 4, 5)
+- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 1, 2, 3, 4)
 INV:
 *Ej 1* — Traducción C → LEGv8: operaciones aritméticas básicas (ADD, ADDI)
 *Ej 2* — Traducción LEGv8 → C: operaciones aritméticas
 *Ej 3* — Traducción C → LEGv8: operaciones con negativos (SUB, negación)
 *Ej 4* — Traducción LEGv8 → C: SUB y negación
-*Ej 5* — Traducción C → LEGv8: acceso a arreglos con LDUR/STUR
 
+**Dom 10**
+*Ej 5* — Traducción C → LEGv8: acceso a arreglos con LDUR/STUR
 ---
 
 ### MAYO — Semana 2 (12 al 18)
