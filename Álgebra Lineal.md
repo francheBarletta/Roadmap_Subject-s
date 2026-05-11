@@ -81,7 +81,7 @@ Prioridad: ALTA
 **Sáb 9** 
 - Tema: Recuperar todo lo que falta copiar
 
-**Dom 10**
+**Lun 11**  
 - P3: ej. (6)
 - INV:
 *Ej 6* — Subespacios de R^n: verificación del criterio (cierre bajo suma y escalar)
@@ -91,7 +91,11 @@ Prioridad: ALTA
 *Ej 8* — Subespacios de matrices n×n: simétricas, invertibles, triangulares, traza cero
 *Ej 9* — Unión de subespacios no es subespacio (en general)
 
-**Lun 11**  
+---
+
+### MAYO — Semana 2 (12 al 18)
+
+**Mar 12** *(clase Álgebra)*
 - Tema: P4 ej. (10); P4 ej. (1, 2, 3)
 - INV:
 *Ej 10* — Únicos subespacios de R como R-EV; diferencia con Q-EV
@@ -100,32 +104,26 @@ Prioridad: ALTA
 *Ej 2* — Subconjunto generado por polinomios: descripción implícita
 *Ej 3* — Independencia lineal en R³ y R⁴: identificar conjuntos LI y LD
 
----
-
-### MAYO — Semana 2 (12 al 18)
-
-**Mar 12** *(clase Álgebra)*
+**Mié 13** *(segunda materia del día)*
 - Tema: P4 ej. (5, 6, 7)
 - INV: 
 *Ej 5* — Propiedades de LI y LD: demostraciones (subconjuntos, vector 0, finitos)
 *Ej 6* — Subconjunto infinito LI en espacio de sucesiones racionales
 *Ej 7* — Si {u,v,w} es LI entonces {u+v, u+w, v+w} también lo es
 
-**Mié 13** *(segunda materia del día)*
+**Jue 14** *(clase Álgebra)*
 - Tema: P4 ej. (8, 9, 10)
 - INV: 
 *Ej 8* — Base y dimensión de subespacios generados por los conjuntos del Ej 3
 *Ej 9* — Base y dimensión de subespacios definidos por ecuaciones
 *Ej 10* — Completar conjuntos LI a una base de R^n
 
-**Jue 14** *(clase Álgebra)*
+**Sáb 16** — SR
 - Tema: P4 ej. (11, 12, 13)
 - INV:
 *Ej 11* — Si dim W = dim V entonces W = V
 *Ej 12* — Bases de k_m[x]: polinomios de grado ≤ m
 *Ej 13* — Dimensión de espacios vectoriales: C^n, matrices simétricas, triangulares, traza cero
-
-**Sáb 16** — SR
 - Tema: P5 ej. (1, 2, 3, 4, 5)
 - INV:
 *Ej 1* — Verificar si funciones de R^n en R^m son transformaciones lineales

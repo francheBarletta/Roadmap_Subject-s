@@ -91,7 +91,7 @@ Prioridad: ALTA para el final
 
 ### MAYO — Semana 2 (12 al 18)
 
-**Lun 11** 
+**Dom 10** 
 - Ejercicios: G1 ej. 4, 5, 6, 8
 - INV:
 *Ej 4* — Conteo de puntos muestrales: principio multiplicativo
@@ -113,7 +113,7 @@ Prioridad: ALTA para el final
 
 ### MAYO — Semana 3 (19 al 25)
 
-**Lun 18** 
+**Dom 17** 
 - Ejercicios: G1 ej. 15, 16, 17
 - INV:
 *Ej 14* — Probabilidad con combinaciones: distribución de cartas
@@ -135,7 +135,7 @@ Prioridad: ALTA para el final
 
 ### MAYO — Semana 4 (26 al 31)
 
-**Lun 25** *(PyE primera del día)*
+**Dom 24** *(PyE primera del día)*
 - Ejercicios: G2 ej. 6, 7, 8, 9
 - INV:
 *Ej 6* — Esperanza y varianza de una VA discreta: propiedades de E(X)
@@ -165,7 +165,7 @@ Prioridad: ALTA para el final
 
 ### JUNIO — Semana 2 (8 al 14)
 
-**Lun 8** *(PyE solo este día)*
+**Dom 7** *(PyE solo este día)*
 - Ejercicios: G3 ej. 1, 2, 3, 4
 - INV:
 *Ej 1* — Función de densidad (fdp): cálculo de probabilidades e integración
@@ -205,7 +205,7 @@ Prioridad: ALTA para el final
 
 ### JUNIO — Semana 4 (22 al 29) → Preparación Final
 
-**Lun 22** *(PyE primera del día)*
+**Dom 21** *(PyE primera del día)*
 - Ejercicios: G4 ej. 4, 5, 6, 7, 8, 9, 10, 11, 12
 - INV:
 *Ej 4* — Distribución conjunta con Poisson independientes: fmp conjunta, probabilidades

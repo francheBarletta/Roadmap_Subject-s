@@ -88,14 +88,14 @@ INV:
 *Ej 4* — Traducción LEGv8 → C: SUB y negación
 
 **Dom 10**
-*Ej 5* — Traducción C → LEGv8: acceso a arreglos con LDUR/STUR
 ---
 
 ### MAYO — Semana 2 (12 al 18)
 
 **Lun 11** *(Parcial 2)*
-- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 6, 7, 8, 9, 10)
+- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 5, 6, 7, 8, 9, 10)
 INV:
+*Ej 5* — Traducción C → LEGv8: acceso a arreglos con LDUR/STUR
 *Ej 6* — Traducción LEGv8 → C: operaciones con arreglos, LSL, LDUR, STUR
 *Ej 7* — Traducción LEGv8 → C: punteros y acceso a memoria indirecto
 *Ej 8* — Operaciones lógicas de bits: LSL, LSR, ORR, ANDI
