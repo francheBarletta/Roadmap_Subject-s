@@ -80,28 +80,38 @@ Prioridad: ALTA para el final
 
 ### MAYO — Semana 1 (7 al 11)
 
-**Vie 8** *(sesión completa PyE)*
-- Ejercicios: G1 ej. 1, 2, 3
-- INV:
-*Ej 1* — Espacio muestral: lista de resultados, eventos y operaciones entre eventos
-*Ej 2* — Propiedades de la probabilidad: contenencia de eventos, P(B-A), desigualdades
-*Ej 3* — Probabilidad de la unión de eventos: regla de inclusión-exclusión
+**Vie 8** 
+Depresion
 
 ---
 
 ### MAYO — Semana 2 (12 al 18)
 
 **Dom 10** 
-- Ejercicios: G1 ej. 4, 5, 6, 8
+Depresion
+
+**Vie 15** 
+Depresion
+
+---
+
+### MAYO — Semana 3 (19 al 25)
+
+**Dom 17** 
+- Ejercicios: G1 ej. 1, 2, 3, 4, 5, 6
 - INV:
+*Ej 1* — Espacio muestral: lista de resultados, eventos y operaciones entre eventos
+*Ej 2* — Propiedades de la probabilidad: contenencia de eventos, P(B-A), desigualdades
+*Ej 3* — Probabilidad de la unión de eventos: regla de inclusión-exclusión
 *Ej 4* — Conteo de puntos muestrales: principio multiplicativo
 *Ej 5* — Probabilidad en muestras sin reposición: combinaciones
 *Ej 6* — Probabilidad clásica con combinaciones: selección aleatoria de grupos
-*Ej 8* — Probabilidad condicional: regla del producto, árbol de probabilidades
+- INV:
 
-**Vie 15** 
-- Ejercicios: G1 ej. 9, 10, 11, 12, 13, 14
+**Vie 22** *(sesión completa PyE)*
+- Ejercicios: G1 ej. 8, 9, 10, 11, 12, 13, 14
 - INV: 
+*Ej 8* — Probabilidad condicional: regla del producto, árbol de probabilidades
 *Ej 9* — Probabilidad condicional con tablas de doble entrada
 *Ej 10* — Propiedades de la probabilidad condicional: demostración de fórmulas
 *Ej 11* — Teorema de Bayes: probabilidad total y probabilidad inversa
@@ -111,49 +121,32 @@ Prioridad: ALTA para el final
 
 ---
 
-### MAYO — Semana 3 (19 al 25)
+### MAYO — Semana 4 (26 al 31)
 
-**Dom 17** 
-- Ejercicios: G1 ej. 15, 16, 17
+**Dom 24** *(PyE primera del día)*
+- Ejercicios: G1 ej. 14, 15, 16, 17
 - INV:
 *Ej 14* — Probabilidad con combinaciones: distribución de cartas
 *Ej 15* — Probabilidad total con eventos dependientes: ley de probabilidad total
 *Ej 16* — Probabilidad total y Bayes: empresas de correo y llegada tardía
 *Ej 17* *(*)* — Independencia con múltiples componentes: remaches defectuosos
-
-**Vie 22** *(sesión completa PyE)*
-- Ejercicios: G2 ej. 1, 2, 3, 4, 5
+- Ejercicios: G2 ej. 0 1, 2
 - INV:
 *Ej 0* — Definición de espacio muestral y variable aleatoria
 *Ej 1* — Función de probabilidad de masa (fmp): verificación y cálculo de probabilidades
 *Ej 2* — fmp y función de distribución acumulada (fda): cálculo de probabilidades por eventos
+
+
+**Vie 29** *(sesión completa PyE)*
+- Ejercicios: G2 ej. 3, 4, 5, 6, 7, 8, 9
+- INV:
 *Ej 3* — fda a partir de fmp: lectura e interpretación
 *Ej 4* — fmp desde un experimento aleatorio sin reposición
 *Ej 5* — fmp con experimento de decisiones secuenciales
-
----
-
-### MAYO — Semana 4 (26 al 31)
-
-**Dom 24** *(PyE primera del día)*
-- Ejercicios: G2 ej. 6, 7, 8, 9
-- INV:
 *Ej 6* — Esperanza y varianza de una VA discreta: propiedades de E(X)
 *Ej 7* — Esperanza y varianza: transformaciones lineales y no lineales de X
 *Ej 8* — Esperanza y varianza de VA discreta + costo esperado
 *Ej 9* — Distribución Binomial: probabilidades y valor esperado
-
-
-**Vie 29** *(sesión completa PyE)*
-- Ejercicios: G2. 11, 12, 13, 14, 15, 17
-- INV:
-*Ej 11* — Distribución Binomial: probabilidad acumulada
-*Ej 12* — Distribución Hipergeométrica: sin reposición, E(X) y V(X)
-*Ej 13* — Distribución Binomial Negativa: número de ensayos hasta r éxitos
-*Ej 14* — Distribución de Poisson: probabilidades acumuladas y E(X)
-*Ej 15* — Suma de variables de Poisson independientes
-*Ej 16* *(*)* — Poisson con transformación: ganancia esperada
-*Ej 17* — Esperanza y varianza de distribución Hipergeométrica y Binomial Negativa (demostración)
 
 ---
 
@@ -166,24 +159,30 @@ Prioridad: ALTA para el final
 ### JUNIO — Semana 2 (8 al 14)
 
 **Dom 7** *(PyE solo este día)*
+- Ejercicios: G2. 11, 12, 13, 14, 15, 17
+- INV:
+*Ej 11* — Distribución Binomial: probabilidad acumulada
+*Ej 12* — Distribución Hipergeométrica: sin reposición, E(X) y V(X)
+*Ej 13* — Distribución Binomial Negativa: número de ensayos hasta r éxitos
+*Ej 14* — Distribución de Poisson: probabilidades acumuladas y E(X)
+*Ej 15* — Suma de variables de Poisson independientes
+*Ej 16* *(*)* — Poisson con transformación: ganancia esperada
+*Ej 17* — Esperanza y varianza de distribución Hipergeométrica y Binomial Negativa (demostración)
+
+
+
+**Vie 12** *(sesión completa PyE)*
 - Ejercicios: G3 ej. 1, 2, 3, 4
 - INV:
 *Ej 1* — Función de densidad (fdp): cálculo de probabilidades e integración
 *Ej 2* — FDA a partir de fdp: cálculo de probabilidades con fda
 *Ej 3* — fdp con parámetro k: percentiles, E(X), V(X), σ
 *Ej 4* — Distribución Uniforme: fdp, fda, E(X), V(X), probabilidades
-
-
-
-**Vie 12** *(sesión completa PyE)*
-- Ejercicios: G3 ej 5, 6, 7, 8, 9, 10
+- Ejercicios: G3 ej 5, 6, 7
 - INV:
 *Ej 5* — Distribución Normal: estandarización y uso de tabla Z
 *Ej 6* — Distribución Normal: probabilidades y percentiles aplicados
 *Ej 7* — Distribución Normal inversa: encontrar µ y σ desde percentiles
-*Ej 8* — Transformación lineal de Normal: Y = aX + b sigue siendo Normal
-*Ej 9* — Combinación de Normales: mezcla de máquinas con distintos parámetros
-*Ej 10* — Distribución Normal: probabilidades acumuladas e intervalo simétrico
 
 ---
 ### JUNIO — Semana 3 (15 al 21)
@@ -191,8 +190,11 @@ Prioridad: ALTA para el final
 > Semana de recuperatorios Álgebra y ODC — PyE avanza con G7
 
 **Vie 19** *(sesión completa PyE)*
-- Ejercicios: G3 ej. 11, 12, 13; G4 ej. 1, 2, 3
+- Ejercicios: G3 ej. 8, 9, 10, 11, 12, 13; G4 ej. 1, 2, 3
 - INV:
+*Ej 8* — Transformación lineal de Normal: Y = aX + b sigue siendo Normal
+*Ej 9* — Combinación de Normales: mezcla de máquinas con distintos parámetros
+*Ej 10* — Distribución Normal: probabilidades acumuladas e intervalo simétrico
 *Ej 11* — Distribución Exponencial: probabilidades, mediana, propiedad sin memoria
 *Ej 12* — Distribución Exponencial: sistema en serie, distribución del mínimo
 *Ej 13* — Distribución de Poisson + Exponencial: sistema de dos bombas

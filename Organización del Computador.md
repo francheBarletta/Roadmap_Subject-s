@@ -88,27 +88,42 @@ INV:
 *Ej 4* — Traducción LEGv8 → C: SUB y negación
 
 **Dom 10**
----
+Depresion xd
 
 ### MAYO — Semana 2 (12 al 18)
 
 **Lun 11** *(Parcial 2)*
-- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 5, 6, 7, 8, 9, 10)
+Depresion xd
+
+**Mar 12** 
+Depresion xd
+
+**Mié 13** 
+Depresion xd
+
+**Jue 14** 
+Depresion xd
+
+**Sáb 16** *(Parcial 2)*
+- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 5, 6, 7, 8)
 INV:
 *Ej 5* — Traducción C → LEGv8: acceso a arreglos con LDUR/STUR
 *Ej 6* — Traducción LEGv8 → C: operaciones con arreglos, LSL, LDUR, STUR
 *Ej 7* — Traducción LEGv8 → C: punteros y acceso a memoria indirecto
 *Ej 8* — Operaciones lógicas de bits: LSL, LSR, ORR, ANDI
+
+**Dom 17**
+- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 9, 10, 11, 12)
+INV:
 *Ej 9* — Extracción de campos de un registro: Exception Syndrome Register (ESR)
 *Ej 10* — Detección de signo en complemento a 2
-
-**Mar 12** *(Parcial 2)*
-- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 11, 12)
-INV:
 *Ej 11* — Carga de constantes de 64 bits: MOVZ y MOVK
 *Ej 12* — Endianness: little-endian vs big-endian con LDURB
+---
 
-**Mié 13** *(Parcial 1)*
+### MAYO — Semana 3 (19 al 25)
+
+**Lun 18** *(Parcial 1)*
 - Tema: TP5 — FlipFlop con reset, (ej 1, 2, 3 ,4) 
 - INV:
 *Ej 1* — Registro de entrada/salida en paralelo de 4 bits con FF-D
@@ -116,46 +131,38 @@ INV:
 *Ej 3* — Shift Register bidireccional de 4 bits con FF-D y MUX 2:1
 *Ej 4* — Registro paralelo con swapping de bits usando FF-D y MUX
 
-**Jue 14** *(Parcial 2)*
+**Mar 19** *(Parcial 2)*
 - Tema: TP7 — Assembler LEGv8 Avanzado: (ej 1, 2, 3)
 - INV:
 *Ej 1* — Identificación de funciones con branches condicionales (valor absoluto, multiplicación)
 *Ej 2* — Seguimiento de programa con SUBIS y B.GE: condition codes
 *Ej 3* — Traducción C → LEGv8: if/else con evaluación por cortocircuito (||)
 
-**Sáb 16** *(Parcial 2)*
-- Tema: TP7 — Assembler LEGv8 Avanzado: (ej 4, 5, 6, 7)
+**Mié 20** *(Parcial 2)*
+- Tema: TP7 — Assembler LEGv8 Avanzado: (ej 4, 5, 6, )
 - INV: 
 *Ej 4* — Análisis de loops: valores finales, traducción a C, conteo de instrucciones
 *Ej 5* — Loops con LDUR: suma de arreglos, comparación de implementaciones
 *Ej 6* — Traducción C → LEGv8: búsqueda de caracteres en string con LDURB
-*Ej 7* — Traducción C → LEGv8: suma de matriz 2D con doble loop anidad
 
----
-
-### MAYO — Semana 3 (19 al 25)
-
-**Lun 18** *(Parcial 1)*
+**Jue 21** *(Parcial 1)*
 - Tema: TP5 — (ej. 5, 6, 7, 8)
 - INV:
 *Ej 5* — Shift Register de 4 bits con señales de control C1/C0 (reset, desplazamiento, hold, carga)
 *Ej 6* — Contador regresivo de 3 bits con entrada de reinicio R
 *Ej 7* — Circuito secuencial de 4 estados con entradas E y X (avance/retroceso)
 *Ej 8* — Contador de código Gray de 3 bits con entrada inc (dos implementaciones)
-
-**Mar 19** *(Parcial 2)*
-- Tema: TP7 — (ej 8, 9)
+- Tema: TP7 — (ej 7)
 *Ej 7* — Traducción C → LEGv8: suma de matriz 2D con doble loop anidado
-*Ej 8* — Implementación de pseudoinstrucciones: CMP, CMPI, MOV, NOP, NOT
 
-**Mié 20** *(Parcial 2)*
+**Sáb 23** *(Parcial 2)*
+- Tema: TP7 — (ej 8)
+*Ej 8* — Implementación de pseudoinstrucciones: CMP, CMPI, MOV, NOP, NOT
 - Tema: TP8 — (ej 1, 2, 3)
 - INV:
 *Ej 1* — Extensión de signo de 26 bits a 64 bits (complemento a 2)
 *Ej 2* — Ensamblado de instrucciones: formato I y D → binario y hexadecimal
 *Ej 3* — Identificación de tipo de instrucción y desensamblado desde campos
-
-**Jue 21** *(Parcial 1)*
 - Tema: TP5 — (ej 9, 10, 11, 12) 
 - INV:
 *Ej 9* — Circuito secuencial con secuencia de salida 2,3,2,4 con entrada inc
@@ -164,7 +171,12 @@ INV:
 *Ej 12* — Análisis de diagrama de estados: identificar patrones detectados + trazar salida
 *Ej 13* — Máquina de estados para detección de error "111" en secuencia de 3 bits
 
-**Sáb 23** *(Parcial 2)*
+
+---
+
+### MAYO — Semana 4 (26 al 31)
+
+**Lun 25** *(Parcial 2)*
 - Tema: TP8 — (ej 4, 5, 6, 7, 8)
 - INV: 
 **Ej 4** — Desensamblado: binario → hexadecimal → instrucción LEGv8
@@ -172,22 +184,17 @@ INV:
 **Ej 6** — Instrucciones que no pueden ensamblarse en LEGv8: análisis de límites de la ISA
 **Ej 7** — Ensamblado de delay loops con MOVZ, SUBI, CBNZ, SUBIS, B.NE
 **Ej 8** — Alcance de instrucciones de salto: conditional branch vs branch incondicional, far jump
-
-
----
-
-### MAYO — Semana 4 (26 al 31)
-
-**Lun 25** *(Parcial 2)*
+- Tema: TP8 — (ej 1, 2)
 - INV: Leer acceso a memoria LEGv8, arreglos, operaciones lógicas (HI-06, HI-07)
 - INV:
 *Ej 1* — Identificación de bits en líneas del datapath single-cycle
 *Ej 2* — Porcentaje de uso de componentes según distribución de instrucciones
-*Ej 3* — Tabla de señales de control por instrucción (Reg2Loc, ALUSrc, MemtoReg, etc.)
-*Ej 4* — Análisis de fallas stuck-at-0 en señales del datapath
 
 **Mar 26** *(Parcial 1)*
 - Repaso TP1
+- Tema: TP8 — (ej 3, 4)
+*Ej 3* — Tabla de señales de control por instrucción (Reg2Loc, ALUSrc, MemtoReg, etc.)
+*Ej 4* — Análisis de fallas stuck-at-0 en señales del datapath
 
 **Mié 27** *(Parcial 2)*
 - Tema: TP9 — (ej. 5, 6, 7)
