@@ -120,29 +120,27 @@ Fracaso
 - INV:
 *Ej 8* — Probabilidad condicional: regla del producto, árbol de probabilidades
 *Ej 9* — Probabilidad condicional con tablas de doble entrada
-*Ej 10* — Propiedades de la probabilidad condicional: demostración de fórmulas
-*Ej 11* — Teorema de Bayes: probabilidad total y probabilidad inversa
-*Ej 12* — Independencia de eventos: demostración con complementos
 ---
 
 ### MAYO — Semana 4 (26 al 31)
 
 
 **Lun 25**
-- Ejercicios: G1 ej. 13, 14, 15, 16
-- Ejercicios: G2 ej. 0, 1, 2
+- Ejercicios: G1 ej. 11, 13, 14, 15, 16
 - INV:
+*Ej 11* — Teorema de Bayes: probabilidad total y probabilidad inversa
 *Ej 13* — Independencia vs dependencia: cálculo de P(A), P(B), P(A∩B)
 *Ej 14* — Probabilidad con combinaciones: distribución de cartas
 *Ej 15* — Probabilidad total con eventos dependientes: ley de probabilidad total
 *Ej 16* — Probabilidad total y Bayes: empresas de correo y llegada tardía
+
+**Mar 26**
+- Ejercicios: G2 ej. 0, 1, 2
+- Ejercicios: G2 ej. 3, 4, 5, 6
+- INV:
 *Ej 0* — Definición de espacio muestral y variable aleatoria
 *Ej 1* — Función de probabilidad de masa (fmp): verificación y cálculo de probabilidades
 *Ej 2* — fmp y función de distribución acumulada (fda): cálculo de probabilidades por eventos
-
-**Mar 26**
-- Ejercicios: G2 ej. 3, 4, 5, 6
-- INV:
 *Ej 3* — fda a partir de fmp: lectura e interpretación
 *Ej 4* — fmp desde un experimento aleatorio sin reposición
 *Ej 5* — fmp con experimento de decisiones secuenciales
@@ -202,6 +200,12 @@ Free
 *Ej 12* — Distribución Exponencial: sistema en serie, distribución del mínimo
 
 **Mar 9**
+Resolucion TP ODC
+
+**Mier 10**
+Resolucion TP ODC
+
+**Jue 11**
 - Ejercicios: G3 ej. 13; G4 ej. 1, 2, 3, 4, 5
 *Ej 13* — Distribución de Poisson + Exponencial: sistema de dos bombas
 *Ej 1* — Distribución conjunta discreta: probabilidades marginales e independencia
@@ -210,37 +214,110 @@ Free
 *Ej 4* — Distribución conjunta con Poisson independientes: fmp conjunta, probabilidades
 *Ej 5* — Distribución conjunta Exponencial independiente: fdp conjunta, probabilidades
 
-**Mier 10**
-- Ejercicios: G4 ej. 4, 5, 6, 7, 8, 9, 10, 11, 12
+
+**Vie 12** *(sesión completa PyE)*
+- Ejercicios: G4 ej. 10, 11, 12
 - INV:
-*Ej 6* *(*)* — Suma de Binomiales independientes: demostración con identidad de Vandermonde
-*Ej 7* — E(XY) = E(X)·E(Y) para variables independientes + área esperada
-*Ej 8* — Correlación cero no implica independencia: contraejemplo
-*Ej 9* — Covarianza y varianza de combinaciones lineales de VA
 *Ej 10* — Teorema Central del Límite (TLC): distribución de la media muestral
 *Ej 11* — TLC aplicado: probabilidades de suma de tiempos independientes
 *Ej 12* — Aproximación Normal a Binomial con corrección de continuidad
 
-**Jue 11**
+**Sab 13**
+- Ejercicios: G4 ej 13, 14, 15, 16
+*Ej 13* — Aproximación Normal a Binomial: probabilidades acumuladas
+*Ej 14* — Aproximación Normal a Poisson
+*Ej 15* — Distribución de diferencia de medias muestrales: X̄ - Ȳ
+*Ej 16* — TLC con múltiples variables: distribución del promedio diario
 
-
-**Vie 12** *(sesión completa PyE)*
+**Dom 14**
+Free
 
 ---
 ### JUNIO — Semana 3 (15 al 21)
 
 > Semana de recuperatorios Álgebra y ODC — PyE avanza con G7
 
-**Vie 19** *(sesión completa PyE)*
+**Jue 18**
+Free
 
+**Vie 19**
+- Ejercicios: G5 ej 1, 2, 3, 4, 5
+*Ej 1* — Estimador insesgado de λ (Poisson): error estándar, comparación de estimadores
+*Ej 2* — Estimación de µ, σ para dos muestras independientes: diferencia de medias
+*Ej 3* — Estimador de p1-p2 para proporciones: insesgamiento y error estándar
+*Ej 4* — Demostraciones: X̄² no es insesgado para µ², corrección con S²
+*Ej 5* — Estimador insesgado θ̂ = 3X̄ para distribución con parámetro θ
+
+**Sab 20**
+- Ejercicios: G5 6, 7, 8, 9, 10
+*Ej 6* — Método de momentos: estimación de θ para distribución con fdp dada
+*Ej 7* — Distribución Normal: estimación por momentos y máxima verosimilitud (MV)
+*Ej 8* — Distribución Exponencial: estimador MV de λ
+*Ej 9* — Distribución Normal: estimadores MV de µ y σ, percentiles, P(X≤c)
+*Ej 10* — Distribución Uniforme [0,θ]: estimador MV, sesgo, corrección, comparación
+
+**Dom 21**
+- Ejercicios: G6 1, 2, 3, 4
+*Ej 1* — IC para media con σ conocido: cálculo, longitud, tamaño muestral necesario
+*Ej 2* — IC para media con σ conocido: nivel de confianza y z_{α/2}
+*Ej 3* — IC para media con n grande y σ desconocido (distribución Z aproximada)
+*Ej 4* — IC para proporción: nivel 0.98, tamaño muestral
 
 ---
 
 ### JUNIO — Semana 4 (22 al 29) → Preparación Final
 
-**Dom 21** *(PyE primera del día)*
+**Lun 22**
+- Ejercicios: G6 5, 6, 7, 8
+*Ej 5* — IC para media con distribución t: interpretación y conclusión
+*Ej 6* — IC para media y varianza con distribución t y chi-cuadrado
+*Ej 7* — IC para media con t: reconstrucción desde IC conocido a otro nivel
+*Ej 8* — IC para media y desviación estándar con t y chi-cuadrado
 
-**Dom 29** ⚠️ — FINAL PyE / ÁLGEBRA (1ra fecha)
+**Mar 23**
+- Ejercicios: G7: 1, 2, 3, 4, 5
+*Ej 1* — Prueba Z bilateral para µ con σ conocido: región de rechazo, error tipo I y II
+*Ej 2* — Nivel de significación desde región de rechazo dada
+*Ej 3* — Prueba Z bilateral: decisión al nivel 0.01, error tipo II
+*Ej 4* — Relación entre IC y prueba de hipótesis
+*Ej 5* — Prueba Z unilateral con n grande y σ desconocido
+
+**Mier 24**
+- Ejercicios: G7: 6, 7, 8, 9, 10
+*Ej 6* — Prueba Z unilateral con n≥40: potencia y error tipo II
+*Ej 7* — Prueba t bilateral con n pequeño: conclusión desde t_obs
+*Ej 8* — Prueba t unilateral con n pequeño: error tipo II
+*Ej 9* — Prueba t unilateral: contenido de sodio y normas alimentarias
+*Ej 10* — Prueba t bilateral + IC: lecturas de detectores de radón
+
+**Jue 25**
+- Ejercicios: G7: 11, 12, 13, 14, 15, 16, 17
+*Ej 11* — Prueba para proporciones (distribución Binomial exacta): región de rechazo
+*Ej 12* — Prueba Z para proporción: nivel 0.01 vs 0.05
+*Ej 13* — Prueba Z para proporción unilateral: p-valor
+*Ej 14* — Interpretación del p-valor: rechazar o no rechazar H0
+*Ej 15* — Cálculo de p-valor desde z_obs para distintas hipótesis alternativas
+*Ej 16* — Prueba t unilateral: acotación del p-valor y conclusión
+*Ej 17* — Acotación del p-valor con distribución t: distintos grados de libertad
+
+**Vier 26**
+- Ejercicios: G8: 1, 2, 3, 4
+*Ej 1* — Prueba Z para diferencia de medias con σ1 y σ2 conocidos: unilateral
+*Ej 2* — Prueba Z para diferencia de medias con σ1 y σ2 conocidos: p-valor
+*Ej 3* — Prueba t para diferencia de medias con varianzas iguales desconocidas: unilateral
+*Ej 4* — Prueba t para muestras apareadas (pares dependientes): diferencias individuales
+
+**Sab 27**
+- Ejercicios: G8: 5, 6, 7, 8
+*Ej 5* — Prueba t para diferencia de medias con varianzas desiguales desconocidas (Welch)
+*Ej 6* — Prueba t para muestras apareadas: frecuencia cardíaca antes/después
+*Ej 7* — Prueba Z para diferencia de medias con n grande: p-valor aproximado
+*Ej 8* — Prueba t para muestras apareadas con n grande: p-valor y conclusión
+
+**Dom 28**
+Descanso despues de la mañana
+
+**Lun 29** ⚠️ — FINAL PyE / ÁLGEBRA (1ra fecha)
 
 ---
 

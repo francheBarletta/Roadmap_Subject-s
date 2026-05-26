@@ -146,13 +146,17 @@ Fracaso
 - Tema: TP7 — Assembler LEGv8 Avanzado: (ej 4, 5, 6, )
 - INV: 
 *Ej 4* — Análisis de loops: valores finales, traducción a C, conteo de instrucciones
-*Ej 5* — Loops con LDUR: suma de arreglos, comparación de implementaciones
-*Ej 6* — Traducción C → LEGv8: búsqueda de caracteres en string con LDURB
 ---
 
 ### MAYO — Semana 4 (26 al 31)
 
 **Lun 25** 
+- Tema: TP7 — (ej 5, 6)
+*Ej 5* — Loops con LDUR: suma de arreglos, comparación de implementaciones
+*Ej 6* — Traducción C → LEGv8: búsqueda de caracteres en string con LDURB
+- Tema: TP7 — (ej 7)
+*Ej 7* — Traducción C → LEGv8: suma de matriz 2D con doble loop anidado
+
 - Tema: TP5 — FlipFlop con reset, (ej 1, 2, 3 ,4) 
 - INV:
 *Ej 1* — Registro de entrada/salida en paralelo de 4 bits con FF-D
@@ -167,10 +171,6 @@ Fracaso
 *Ej 8* — Contador de código Gray de 3 bits con entrada inc (dos implementaciones)
 
 **Mar 26** *(Parcial 1)*
-- Tema: TP7 — (ej 7)
-*Ej 7* — Traducción C → LEGv8: suma de matriz 2D con doble loop anidado
-- Tema: TP7 — (ej 8)
-*Ej 8* — Implementación de pseudoinstrucciones: CMP, CMPI, MOV, NOP, NOT
 - Tema: TP8 — (ej 1, 2, 3)
 - INV:
 *Ej 1* — Extensión de signo de 26 bits a 64 bits (complemento a 2)
