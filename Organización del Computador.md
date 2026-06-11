@@ -1,3 +1,22 @@
+- Tema: TP5 — FlipFlop con reset, (ej 1, 2, 3 ,4) 
+- INV:
+*Ej 1* — Registro de entrada/salida en paralelo de 4 bits con FF-D
+*Ej 2* — Shift Register unidireccional de 5 bits con FF-D
+*Ej 3* — Shift Register bidireccional de 4 bits con FF-D y MUX 2:1
+*Ej 4* — Registro paralelo con swapping de bits usando FF-D y MUX
+- Tema: TP5 — (ej. 5, 6, 7, 8)
+- INV:
+*Ej 5* — Shift Register de 4 bits con señales de control C1/C0 (reset, desplazamiento, hold, carga)
+*Ej 6* — Contador regresivo de 3 bits con entrada de reinicio R
+*Ej 7* — Circuito secuencial de 4 estados con entradas E y X (avance/retroceso)
+*Ej 8* — Contador de código Gray de 3 bits con entrada inc (dos implementaciones)
+- Tema: TP5 — (ej 9, 10, 11, 12) 
+- INV:
+*Ej 9* — Circuito secuencial con secuencia de salida 2,3,2,4 con entrada inc
+*Ej 10* — Detector de paridad en serie (bit a bit)
+*Ej 11* — Detector del patrón "1011" sin solapamiento
+*Ej 12* — Análisis de diagrama de estados: identificar patrones detectados + trazar salida
+*Ej 13* — Máquina de estados para detección de error "111" en secuencia de 3 bits
 # Organización del Computador — Plan de estudio personal
 
 Inicio de clases: 11 marzo
@@ -157,18 +176,6 @@ Fracaso
 - Tema: TP7 — (ej 7)
 *Ej 7* — Traducción C → LEGv8: suma de matriz 2D con doble loop anidado
 
-- Tema: TP5 — FlipFlop con reset, (ej 1, 2, 3 ,4) 
-- INV:
-*Ej 1* — Registro de entrada/salida en paralelo de 4 bits con FF-D
-*Ej 2* — Shift Register unidireccional de 5 bits con FF-D
-*Ej 3* — Shift Register bidireccional de 4 bits con FF-D y MUX 2:1
-*Ej 4* — Registro paralelo con swapping de bits usando FF-D y MUX
-- Tema: TP5 — (ej. 5, 6, 7, 8)
-- INV:
-*Ej 5* — Shift Register de 4 bits con señales de control C1/C0 (reset, desplazamiento, hold, carga)
-*Ej 6* — Contador regresivo de 3 bits con entrada de reinicio R
-*Ej 7* — Circuito secuencial de 4 estados con entradas E y X (avance/retroceso)
-*Ej 8* — Contador de código Gray de 3 bits con entrada inc (dos implementaciones)
 
 **Mar 26** *(Parcial 1)*
 - Tema: TP8 — (ej 1, 2, 3)
@@ -178,46 +185,37 @@ Fracaso
 *Ej 3* — Identificación de tipo de instrucción y desensamblado desde campos
 
 **Mié 27** *(Parcial 2)*
-- Tema: TP5 — (ej 9, 10, 11, 12) 
-- INV:
-*Ej 9* — Circuito secuencial con secuencia de salida 2,3,2,4 con entrada inc
-*Ej 10* — Detector de paridad en serie (bit a bit)
-*Ej 11* — Detector del patrón "1011" sin solapamiento
-*Ej 12* — Análisis de diagrama de estados: identificar patrones detectados + trazar salida
-*Ej 13* — Máquina de estados para detección de error "111" en secuencia de 3 bits
 
 **Jue 28** *(Parcial 2)*
 - Tema: TP8 — (ej 4, 5, 6, 7, 8)
 - INV: 
 **Ej 4** — Desensamblado: binario → hexadecimal → instrucción LEGv8
 **Ej 5** — Ejecución de programa desde memoria: seguimiento de registros
-**Ej 6** — Instrucciones que no pueden ensamblarse en LEGv8: análisis de límites de la ISA
-**Ej 7** — Ensamblado de delay loops con MOVZ, SUBI, CBNZ, SUBIS, B.NE
-**Ej 8** — Alcance de instrucciones de salto: conditional branch vs branch incondicional, far jump
-- Tema: TP9 — (ej 1, 2)
+- Repaso TP1
+
+**Vier 29**
+- Tema: TP8 — (ej 4, 5, 6, 7, 8)
+*Ej 6* — Instrucciones que no pueden ensamblarse en LEGv8: análisis de límites de la ISA
+*Ej 7* — Ensamblado de delay loops con MOVZ, SUBI, CBNZ, SUBIS, B.NE
+
+**Sáb 30** *(Parcial 1)*
+- Tema: TP8 - (ej 8, 9, 10)
+*Ej 8* — Alcance de instrucciones de salto: conditional branch vs branch incondicional, far jump
+*Ej 9*
+*Ej 10*
+
+**Dom 31**
+- Tema: TP9 — (ej 1, 2, 3)
 - INV: Leer acceso a memoria LEGv8, arreglos, operaciones lógicas (HI-06, HI-07)
 - INV:
 *Ej 1* — Identificación de bits en líneas del datapath single-cycle
 *Ej 2* — Porcentaje de uso de componentes según distribución de instrucciones
-- Repaso TP1
-
-**Sáb 30** *(Parcial 1)*
-- Tema: TP9 — (ej 3, 4)
 *Ej 3* — Tabla de señales de control por instrucción (Reg2Loc, ALUSrc, MemtoReg, etc.)
-*Ej 4* — Análisis de fallas stuck-at-0 en señales del datapath
-- Tema: TP9 — (ej. 5, 6, 7)
+- Tema: TP9 — (ej. 4, 5, 6, 7)
 - INV: 
+*Ej 4* — Análisis de fallas stuck-at-0 en señales del datapath
 *Ej 5* — Modificación del datapath: cambio de CBZ a CBNZ
 *Ej 6* — Ejecución detallada de una instrucción: Sign-extend, ALU control, PC, MUX, entradas
-*Ej 7* — Extensión del datapath: agregar instrucción B (salto incondicional)
-
-**Dom 31**
-- Tema: TP9 
-- INV:
-*Ej 8* — Cálculo de latencias por tipo de instrucción y período mínimo de reloj
-*Ej 9* — Impacto de simplificación de instrucciones de carga en velocidad de procesamiento
-*Ej 10* — Aceleración con ciclo de reloj variable adaptado a cada instrucción
-*Ej 11* — Instrucción no documentada: identificar comportamiento desde señales de control
 
 ---
 
@@ -226,14 +224,26 @@ Fracaso
 > ⚠️ SEMANA CRÍTICA — 2do Parcial Vie 5
 
 **Lun 1**
+- Descanso
 
 **Mar 2**
+- TP6 y TP7:
+Traducción C → LEGv8 y viceversa
+Hacé 3 o 4 ejercicios en el pizarrón sin mirar el resumen
+Enfocate en loops y branches que son los más comunes en parciales
 
 **Mié 3** 
-- Repaso
+- TP8 y TP9:
+
+Ensamblado de instrucciones tipo R, I, D
+Desensamblado de hex a instrucción
+Alcance de saltos
 
 **Jue 4** 
-- Repaso
+- Repaso general:
+
+Un ejercicio de cada tema
+Revisás solo lo que no te salió
 
 **Vie 5** ⚠️ — 2DO PARCIAL ODC — sin sesión
 
@@ -247,31 +257,35 @@ Fracaso
 
 ### JUNIO — Semana 2 (8 al 14)
 
-**Lun 8** *(solo PyE este día — sin ODC)*
+**Lun 8** 
 
 **Mar 9** 
-- Repaso
+- TP5 — Flip-flops, registros, shift registers (ej 1-5)
 
-**Mié 10** *(primera materia del día)*
-- Repaso
+**Mié 10**
+- TP5 — Máquinas de estado, contadores, detectores (ej 6-13)
 
-**Jue 11** *(primera materia del día)*
-- Repaso
+**Jue 11**
+- Repaso TP1 + TP2 — Sistemas numéricos y Álgebra de Boole
 
-**Sáb 13** *(primera materia del día)*
-- Repaso
+**Vier 12**
+- TP3 - Algebra de Boole
 
-**Dom 14** *(ODC + Álgebra)*
-- Repaso
+**Sáb 13**
+- TP4 — Lógica combinacional y memorias
+
+**Dom 14**
+- Simulacro: Resolucion del primer parcial, tal vez resolucion de otros ejercicios de parcial
 
 ---
 
 ### JUNIO — Semana 3 (15 al 21)
 
 **Lun 15** *(primera materia del día)*
-- Repaso
+- Repaso TP6 a TP9
 
-**Mar 16** ⚠️ — RECUPERATORIO ÁLGEBRA — sin sesión ODC
+**Mar 16**
+- Resolucion ejercicios TP6 a TP9
 
 **Mié 17** ⚠️ — RECUPERATORIO ODC — sin sesión
 
