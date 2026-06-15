@@ -1,29 +1,10 @@
-- Tema: TP5 — FlipFlop con reset, (ej 1, 2, 3 ,4) 
-- INV:
-*Ej 1* — Registro de entrada/salida en paralelo de 4 bits con FF-D
-*Ej 2* — Shift Register unidireccional de 5 bits con FF-D
-*Ej 3* — Shift Register bidireccional de 4 bits con FF-D y MUX 2:1
-*Ej 4* — Registro paralelo con swapping de bits usando FF-D y MUX
-- Tema: TP5 — (ej. 5, 6, 7, 8)
-- INV:
-*Ej 5* — Shift Register de 4 bits con señales de control C1/C0 (reset, desplazamiento, hold, carga)
-*Ej 6* — Contador regresivo de 3 bits con entrada de reinicio R
-*Ej 7* — Circuito secuencial de 4 estados con entradas E y X (avance/retroceso)
-*Ej 8* — Contador de código Gray de 3 bits con entrada inc (dos implementaciones)
-- Tema: TP5 — (ej 9, 10, 11, 12) 
-- INV:
-*Ej 9* — Circuito secuencial con secuencia de salida 2,3,2,4 con entrada inc
-*Ej 10* — Detector de paridad en serie (bit a bit)
-*Ej 11* — Detector del patrón "1011" sin solapamiento
-*Ej 12* — Análisis de diagrama de estados: identificar patrones detectados + trazar salida
-*Ej 13* — Máquina de estados para detección de error "111" en secuencia de 3 bits
 # Organización del Computador — Plan de estudio personal
 
 Inicio de clases: 11 marzo
 Fin de clases: 19 junio
 
 Clases por semana: Miércoles y Viernes
-Prioridad: MEDIA
+Prioridad: ALTA — Final 3 de Julio
 
 ---
 
@@ -31,7 +12,6 @@ Prioridad: MEDIA
 
 | Fecha | Evento |
 |---|---|
-| Vie 5 Junio | 2do Parcial ODC |
 | Mié 17 Junio | Recuperatorio ODC (parciales 1 y 2) |
 | Vie 3 Julio | Final ODC (1ra fecha) |
 | Jue 24 Julio | Final ODC (2da fecha) |
@@ -39,12 +19,11 @@ Prioridad: MEDIA
 
 ---
 
-## Estado actual (6 Mayo)
+## Estado actual (15 Junio)
 
-- Última clase cursada: Clase 2 (IEEE754, intro Álgebra de Boole)
-- TP1 al TP4: completados ✓
-- TP5 (Circuitos Secuenciales): pendiente — entra en recuperatorio
-- TP6 al TP9: pendientes (2do parcial)
+- TP1 al TP9: vistos en cursada, base parcial
+- TP1, TP3, TP6, TP8: más sólidos — repaso + ejercicios en pizarrón
+- TP2, TP4, TP5, TP7, TP9: más flojos — INV profunda primero
 
 ---
 
@@ -52,267 +31,373 @@ Prioridad: MEDIA
 
 | # | Tema | Estado |
 |---|---|---|
-| TP1 | Sistemas numéricos | [x] hecho |
-| TP2 | Álgebra de Boole | [x] hecho |
-| TP3 | Lógica combinacional | [x] hecho |
-| TP4 | Direccionamiento y decodificación de memorias | [x] hecho |
-| TP5 | Circuitos secuenciales | [ ] pendiente (recuperatorio) |
-| TP6 | Assembler LEGv8 básico | [ ] |
-| TP7 | Assembler LEGv8 avanzado | [ ] |
-| TP8 | Ensamblado y desensamblado | [ ] |
-| TP9 | Implementación de la ISA | [ ] |
+| TP1 | Sistemas numéricos | [~] repaso |
+| TP2 | Álgebra de Boole | [~] INV profunda |
+| TP3 | Lógica combinacional | [~] repaso |
+| TP4 | Direccionamiento y decodificación de memorias | [~] INV profunda |
+| TP5 | Circuitos secuenciales | [~] INV profunda |
+| TP6 | Assembler LEGv8 básico | [~] repaso |
+| TP7 | Assembler LEGv8 avanzado | [~] INV profunda |
+| TP8 | Ensamblado y desensamblado | [~] repaso |
+| TP9 | Implementación de la ISA | [~] INV profunda |
 
 ---
 
-## Conceptos clave
+## Ejercicios seleccionados por TP
 
-### Bloque 1 — Recuperatorio (17 Junio)
-- [ ] Representación de números negativos (complemento a 2)
-- [ ] Punto flotante IEEE 754
-- [ ] Álgebra de Boole y simplificación
-- [ ] Mapas de Karnaugh
-- [ ] Lógica combinacional (MUX, decodificadores, PLA)
-- [ ] Direccionamiento de memorias
-- [ ] **Flip-flops tipo D**
-- [ ] **Registros y shift registers**
-- [ ] **Circuitos secuenciales y máquinas de estado**
+> 4 ejercicios por día. Se seleccionaron los más representativos de cada concepto.
+> El resto del tiempo de cada sesión va a INV profunda.
 
-### Bloque 2 — 2do Parcial (5 Junio)
-- [ ] Assembler LEGv8 básico (instrucciones aritméticas, acceso a memoria)
-- [ ] Assembler LEGv8 avanzado (branches, loops, flags)
-- [ ] Ensamblado y desensamblado (formatos R, I, D, B, CB)
-- [ ] Implementación de la ISA (datapath, control, señales)
+| TP | Ejercicios | Cantidad |
+|---|---|---|
+| TP1 | 1, 2, 3, 4, 5, 6, 7, 8, 9 | 9 |
+| TP2 | 1, 2, 3, 4, 5 | 5 |
+| TP3 | 1, 2, 4, 5, 7, 9, 10 | 7 |
+| TP4 | 1, 2, 3, 4, 6, 7, 8 | 7 |
+| TP5 | 1, 2, 3, 6, 7, 8, 10, 11, 13 | 9 |
+| TP6 | 1, 3, 5, 6, 7, 8, 9, 11 | 8 |
+| TP7 | 1, 2, 3, 4, 5, 7, 8 | 7 |
+| TP8 | 1, 2, 3, 4, 5, 6, 8 | 7 |
+| TP9 | 1, 2, 3, 4, 6, 8, 10 | 7 |
+| **Total** | | **76** |
+
+---
+
+## Guía de investigación por TP
+
+> Para cada TP: leer el capítulo del libro → anotar en hoja de investigación con tus propias palabras → ejemplo concreto → recién después los ejercicios.
+> Formato de hoja: definición → por qué importa → ejemplo propio → conexión con ejercicios
+
+### TP1 — Sistemas de Numeración
+**Libro:** Patterson & Hennessy — Apéndice B (Arithmetic), Sección B.1 a B.3
+**Temas a investigar:**
+- Representación binaria, hexadecimal y decimal: conversiones en ambas direcciones
+- Complemento a 2: cálculo, conversión a decimal, por qué se usa en lugar de signo-magnitud
+- Punto flotante IEEE 754: estructura (signo, exponente, mantisa), bias, casos especiales (NaN, ±∞, ±0)
+- Overflow y carry en operaciones aritméticas
+
+**Preguntas clave para el final:**
+- ¿Por qué el complemento a 2 simplifica las operaciones aritméticas?
+- ¿Qué significa que un número IEEE 754 sea normalizado?
+- ¿Cuándo ocurre overflow en suma de complemento a 2?
+
+---
+
+### TP2 — Álgebra de Boole
+**Libro:** Patterson & Hennessy — Apéndice B, Sección B.2 a B.3
+**Temas a investigar:**
+- Postulados y teoremas del álgebra booleana: cómo usarlos para simplificar
+- Compuertas lógicas: AND, OR, NOT, NAND, NOR y sus tablas de verdad
+- Universalidad de NAND y NOR: por qué cualquier función se puede implementar con una sola
+- Simplificación algebraica paso a paso
+
+**Preguntas clave para el final:**
+- ¿Por qué NAND es universal?
+- ¿Cómo implementar OR usando solo compuertas NAND?
+- ¿Qué significa simplificar a mínimo número de literales?
+
+---
+
+### TP3 — Lógica Combinacional
+**Libro:** Patterson & Hennessy — Apéndice B, Sección B.3 a B.6
+**Temas a investigar:**
+- Minitérminos y maxitérminos: cómo obtener formas canónicas desde tabla de verdad
+- Mapas de Karnaugh: cómo agrupar, reglas de agrupamiento, obtener expresión mínima
+- Decodificadores y MUX: funcionamiento, para qué sirven, cómo implementar funciones con ellos
+- PLA (Programmable Logic Array): estructura y uso
+
+**Preguntas clave para el final:**
+- ¿Cómo pasar de tabla de verdad a suma de minitérminos?
+- ¿Por qué los grupos en Karnaugh deben ser potencias de 2?
+- ¿Cómo implementar cualquier función con un MUX?
+
+---
+
+### TP4 — Direccionamiento y Decodificación de Memorias
+**Libro:** Patterson & Hennessy — Capítulo 5 (Large and Fast: Exploiting Memory Hierarchy), introducción
+**Temas a investigar:**
+- Mapa de memoria: qué es, cómo se construye, qué son las posiciones imagen
+- Conexión en paralelo vs serie: para aumentar ancho de palabra vs capacidad
+- Chip Select (CS): cómo seleccionar chips con decodificadores
+- Cálculo de líneas de dirección: cuántos bits necesita cada chip
+
+**Preguntas clave para el final:**
+- ¿Cuándo se generan posiciones imagen y por qué?
+- ¿Cuántos chips de X palabras necesito para construir un sistema de Y palabras?
+- ¿Cómo se conectan los chips para aumentar el ancho de datos?
+
+---
+
+### TP5 — Circuitos Secuenciales
+**Libro:** Patterson & Hennessy — Apéndice B, Sección B.7 a B.11 (Flip-Flops and Latches)
+**Temas a investigar:**
+- Flip-flop D: tabla de función, diferencia entre reset síncrono y asíncrono
+- Registros: paralelo, shift register unidireccional y bidireccional
+- Máquinas de estado: diagrama de estados, tabla de transición, cómo implementar con FF-D
+- Contadores: binario, Gray, regresivo
+- Detectores de patrones: cómo diseñar la máquina de estados paso a paso
+
+**Preguntas clave para el final:**
+- ¿Cuál es la diferencia entre un circuito combinacional y uno secuencial?
+- ¿Cómo pasar de un diagrama de estados a una tabla de transición?
+- ¿Cuántos flip-flops necesito para n estados?
+
+---
+
+### TP6 — Assembler LEGv8 Básico
+**Libro:** Patterson & Hennessy — Capítulo 2 (Instructions: Language of the Computer), Secciones 2.1 a 2.5
+**Temas a investigar:**
+- Registros de LEGv8: X0-X30, XZR, SP — cuál es el rol de cada uno
+- Instrucciones aritméticas: ADD, SUB, ADDI, SUBI — formato y uso
+- Instrucciones de memoria: LDUR, STUR — cálculo de direcciones, offset
+- Instrucciones lógicas: AND, ORR, EOR, LSL, LSR — operaciones bit a bit
+- MOVZ y MOVK: cómo cargar constantes de 64 bits
+- Endianness: diferencia entre big-endian y little-endian
+
+**Preguntas clave para el final:**
+- ¿Cómo calcular la dirección de A[i] en LEGv8?
+- ¿Cuándo usar MOVZ vs MOVK?
+- ¿Qué diferencia hay entre LDUR y LDURB?
+
+---
+
+### TP7 — Assembler LEGv8 Avanzado
+**Libro:** Patterson & Hennessy — Capítulo 2, Secciones 2.6 a 2.10
+**Temas a investigar:**
+- Condition codes (flags): N, Z, C, V — qué significa cada uno y cuándo se activan
+- Instrucciones de branch condicional: B.EQ, B.NE, B.LT, B.GT, B.LE, B.GE, CBNZ, CBZ
+- Diferencia entre instrucciones signed (B.LT) y unsigned (B.LO)
+- Implementación de if/else, loops while y for en LEGv8
+- Evaluación por cortocircuito con || y &&
+
+**Preguntas clave para el final:**
+- ¿Cuándo se usa B.LT vs B.LO?
+- ¿Cómo implementar un loop for en LEGv8?
+- ¿Qué hace SUBIS y por qué es útil para comparar?
+
+---
+
+### TP8 — Ensamblado y Desensamblado de LEGv8
+**Libro:** Patterson & Hennessy — Capítulo 2, Secciones 2.11 a 2.14
+**Temas a investigar:**
+- Formatos de instrucción: R, I, D, B, CB, IM — campos de cada uno y cantidad de bits
+- Cómo ensamblar: pasar de instrucción LEGv8 a binario y hexadecimal
+- Cómo desensamblar: pasar de binario/hex a instrucción LEGv8
+- Alcance de saltos: cuántas instrucciones puede saltar B vs B.cond
+- Far jump: cómo saltar a direcciones lejanas
+
+**Preguntas clave para el final:**
+- ¿Cuántos bits tiene el campo de offset en una instrucción CB?
+- ¿Cómo saber si una instrucción es tipo R o tipo D mirando el binario?
+- ¿Por qué B puede saltar más lejos que B.cond?
+
+---
+
+### TP9 — Implementación de la ISA
+**Libro:** Patterson & Hennessy — Capítulo 4 (The Processor), Secciones 4.1 a 4.4
+**Temas a investigar:**
+- Datapath single-cycle: componentes (PC, memoria de instrucciones, registros, ALU, memoria de datos) y cómo se conectan
+- Señales de control: Reg2Loc, ALUSrc, MemtoReg, RegWrite, MemRead, MemWrite, Branch, ALUOp
+- Tabla de señales: qué vale cada señal para cada instrucción (R-type, LDUR, STUR, CBZ)
+- ALU control: cómo se determina la operación de la ALU
+- Latencias: cómo calcular el tiempo de cada instrucción y el período mínimo de reloj
+- Fallas stuck-at-0: qué instrucciones se ven afectadas
+
+**Preguntas clave para el final:**
+- ¿Qué señal controla si el resultado que se escribe en el registro viene de la ALU o de memoria?
+- ¿Por qué el período de reloj lo determina la instrucción más lenta?
+- ¿Qué pasa si ALUSrc está stuck-at-0?
 
 ---
 
 ## Sesiones de estudio programadas
 
-> ODC aparece en el calendario en los siguientes días: Jue, Mié, Sáb (primera materia), y como segunda materia los Mar, Mié, Dom
-> Lun: ODC primera materia (junto con Álgebra)
-> Vie: sin ODC (PyE)
-> INV = Sesión de investigación (leer libro + anotar en hoja de investigación)
-> SR = Sesión de Spaced Repetition
-> Libro de referencia: Computer Organization and Design — ARM Edition (Patterson & Hennessy)
+> 4 ejercicios por día + INV profunda
+> Los días del 15 al 27 de Junio + Lun 30, Mar 1, Mié 2 (repaso), Jue 3 (FINAL)
+> Dom 29: ODC liviano (Final PyE ese día)
+> INV = Investigación profunda (leer libro + anotar hoja + preguntas propias)
+> Pizarrón = resolver ejercicio sin mirar apuntes, comparar con carpeta
 
 ---
 
-### MAYO — Semana 1 (7 al 11)
+### JUNIO — Semana 3 (15 al 22)
 
-**Sáb 9** *(Parcial 2)*
-- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 1, 2, 3, 4)
-INV:
-*Ej 1* — Traducción C → LEGv8: operaciones aritméticas básicas (ADD, ADDI)
-*Ej 2* — Traducción LEGv8 → C: operaciones aritméticas
-*Ej 3* — Traducción C → LEGv8: operaciones con negativos (SUB, negación)
-*Ej 4* — Traducción LEGv8 → C: SUB y negación
+**Dom 15**
+- INV: TP1 completo — leer Apéndice B.1 a B.3, anotar HI-01
+  - Foco: complemento a 2 (por qué funciona), IEEE 754 (estructura y casos especiales)
+- Ejercicios en pizarrón: TP1 ej. 1, 2, 3, 4
+*Ej 1* — Conversión hexadecimal → binario 32 bits
+*Ej 2* — Conversión binario → decimal y hexadecimal
+*Ej 3* — Conversión decimal → binario sin signo (16 bits)
+*Ej 4* — Complemento a 2 en registros de 8 bits
 
-**Dom 10**
-Depresion xd
+**Lun 16**
+- INV: TP1 continuación — IEEE 754 en profundidad, casos especiales
+- Ejercicios en pizarrón: TP1 ej. 5, 6, 7, 8
+*Ej 5* — Conversión complemento a 2 → decimal
+*Ej 6* — Operaciones aritméticas: overflow y carry
+*Ej 7* — Representación en distintos tamaños de registro
+*Ej 8* — Conversión decimal → IEEE 754 precisión simple
 
-### MAYO — Semana 2 (12 al 18)
+**Mar 17** ⚠️ — RECUPERATORIO ODC — sesión liviana
+- Ejercicios en pizarrón: TP1 ej. 9
+*Ej 9* — Conversión IEEE 754 → decimal
 
-**Lun 11** *(Parcial 2)*
-Depresion xd
+**Mié 18**
+- INV: TP2 completo — leer Apéndice B.2 a B.3, anotar HI-02
+  - Foco: universalidad de NAND, simplificación algebraica paso a paso
+- Ejercicios en pizarrón: TP2 ej. 1, 2, 3, 4
+*Ej 1* — Simplificación de funciones booleanas
+*Ej 2* — Reducción booleana + implementación NAND
+*Ej 3* — XOR: tabla de verdad, suma de productos, implementación
+*Ej 4* — Universalidad de NAND
 
-**Mar 12** 
-Depresion xd
+**Jue 19**
+- INV: TP3 completo — leer Apéndice B.3 a B.6, anotar HI-03
+  - Foco: Karnaugh (reglas de agrupamiento), MUX y decodificadores
+- Ejercicios en pizarrón: TP2 ej. 5; TP3 ej. 1, 2, 4
+*Ej 5* — Universalidad de NOR
+*Ej 1* — Detector de paridad: tabla de verdad, canónica, NAND, PLA
+*Ej 2* — Detector de error en código 5 bits
+*Ej 4* — Minimización con Karnaugh (f1, f2, f3)
 
-**Mié 13** 
-Depresion xd
+**Vie 20**
+- INV: TP3 continuación — decodificadores, MUX, sumadores
+- Ejercicios en pizarrón: TP3 ej. 5, 7, 9, 10
+*Ej 5* — Comparador de 2 bits: tabla de verdad, Karnaugh, compuertas
+*Ej 7* — Decodificador 2x4: tablas, minimización, habilitación
+*Ej 9* — Sumador completo con decodificador y OR
+*Ej 10* — MUX: tabla de verdad, implementación, cascada
 
-**Jue 14** 
-Depresion xd
+**Sáb 21**
+- INV: TP4 completo — leer Cap. 5 introducción, anotar HI-04
+  - Foco: mapa de memoria, posiciones imagen, conexión paralelo vs serie
+- Ejercicios en pizarrón: TP4 ej. 1, 2, 3, 4
+*Ej 1* — Capacidad de bloques: ordenar por capacidad y palabras
+*Ej 2* — Cantidad de chips necesarios
+*Ej 3* — Construcción sistema RAM 4K×16
+*Ej 4* — Mapa de memoria con EPROM y RAM
 
-**Sáb 16** *(Parcial 2)*
-Free
+**Dom 22**
+- INV: TP4 continuación — Chip Select, decodificadores de dirección
+- Ejercicios en pizarrón: TP4 ej. 6, 7, 8
+*Ej 6* — Análisis de sistema real: espacio direccionable, mapa, localización
+*Ej 7* — Completar diagrama: señales A[..] y D[..], mapa con rangos
+*Ej 8* — Capacidad total, mapa, posiciones imagen, nuevo bloque RAM
 
-**Dom 17**
 ---
 
-### MAYO — Semana 3 (19 al 25)
+### JUNIO — Semana 4 (23 al 29)
 
-**Lun 18** *(Parcial 1)*
+**Lun 23**
+- INV: TP5 — Flip-flop D, registros — leer Apéndice B.7 a B.9, anotar HI-05
+  - Foco: tabla de función FF-D, diferencia síncrono/asíncrono, shift registers
+- Ejercicios en pizarrón: TP5 ej. 1, 2, 3, 6
+*Ej 1* — Registro paralelo 4 bits con FF-D
+*Ej 2* — Shift Register unidireccional 5 bits
+*Ej 3* — Shift Register bidireccional con MUX
+*Ej 6* — Contador regresivo 3 bits con reinicio
 
-**Mar 19** *(Parcial 2)*
+**Mar 24**
+- INV: TP5 continuación — máquinas de estado, contadores, detectores
+  - Foco: cómo diseñar máquina de estados paso a paso (diagrama → tabla → ecuaciones → circuito)
+- Ejercicios en pizarrón: TP5 ej. 7, 8, 10, 11
+*Ej 7* — Circuito secuencial 4 estados con entradas E y X
+*Ej 8* — Contador código Gray (dos implementaciones)
+*Ej 10* — Detector de paridad en serie
+*Ej 11* — Detector del patrón "1011"
 
-**Mié 20** *(Parcial 2)*
-
-**Jue 21** *(Parcial 1)*
-- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 5, 6, 7, 8)
-INV:
+**Mié 25**
+- INV: TP6 — LEGv8 básico — leer Cap. 2 Secciones 2.1 a 2.5, anotar HI-06
+  - Foco: registros, instrucciones aritméticas, acceso a memoria, MOVZ/MOVK
+- Ejercicios en pizarrón: TP5 ej. 13; TP6 ej. 1, 3, 5
+*Ej 13* — Máquina de estados: detección error "111"
+*Ej 1* — Traducción C → LEGv8: operaciones aritméticas básicas
+*Ej 3* — Traducción C → LEGv8: operaciones con negativos
 *Ej 5* — Traducción C → LEGv8: acceso a arreglos con LDUR/STUR
-*Ej 6* — Traducción LEGv8 → C: operaciones con arreglos, LSL, LDUR, STUR
-*Ej 7* — Traducción LEGv8 → C: punteros y acceso a memoria indirecto
+
+**Jue 26**
+- INV: TP6 continuación — lógica de bits, endianness
+- Ejercicios en pizarrón: TP6 ej. 6, 7, 8, 9
+*Ej 6* — Traducción LEGv8 → C: arreglos, LSL, LDUR, STUR
+*Ej 7* — Traducción LEGv8 → C: punteros y acceso indirecto
 *Ej 8* — Operaciones lógicas de bits: LSL, LSR, ORR, ANDI
+*Ej 9* — Extracción de campos: Exception Syndrome Register
 
-**Vier  22**
-- Tema: TP6 — Legv8: Assembler de LEGv8 básico (ej. 9, 10, 11, 12)
-INV:
-*Ej 9* — Extracción de campos de un registro: Exception Syndrome Register (ESR)
-*Ej 10* — Detección de signo en complemento a 2
-*Ej 11* — Carga de constantes de 64 bits: MOVZ y MOVK
-*Ej 12* — Endianness: little-endian vs big-endian con LDURB
+**Vie 27**
+- INV: TP7 — LEGv8 avanzado — leer Cap. 2 Secciones 2.6 a 2.10, anotar HI-07
+  - Foco: condition codes, branches, diferencia signed/unsigned, loops
+- Ejercicios en pizarrón: TP6 ej. 11; TP7 ej. 1, 2, 3
+*Ej 11* — Carga de constantes 64 bits: MOVZ y MOVK
+*Ej 1* — Identificar funciones con branches condicionales
+*Ej 2* — Seguimiento con SUBIS y B.GE: condition codes
+*Ej 3* — Traducción C → LEGv8: if/else con cortocircuito
 
-**Sáb 23** 
-Fracaso
+**Sáb 28**
 
-**Dom 24**
-- Tema: TP7 — Assembler LEGv8 Avanzado: (ej 1, 2, 3)
-- INV:
-*Ej 1* — Identificación de funciones con branches condicionales (valor absoluto, multiplicación)
-*Ej 2* — Seguimiento de programa con SUBIS y B.GE: condition codes
-*Ej 3* — Traducción C → LEGv8: if/else con evaluación por cortocircuito (||)
-- Tema: TP7 — Assembler LEGv8 Avanzado: (ej 4, 5, 6, )
-- INV: 
-*Ej 4* — Análisis de loops: valores finales, traducción a C, conteo de instrucciones
----
-
-### MAYO — Semana 4 (26 al 31)
-
-**Lun 25** 
-- Tema: TP7 — (ej 5, 6)
-*Ej 5* — Loops con LDUR: suma de arreglos, comparación de implementaciones
-*Ej 6* — Traducción C → LEGv8: búsqueda de caracteres en string con LDURB
-- Tema: TP7 — (ej 7)
-*Ej 7* — Traducción C → LEGv8: suma de matriz 2D con doble loop anidado
-
-
-**Mar 26** *(Parcial 1)*
-- Tema: TP8 — (ej 1, 2, 3)
-- INV:
-*Ej 1* — Extensión de signo de 26 bits a 64 bits (complemento a 2)
-*Ej 2* — Ensamblado de instrucciones: formato I y D → binario y hexadecimal
-*Ej 3* — Identificación de tipo de instrucción y desensamblado desde campos
-
-**Mié 27** *(Parcial 2)*
-
-**Jue 28** *(Parcial 2)*
-- Tema: TP8 — (ej 4, 5, 6, 7, 8)
-- INV: 
-**Ej 4** — Desensamblado: binario → hexadecimal → instrucción LEGv8
-**Ej 5** — Ejecución de programa desde memoria: seguimiento de registros
-- Repaso TP1
-
-**Vier 29**
-- Tema: TP8 — (ej 4, 5, 6, 7, 8)
-*Ej 6* — Instrucciones que no pueden ensamblarse en LEGv8: análisis de límites de la ISA
-*Ej 7* — Ensamblado de delay loops con MOVZ, SUBI, CBNZ, SUBIS, B.NE
-
-**Sáb 30** *(Parcial 1)*
-- Tema: TP8 - (ej 8, 9, 10)
-*Ej 8* — Alcance de instrucciones de salto: conditional branch vs branch incondicional, far jump
-*Ej 9*
-*Ej 10*
-
-**Dom 31**
-- Tema: TP9 — (ej 1, 2, 3)
-- INV: Leer acceso a memoria LEGv8, arreglos, operaciones lógicas (HI-06, HI-07)
-- INV:
-*Ej 1* — Identificación de bits en líneas del datapath single-cycle
-*Ej 2* — Porcentaje de uso de componentes según distribución de instrucciones
-*Ej 3* — Tabla de señales de control por instrucción (Reg2Loc, ALUSrc, MemtoReg, etc.)
-- Tema: TP9 — (ej. 4, 5, 6, 7)
-- INV: 
-*Ej 4* — Análisis de fallas stuck-at-0 en señales del datapath
-*Ej 5* — Modificación del datapath: cambio de CBZ a CBNZ
-*Ej 6* — Ejecución detallada de una instrucción: Sign-extend, ALU control, PC, MUX, entradas
+**Dom 29** *(Final PyE — ODC liviano)*
+- INV: TP7 continuación — loops complejos, matrices
+- Ejercicios en pizarrón: TP7 ej. 4, 5, 7, 8
+*Ej 4* — Análisis de loops: valores finales, traducción C, conteo instrucciones
+*Ej 5* — Loops con LDUR: suma de arreglos
+*Ej 7* — Suma de matriz 2D con doble loop anidado
+*Ej 8* — Pseudoinstrucciones: CMP, CMPI, MOV, NOP, NOT
 
 ---
 
-### JUNIO — Semana 1 (1 al 7)
+### JULIO — Semana 1 (30 Junio al 3 Julio)
 
-> ⚠️ SEMANA CRÍTICA — 2do Parcial Vie 5
+**Lun 30**
+- INV: TP8 — Ensamblado y desensamblado — leer Cap. 2 Secciones 2.11 a 2.14, anotar HI-08
+  - Foco: formatos R, I, D, B, CB, IM — campos y bits de cada uno
+- Ejercicios en pizarrón: TP8 ej. 1, 2, 3, 4
+*Ej 1* — Extensión de signo 26 bits a 64 bits
+*Ej 2* — Ensamblado: formato I y D → binario y hexadecimal
+*Ej 3* — Identificación de tipo e instrucción desde campos
+*Ej 4* — Desensamblado: binario → hexadecimal → instrucción
 
-**Lun 1**
-- Descanso
+**Mar 1**
+- INV: TP8 continuación + TP9 — leer Cap. 4 Secciones 4.1 a 4.4, anotar HI-09
+  - Foco: datapath, señales de control, tabla de señales por instrucción
+- Ejercicios en pizarrón: TP8 ej. 5, 6; TP9 ej. 1, 2
+*Ej 5* — Ejecución de programa desde memoria: seguimiento de registros
+*Ej 6* — Instrucciones que no pueden ensamblarse: límites de la ISA
+*Ej 1* — Bits en líneas del datapath single-cycle
+*Ej 2* — Porcentaje de uso de componentes por instrucción
 
-**Mar 2**
-- TP6 y TP7:
-Traducción C → LEGv8 y viceversa
-Hacé 3 o 4 ejercicios en el pizarrón sin mirar el resumen
-Enfocate en loops y branches que son los más comunes en parciales
+**Mié 2** — Repaso liviano
+- Releer todas las hojas de investigación HI-01 a HI-09
+- Ejercicios en pizarrón: TP9 ej. 3, 4, 6, 8
+*Ej 3* — Tabla de señales de control por instrucción
+*Ej 4* — Fallas stuck-at-0 en señales del datapath
+*Ej 6* — Ejecución detallada de instrucción: Sign-extend, ALU, PC, MUX
+*Ej 8* — Latencias y período mínimo de reloj
 
-**Mié 3** 
-- TP8 y TP9:
-
-Ensamblado de instrucciones tipo R, I, D
-Desensamblado de hex a instrucción
-Alcance de saltos
-
-**Jue 4** 
-- Repaso general:
-
-Un ejercicio de cada tema
-Revisás solo lo que no te salió
-
-**Vie 5** ⚠️ — 2DO PARCIAL ODC — sin sesión
-
-**Sáb 6** — libre (Free en el calendario)
-
-**Dom 7** *(ODC + Álgebra)*
-- Repaso TP1–TP5 para recuperatorio
-- No material nuevo
-
----
-
-### JUNIO — Semana 2 (8 al 14)
-
-**Lun 8** 
-
-**Mar 9** 
-- TP5 — Flip-flops, registros, shift registers (ej 1-5)
-
-**Mié 10**
-- TP5 — Máquinas de estado, contadores, detectores (ej 6-13)
-
-**Jue 11**
-- Repaso TP1 + TP2 — Sistemas numéricos y Álgebra de Boole
-
-**Vier 12**
-- TP3 - Algebra de Boole
-
-**Sáb 13**
-- TP4 — Lógica combinacional y memorias
-
-**Dom 14**
-- Simulacro: Resolucion del primer parcial, tal vez resolucion de otros ejercicios de parcial
-
----
-
-### JUNIO — Semana 3 (15 al 21)
-
-**Lun 15** *(primera materia del día)*
-- Repaso TP6 a TP9
-
-**Mar 16**
-- Resolucion ejercicios TP6 a TP9
-
-**Mié 17** ⚠️ — RECUPERATORIO ODC — sin sesión
+**Jue 3** ⚠️ — FINAL ODC (1ra fecha)
 
 ---
 
 ## Hojas de investigación (temas a cubrir)
 
-> Una hoja por tema. Fuente principal: Patterson & Hennessy + búsqueda web.
-> Formato sugerido: definición → por qué importa → ejemplo concreto → conexión con ejercicios del TP
+> Una hoja por TP. Formato: definición → por qué importa → ejemplo propio → preguntas clave
 
-- [ ] HI-01:
-- [ ] HI-02:
-- [ ] HI-03:
-- [ ] HI-04:
-- [ ] HI-05:
-- [ ] HI-06:
-- [ ] HI-07:
-- [ ] HI-08:
-- [ ] HI-09:
-- [ ] HI-10:
+- [ ] HI-01: Sistemas numéricos — complemento a 2, IEEE 754, conversiones
+- [ ] HI-02: Álgebra de Boole — postulados, universalidad NAND/NOR, simplificación
+- [ ] HI-03: Lógica combinacional — Karnaugh, MUX, decodificadores, PLA
+- [ ] HI-04: Memorias — mapa de memoria, posiciones imagen, conexión chips
+- [ ] HI-05: Circuitos secuenciales — FF-D, registros, máquinas de estado
+- [ ] HI-06: LEGv8 básico — registros, instrucciones, acceso a memoria
+- [ ] HI-07: LEGv8 avanzado — branches, condition codes, loops
+- [ ] HI-08: Ensamblado/desensamblado — formatos, alcance de saltos
+- [ ] HI-09: Implementación ISA — datapath, señales de control, latencias
 
 ---
 
 ## Notas del método
 
-- Ciclo de estudio: INV (leer + anotar) → ejercicios del TP → SR
-- Las sesiones INV son previas a los ejercicios: primero entender el concepto, después aplicarlo
-- Hoja de investigación: una por tema, guardada como referencia permanente
-- SR: misma caja de zapatos que Álgebra, compartimentos separados por materia
-- Cuando un ejercicio no sale: volver a la hoja de investigación del tema, no frustrarse
+- **INV primero, ejercicios después:** nunca al revés
+- **Pizarrón obligatorio:** resolver sin mirar apuntes, comparar con carpeta al terminar
+- **Si sale diferente:** corregir y reescribir la versión correcta
+- **Si no sale:** volver a la hoja de investigación, identificar qué concepto falla, consultarme
+- **Preguntas propias:** al final de cada INV escribir 2-3 preguntas que te haría un examen
+- **El objetivo no es hacer todos los ejercicios:** es entender los conceptos de verdad
