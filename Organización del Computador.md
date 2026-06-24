@@ -212,156 +212,88 @@ Prioridad: ALTA — Final 3 de Julio
 
 ## Sesiones de estudio programadas
 
-> 4 ejercicios por día + INV profunda
-> Arranque desde el Mar 17 de Junio. Sesión completa todos los días incluyendo el 17 y el 29.
-> INV = Investigación profunda (leer libro + anotar hoja + preguntas propias)
-> Pizarrón = resolver ejercicio sin mirar apuntes, comparar con carpeta
+> NUEVO ENFOQUE (desde 21 Junio): PyE es prioridad absoluta. ODC pasa a 2 horas diarias, ritmo más liviano.
+> Objetivo redefinido: no dominar todo, sino mantener el hábito y llegar con el contenido visto al menos una vez.
+> 2-3 ejercicios por día + INV liviana (lectura corta, sin la profundidad de antes)
+> Arranque desde el Lun 22 de Junio (sin sesión el Dom 21, foco en PyE)
 
 ---
 
-### JUNIO — Semana 3 (18 al 22)
+### JUNIO — Semana 4 (22 al 29)
 
-**Jue 18**
-- INV: TP1 completo — leer Apéndice B.1 a B.3, anotar HI-01
-  - Foco: complemento a 2 (por qué funciona), IEEE 754 (estructura y casos especiales)
-- Ejercicios en pizarrón: TP1 ej. 1, 2, 3, 4
+**Lun 22** *(2 horas)*
+- INV breve: TP1 — complemento a 2, IEEE 754 (HI-01)
+- Ejercicios: TP1 ej. 1, 2, 3
 *Ej 1* — Conversión hexadecimal → binario 32 bits
 *Ej 2* — Conversión binario → decimal y hexadecimal
 *Ej 3* — Conversión decimal → binario sin signo (16 bits)
-*Ej 4* — Complemento a 2 en registros de 8 bits
 
-**Vie 19**
-- INV: TP1 continuación — IEEE 754 en profundidad, casos especiales
-- Ejercicios en pizarrón: TP1 ej. 5, 6, 7, 8, 9
+**Mar 23** *(2 horas)*
+- Ejercicios: TP1 ej. 4, 5, 6
+*Ej 4* — Complemento a 2 en registros de 8 bits
 *Ej 5* — Conversión complemento a 2 → decimal
 *Ej 6* — Operaciones aritméticas: overflow y carry
+
+**Mié 24** *(2 horas)*
+- Ejercicios: TP1 ej. 7, 8, 9
 *Ej 7* — Representación en distintos tamaños de registro
 *Ej 8* — Conversión decimal → IEEE 754 precisión simple
 *Ej 9* — Conversión IEEE 754 → decimal
 
-**Sáb 20**
-- INV: TP2 completo — leer Apéndice B.2 a B.3, anotar HI-02
-  - Foco: universalidad de NAND, simplificación algebraica paso a paso
-- Ejercicios en pizarrón: TP2 ej. 1, 2, 3, 4
+**Jue 25** *(2 horas)*
+- INV breve: TP2 — universalidad NAND, simplificación (HI-02)
+- Ejercicios: TP2 ej. 1, 2, 3
 *Ej 1* — Simplificación de funciones booleanas
 *Ej 2* — Reducción booleana + implementación NAND
 *Ej 3* — XOR: tabla de verdad, suma de productos, implementación
-*Ej 4* — Universalidad de NAND
 
-**Dom 21**
-- INV: TP3 completo — leer Apéndice B.3 a B.6, anotar HI-03
-  - Foco: Karnaugh, MUX y decodificadores
-- Ejercicios en pizarrón: TP2 ej. 5; TP3 ej. 1, 2, 4
+**Vie 26** *(2 horas)*
+- Ejercicios: TP2 ej. 4, 5
+*Ej 4* — Universalidad de NAND
 *Ej 5* — Universalidad de NOR
+
+**Sáb 27** *(2 horas)*
+- INV breve: TP3 — Karnaugh, MUX, decodificadores (HI-03)
+- Ejercicios: TP3 ej. 1, 2, 4
 *Ej 1* — Detector de paridad: tabla de verdad, canónica, NAND, PLA
 *Ej 2* — Detector de error en código 5 bits
 *Ej 4* — Minimización con Karnaugh (f1, f2, f3)
 
-**Lun 22**
-- INV: TP3 continuación — decodificadores, MUX, sumadores
-- Ejercicios en pizarrón: TP3 ej. 5, 7, 9, 10
+**Dom 28** *(2 horas)*
+- Ejercicios: TP3 ej. 5, 7
 *Ej 5* — Comparador de 2 bits: tabla de verdad, Karnaugh, compuertas
 *Ej 7* — Decodificador 2x4: tablas, minimización, habilitación
+
+**Lun 29** *(sin sesión — Final PyE)*
+
+---
+
+### JUNIO/JULIO — Semana 5 (30 Junio al 2 Julio)
+
+**Mar 30** *(2 horas)*
+- Ejercicios: TP3 ej. 9, 10
 *Ej 9* — Sumador completo con decodificador y OR
 *Ej 10* — MUX: tabla de verdad, implementación, cascada
 
----
-
-### JUNIO — Semana 4 (23 al 29)
-
-**Mar 23**
-- INV: TP4 completo — leer Cap. 5 introducción, anotar HI-04
-  - Foco: mapa de memoria, posiciones imagen, conexión paralelo vs serie
-- Ejercicios en pizarrón: TP4 ej. 1, 2, 3, 4
+**Mié 1** *(2 horas)*
+- INV breve: TP4 — mapa de memoria, posiciones imagen (HI-04)
+- Ejercicios: TP4 ej. 1, 2, 3
 *Ej 1* — Capacidad de bloques: ordenar por capacidad y palabras
 *Ej 2* — Cantidad de chips necesarios
 *Ej 3* — Construcción sistema RAM 4K×16
+
+**Jue 2** *(2 horas, último día)*
+- Releer hojas de investigación HI-01 a HI-04
+- Ejercicios: TP4 ej. 4
 *Ej 4* — Mapa de memoria con EPROM y RAM
+- Nota: TP5 a TP9 no llegan a verse con este ritmo — esperado y aceptado, el objetivo era el hábito, no completar todo
 
-**Mié 24**
-- INV: TP4 continuación — Chip Select, decodificadores de dirección
-- Ejercicios en pizarrón: TP4 ej. 6, 7, 8; TP5 ej. 1
-*Ej 6* — Análisis de sistema real: espacio direccionable, mapa, localización
-*Ej 7* — Completar diagrama: señales A[..] y D[..], mapa con rangos
-*Ej 8* — Capacidad total, mapa, posiciones imagen, nuevo bloque RAM
-*Ej 1* — Registro paralelo 4 bits con FF-D
-
-**Jue 25**
-- INV: TP5 — Flip-flop D, registros — leer Apéndice B.7 a B.9, anotar HI-05
-  - Foco: tabla de función FF-D, diferencia síncrono/asíncrono, shift registers
-- Ejercicios en pizarrón: TP5 ej. 2, 3, 6, 7
-*Ej 2* — Shift Register unidireccional 5 bits
-*Ej 3* — Shift Register bidireccional con MUX
-*Ej 6* — Contador regresivo 3 bits con reinicio
-*Ej 7* — Circuito secuencial 4 estados con entradas E y X
-
-**Vie 26**
-- INV: TP5 continuación — máquinas de estado, contadores, detectores
-  - Foco: cómo diseñar máquina de estados paso a paso
-- Ejercicios en pizarrón: TP5 ej. 8, 10, 11, 13
-*Ej 8* — Contador código Gray (dos implementaciones)
-*Ej 10* — Detector de paridad en serie
-*Ej 11* — Detector del patrón "1011"
-*Ej 13* — Máquina de estados: detección error "111"
-
-**Sáb 27**
-- INV: TP6 — LEGv8 básico — leer Cap. 2 Secciones 2.1 a 2.5, anotar HI-06
-  - Foco: registros, instrucciones aritméticas, acceso a memoria, MOVZ/MOVK
-- Ejercicios en pizarrón: TP6 ej. 1, 3, 5, 6
-*Ej 1* — Traducción C → LEGv8: operaciones aritméticas básicas
-*Ej 3* — Traducción C → LEGv8: operaciones con negativos
-*Ej 5* — Traducción C → LEGv8: acceso a arreglos con LDUR/STUR
-*Ej 6* — Traducción LEGv8 → C: arreglos, LSL, LDUR, STUR
-
-**Dom 28**
-- INV: TP6 continuación — lógica de bits, endianness
-- Ejercicios en pizarrón: TP6 ej. 7, 8, 9, 11
-*Ej 7* — Traducción LEGv8 → C: punteros y acceso indirecto
-*Ej 8* — Operaciones lógicas de bits: LSL, LSR, ORR, ANDI
-*Ej 9* — Extracción de campos: Exception Syndrome Register
-*Ej 11* — Carga de constantes 64 bits: MOVZ y MOVK
-
-**Lun 29** *(Final PyE — ODC sesión completa)*
-- INV: TP7 — LEGv8 avanzado — leer Cap. 2 Secciones 2.6 a 2.10, anotar HI-07
-  - Foco: condition codes, branches, diferencia signed/unsigned, loops
-- Ejercicios en pizarrón: TP7 ej. 1, 2, 3, 4
-*Ej 1* — Identificar funciones con branches condicionales
-*Ej 2* — Seguimiento con SUBIS y B.GE: condition codes
-*Ej 3* — Traducción C → LEGv8: if/else con cortocircuito
-*Ej 4* — Análisis de loops: valores finales, traducción C, conteo instrucciones
+**Vie 3** ⚠️ — FINAL ODC (1ra fecha) — se rinde con lo visto (TP1 a TP4 + lo ya sabido de antes de TP5-TP9)
 
 ---
 
-### JULIO — Semana 1 (30 Junio al 3 Julio)
+> **Nota importante:** Este plan cubre TP1 a TP4 sólidamente. TP5 a TP9 quedan con el conocimiento previo de la cursada (parcial), sin repaso profundo nuevo. Esto es consistente con el objetivo redefinido: experiencia y hábito, no aprobación garantizada. Para la 2da fecha (24 Julio) hay tiempo de retomar TP5-TP9 con calma.
 
-**Mar 30**
-- INV: TP7 continuación — loops complejos, matrices
-- Ejercicios en pizarrón: TP7 ej. 5, 7, 8; TP8 ej. 1
-*Ej 5* — Loops con LDUR: suma de arreglos
-*Ej 7* — Suma de matriz 2D con doble loop anidado
-*Ej 8* — Pseudoinstrucciones: CMP, CMPI, MOV, NOP, NOT
-*Ej 1* — Extensión de signo 26 bits a 64 bits
-
-**Mié 1**
-- INV: TP8 — Ensamblado y desensamblado — leer Cap. 2 Secciones 2.11 a 2.14, anotar HI-08
-  - Foco: formatos R, I, D, B, CB, IM — campos y bits de cada uno
-- Ejercicios en pizarrón: TP8 ej. 2, 3, 4, 5
-*Ej 2* — Ensamblado: formato I y D → binario y hexadecimal
-*Ej 3* — Identificación de tipo e instrucción desde campos
-*Ej 4* — Desensamblado: binario → hexadecimal → instrucción
-*Ej 5* — Ejecución de programa desde memoria: seguimiento de registros
-
-**Jue 2** — Repaso liviano
-- INV: TP9 — leer Cap. 4 Secciones 4.1 a 4.4, anotar HI-09
-  - Foco: datapath, señales de control, tabla de señales por instrucción
-- Releer hojas de investigación HI-01 a HI-09
-- Ejercicios en pizarrón: TP8 ej. 6; TP9 ej. 1, 2, 3
-*Ej 6* — Instrucciones que no pueden ensamblarse: límites de la ISA
-*Ej 1* — Bits en líneas del datapath single-cycle
-*Ej 2* — Porcentaje de uso de componentes por instrucción
-*Ej 3* — Tabla de señales de control por instrucción
-
-**Vie 3** ⚠️ — FINAL ODC (1ra fecha)
 
 ---
 
