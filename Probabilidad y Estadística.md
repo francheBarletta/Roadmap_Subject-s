@@ -55,9 +55,11 @@ Prioridad: ALTA
 
 ---
 
-### JULIO — Semana 1 (1 al 4)
+### JULIO — Semana 1 (2 al 4)
 
-**Mié 1** *(día completo — 4hs)*
+**Mié 1** ⛔ — Sin sesión (descanso)
+
+**Jue 2** *(día completo — 4hs)*
 - Repaso: G1 ej. 3, 5, 6, 8
 *G1 Ej 3* — Probabilidad con intersecciones y uniones (empresa consultora)
 *G1 Ej 5* — Combinatoria: colectivos con grietas
@@ -77,7 +79,7 @@ Prioridad: ALTA
   - 📖 Devore Cap. 6, Sección 6.1 — demostración de sesgo
   - 🎥 YouTube: "Biased vs Unbiased Estimators" — StatQuest
 
-**Jue 2** *(día completo — 4hs)*
+**Vie 3** *(día completo — 4hs)*
 - Repaso: G1 ej. 11, 15, 16, 18
 *G1 Ej 11* — Teorema de Bayes: diagnóstico médico
 *G1 Ej 15* — Independencia: fumadores y alcohol
@@ -97,7 +99,6 @@ Prioridad: ALTA
   - 📖 Devore Cap. 6, Sección 6.3 — Máxima verosimilitud
   - 🎥 YouTube: "MLE for Exponential Distribution" — jbstatistics
 
-**Vie 3** ⛔ — Sin sesión
 **Sáb 4** ⛔ — Sin sesión
 
 ---

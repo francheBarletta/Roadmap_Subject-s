@@ -10,7 +10,7 @@ Prioridad: ALTA
 
 | Fecha | Evento |
 |---|---|
-| Mié 1 Julio | Primer día de estudio ODC |
+| Jue 2 Julio | Primer día de estudio ODC |
 | Lun 20 Julio | Final PyE |
 | Dom 19 Julio | Libre — descanso pre-final PyE |
 | Jue 24 Julio | Final ODC (2da fecha) |
@@ -42,8 +42,9 @@ Prioridad: ALTA
 
 | Período | Días | Carga ODC |
 |---|---|---|
-| Mié 1 – Jue 2 julio | 2 días completos | 4hs/día |
-| Vie 3 – Sáb 4 julio | ⛔ perdidos | — |
+| Mié 1 julio | ⛔ libre | — |
+| Jue 2 – Vie 3 julio | 2 días completos | 4hs/día |
+| Sáb 4 julio | ⛔ perdido | — |
 | Dom 5 – Vie 10 julio | mañanas | 2hs/día |
 | Sáb 11 – Sáb 19 julio | días completos | 4hs/día |
 | Dom 20 julio | Final PyE | — |
@@ -80,9 +81,11 @@ Prioridad: ALTA
 
 ---
 
-### JULIO — Semana 1 (1 al 4)
+### JULIO — Semana 1 (2 al 4)
 
-**Mié 1** *(día completo — 4hs)*
+**Mié 1** ⛔ — Sin sesión (descanso)
+
+**Jue 2** *(día completo — 4hs)*
 - INV: Sistemas de numeración — binario, hexadecimal, complemento a 2, IEEE 754
   - 📖 Patterson & Hennessy — Apéndice B, Secciones B.1 a B.3
   - 🎥 YouTube: "Two's Complement" — Ben Eater
@@ -97,7 +100,7 @@ Prioridad: ALTA
   - *Ej 4* — Complemento a 2 en registros de 8 bits
     - 📖 P&H Apéndice B, Sección B.2
 
-**Jue 2** *(día completo — 4hs)*
+**Vie 3** *(día completo — 4hs)*
 - Ejercicios: TP1 ej. 5, 6, 7, 8, 9
   - *Ej 5* — Complemento a 2 → decimal
     - 📖 P&H Apéndice B, Sección B.2
@@ -112,7 +115,6 @@ Prioridad: ALTA
   - *Ej 9* — IEEE 754 → decimal
     - 📖 P&H Apéndice B, Sección B.5
 
-**Vie 3** ⛔ — Sin sesión
 **Sáb 4** ⛔ — Sin sesión
 
 ---
