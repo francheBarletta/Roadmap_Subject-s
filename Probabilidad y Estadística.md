@@ -1,7 +1,6 @@
-# Probabilidad y Estadística — Plan de estudio personal
+# Probabilidad y Estadística — Plan de estudio (recursada 2026)
 
-Final: 20 Julio (2da fecha)
-Prioridad: ALTA
+Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 
 ---
 
@@ -9,317 +8,513 @@ Prioridad: ALTA
 
 | Fecha | Evento |
 |---|---|
-| Lun 20 Julio | Final PyE (2da fecha) |
-| Vie 3 Agosto | Final PyE (3ra fecha) |
+| Mar 29 Septiembre | **Parcial 1** — Guías 1 a 4 |
+| Mar 10 Noviembre | **Parcial 2** — Guías 5 a 8 |
 
 ---
 
-## Estado actual (30 Junio)
+## Estado actual (12 Agosto)
 
-- G1–G4: hechas, base sólida — **repaso seleccionado**
-- G5–G6: vistas apuradas — **rehacer desde cero**
-- G7–G8: no vistas — **nuevo con INV**
+- Recursada: se vuelve a cursar la materia completa, a full profundidad (no repaso liviano).
+- G1 a G8: todo por hacer.
+- Cuatrimestre recién arranca. Días de cursada PyE: Lunes o Miércoles mañana (alternado con Lógica).
 
 ---
 
-## Ejercicios de repaso seleccionados (G1–G4)
+## Guías de ejercicios
 
-| Guía | Ejercicios | Total |
+| # | Tema | Ejercicios | Parcial |
+|---|---|---|---|
+| G1 | Probabilidad, prob. condicional, independencia | 18 | 1 |
+| G2 | Variables aleatorias discretas | 18 (ej. 0–17) | 1 |
+| G3 | Variables aleatorias continuas | 17 | 1 |
+| G4 | Distribuciones conjuntas y muestras aleatorias | 16 | 1 |
+| G5 | Estimación puntual | 10 | 2 |
+| G6 | Intervalos de confianza (una muestra) | 9 | 2 |
+| G7 | Pruebas de hipótesis (una muestra) | 17 | 2 |
+| G8 | Pruebas de hipótesis (dos muestras) | 8 | 2 |
+
+**Total: 113 ejercicios.**
+
+---
+
+## Conceptos clave
+
+### Bloque 1 — Parcial 1 (G1–G4)
+- [ ] Espacio muestral, eventos, axiomas de probabilidad, técnicas de conteo
+- [ ] Probabilidad condicional y Teorema de Bayes
+- [ ] Independencia de eventos
+- [ ] VA discretas: fmp, fda, esperanza, varianza, transformaciones
+- [ ] Distribuciones discretas: Binomial, Poisson, Hipergeométrica, Binomial Negativa
+- [ ] VA continuas: fdp, fda, esperanza, varianza
+- [ ] Distribuciones continuas: Uniforme, Normal, Exponencial, Gamma, Weibull, log-normal, chi-cuadrado
+- [ ] Distribuciones conjuntas: marginales, independencia, covarianza, correlación
+- [ ] TLC y aproximación normal a Binomial/Poisson
+
+### Bloque 2 — Parcial 2 (G5–G8)
+- [ ] Estimadores insesgados, error estándar
+- [ ] Método de momentos y máxima verosimilitud (+ propiedad de invarianza)
+- [ ] Intervalos de confianza: media (Z y T), varianza (chi²), proporción
+- [ ] Pruebas de hipótesis: H0, Ha, región de rechazo, error tipo I y II
+- [ ] Estadísticos Z y T, p-valor
+- [ ] Pruebas de dos muestras: independientes y apareadas
+
+---
+
+## Banco de ejercicios y videos
+
+*(INV = investigar teoría primero, resolver en pizarra sin apuntes, después comparar. Un mismo video puede repetirse entre ejercicios que comparten técnica.)*
+
+### Guía 1 — Probabilidad, prob. condicional, independencia
+
+| Ej | Descripción | Video |
 |---|---|---|
-| G1 | 3, 5, 6, 8, 11, 15, 16, 18 | 8 |
-| G2 | 1, 2, 4, 7, 9, 11, 13, 14 | 8 |
-| G3 | 1, 3, 5, 6, 7, 9, 11, 12 | 8 |
-| G4 | 1, 2, 3, 9, 10, 11, 13, 15 | 8 |
-| **Total repaso** | | **32** |
+| 1 | Biblioteca: listar resultados posibles, eventos A/B/C, uniones e intersecciones | [Experimento aleatorio, espacio muestral y probabilidad](https://www.youtube.com/watch?v=fTIS83G7aC8) |
+| 2 | Demostrar P(B−A)=P(B)−P(A) si A⊆B; relación entre P(A), P(A∩B), P(A∪B) | [Demostración: teoremas de probabilidad — vacío, unión y complemento](https://www.youtube.com/watch?v=nDl0mhVkNeM) |
+| 3 | Licitaciones: uniones e intersecciones de 3 eventos | [Probabilidades de 3 eventos](https://www.youtube.com/watch?v=ipqWoW4yqik) |
+| 4 | Asignación de contratos a empresas (conteo + probabilidad) | [Técnicas de conteo — ejercicios resueltos](https://www.youtube.com/watch?v=v3TFHZsqhME) |
+| 5 | Colectivos con grietas: selección de muestra sin reposición | [Probabilidad, permutaciones y combinaciones — ejercicios](https://www.youtube.com/watch?v=lNQIT9Hir5I) |
+| 6 | Comisión de 2 entre 5 miembros: combinatoria + años de experiencia | [Permutaciones y combinaciones — Nivel 1](https://www.youtube.com/watch?v=QXO3u6Ak4rU) |
+| 7* | Reuniones ordenadas con 8 ayudantes: permutaciones | [Variaciones, combinaciones, permutaciones — Nivel 1](https://www.youtube.com/watch?v=ynxsVxVZ9Vw) |
+| 8 | Cubos entre dos cajas: extracción secuencial | [Bayes — problema 3 resuelto](https://www.youtube.com/watch?v=850a--CribU) |
+| 9 | Tabla de camisas por talle/modelo/manga: conjunta y condicional desde tabla | [Teorema de Bayes — ejercicios resueltos](https://www.youtube.com/watch?v=ENiTI9Rgs-c) |
+| 10 | Demostraciones de propiedades de probabilidad condicional | [Teorema de Bayes — ejercicios resueltos (selectividad)](https://www.youtube.com/watch?v=G_4k4qxZRP4) |
+| 11 | Prueba diagnóstica de enfermedad: Bayes con falsos +/− | [Teorema de Bayes — probabilidades, ejercicios resueltos](https://www.youtube.com/watch?v=CP4ToX5Tyvw) |
+| 12 | Demostrar independencia de eventos complementarios | [Eventos independientes — ejercicios resueltos](https://www.youtube.com/watch?v=Ny8NBX7ZLcw) |
+| 13 | Tablas de madera sin reposición: ¿A y B independientes? | [Sucesos independientes — ejercicios resueltos](https://www.youtube.com/watch?v=_vl-2RsrpgQ) |
+| 14 | Reparto de 52 cartas entre 4 jugadores | [Permutaciones y combinaciones — Nivel 2A](https://www.youtube.com/watch?v=ns7uwSVPLJk) |
+| 15 | Leucoplasia oral: fumar y alcohol, ¿independientes? | [Eventos dependientes e independientes — fácil](https://www.youtube.com/watch?v=wOwwPD-O5sY) |
+| 16 | Empresas de correo: probabilidad total + Bayes | [Teorema de Bayes — explicación y ejercicio resuelto](https://www.youtube.com/watch?v=KrvsiHh1ThA) |
+| 17* | Costura de avión con remaches: independencia + resolver p | [Probabilidad de eventos dependientes — fácil](https://www.youtube.com/watch?v=iUOnVO7yAfA) |
+| 18* | Carrera de caballos: eventos compuestos | [Combinaciones, permutaciones y variaciones — Ejemplo 1](https://www.youtube.com/watch?v=h4IfRXoVcpo) |
 
-## Ejercicios nuevos (G5–G8)
+### Guía 2 — Variables aleatorias discretas
 
-| Guía | Ejercicios | Total |
+| Ej | Descripción | Video |
 |---|---|---|
-| G5 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | 10 |
-| G6 | 1, 2, 3, 4, 5, 6, 7, 8 | 8 |
-| G7 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 | 17 |
-| G8 | 1, 2, 3, 4, 5, 6, 7, 8 | 8 |
-| **Total nuevo** | | **43** |
+| 0 | Definir función de probabilidad y una VA en experimento de listas aleatorias | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 1 | Identificar cuál tabla es una fmp válida; calcular P, obtener FDA | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 2 | fmp de líneas telefónicas en uso: calcular probabilidades de eventos | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 3 | FDA dada por tramos: obtener la fmp y probabilidades | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 4 | Nº de determinaciones hasta encontrar grupo O+ (fmp tipo geométrica) | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 5 | Recorrido aleatorio de Silvina: fmp y FDA de destinos y segmentos | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 6 | Esperanza de un dado y de 1/X; decisión retirarse o jugar | [Esperanza y varianza VA discreta](https://www.youtube.com/watch?v=oB48B-WUwJk) |
+| 7 | Congeladores: E(X), E(X²), V(X), transformación lineal y no lineal | [Esperanza y varianza VA discreta](https://www.youtube.com/watch?v=oB48B-WUwJk) |
+| 8 | Esperanza/varianza de la VA del ej. 4; costo esperado y su varianza | [Esperanza y varianza VA discreta](https://www.youtube.com/watch?v=oB48B-WUwJk) |
+| 9 | Binomial: automovilistas que se detienen en un cruce | [Binomial](https://www.youtube.com/watch?v=-XxZGvNClkg) |
+| 10* | Binomial: raquetas de tenis, prob. dentro de 1 DE, sin reposición | [Binomial](https://www.youtube.com/watch?v=-XxZGvNClkg) |
+| 11 | Binomial + Hipergeométrica: reparaciones de TV sin garantía | [Binomial/Hiperg./Poisson – cuándo usar cada una](https://www.youtube.com/watch?v=JWRTMeJg70I) |
+| 12 | Hipergeométrica: refrigeradores con compresor defectuoso | [Hipergeométrica](https://www.youtube.com/watch?v=3pDDo0LvRHo) |
+| 13 | Binomial Negativa: serie de partidos Boca–River | [Binomial Negativa](https://www.youtube.com/watch?v=LgNSqHil6w0) |
+| 14 | Poisson: número de tornados observados en un año | [Poisson](https://www.youtube.com/watch?v=PMX75m4-s9A) |
+| 15 | Poisson: suma de dos Poisson independientes (autos en estacionamiento) | [Poisson](https://www.youtube.com/watch?v=PMX75m4-s9A) |
+| 16* | Poisson: ganancia esperada con transformación cuadrática | [Poisson](https://www.youtube.com/watch?v=PMX75m4-s9A) |
+| 17 | Demostrar E(X) y V(X) de Hipergeométrica y Binomial Negativa | [Binomial/Hiperg./Poisson – cuándo usar cada una](https://www.youtube.com/watch?v=JWRTMeJg70I) |
 
-**Gran total: 75 ejercicios**
+### Guía 3 — Variables aleatorias continuas
+
+| Ej | Descripción | Video |
+|---|---|---|
+| 1 | fdp lineal (x/2): probabilidades, FDA, E(X), V(X), cobro esperado h(X) | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+| 2 | FDA cúbica dada: hallar probabilidades y la fdp | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+| 3 | fdp con constante k (kx²): percentil 75, E(X), σ | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+| 4 | Uniforme: tiempo de preparación de laboratorio [25,35] | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+| 5 | Normal N(80,100): probabilidades básicas con tabla Z | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+| 6 | Normal: diámetro de árboles, percentiles, binomial aproximada | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+| 7 | Normal: hallar µ y σ desde percentiles de resistencia | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+| 8 | Transformación lineal de Normal; Celsius a Fahrenheit | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+| 9 | Normal: mezcla de dos máquinas, tornillos aceptables | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+| 10 | Normal: dureza Rockwell, aceptación + binomial aproximada | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+| 11 | Exponencial: distancia recorrida por canguros | [Distribución Exponencial](https://www.youtube.com/watch?v=PEib2DsJ2k4) |
+| 12 | Exponencial: sistema en serie, mínimo de 5 exponenciales | [Distribución Exponencial](https://www.youtube.com/watch?v=PEib2DsJ2k4) |
+| 13 | Sistema de bombas de combustible: Poisson/Exponencial | [Distribución Exponencial](https://www.youtube.com/watch?v=PEib2DsJ2k4) |
+| 14* | Gamma: tiempo semanal de máquina no funcional, pérdida esperada | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) *(buscar además "distribución Gamma ejercicios")* |
+| 15* | Weibull: tiempo de devolución de un producto defectuoso | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) *(buscar además "distribución Weibull ejercicios")* |
+| 16* | Log-normal: tiempo de respuesta de un servidor web | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) *(buscar además "distribución log-normal ejercicios")* |
+| 17* | Chi-cuadrado: variabilidad en tiempo de ejecución de un algoritmo | [Distribución chi cuadrado — introducción](https://www.youtube.com/watch?v=Y1bhoKrEL_c) |
+
+### Guía 4 — Distribuciones conjuntas y muestras aleatorias
+
+| Ej | Descripción | Video |
+|---|---|---|
+| 1 | Conjunta discreta (dos cajas del súper): marginales, independencia | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 2 | fdpc kxy en triángulo: k, marginales, E y V, independencia | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+| 3 | fdpc k(x+y) en cuadrado: k, P(X+Y<5), marginales, covarianza | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+| 4 | Poisson independientes: fmp conjunta, P(a lo sumo 1 error) | [Poisson](https://www.youtube.com/watch?v=PMX75m4-s9A) |
+| 5 | Exponenciales independientes: fdp conjunta, duración de bombillas | [Distribución Exponencial](https://www.youtube.com/watch?v=PEib2DsJ2k4) |
+| 6 | Demostrar que suma de Binomiales independientes es Binomial (Vandermonde) | [Binomial](https://www.youtube.com/watch?v=-XxZGvNClkg) |
+| 7 | Demostrar E(XY)=E(X)E(Y) si independientes; área esperada de un rectángulo | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+| 8 | Tabla conjunta con parámetros a,b: covarianza cero pero no independencia | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 9 | Combinaciones lineales de Y1, Y2 con covarianza dada | [Función de prob. VA discreta](https://www.youtube.com/watch?v=GaRyczJN3WM) |
+| 10 | TLC: densidad de sedimento, tamaño muestral necesario | [Teorema Central del Límite](https://www.youtube.com/watch?v=UV0F6E5PGP4) |
+| 11 | TLC: tiempo de procesamiento de 100 pedidos | [Teorema Central del Límite](https://www.youtube.com/watch?v=UV0F6E5PGP4) |
+| 12 | TLC/Binomial: estudiantes sin errores tipográficos | [Teorema Central del Límite](https://www.youtube.com/watch?v=UV0F6E5PGP4) |
+| 13 | TLC/Binomial: ejes de acero fuera de especificación | [Teorema Central del Límite](https://www.youtube.com/watch?v=UV0F6E5PGP4) |
+| 14 | TLC/Poisson: aproximación normal para media 100 | [Teorema Central del Límite](https://www.youtube.com/watch?v=UV0F6E5PGP4) |
+| 15 | TLC: diferencia de medias muestrales de dos aceros | [Teorema Central del Límite](https://www.youtube.com/watch?v=UV0F6E5PGP4) |
+| 16 | TLC: consumo calórico diario promedio en un año | [Teorema Central del Límite](https://www.youtube.com/watch?v=UV0F6E5PGP4) |
+
+### Guía 5 — Estimación puntual
+
+| Ej | Descripción | Video |
+|---|---|---|
+| 1 | Poisson: estimador insesgado de λ, error estándar, comparar estimadores | [Estimación puntual — momentos y MV](https://www.youtube.com/watch?v=p59Rik4oHkQ) |
+| 2 | Vigas y cilindros de concreto: estimar µ1, µ2, σ1, σ2 y su diferencia | [Estimación puntual — momentos y MV](https://www.youtube.com/watch?v=p59Rik4oHkQ) |
+| 3 | Fumadores con/sin filtro: estimador insesgado de p1−p2 | [Estimación puntual — momentos y MV](https://www.youtube.com/watch?v=p59Rik4oHkQ) |
+| 4 | Demostrar que X̄² no es insesgado para µ²; hallar k para el estimador corregido | [Estimación puntual — momentos y MV](https://www.youtube.com/watch?v=p59Rik4oHkQ) |
+| 5 | fdp con parámetro θ: demostrar que 3X̄ es insesgado, calcular su varianza | [Estimación puntual — momentos y MV](https://www.youtube.com/watch?v=p59Rik4oHkQ) |
+| 6 | Método de momentos: fdp (θ+1)xᶿ, estimación con 10 datos | [Estimación puntual — momentos y MV](https://www.youtube.com/watch?v=p59Rik4oHkQ) |
+| 7 | Momentos y MV: espesor de pintura, percentil 90, P(X<1.5) | [MV — ejemplo Normal](https://www.youtube.com/watch?v=BOp7n09I3uY) |
+| 8 | MV Exponencial: tiempo de respuesta de una terminal | [MV — ejemplo Binomial](https://www.youtube.com/watch?v=RbaW4lhgGc8) |
+| 9 | MV Normal: resistencia de soldaduras, percentil 95, propiedad de invarianza | [MV — ejemplo Normal](https://www.youtube.com/watch?v=BOp7n09I3uY) |
+| 10 | MV Uniforme[0,θ]: distribución de Y=máx(Xi), sesgo, estimadores insesgados | [MV — introducción](https://www.youtube.com/watch?v=Ypy-6Jnk0Gw) |
+
+### Guía 6 — Intervalos de confianza (una muestra)
+
+| Ej | Descripción | Video |
+|---|---|---|
+| 1 | IC media, σ conocido: motor de inducción, distintos n y confianza | [IC media — σ conocido](https://www.youtube.com/watch?v=91gR7Up9LZc) |
+| 2 | Frecuencia de resonancia: nivel de confianza, zα/2, comparar intervalos | [IC media — σ conocido](https://www.youtube.com/watch?v=91gR7Up9LZc) |
+| 3 | IC media, n grande y σ desconocido: densidad de capa de tinte | [IC media — T de Student](https://www.youtube.com/watch?v=lJ1V3SJRgio) |
+| 4 | IC proporción: propietarios de armas de fuego | [IC para una proporción](https://www.youtube.com/watch?v=Ca3XN4h2tgw) |
+| 5 | IC media: contenido de ácido según laboratorio | [IC media — T de Student](https://www.youtube.com/watch?v=lJ1V3SJRgio) |
+| 6 | IC media y varianza: pulsaciones de triatletas (n=40 y n=9) | [IC para la varianza (chi²)](https://www.youtube.com/watch?v=RmFOZOOJ6_Q) |
+| 7 | IC media T: recalcular con otro nivel de confianza | [IC media — T de Student](https://www.youtube.com/watch?v=lJ1V3SJRgio) |
+| 8 | IC media y desviación estándar: tiempo de reacción de nadadores | [IC para la varianza (chi²)](https://www.youtube.com/watch?v=RmFOZOOJ6_Q) |
+| 9* | IC para θ en Uniforme[0,θ]: dos formas, comparar longitud | [IC media — σ conocido](https://www.youtube.com/watch?v=91gR7Up9LZc) |
+
+### Guía 7 — Pruebas de hipótesis (una muestra)
+
+| Ej | Descripción | Video |
+|---|---|---|
+| 1 | Prueba Z bilateral: calibración de balanza, error tipo I y II | [Prueba de hipótesis — media, Z](https://www.youtube.com/watch?v=RS5F_bhNugw) |
+| 2 | Nivel de significación desde la región de rechazo dada | [Prueba de hipótesis — media, Z](https://www.youtube.com/watch?v=RS5F_bhNugw) |
+| 3 | Prueba Z bilateral: punto de fusión de aceite, error tipo II | [Prueba de hipótesis — media, Z](https://www.youtube.com/watch?v=RS5F_bhNugw) |
+| 4 | Comparar la prueba de hipótesis con el IC del ej. 5 de G6 | [Prueba de hipótesis — media, Z](https://www.youtube.com/watch?v=RS5F_bhNugw) |
+| 5 | Prueba unilateral: tiempo de escape de trabajadores petroleros | [Prueba de hipótesis — media, T](https://www.youtube.com/watch?v=p6n7d2ZLAxg) |
+| 6 | Prueba n≥40: expansión lateral de una aleación, error tipo II | [Prueba de hipótesis — media, Z](https://www.youtube.com/watch?v=RS5F_bhNugw) |
+| 7 | Prueba t bilateral: diámetro de ruedas, distintos casos de tobs | [Prueba de hipótesis — media, T](https://www.youtube.com/watch?v=p6n7d2ZLAxg) |
+| 8 | Prueba t unilateral: desgaste de un eje, error tipo II | [Prueba de hipótesis — media, T](https://www.youtube.com/watch?v=p6n7d2ZLAxg) |
+| 9 | Prueba t: contenido de sodio en galletas (norma CAA) | [Prueba de hipótesis — media, T](https://www.youtube.com/watch?v=p6n7d2ZLAxg) |
+| 10 | Prueba t bilateral + IC: lecturas de radón | [Prueba de hipótesis — media, T](https://www.youtube.com/watch?v=p6n7d2ZLAxg) |
+| 11 | Prueba de proporción: preferencia entre dos empresas de cable | [Prueba de hipótesis — proporción](https://www.youtube.com/watch?v=EsTm9MGZacI) |
+| 12 | Prueba de proporción: donantes de sangre tipo A | [Prueba de hipótesis — proporción](https://www.youtube.com/watch?v=EsTm9MGZacI) |
+| 13 | Prueba de proporción (p-valor): robots vs. humanos ensamblando cables | [p-valor en pruebas de hipótesis](https://www.youtube.com/watch?v=47vZXLESRWc) |
+| 14 | Comparar p-valor con distintos niveles de significación (6 pares) | [p-valor en pruebas de hipótesis](https://www.youtube.com/watch?v=47vZXLESRWc) |
+| 15 | Calcular p-valor con estadístico Z, distintas alternativas | [p-valor en pruebas de hipótesis](https://www.youtube.com/watch?v=47vZXLESRWc) |
+| 16 | Acotar p-valor: ganancia de peso de terneros con hormonas | [p-valor en pruebas de hipótesis](https://www.youtube.com/watch?v=47vZXLESRWc) |
+| 17 | Acotar p-valor con estadístico T, distintos casos | [Prueba de hipótesis — media, T](https://www.youtube.com/watch?v=p6n7d2ZLAxg) |
+
+### Guía 8 — Pruebas de hipótesis (dos muestras)
+
+| Ej | Descripción | Video |
+|---|---|---|
+| 1 | Síndrome de Raynaud: prueba unilateral, σ1 y σ2 conocidos | [PH diferencia de medias — indep.](https://www.youtube.com/watch?v=3Rozok2NjNY) |
+| 2 | Fuerza de unión de espigas de madera: prueba unilateral, σ conocidos | [PH diferencia de medias — indep.](https://www.youtube.com/watch?v=3Rozok2NjNY) |
+| 3 | Calcio en suero con/sin vitamina D: varianzas iguales desconocidas | [PH diferencia de medias — varianzas desiguales](https://www.youtube.com/watch?v=mSKZCstzNOU) |
+| 4 | Creatinina medida con dos métodos (A y B) — muestras apareadas | [PH diferencia de medias — apareadas](https://www.youtube.com/watch?v=_4iR54x3s4I) |
+| 5 | Glóbulos blancos: infectados vs. sanos, prueba unilateral | [PH diferencia de medias — varianzas desiguales](https://www.youtube.com/watch?v=mSKZCstzNOU) |
+| 6 | Frecuencia cardíaca antes/después de un experimento — apareada | [PH diferencia de medias — apareadas](https://www.youtube.com/watch?v=_4iR54x3s4I) |
+| 7 | Carboxihemoglobina en fumadores vs. no fumadores — muestras grandes | [PH diferencia de medias — indep.](https://www.youtube.com/watch?v=3Rozok2NjNY) |
+| 8 | Niveles de DDE en cáncer de mama — apareada, n grande | [PH diferencia de medias — apareadas](https://www.youtube.com/watch?v=_4iR54x3s4I) |
 
 ---
 
-## Sesiones programadas
+## Reparto semanal de materias (4 materias)
 
-> Formato: 4 ejercicios repaso (G1–G4) + 4 ejercicios nuevos (G5–G8) por día completo
-> Días de mañana (Dom 5 – Vie 10): 2 repaso + 2 nuevo
-> INV obligatoria antes de arrancar G7 y G8
-> Libro: Devore
+| Día | Materia(s) |
+|---|---|
+| Lunes (día completo, sin clase) | **PyE y Lógica** |
+| Martes (clase 9-13 PyE + 14-18 Álgebra, noche libre) | AED2 |
+| Miércoles (clase 9-13 Lógica, tarde libre) | Álgebra |
+| Jueves (clase 9-13 PyE + 14-18 Álgebra, noche libre) | Lógica |
+| Viernes | Libre — sin materia |
+| Sábado | Lógica y Álgebra (refuerzo) |
+| Domingo | **PyE y AED2** (refuerzo) |
 
----
+→ PyE mantiene **Lunes y Domingo** como días fuertes de ejercicios/INV.
 
-### JULIO — Semana 1 (2 al 4)
+## Cronograma día por día
 
-**Mié 1** ⛔ — Sin sesión (descanso)
-**Jue 2** ⛔ — Sin sesión
-**Vie 3** ⛔ — Sin sesión
-**Sáb 4** ⛔ — Sin sesión
+> Se muestran TODOS los días de la semana para que se vea completo — los días que no son de PyE (Martes, Miércoles, Jueves, Viernes, Sábado) solo indican qué materia va ahí, sin detalle (ese detalle vive en el plan de esa materia, no en este archivo). INV obligatoria antes de cada guía nueva de PyE. Ejercicios con * quedan como repaso para el parcial.
 
----
+### Rumbo al Parcial 1 — 22 Septiembre (G1 a G4, 69 ejercicios)
 
-### JULIO — Semana 2 (5 al 10) — Mañanas 2hs
+> Ritmo real: Lunes y Domingo ~4h de PyE cada uno (~6 ejercicios); Martes y Jueves 2h de práctico dentro de la cursada (~3 ejercicios); Miércoles, Viernes y Sábado NO son días de PyE.
 
-**Dom 5** *(mañana — 2hs)*
-- Repaso: G1 ej. 3, 5
-*G1 Ej 3* — Probabilidad con intersecciones y uniones (empresa consultora)
-*G1 Ej 5* — Combinatoria: colectivos con grietas
-- Nuevo: G5 ej. 1, 2
-*G5 Ej 1* — Estimador insesgado de λ (Poisson): error estándar, comparación
-  - 📖 Devore Cap. 6, Sección 6.1 — Principios de estimación puntual
-  - 🎥 YouTube: "Unbiased Estimators" — jbstatistics
-*G5 Ej 2* — Estimación de µ, σ para dos muestras independientes
-  - 📖 Devore Cap. 6, Sección 6.1
-  - 🎥 YouTube: "Point Estimation" — jbstatistics
+| Fecha | Día | Contenido |
+|---|---|---|
+| Sáb 15 Ago | Sáb | Lógica y Álgebra |
+| Dom 16 Ago | Dom | **PyE** — INV-01: axiomas, conteo, prob. condicional, Bayes · **G1 ej. 1–6** *(ver detalle abajo)* |
+| Lun 17 Ago | Lun | **PyE** (+ Lógica) — **G1 ej. 7–12** |
+| Mar 18 Ago | Mar | **PyE** (práctico, 2h) — **G1 ej. 13–15** |
+| Mié 19 Ago | Mié | Álgebra |
+| Jue 20 Ago | Jue | **PyE** (práctico, 2h) — **G1 ej. 16–18** (cierra Guía 1) |
+| Vie 21 Ago | Vie | Libre — sin materia |
+| Sáb 22 Ago | Sáb | Lógica y Álgebra |
+| Dom 23 Ago | Dom | **PyE** — INV-02: VA discretas, fmp, fda · **G2 ej. 0–5** |
+| Lun 24 Ago | Lun | **PyE** (+ Lógica) — **G2 ej. 6–11** |
+| Mar 25 Ago | Mar | **PyE** (práctico, 2h) — **G2 ej. 12–14** |
+| Mié 26 Ago | Mié | Álgebra |
+| Jue 27 Ago | Jue | **PyE** (práctico, 2h) — **G2 ej. 15–17** (cierra Guía 2) |
+| Vie 28 Ago | Vie | Libre — sin materia |
+| Sáb 29 Ago | Sáb | Lógica y Álgebra |
+| Dom 30 Ago | Dom | **PyE** — INV-03/04: distribuciones discretas + VA continuas, fdp, Normal, Exponencial · **G3 ej. 1–6** |
+| Lun 31 Ago | Lun | **PyE** (+ Lógica) — **G3 ej. 7–12** |
+| Mar 1 Sep | Mar | **PyE** (práctico, 2h) — **G3 ej. 13–15** |
+| Mié 2 Sep | Mié | Álgebra |
+| Jue 3 Sep | Jue | **PyE** (práctico, 2h) — **G3 ej. 16–17** (cierra Guía 3) |
+| Vie 4 Sep | Vie | Libre — sin materia |
+| Sáb 5 Sep | Sáb | Lógica y Álgebra |
+| Dom 6 Sep | Dom | **PyE** — INV-05: conjuntas, covarianza, correlación, TLC · **G4 ej. 1–6** |
+| Lun 7 Sep | Lun | **PyE** (+ Lógica) — **G4 ej. 7–12** |
+| Mar 8 Sep | Mar | **PyE** (práctico, 2h) — **G4 ej. 13–15** |
+| Mié 9 Sep | Mié | Álgebra |
+| Jue 10 Sep | Jue | **PyE** (práctico, 2h) — **G4 ej. 16** (cierra Guía 4 — temario completo del parcial listo) |
+| Vie 11 Sep | Vie | Libre — sin materia |
+| Sáb 12 Sep | Sáb | Lógica y Álgebra |
+| Dom 13 Sep | Dom | **PyE** — Repaso general G1–G2 |
+| Lun 14 Sep | Lun | **PyE** (+ Lógica) — Repaso general G3–G4 |
+| Mar 15 Sep | Mar | **PyE** (práctico, 2h) — Repaso liviano / dudas |
+| Mié 16 Sep | Mié | Álgebra |
+| Jue 17 Sep | Jue | **PyE** (práctico, 2h) — Repaso liviano / dudas |
+| Vie 18 Sep | Vie | Libre — sin materia |
+| Sáb 19 Sep | Sáb | Lógica y Álgebra |
+| Dom 20 Sep | Dom | **PyE** — Repaso final, SR completo, fórmulas |
+| Lun 21 Sep | Lun | **PyE** (+ Lógica) — Repaso final, copiar y repasar pizarrón |
+| **Mar 22 Sep** | Mar | **FINAL PARCIAL 1 — sin sesión** |
 
-**Lun 6** *(mañana — 2hs)*
-- Repaso: G1 ej. 6, 8
-*G1 Ej 6* — Combinatoria + probabilidad clásica (comisión de facultad)
-*G1 Ej 8* — Probabilidad condicional con cajas
-- Nuevo: G5 ej. 3, 4
-*G5 Ej 3* — Estimador de p1-p2 para proporciones: insesgamiento y error estándar
-  - 📖 Devore Cap. 6, Sección 6.1
-  - 🎥 YouTube: "Unbiased Estimators" — jbstatistics
-*G5 Ej 4* — X̄² no es insesgado para µ², corrección con S²
-  - 📖 Devore Cap. 6, Sección 6.1 — demostración de sesgo
-  - 🎥 YouTube: "Biased vs Unbiased Estimators" — StatQuest
+> El temario nuevo (G1–G4) cierra el **Jue 10 Sep** — quedan casi 2 semanas completas de repaso antes del parcial (Dom 13 → Lun 21 Sep).
 
-**Mar 7** *(mañana — 2hs)*
-- Repaso: G1 ej. 11, 15
-*G1 Ej 11* — Teorema de Bayes: diagnóstico médico
-*G1 Ej 15* — Independencia: fumadores y alcohol
-- Nuevo: G5 ej. 5, 6
-*G5 Ej 5* — Estimador insesgado θ̂ = 3X̄
-  - 📖 Devore Cap. 6, Sección 6.1
-  - 🎥 YouTube: "Unbiased Estimators" — jbstatistics
-*G5 Ej 6* — Método de momentos con fdp dada
-  - 📖 Devore Cap. 6, Sección 6.2 — Método de los momentos
-  - 🎥 YouTube: "Method of Moments" — jbstatistics
+#### Detalle día por día — próximas sesiones
 
-**Mié 8** *(mañana — 2hs)*
-- Repaso: G1 ej. 16, 18
-*G1 Ej 16* — Probabilidad total + Bayes: empresas de correo
-*G1 Ej 18* — Combinatoria: carrera de caballos
-- Nuevo: G5 ej. 7, 8
-*G5 Ej 7* — Normal: estimación por momentos y máxima verosimilitud
-  - 📖 Devore Cap. 6, Secciones 6.2 y 6.3
-  - 🎥 YouTube: "Maximum Likelihood Estimation" — StatQuest
-*G5 Ej 8* — Exponencial: estimador MV de λ
-  - 📖 Devore Cap. 6, Sección 6.3 — Máxima verosimilitud
-  - 🎥 YouTube: "MLE for Exponential Distribution" — jbstatistics
+**Sáb 15** — Lógica y Álgebra (no es día de PyE)
 
-**Jue 9** *(mañana — 2hs)*
-- Repaso: G2 ej. 1, 2
-*G2 Ej 1* — fmp, fda, constante k
-*G2 Ej 2* — Probabilidades desde fmp (líneas telefónicas)
-- Nuevo: G5 ej. 9, 10
-*G5 Ej 9* — Normal: MV de µ y σ, percentiles, P(X≤c)
-  - 📖 Devore Cap. 6, Sección 6.3 — propiedad de invarianza del MV
-  - 🎥 YouTube: "MLE Normal Distribution" — jbstatistics
-*G5 Ej 10* — Uniforme [0,θ]: MV, sesgo, corrección, comparación
-  - 📖 Devore Cap. 6, Sección 6.3
-  - 🎥 YouTube: "MLE Uniform Distribution" — jbstatistics
+**Dom 16** *(INV-01 + ejercicios)* — G1 ej. 1, 2, 3, 4, 5, 6
+* *Ej 1* — Biblioteca: listar resultados posibles, eventos A/B/C, uniones e intersecciones — 🎥 "Experimento Aleatorio, Espacio Muestral, Evento o Suceso y Probabilidades" — https://www.youtube.com/watch?v=fTIS83G7aC8
+* *Ej 2* — Demostrar P(B−A)=P(B)−P(A) si A⊆B; relación P(A), P(A∩B), P(A∪B) — 🎥 "Demostración. Teoremas de Probabilidad: Vacío, Unión y Complemento" — 
+https://www.youtube.com/watch?v=nDl0mhVkNeM
+* *Ej 3* — Licitaciones: uniones e intersecciones de 3 eventos — 🎥 "Probabilidades de 3 eventos" — https://www.youtube.com/watch?v=ipqWoW4yqik
+* *Ej 4* — Asignación de contratos a empresas: conteo y probabilidad — 🎥 "Técnicas de conteo — ejercicios resueltos" — https://www.youtube.com/watch?v=v3TFHZsqhME
+* *Ej 5* — Colectivos con grietas: selección de muestra sin reposición — 🎥 "Probabilidad, permutaciones y combinaciones — ejercicios resueltos" — 
+https://www.youtube.com/watch?v=lNQIT9Hir5I
+* *Ej 6* — Comisión de 2 entre 5 miembros: combinatoria + años de experiencia — 🎥 "Permutaciones y Combinaciones — Ejercicios Resueltos Nivel 1" — 
+https://www.youtube.com/watch?v=QXO3u6Ak4rU
 
-**Vie 10** *(mañana — 2hs)*
-- Repaso: G2 ej. 4, 7
-*G2 Ej 4* — fmp desde experimento real (donantes de sangre)
-*G2 Ej 7* — E(X), V(X), transformaciones (congeladores)
-- Nuevo: G6 ej. 1, 2
-*G6 Ej 1* — IC para media con σ conocido: cálculo, longitud, n necesario
-  - 📖 Devore Cap. 7, Sección 7.1 — IC para media con varianza conocida
-  - 🎥 YouTube: "Confidence Intervals Z" — jbstatistics
-*G6 Ej 2* — IC con σ conocido: nivel de confianza y z_{α/2}
-  - 📖 Devore Cap. 7, Sección 7.1
-  - 🎥 YouTube: "Confidence Level and z alpha/2" — jbstatistics
+**Lun 17** *(compartido con Lógica)* — G1 ej. 7, 8, 9, 10, 11, 12
+* *Ej 7* — Reuniones ordenadas con 8 ayudantes: permutaciones — 🎥 "Variaciones, Combinaciones y Permutaciones — Nivel 1" — https://www.youtube.com/watch?v=ynxsVxVZ9Vw
+* *Ej 8* — Cubos entre dos cajas: extracción secuencial (prob. condicional) — 🎥 "Teorema de Bayes — Problema 3 resuelto" — https://www.youtube.com/watch?v=850a--CribU
+* *Ej 9* — Tabla de camisas por talle/modelo/manga: conjunta y condicional desde tabla — 🎥 "Teorema de Bayes — ejercicios resueltos" — 
+https://www.youtube.com/watch?v=ENiTI9Rgs-c
+* *Ej 10* — Demostraciones de propiedades de probabilidad condicional — 🎥 "Teorema de Bayes — ejercicio resuelto de selectividad" — 
+https://www.youtube.com/watch?v=G_4k4qxZRP4
+* *Ej 11* — Prueba diagnóstica de enfermedad: Bayes con falsos positivos/negativos — 🎥 "Teorema de Bayes — Probabilidades, ejercicios resueltos" — 
+https://www.youtube.com/watch?v=CP4ToX5Tyvw
+* *Ej 12* — Demostrar independencia de eventos complementarios (Ā y B̄) — 🎥 "Eventos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=Ny8NBX7ZLcw
 
----
+**Mar 18** *(práctico, 2h)* — G1 ej. 13, 14, 15
+* *Ej 13* — Tablas de madera sin reposición: ¿A y B independientes? — 🎥 "Sucesos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=_vl-2RsrpgQ
+* *Ej 14* — Reparto de 52 cartas entre 4 jugadores — 🎥 "Permutaciones y Combinaciones — Ejercicios Resueltos Nivel 2A" — https://www.youtube.com/watch?v=ns7uwSVPLJk
+* *Ej 15* — Leucoplasia oral: fumar y alcohol, ¿independientes? — 🎥 "Eventos Dependientes e Independientes — Super fácil" — https://www.youtube.com/watch?v=wOwwPD-O5sY
 
-### JULIO — Semana 3 (11 al 19) — Días completos (4 repaso + 4 nuevo)
+**Mié 19** — Álgebra (no es día de PyE)
 
-**Sáb 11** *(día completo — 4hs)*
-- Repaso: G2 ej. 9, 11, 13, 14
-*G2 Ej 9* — Binomial completo (automovilistas)
-*G2 Ej 11* — Hipergeométrica (aparatos TV)
-*G2 Ej 13* — Binomial Negativa (Boca-River)
-*G2 Ej 14* — Poisson: probabilidades y E(X)
-- Nuevo: G6 ej. 3, 4, 5, 6
-*G6 Ej 3* — IC con n grande y σ desconocido (distribución Z aproximada)
-  - 📖 Devore Cap. 7, Sección 7.1 — caso n grande
-  - 🎥 YouTube: "Confidence Intervals Large Sample" — jbstatistics
-*G6 Ej 4* — IC para proporción: nivel 0.98, tamaño muestral
-  - 📖 Devore Cap. 7, Sección 7.3 — IC para proporciones
-  - 🎥 YouTube: "Confidence Interval for Proportion" — jbstatistics
-*G6 Ej 5* — IC con t: interpretación y conclusión
-  - 📖 Devore Cap. 7, Sección 7.2 — IC con distribución t
-  - 🎥 YouTube: "Confidence Intervals t distribution" — jbstatistics
-*G6 Ej 6* — IC para media y varianza: t y chi-cuadrado
-  - 📖 Devore Cap. 7, Secciones 7.2 y 7.4 — IC para varianza con chi-cuadrado
-  - 🎥 YouTube: "Confidence Interval for Variance Chi-squared" — jbstatistics
+**Jue 20** *(práctico, 2h — cierra Guía 1)* — G1 ej. 16, 17, 18
+* *Ej 16* — Empresas de correo: probabilidad total + Bayes — 🎥 "Teorema de Bayes — Explicación y Ejercicio Resuelto" — https://www.youtube.com/watch?v=KrvsiHh1ThA
+* *Ej 17* — Costura de avión con remaches: independencia + resolver p — 🎥 "Probabilidad de Eventos Dependientes — Super fácil" — https://www.youtube.com/watch?v=iUOnVO7yAfA
+* *Ej 18* — Carrera de caballos: eventos compuestos — 🎥 "Combinaciones, Permutaciones y Variaciones — Ejemplo 1" — https://www.youtube.com/watch?v=h4IfRXoVcpo
 
-**Dom 12** *(día completo — 4hs)*
-- Repaso: G3 ej. 1, 3, 5, 6
-*G3 Ej 1* — fdp, fda, E(X), V(X)
-*G3 Ej 3* — fdp con parámetro k, percentiles
-*G3 Ej 5* — Normal: probabilidades con tabla Z
-*G3 Ej 6* — Normal con contexto: percentil inverso
-- Nuevo: G6 ej. 7, 8; G7 ej. 1, 2
-*G6 Ej 7* — IC para media con t: reconstrucción desde IC conocido
-  - 📖 Devore Cap. 7, Sección 7.2
-  - 🎥 YouTube: "t Confidence Interval" — jbstatistics
-*G6 Ej 8* — IC media y desviación estándar con t y chi-cuadrado
-  - 📖 Devore Cap. 7, Secciones 7.2 y 7.4
-  - 🎥 YouTube: "Confidence Interval for Standard Deviation" — jbstatistics
-- INV: Leer prueba de hipótesis — H0, Ha, región de rechazo, errores tipo I y II (HI-PyE-07)
-*G7 Ej 1* — Prueba Z bilateral con σ conocido: región de rechazo, error tipo I y II
-  - 📖 Devore Cap. 8, Sección 8.1 — Estructura de las pruebas de hipótesis
-  - 🎥 YouTube: "Hypothesis Testing Z Test" — jbstatistics
-*G7 Ej 2* — Nivel de significación desde región de rechazo dada
-  - 📖 Devore Cap. 8, Sección 8.1
-  - 🎥 YouTube: "Type I and Type II Errors" — jbstatistics
+**Vie 21 → Sáb 22** — Libre / Lógica y Álgebra (no son días de PyE)
 
-**Lun 13** *(día completo — 4hs)*
-- Repaso: G3 ej. 7, 9, 11, 12
-*G3 Ej 7* — Encontrar µ y σ desde percentiles
-*G3 Ej 9* — Mezcla de máquinas, Normal
-*G3 Ej 11* — Exponencial: probabilidades, mediana, propiedad sin memoria
-*G3 Ej 12* — Sistema en serie, distribución del mínimo
-- Nuevo: G7 ej. 3, 4, 5, 6
-*G7 Ej 3* — Prueba Z bilateral: decisión al nivel 0.01, error tipo II
-  - 📖 Devore Cap. 8, Sección 8.1 y 8.2
-  - 🎥 YouTube: "Type II Error Beta" — jbstatistics
-*G7 Ej 4* — Relación entre IC y prueba de hipótesis
-  - 📖 Devore Cap. 8, Sección 8.2 — conexión IC y prueba
-  - 🎥 YouTube: "Relationship Confidence Intervals Hypothesis Tests" — jbstatistics
-*G7 Ej 5* — Prueba Z unilateral con n grande y σ desconocido
-  - 📖 Devore Cap. 8, Sección 8.2 — prueba unilateral
-  - 🎥 YouTube: "One Sided Hypothesis Test" — jbstatistics
-*G7 Ej 6* — Prueba Z unilateral con n≥40: potencia y error tipo II
-  - 📖 Devore Cap. 8, Sección 8.2 — potencia de la prueba
-  - 🎥 YouTube: "Power of a Test" — jbstatistics
+**Dom 23** *(INV-02 + ejercicios)* — G2 ej. 0, 1, 2, 3, 4, 5
+* *Ej 0* — Definir función de probabilidad y una VA en experimento de listas aleatorias — 🎥 "Función probabilidad y función de distribución VA discreta" — https://www.youtube.com/watch?v=2qgFRb5nsQg
+* *Ej 1* — Identificar cuál tabla es una fmp válida; calcular P, obtener FDA — 🎥 "Función de probabilidad VA discreta — Ejercicio 1" — https://www.youtube.com/watch?v=9NicRz7xPU0
+* *Ej 2* — fmp de líneas telefónicas en uso: calcular probabilidades de eventos — 🎥 "Función de Probabilidad y Función de Distribución — UPV" — https://www.youtube.com/watch?v=GaRyczJN3WM
+* *Ej 3* — FDA dada por tramos: obtener la fmp y probabilidades — 🎥 "Función de probabilidad VA discreta — Intro" — https://www.youtube.com/watch?v=7mF89j-rCoE
+* *Ej 4* — Nº de determinaciones hasta encontrar grupo O+ (fmp tipo geométrica) — 🎥 "Aprende probabilidad: VA discretas, teoría y ejercicios" — https://www.youtube.com/watch?v=ktq7f3-L8-c
+* *Ej 5* — Recorrido aleatorio de Silvina: fmp y FDA de destinos y segmentos — 🎥 "Variable Aleatoria Discreta — Ejercicio 1" — https://www.youtube.com/watch?v=wEfgwi9dA-8
 
-**Mar 14** *(día completo — 4hs)*
-- Repaso: G4 ej. 1, 2, 3, 9
-*G4 Ej 1* — Distribución conjunta discreta: marginales e independencia
-*G4 Ej 2* — Distribución conjunta continua: k, marginales, E(X), V(X)
-*G4 Ej 3* — fdp conjunta continua: probabilidades, marginales, covarianza
-*G4 Ej 9* — Covarianza y varianza de combinaciones lineales
-- Nuevo: G7 ej. 7, 8, 9, 10
-*G7 Ej 7* — Prueba t bilateral con n pequeño: conclusión desde t_obs
-  - 📖 Devore Cap. 8, Sección 8.3 — prueba t con n pequeño
-  - 🎥 YouTube: "t Test Small Sample" — jbstatistics
-*G7 Ej 8* — Prueba t unilateral con n pequeño: error tipo II
-  - 📖 Devore Cap. 8, Sección 8.3
-  - 🎥 YouTube: "One Sample t Test" — jbstatistics
-*G7 Ej 9* — Prueba t unilateral: sodio y normas alimentarias
-  - 📖 Devore Cap. 8, Sección 8.3
-  - 🎥 YouTube: "One Sample t Test Example" — jbstatistics
-*G7 Ej 10* — Prueba t bilateral + IC: detectores de radón
-  - 📖 Devore Cap. 8, Secciones 8.3 y 7.2
-  - 🎥 YouTube: "t Test and Confidence Interval" — jbstatistics
+**Lun 24** *(compartido con Lógica)* — G2 ej. 6, 7, 8, 9, 10, 11
+* *Ej 6* — Esperanza de un dado y de 1/X; decisión retirarse o jugar — 🎥 "Esperanza y varianza VA discreta" — https://www.youtube.com/watch?v=5W1c9qbRNCw
+* *Ej 7* — Congeladores: E(X), E(X²), V(X), transformación lineal y no lineal — 🎥 "Media, varianza y desviación estándar VA discreta" — https://www.youtube.com/watch?v=oB48B-WUwJk
+* *Ej 8* — Esperanza/varianza de la VA del ej. 4; costo esperado y su varianza — 🎥 "Media, valor esperado de VA discreta" — https://www.youtube.com/watch?v=-v3st4h0HdE
+* *Ej 9* — Binomial: automovilistas que se detienen en un cruce — 🎥 "Distribución binomial — Ejercicios resueltos, Introducción" — https://www.youtube.com/watch?v=-XxZGvNClkg
+* *Ej 10\** — Binomial: raquetas de tenis, prob. dentro de 1 DE, sin reposición — 🎥 "Distribución binomial (Ejercicio resuelto)" — https://www.youtube.com/watch?v=EisaSQ1j_Kk
+* *Ej 11* — Binomial + Hipergeométrica: reparaciones de TV sin garantía — 🎥 "Distribución binomial — ejercicios de examen, selectividad" — https://www.youtube.com/watch?v=99JVQ_M15Aw
 
-**Mié 15** *(día completo — 4hs)*
-- Repaso: G4 ej. 10, 11, 13, 15
-*G4 Ej 10* — TLC: distribución de la media muestral
-*G4 Ej 11* — TLC aplicado: suma de tiempos independientes
-*G4 Ej 13* — Aproximación Normal a Binomial
-*G4 Ej 15* — Distribución de X̄ - Ȳ
-- Nuevo: G7 ej. 11, 12, 13, 14
-*G7 Ej 11* — Prueba para proporciones: distribución Binomial exacta
-  - 📖 Devore Cap. 8, Sección 8.4 — prueba para proporciones
-  - 🎥 YouTube: "Hypothesis Test for Proportion" — jbstatistics
-*G7 Ej 12* — Prueba Z para proporción: nivel 0.01 vs 0.05
-  - 📖 Devore Cap. 8, Sección 8.4
-  - 🎥 YouTube: "Z Test for Proportion" — jbstatistics
-*G7 Ej 13* — Prueba Z para proporción unilateral: p-valor
-  - 📖 Devore Cap. 8, Sección 8.4
-  - 🎥 YouTube: "P-value Proportion Test" — jbstatistics
-*G7 Ej 14* — Interpretación del p-valor: rechazar o no rechazar H0
-  - 📖 Devore Cap. 8, Sección 8.1 — definición e interpretación del p-valor
-  - 🎥 YouTube: "P-value Explained" — StatQuest
+**Mar 25** *(práctico, 2h)* — G2 ej. 12, 13, 14
+* *Ej 12* — Hipergeométrica: refrigeradores con compresor defectuoso — 🎥 "Distribución Hipergeométrica — Ejercicio 1 con calculadora" — https://www.youtube.com/watch?v=3pDDo0LvRHo
+* *Ej 13* — Binomial Negativa: serie de partidos Boca–River — 🎥 "Distribución binomial negativa — ejemplo" — https://www.youtube.com/watch?v=GcoeTDcOpsc
+* *Ej 14* — Poisson: número de tornados observados en un año — 🎥 "Distribución de Poisson — Ejercicio resuelto 1" — https://www.youtube.com/watch?v=x9jF11I5x-g
 
-**Jue 16** *(día completo — 4hs)*
-- Repaso: terminado ✓
-- Nuevo: G7 ej. 15, 16, 17; G8 ej. 1
-*G7 Ej 15* — Cálculo de p-valor desde z_obs para distintas Ha
-  - 📖 Devore Cap. 8, Sección 8.2
-  - 🎥 YouTube: "Calculating P-values" — jbstatistics
-*G7 Ej 16* — Prueba t unilateral: acotación del p-valor y conclusión
-  - 📖 Devore Cap. 8, Sección 8.3
-  - 🎥 YouTube: "P-value t Test" — jbstatistics
-*G7 Ej 17* — Acotación del p-valor con distribución t
-  - 📖 Devore Cap. 8, Sección 8.3
-  - 🎥 YouTube: "Bounding P-value t distribution" — jbstatistics
-- INV: Leer pruebas con dos muestras — independientes y apareadas (HI-PyE-08)
-  - 📖 Devore Cap. 9, Secciones 9.1 a 9.4
-  - 🎥 YouTube: "Two Sample t Test" — jbstatistics
-  - 🎥 YouTube: "Paired t Test" — jbstatistics
-*G8 Ej 1* — Prueba Z para diferencia de medias con σ1 y σ2 conocidos
-  - 📖 Devore Cap. 9, Sección 9.1
-  - 🎥 YouTube: "Two Sample Z Test" — jbstatistics
+**Mié 26** — Álgebra (no es día de PyE)
 
-**Vie 17** *(día completo — 4hs)*
-- Repaso: terminado ✓
-- Nuevo: G8 ej. 2, 3, 4, 5
-*G8 Ej 2* — Prueba Z para diferencia de medias: valor-p
-  - 📖 Devore Cap. 9, Sección 9.1
-  - 🎥 YouTube: "Two Sample Z Test P-value" — jbstatistics
-*G8 Ej 3* — Prueba t para diferencia de medias con varianzas iguales desconocidas
-  - 📖 Devore Cap. 9, Sección 9.2 — caso varianzas iguales (pooled t test)
-  - 🎥 YouTube: "Pooled Two Sample t Test" — jbstatistics
-*G8 Ej 4* — Muestras apareadas: creatinina con dos métodos
-  - 📖 Devore Cap. 9, Sección 9.3 — prueba t apareada
-  - 🎥 YouTube: "Paired t Test" — jbstatistics
-*G8 Ej 5* — Prueba t con varianzas distintas desconocidas
-  - 📖 Devore Cap. 9, Sección 9.2 — caso varianzas distintas (Welch)
-  - 🎥 YouTube: "Welch Two Sample t Test" — jbstatistics
+**Jue 27** *(práctico, 2h — cierra Guía 2)* — G2 ej. 15, 16, 17
+* *Ej 15* — Poisson: suma de dos Poisson independientes (autos en estacionamiento) — 🎥 "Distribución de Poisson — Ejercicio resuelto 2" — https://www.youtube.com/watch?v=MbevsnWYb5o
+* *Ej 16\** — Poisson: ganancia esperada con transformación cuadrática — 🎥 "Distribución de Poisson — ejercicios resueltos" — https://www.youtube.com/watch?v=dJF8kvuS4ds
+* *Ej 17* — Demostrar E(X) y V(X) de Hipergeométrica y Binomial Negativa — 🎥 "Distribución Hipergeométrica — Ejemplo y ejercicio para practicar" — https://www.youtube.com/watch?v=qDGh3n97XOU
 
-**Sáb 18** *(día completo — 4hs)*
-- Repaso: terminado ✓
-- Nuevo: G8 ej. 6, 7, 8
-*G8 Ej 6* — Muestras apareadas: frecuencia cardíaca antes y después
-  - 📖 Devore Cap. 9, Sección 9.3
-  - 🎥 YouTube: "Paired t Test Example" — jbstatistics
-*G8 Ej 7* — Prueba con varianzas desconocidas: carboxihemoglobina fumadores
-  - 📖 Devore Cap. 9, Sección 9.2
-  - 🎥 YouTube: "Two Sample t Test Large Sample" — jbstatistics
-*G8 Ej 8* — Muestras apareadas: exposición DDT y cáncer de mama
-  - 📖 Devore Cap. 9, Sección 9.3
-  - 🎥 YouTube: "Paired t Test" — jbstatistics
-- SR: repasar HI-PyE-05 a HI-PyE-08 con caja de zapatos
+**Vie 28 → Sáb 29** — Libre / Lógica y Álgebra (no son días de PyE)
 
-**Dom 19** — Repaso con parciales viejos + SR integral
-- Repasar con finales anteriores de PyE
-- Releer HI-PyE-01 a HI-PyE-08
-- Memorizar fórmulas clave: Z, t, chi-cuadrado, IC, p-valor
-- Descanso temprano
+**Dom 30** *(INV-03/04 + ejercicios)* — G3 ej. 1, 2, 3, 4, 5, 6
+* *Ej 1* — fdp lineal (x/2): probabilidades, FDA, E(X), V(X), cobro esperado — 🎥 "VA Continua — Función de Distribución, ejercicio resuelto" — https://www.youtube.com/watch?v=8gIhoZ5cdH4
+* *Ej 2* — FDA cúbica dada: hallar probabilidades y la fdp — 🎥 "VA Continua — de función densidad a función de distribución, ej. 001" — https://www.youtube.com/watch?v=d3t3BjsgtGY
+* *Ej 3* — fdp con constante k (kx²): percentil 75, E(X), σ — 🎥 "Función de densidad VA continua — Ejercicio 3" — https://www.youtube.com/watch?v=BjkF5BV7fK4
+* *Ej 4* — Uniforme: tiempo de preparación de laboratorio [25,35] — 🎥 "Variables Aleatorias Continuas — Teoría + 2 ejercicios" — https://www.youtube.com/watch?v=rQcVYLVj3ms
+* *Ej 5* — Normal N(80,100): probabilidades básicas con tabla Z — 🎥 "Distribución normal estándar — ejercicios resueltos" — https://www.youtube.com/watch?v=9bPDt_1MEvY
+* *Ej 6* — Normal: diámetro de árboles, percentiles, binomial aproximada — 🎥 "Ejercicios con la tabla de distribución normal" — https://www.youtube.com/watch?v=JuLu2PDt3dc
 
-**Lun 20** ⚠️ — FINAL PyE (2da fecha) — sin sesión
+**Lun 31** *(compartido con Lógica)* — G3 ej. 7, 8, 9, 10, 11, 12
+* *Ej 7* — Normal: hallar µ y σ desde percentiles de resistencia — 🎥 "Distribución Normal — Ejercicios Resueltos Nivel 3" — https://www.youtube.com/watch?v=jjNTP9F6lts
+* *Ej 8* — Transformación lineal de Normal; Celsius a Fahrenheit — 🎥 "Tabla de distribución normal — cómo buscar Z" — https://www.youtube.com/watch?v=Pp3mdDcQqgM
+* *Ej 9* — Normal: mezcla de dos máquinas, tornillos aceptables — 🎥 "Determinar el puntaje Z de un percentil — Khan Academy" — https://www.youtube.com/watch?v=yYQaDO8Vt2U
+* *Ej 10* — Normal: dureza Rockwell, aceptación + binomial aproximada — 🎥 "Distribución Normal — Ejercicios Resueltos Nivel 1" — https://www.youtube.com/watch?v=T7_ktqfVseU
+* *Ej 11* — Exponencial: distancia recorrida por canguros — 🎥 "Distribución Exponencial — Ejercicios resueltos" — https://www.youtube.com/watch?v=PEib2DsJ2k4
+* *Ej 12* — Exponencial: sistema en serie, mínimo de 5 exponenciales — 🎥 "Distribución de probabilidad exponencial — ejemplos resueltos" — https://www.youtube.com/watch?v=E-hR_OFCNNE
+
+**Mar 1 Sep** *(práctico, 2h)* — G3 ej. 13, 14, 15
+* *Ej 13* — Sistema de bombas de combustible: Poisson/Exponencial — 🎥 "Distribución exponencial — ejemplo aplicado" — https://www.youtube.com/watch?v=u1WiazG6Z5s
+* *Ej 14\** — Gamma: tiempo semanal de máquina no funcional, pérdida esperada — 🎥 "Distribución gamma — ejercicios resueltos" — https://www.youtube.com/watch?v=kjacFXhxsU4
+* *Ej 15\** — Weibull: tiempo de devolución de un producto defectuoso — 🎥 "Distribución de Weibull — teoría y ejercicios de aplicación" — https://www.youtube.com/watch?v=jaGPyQVPjBc
+
+**Mié 2 Sep** — Álgebra (no es día de PyE)
+
+**Jue 3 Sep** *(práctico, 2h — cierra Guía 3)* — G3 ej. 16, 17
+* *Ej 16\** — Log-normal: tiempo de respuesta de un servidor web — 🎥 "La Distribución Lognormal" — https://www.youtube.com/watch?v=ke1MdQkllk0
+* *Ej 17\** — Chi-cuadrado: variabilidad en tiempo de ejecución de un algoritmo — 🎥 "Distribución chi cuadrado — introducción" — https://www.youtube.com/watch?v=Y1bhoKrEL_c
+
+**Vie 4 → Sáb 5** — Libre / Lógica y Álgebra (no son días de PyE)
+
+**Dom 6 Sep** *(INV-05 + ejercicios)* — G4 ej. 1, 2, 3, 4, 5, 6
+* *Ej 1* — Conjunta discreta (dos cajas del súper): marginales, independencia — 🎥 "Ejercicio de Estadística resuelto: Variables aleatorias discretas" — 
+https://www.youtube.com/watch?v=4Si6aj1fM0k
+* *Ej 2* — fdpc kxy en triángulo: k, marginales, E y V, independencia — 🎥 "Variables aleatorias discretas y continuas — Ejemplos" — 
+https://www.youtube.com/watch?v=_wonmKS4Blk
+* *Ej 3* — fdpc k(x+y) en cuadrado: k, P(X+Y<5), marginales, covarianza — 🎥 "Función de densidad VA continua — Intro y ejercicio 1" — 
+https://www.youtube.com/watch?v=2gI8Ri792ig
+* *Ej 4* — Poisson independientes: fmp conjunta, P(a lo sumo 1 error) — 🎥 "Distribución de Poisson — ejercicios resueltos, variables aleatorias discretas" — 
+https://www.youtube.com/watch?v=WZdPZbeZEX4
+* *Ej 5* — Exponenciales independientes: fdp conjunta, duración de bombillas — 🎥 "Distribución Exponencial de Probabilidad — Ejercicios" — 
+https://www.youtube.com/watch?v=lmbMPAq7bnY
+* *Ej 6* — Demostrar que suma de Binomiales independientes es Binomial (Vandermonde) — 🎥 "Distribución binomial — ejercicio resuelto paso a paso" — 
+https://www.youtube.com/watch?v=EMRag5uvqBA
+
+**Lun 7 Sep** *(compartido con Lógica)* — G4 ej. 7, 8, 9, 10, 11, 12
+* *Ej 7* — Demostrar E(XY)=E(X)E(Y) si independientes; área esperada de un rectángulo — 🎥 "Distribución binomial — Ejercicio resuelto 2, tabla y gráfica" — https://www.youtube.com/watch?v=Beaut1peTxY
+* *Ej 8* — Tabla conjunta con parámetros a,b: covarianza cero pero no independencia — 🎥 "Distribución binomial — Ejercicio resuelto 1" — https://www.youtube.com/watch?v=HJgJGYDXojk
+* *Ej 9* — Combinaciones lineales de Y1, Y2 con covarianza dada — 🎥 "Distribución Binomial — Explicación y ejercicio resuelto" — https://www.youtube.com/watch?v=GvqsxC8UL3I
+* *Ej 10* — TLC: densidad de sedimento, tamaño muestral necesario — 🎥 "Teorema del límite central — Ejercicio 5" — https://www.youtube.com/watch?v=ORGY0my4StY
+* *Ej 11* — TLC: tiempo de procesamiento de 100 pedidos — 🎥 "Teorema del límite central — Ejercicio 1" — https://www.youtube.com/watch?v=FqFqLyiu84w
+* *Ej 12* — TLC/Binomial: estudiantes sin errores tipográficos — 🎥 "Ejercicios resueltos — Teorema del límite central" — https://www.youtube.com/watch?v=gtYPsI75V7Q
+
+**Mar 8 Sep** *(práctico, 2h)* — G4 ej. 13, 14, 15
+* *Ej 13* — TLC/Binomial: ejes de acero fuera de especificación — 🎥 "Teorema del límite central — Ejercicio 2" — https://www.youtube.com/watch?v=PoKqOdGDLCk
+* *Ej 14* — TLC/Poisson: aproximación normal para media 100 — 🎥 "Teorema central de límite — Ejercicio práctico" — https://www.youtube.com/watch?v=LY4v1AsTQGw
+* *Ej 15* — TLC: diferencia de medias muestrales de dos aceros — 🎥 "Teorema central del límite: ejemplo de aplicación — UPV" — https://www.youtube.com/watch?v=UV0F6E5PGP4
+
+**Mié 9 Sep** — Álgebra (no es día de PyE)
+
+**Jue 10 Sep** *(práctico, 2h — cierra Guía 4, temario completo)* — G4 ej. 16
+* *Ej 16* — TLC: consumo calórico diario promedio en un año — 🎥 "Ejemplo del Teorema de Límite Central" — https://www.youtube.com/watch?v=o2afi9BKRIM
+
+**Vie 11 → Sáb 12** — Libre / Lógica y Álgebra (no son días de PyE)
+
+**Dom 13** *(repaso general)* — Repasar G1 y G2 completas, parciales viejos de la cátedra si hay disponibles.
+
+**Lun 14** *(repaso general — compartido con Lógica)* — Repasar G3 y G4 completas, parciales viejos si hay.
+
+**Mar 15** *(práctico, 2h)* — Repaso liviano / consultar dudas puntuales.
+
+**Mié 16** — Álgebra (no es día de PyE)
+
+**Jue 17** *(práctico, 2h)* — Repaso liviano / consultar dudas puntuales.
+
+**Vie 18 → Sáb 19** — Libre / Lógica y Álgebra (no son días de PyE)
+
+**Dom 20** *(repaso final)* — SR completo de G1–G4, repasar fórmulas clave y estructura de cada tipo de ejercicio.
+
+**Lun 21** *(repaso final — compartido con Lógica)* — Copiar y repasar ejercicios resueltos de pizarrón, últimas dudas antes del parcial.
+
+**Mar 22 Sep — FINAL PARCIAL 1, sin sesión.**
+
+### Rumbo al Parcial 2 — 10 Noviembre (G5 a G8, 44 ejercicios)
+
+| Fecha | Día | Contenido |
+|---|---|---|
+| Mié 23 Sep | Mié | Álgebra |
+| Jue 24 Sep | Jue | Lógica |
+| Vie 25 Sep | Vie | Libre — sin materia |
+| Sáb 26 Sep | Sáb | Lógica y Álgebra |
+| Dom 27 Sep | Dom | **PyE** — Descanso post-parcial (no forzar) |
+| Lun 28 Sep | Lun | **PyE** (+ Lógica) — INV-06: estimadores, momentos, MV · **G5 ej. 1–6** |
+| Mar 29 Sep | Mar | AED2 |
+| Mié 30 Sep | Mié | Álgebra |
+| Jue 1 Oct | Jue | Lógica |
+| Vie 2 Oct | Vie | Libre — sin materia |
+| Sáb 3 Oct | Sáb | Lógica y Álgebra |
+| Dom 4 Oct | Dom | **PyE** — **G5 ej. 7–10** (cierra Guía 5) · INV-07: IC (Z/T, chi², proporciones) · **G6 ej. 1–3** |
+| Lun 5 Oct | Lun | **PyE** (+ Lógica) — **G6 ej. 4–9** (cierra Guía 6) |
+| Mar 6 Oct | Mar | AED2 |
+| Mié 7 Oct | Mié | Álgebra |
+| Jue 8 Oct | Jue | Lógica |
+| Vie 9 Oct | Vie | Libre — sin materia |
+| Sáb 10 Oct | Sáb | Lógica y Álgebra |
+| Dom 11 Oct | Dom | **PyE** — INV-08: pruebas de hipótesis, p-valor, error I/II · **G7 ej. 1–6** |
+| Lun 12 Oct | Lun | **PyE** (+ Lógica) — **G7 ej. 7–12** |
+| Mar 13 Oct | Mar | AED2 |
+| Mié 14 Oct | Mié | Álgebra |
+| Jue 15 Oct | Jue | Lógica |
+| Vie 16 Oct | Vie | Libre — sin materia |
+| Sáb 17 Oct | Sáb | Lógica y Álgebra |
+| Dom 18 Oct | Dom | **PyE** — **G7 ej. 13–17** (cierra Guía 7) · INV-09: dos muestras (indep./apareadas) · **G8 ej. 1–2** |
+| Lun 19 Oct | Lun | **PyE** (+ Lógica) — **G8 ej. 3–8** (cierra Guía 8 — temario completo del parcial listo) |
+| Mar 20 Oct | Mar | AED2 |
+| Mié 21 Oct | Mié | Álgebra |
+| Jue 22 Oct | Jue | Lógica |
+| Vie 23 Oct | Vie | Libre — sin materia |
+| Sáb 24 Oct | Sáb | Lógica y Álgebra |
+| Dom 25 Oct | Dom | **PyE** — Repaso general G5–G6 |
+| Lun 26 Oct | Lun | **PyE** (+ Lógica) — Repaso general G7–G8 |
+| Mar 27 Oct | Mar | AED2 |
+| Mié 28 Oct | Mié | Álgebra |
+| Jue 29 Oct | Jue | Lógica |
+| Vie 30 Oct | Vie | Libre — sin materia |
+| Sáb 31 Oct | Sáb | Lógica y Álgebra |
+| Dom 1 Nov | Dom | **PyE** — Repaso + parciales viejos |
+| Lun 2 Nov | Lun | **PyE** (+ Lógica) — Repaso + parciales viejos |
+| Mar 3 Nov | Mar | AED2 |
+| Mié 4 Nov | Mié | Álgebra |
+| Jue 5 Nov | Jue | Lógica |
+| Vie 6 Nov | Vie | Libre — sin materia |
+| Sáb 7 Nov | Sáb | Lógica y Álgebra |
+| Dom 8 Nov | Dom | **PyE** — Repaso final, SR completo, fórmulas |
+| Lun 9 Nov | Lun | **PyE** (+ Lógica) — Repaso final, copiar y repasar pizarrón |
+| **Mar 10 Nov** | Mar | **FINAL PARCIAL 2 — sin sesión** |
 
 ---
 
 ## Hojas de investigación PyE
 
-- [x] HI-PyE-01: Probabilidad condicional y Bayes
-- [x] HI-PyE-02: Distribuciones discretas
-- [x] HI-PyE-03: Distribuciones continuas
-- [x] HI-PyE-04: TLC
-- [x] HI-PyE-05: Estimadores — insesgado, eficiente, MV
-- [x] HI-PyE-06: Intervalos de confianza — Z vs T, chi-cuadrado, proporciones
-- [ ] HI-PyE-07: Pruebas de hipótesis — estructura, p-valor, errores tipo I y II
-- [ ] HI-PyE-08: Pruebas dos muestras — independientes vs apareadas
+> Una hoja por tema. Fuente: Devore + apuntes de clase + búsqueda web.
+
+- [ ] HI-PyE-01: Axiomas, técnicas de conteo, probabilidad condicional y Bayes
+- [ ] HI-PyE-02: Variables aleatorias discretas — fmp, fda, esperanza, varianza
+- [ ] HI-PyE-03: Distribuciones discretas — tabla comparativa (Binomial, Poisson, Hipergeom., Binomial Neg.)
+- [ ] HI-PyE-04: Variables aleatorias continuas — fdp, fda, Normal, Exponencial, otras
+- [ ] HI-PyE-05: Distribuciones conjuntas, covarianza, correlación, TLC
+- [ ] HI-PyE-06: Estimadores — insesgado, método de momentos, máxima verosimilitud
+- [ ] HI-PyE-07: Intervalos de confianza — Z vs T, chi-cuadrado, proporciones
+- [ ] HI-PyE-08: Pruebas de hipótesis — estructura, p-valor, errores tipo I y II
+- [ ] HI-PyE-09: Pruebas dos muestras — independientes vs apareadas
 
 ---
 
 ## Notas del método
 
-- INV primero, ejercicios después — nunca al revés
-- Pizarrón obligatorio: resolver sin mirar apuntes, comparar con carpeta al terminar
-- Cuando un ejercicio no sale: anotar exactamente qué no se entiende, seguir con el siguiente
-- PyE tiene mucho p-valor e interpretación en contexto: concluir siempre en palabras
-- SR: caja de zapatos, compartimentos separados por guía
+- Recursada a full profundidad: no se asume nada previo, cada guía nueva arranca con INV completa.
+- INV → ejercicios → SR es el ciclo completo para cada guía.
+- SR: caja de zapatos con compartimento propio de PyE.
+- Cuando un ejercicio no sale: volver a la hoja de investigación, identificar qué fórmula o concepto falta.
+- Ejercicios marcados con * quedan como repaso para el parcial (no son prioridad en la primera pasada).
+- Practicar siempre concluir en palabras en los ejercicios de pruebas de hipótesis e IC, no solo calcular.
+- El ritmo semanal asumido arriba es un punto de partida — ajustar según cómo venga el resto de las materias del cuatrimestre.
