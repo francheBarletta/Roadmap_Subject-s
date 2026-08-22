@@ -13,9 +13,9 @@
 
 ---
 
-## Estado actual (17 Agosto)
+## Estado actual (22 Agosto)
 
-- Nada resuelto todavía. Se perdió el domingo 16/8 (imprevisto familiar) — arranca el domingo 23 de agosto, en paralelo con el teórico-práctico. Para compensar, Lab 0 (que tenía 2 domingos) se fusionó en uno solo, así el resto del cronograma no se mueve.
+- Nada resuelto todavía. Se perdieron dos domingos seguidos: 16/8 (imprevisto familiar) y 23/8 (semana de gripe, PyE tuvo prioridad) — arranca recién el domingo 30 de agosto, con Lab 0 y Lab 1 Ej. 0 fusionados en un solo día para no perder más terreno.
 - Laboratorios disponibles: **Lab 0** (repaso C), **Lab 1** (ordenación), **Lab 2** (divide y vencerás), **Lab 3** (tipos de datos), **Lab 4** (punteros y memoria dinámica), **Lab 5 Parte 1** (TADs — puede faltar la Parte 2), **Lab 6** (programación dinámica).
 - Con 25 ejercicios (contando sub-partes a/b/c) repartidos en apenas 16 domingos, el ritmo queda **más comprimido que en el teórico-práctico** — varios domingos agrupan 2 ejercicios livianos en vez de 1, y no queda margen antes del Llamado 1 (a diferencia del teórico-práctico, que sí tiene un domingo de repaso).
 - Los ejercicios que ya vienen con solución provista por la cátedra (como el ítem eliminado del Lab 6) se saltean — solo se repasa la solución en vez de resolverla de cero.
@@ -60,7 +60,7 @@
 | 2h Laboratorio | Este plan (Lab 0 a Lab 6) |
 | 2h Teórico-Práctico | Ver `AED2_Teorico_Practico.md` |
 
-> A diferencia del teórico-práctico, acá **no queda domingo de repaso libre** antes del Llamado 1 — el contenido llena las 15 semanas disponibles (23 Ago a 29 Nov, tras perder el 16/8) completas. Si algún domingo rinde menos de lo esperado, el Lab 6 (última semana, la más cargada) es el primer candidato a recortar — por ejemplo, dejando la fábrica de automóviles (ejercicio 4) solo de lectura en vez de implementarlo.
+> A diferencia del teórico-práctico, acá **no queda domingo de repaso libre** antes del Llamado 1 — el contenido llena las 14 semanas disponibles (30 Ago a 29 Nov, tras perder el 16/8 y el 23/8) completas. Si algún domingo rinde menos de lo esperado, el Lab 6 (última semana, la más cargada) es el primer candidato a recortar — por ejemplo, dejando la fábrica de automóviles (ejercicio 4) solo de lectura en vez de implementarlo.
 
 ---
 
@@ -69,8 +69,8 @@
 | Fecha | Contenido |
 |---|---|
 | ~~Dom 16 Ago~~ | ~~**PERDIDO**~~ (familia de visita) |
-| Dom 23 Ago | Lab 0: Ej. 1, 2, 3a, 3b completo (check_bound + tictactoe leer/entender + generalizar a 4x4 y 5x5) — **cierra Lab 0** |
-| Dom 30 Ago | Lab 1: Ej. 0 (fixstring) |
+| ~~Dom 23 Ago~~ | ~~**PERDIDO**~~ (semana de gripe, sin AED2) |
+| Dom 30 Ago | Lab 0: Ej. 1, 2, 3a, 3b completo — **cierra Lab 0** + Lab 1: Ej. 0 (fixstring) |
 | Dom 6 Sep | Lab 1: Ej. 1 A, B, C (insertion sort completo) |
 | Dom 13 Sep | Lab 1: Ej. 2 A, B (quick sort I) + Ej. 3 (quick sort II: partition) |
 | Dom 20 Sep | Lab 1: Ej. 4 (versus) + Ej. 5 a, b (ordenación alfabética) — **cierra Lab 1** |
@@ -90,14 +90,12 @@
 
 ## Detalle día por día
 
-**Dom 23 Ago** *(2h — cierra Lab 0, fusionado por el domingo 16/8 perdido)* — Ej. 1, 2, 3a, 3b
-* *Ej 1* — `check_bound()`: cota superior/inferior + búsqueda en un único ciclo, usando `struct bound_data` — 🎥 "Programación en C: STRUCTS y vectores de STRUCTS" — https://www.youtube.com/watch?v=kdKHZsxdHz4
-* *Ej 2* — Leer y entender el tictactoe incompleto: implementar `has_free_cell()` y `get_winner()` — 🎥 "Arreglos bidimensionales C# — Colecciones y Arreglos" — https://www.youtube.com/watch?v=dXchlGBS0FQ
-* *Ej 3a* — Tictactoe generalizado a tablero 4x4 (4 en línea para ganar) — 🎥 "C #20 — Arreglo Bidimensional" — https://www.youtube.com/watch?v=dei49_2PltI
-* *Ej 3b* — Extender a tablero 5x5 cambiando el mínimo de código posible — (mismo video que 3a, es una generalización directa)
-
-**Dom 30 Ago** *(2h)* — Lab 1: Ej. 0
-* *Ej 0* — Tipo `fixstring` con `typedef`: `fstring_length`, `fstring_eq`, `fstring_less_eq`, sin usar `string.h` — 🎥 "Programación en C: STRINGS | Como almacenar cadenas de caracteres" — https://www.youtube.com/watch?v=pJHNYeAKogA
+**Dom 30 Ago** *(2h — cierra Lab 0, fusionado por la semana de gripe)* — Lab 0: Ej. 1, 2, 3a, 3b · Lab 1: Ej. 0
+* *Lab 0, Ej 1* — `check_bound()`: cota superior/inferior + búsqueda en un único ciclo, usando `struct bound_data` — 🎥 "Programación en C: STRUCTS y vectores de STRUCTS" — https://www.youtube.com/watch?v=kdKHZsxdHz4
+* *Lab 0, Ej 2* — Leer y entender el tictactoe incompleto: implementar `has_free_cell()` y `get_winner()` — 🎥 "Arreglos bidimensionales C# — Colecciones y Arreglos" — https://www.youtube.com/watch?v=dXchlGBS0FQ
+* *Lab 0, Ej 3a* — Tictactoe generalizado a tablero 4x4 (4 en línea para ganar) — 🎥 "C #20 — Arreglo Bidimensional" — https://www.youtube.com/watch?v=dei49_2PltI
+* *Lab 0, Ej 3b* — Extender a tablero 5x5 cambiando el mínimo de código posible — (mismo video que 3a, es una generalización directa)
+* *Lab 1, Ej 0* — Tipo `fixstring` con `typedef`: `fstring_length`, `fstring_eq`, `fstring_less_eq`, sin usar `string.h` — 🎥 "Programación en C: STRINGS | Como almacenar cadenas de caracteres" — https://www.youtube.com/watch?v=pJHNYeAKogA
 
 **Dom 6 Sep** *(2h)* — Lab 1: Ej. 1 (A, B, C)
 * *Ej 1A* — Completar `insert()` para insertion sort usando `goes_before()` — 🎥 "Paso a paso a través de la función de ordenamiento por inserción" — https://www.youtube.com/watch?v=jRa1HqG9YaI
@@ -176,7 +174,9 @@
 
 ## Notas del método
 
-- El ritmo quedó más comprimido que en el teórico-práctico: 25 ejercicios (con sub-partes) en 16 domingos, sin margen de repaso antes del final. El domingo más cargado es el último (29/11, cierre del Lab 6) — si hace falta liberar tiempo, ese es el primer candidato a aligerar (por ejemplo, dejando la fábrica de automóviles solo de lectura).
+- **Corrida del 22/8 (gripe):** se perdió también el domingo 23/8. Como ya no había margen para absorberlo, Lab 0 completo se fusionó con Lab 1 Ej. 0 en un solo domingo (30/8) — el resto del cronograma no se movió.
+- **Corrida del 17/8:** se perdió el domingo 16/8 (imprevisto familiar) — Lab 0 (que tenía 2 domingos) ya se había fusionado en uno solo entonces.
+- El ritmo quedó más comprimido que en el teórico-práctico: 25 ejercicios (con sub-partes) en 14 domingos, sin margen de repaso antes del final. El domingo más cargado es el último (29/11, cierre del Lab 6) — si hace falta liberar tiempo, ese es el primer candidato a aligerar (por ejemplo, dejando la fábrica de automóviles solo de lectura).
 - El único ítem explícitamente eliminado por la cátedra es el (c) del Ejercicio 3 del Lab 6 (panadería con backtracking) — no se implementa.
 - Varios videos son sobre el concepto general en C (o incluso en otro lenguaje) en vez de la consigna exacta — el objetivo es entender el mecanismo (punteros, malloc, TADs, DP) antes de programarlo en el lenguaje específico de la cátedra.
 - Cuando consigas la Parte 2 del Lab 5 (si existe), se agrega con el mismo formato.

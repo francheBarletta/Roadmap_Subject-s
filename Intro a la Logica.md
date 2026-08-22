@@ -149,87 +149,86 @@
 | Fecha | Día | Contenido |
 |---|---|---|
 | Vie 14 Ago | Vie | Libre |
-| ~~Sáb 15 Ago~~ | ~~Sáb~~ | **PERDIDO** (familia de visita) |
-| ~~Dom 16 Ago~~ | ~~Dom~~ | **PERDIDO** |
-| ~~Lun 17 Ago~~ | ~~Lun~~ | **PERDIDO** |
-| Mar 18 Ago | Mar | AED2 |
-| Mié 19 Ago | Mié | **Lógica** (práctico, 2h) — **P1 ej. 1, 2, 3** |
-| Jue 20 Ago | Jue | **Lógica** (~2h) — **P1 ej. 4, 5, 6** |
-| Vie 21 Ago | Vie | **Lógica** (práctico, 2h — cierra P1) — **P1 ej. 7** + **P2 ej. 1, 2** |
-| Sáb 22 Ago | Sáb | **Lógica** (~4h, + Álgebra — cierra P2 salvo 2c\*) — **P2 ej. 3, 4, 5, 6** + **P3 ej. 1, 2** |
-| Dom 23 Ago | Dom | PyE y AED2 |
-| Lun 24 Ago | Lun | **Lógica** (~4h, + PyE) — **P3 ej. 3, 4, 5, 6, 8, 9** |
-| Mar 25 Ago | Mar | AED2 |
-| Mié 26 Ago | Mié | **Lógica** (práctico, 2h — cierra P3 salvo 7\*, 12\*) — **P3 ej. 10, 11, 13** |
-| Jue 27 Ago | Jue | **Lógica** (~2h) — **P4 ej. 1, 2, 3** |
-| Vie 28 Ago | Vie | **Lógica** (práctico, 2h) — **P4 ej. 4, 5, 6** |
-| Sáb 29 Ago | Sáb | **Lógica** (~4h, + Álgebra — cierra P4) — **P4 ej. 7, 8** + **P5 ej. 1, 2, 3, 4** |
+| ~~Sáb 15~~ | ~~Sáb~~ | **PERDIDO** (familia de visita) |
+| ~~Dom 16~~ | ~~Dom~~ | **PERDIDO** |
+| ~~Lun 17~~ | ~~Lun~~ | **PERDIDO** |
+| Mar 18 | Mar | AED2 |
+| ~~Mié 19~~ | ~~Mié~~ | **PERDIDO** (gripe) |
+| ~~Jue 20~~ | ~~Jue~~ | **PERDIDO** (gripe) |
+| ~~Vie 21~~ | ~~Vie~~ | **PERDIDO** (descanso post-gripe) |
+| Sáb 22 Ago | Sáb | **Lógica** (3h, + Álgebra — arranca de cero) — **P1 ej. 1-5** |
+| Dom 23 Ago | Dom | PyE (AED2 no esta semana) |
+| Lun 24 Ago | Lun | **Lógica** (~4h, + PyE — cierra P1) — **P1 ej. 6, 7** + **P2 ej. 1, 2, 3, 4** |
+| Mar 25 Ago | Mar | **Lógica** (día especial 100% Lógica, sin PyE ni Álgebra — cierra P2 salvo 2c\*) — **P2 ej. 5, 6** + **P3 ej. 1, 2, 3, 4** |
+| Mié 26 Ago | Mié | **Lógica** (práctico, 2h) — **P3 ej. 5, 6, 8** |
+| Jue 27 Ago | Jue | **Lógica** (~2h) — **P3 ej. 9, 10, 11** |
+| Vie 28 Ago | Vie | **Lógica** (práctico, 2h — cierra P3 salvo 7\*, 12\*) — **P3 ej. 13** + **P4 ej. 1, 2** |
+| Sáb 29 Ago | Sáb | **Lógica** (~4h, + Álgebra — cierra P4) — **P4 ej. 3, 4, 5, 6, 7, 8** |
 | Dom 30 Ago | Dom | PyE y AED2 |
-| Lun 31 Ago | Lun | **Lógica** (~4h, + PyE — cierre general del temario) — **P5 ej. 5, 7** + **P2 ej. 2c\*** + **P3 ej. 7\*, 12\*** + **P5 ej. 6\*** |
-| Mar 1 Sep → Vie 11 Sep | — | Sin ejercicios nuevos (temario completo). Usar Lunes/Miércoles/Jueves/Viernes/Sábado para repaso, TPs del aula virtual, y sumar las próximas 2 unidades cuando lleguen. |
+| Lun 31 Ago | Lun | **Lógica** (~4h, + PyE) — **P5 ej. 1, 2, 3, 4, 5, 7** |
+| Mar 1 Sep | Mar | AED2 |
+| Mié 2 Sep | Mié | **Lógica** (práctico, 2h — cierre general del temario) — **P2 ej. 2c\*** + **P3 ej. 7\*, 12\*** + **P5 ej. 6\*** |
+| Jue 3 Sep → Vie 11 Sep | — | Sin ejercicios nuevos (temario completo). Repaso, TPs del aula virtual. |
 | **Vie 11 Sep** | Vie | **PRIMER PARCIAL** |
 
-> Sáb 15, Dom 16 y Lun 17 se perdieron (imprevisto familiar). Se retoma el Mar 18 (AED2) y el temario de Lógica arranca de cero el **Mié 19**, corriendo todo el cronograma según el ritmo real de cada día (2h en Mié/Jue/Vie, ~4h en Sáb/Lun). El temario cierra el **Lun 31 Ago** — quedan ~11 días de margen antes del Primer Parcial (11 Sep), un poco menos que los ~14 días originales pero todavía cómodo.
+> Semana de la gripe: se perdieron Mié 19, Jue 20 y Vie 21 (enfermedad), y el Mar 25 se dedicó 100% a Lógica (sin PyE ni Álgebra ese día) para recuperar terreno — el Sáb 22 también se acortó a 3h (en vez de 4h) para repartir el recorte con Álgebra. El temario ahora cierra el **Mié 2 Sep** (antes Lun 31 Ago) — quedan ~9 días de margen antes del Primer Parcial (11 Sep), bastante ajustado pero todavía alcanza.
 
 ### Detalle día por día
-
-**Mié 19** *(práctico, 2h)* — P1 ej. 1, 2, 3
+**Sáb 22 Ago** *(3h, + Álgebra — se perdieron Mié19/Jue20/Vie21 por gripe, arranca de cero acá)* — P1 ej. 1-5
 * *Ej 1* — Determinar si la relación dada es de equivalencia sobre {1,...,5}; indicar clases — 🎥 "Relaciones de equivalencia, clases y conjunto cociente" — https://www.youtube.com/watch?v=8GxiX1xHJtk
 * *Ej 2* — Determinar si las relaciones sobre Z son reflexivas, simétricas, antisimétricas o transitivas — 🎥 "Relaciones de orden parcial 01" — https://www.youtube.com/watch?v=FCIQb4MNrP4
 * *Ej 3* — Usando el ej. 2, determinar si cada relación es de equivalencia y/o de orden — 🎥 "Relaciones reflexivas, transitivas y simétricas" — https://www.youtube.com/watch?v=5L8oMg1roGE
-
-**Jue 20** *(~2h)* — P1 ej. 4, 5, 6
 * *Ej 4* — Probar que la relación {(x,y) | f(x)=f(y)} es de equivalencia; comparar con 2a — 🎥 "Clases de equivalencia y conjunto cociente — Ejercicio" — https://www.youtube.com/watch?v=bJFBxC5qcUA
 * *Ej 5* — Orden parcial estricto → orden parcial (unión con igualdad); y a la inversa — 🎥 "Relaciones — propiedades, ejemplos y contraejemplos" — https://www.youtube.com/watch?v=-wxZsukZcac
-* *Ej 6* — Listar pares de la relación de equivalencia definida por una partición dada; clases — 🎥 "Relaciones de equivalencia — Ejercicios resueltos" — https://www.youtube.com/watch?v=Yly68pfz2ac
 
-**Vie 21** *(práctico, 2h — cierra P1)* — P1 ej. 7 · P2 ej. 1, 2
+**Lun 24 Ago** *(~4h, + PyE — cierra P1)* — P1 ej. 6, 7 · P2 ej. 1, 2, 3, 4
+* *Ej 6* — Listar pares de la relación de equivalencia definida por una partición dada; clases — 🎥 "Relaciones de equivalencia — Ejercicios resueltos" — https://www.youtube.com/watch?v=Yly68pfz2ac
 * *Ej 7 (P1)* — Relación "Fulano no es más viejo que Mengano": ejemplo donde no es orden parcial — 🎥 "Relaciones propiedades 04" — https://www.youtube.com/watch?v=MMUzadgFLvc
 * *Ej 1 (P2)* — Diagramas de Hasse A,B,C: maximales/minimales, máximo/mínimo, qué cubre a "e", cotas y sup/ínf — 🎥 "Diagrama de Hasse — cota superior, maximales, minimales" — https://www.youtube.com/watch?v=BCH9auS9yi8
 * *Ej 2 (P2)* — V o F sobre posets: único maximal ⟹ máximo (finito / general) — 🎥 "Objetos Maximales y Minimales" — https://www.youtube.com/watch?v=RDxwk9Vjth4
-
-**Sáb 22** *(~4h, + Álgebra — cierra P2 salvo 2c\*)* — P2 ej. 3, 4, 5, 6 · P3 ej. 1, 2
 * *Ej 3 (P2)* — Dar diagramas de Hasse de P={a,b,c,d,e} con condiciones sobre sup/ínf — 🎥 "Estructuras de orden — maximales, mínimo" — https://www.youtube.com/watch?v=5NRQPEKluTg
 * *Ej 4 (P2)* — Poset [0,1)∪[2,3): V o F sobre existencia de supremos — 🎥 "Poset de Z" — https://www.youtube.com/watch?v=6n6ZgStal4E
+
+**Mar 25 Ago** *(día especial 100% Lógica, sin PyE ni Álgebra — cierra P2 salvo 2c\*)* — P2 ej. 5, 6 · P3 ej. 1, 2, 3, 4
 * *Ej 5 (P2)* — Probar que sup(S) e ínf(S) existen para todo S finito no vacío en un poset reticulado — 🎥 "Supremo e Ínfimo — Cotas y Conjuntos Ordenados" — https://www.youtube.com/watch?v=L3rgqDYANYM
 * *Ej 6 (P2)* — Hasse de (A,\|) y (B,\|) con divisores de 12; ¿reticulados?; calcular 4∧(2∨3); subconjunto de P({a,b,c}) — 🎥 "Supremo e Ínfimo — Explicación con ejemplo" — https://www.youtube.com/watch?v=SslId-CutLQ
 * *Ej 1 (P3)* — En L2: encontrar v∨x, s∨v y u∨v — 🎥 "Relaciones de equivalencia \|\| Conjunto Cociente" — https://www.youtube.com/watch?v=W6x35jEhHx8
 * *Ej 2 (P3)* — Demostrar x∨(y∧z) ≤ (x∨y)∧(x∨z) en todo poset reticulado — 🎥 "Relaciones de equivalencia — Ejercicio 1" — https://www.youtube.com/watch?v=vjjLC7Vh-NI
-
-**Lun 24** *(~4h, + PyE)* — P3 ej. 3, 4, 5, 6, 8, 9
 * *Ej 3* — Determinar si los mapeos f dados son isomorfismos de posets; qué falla si no — 🎥 "Relaciones de EQUIVALENCIA — Definición, Clases y Cociente" — https://www.youtube.com/watch?v=ke4FJlEe_EU
 * *Ej 4* — Determinar si se dan los isomorfismos indicados (D6 vs P({a,b}); D30 vs P({a,b,c})) — 🎥 "Ejemplo: relaciones de equivalencia" — https://www.youtube.com/watch?v=rzz92xgPVuY
+
+**Mié 26 Ago** *(práctico, 2h)* — P3 ej. 5, 6, 8
 * *Ej 5* — Probar que si f es isomorfismo de posets, f⁻¹ también lo es — 🎥 "Relación de Equivalencia — Demostrar si R es de Equivalencia" — https://www.youtube.com/watch?v=SPMFnKVOww8
 * *Ej 6* — Probar que si m es minimal en P, entonces f(m) es minimal en Q — 🎥 "Relaciones de equivalencia — Definición y ejemplo" — https://www.youtube.com/watch?v=DcTP8ouyjCk
 * *Ej 8* — Función biyectiva que preserva orden entre L3 y L4 pero no es isomorfismo; no preserva sup/ínf — 🎥 "Relación de equivalencia, reflexiva, simétrica, transitiva" — https://www.youtube.com/watch?v=nBbd6Fuqk8M
-* *Ej 9* — Demostrar x∧(y∧z) = z∧(y∧x) en un reticulado — 🎥 "Relaciones reflexivas, simétricas y transitivas" — https://www.youtube.com/watch?v=KG0Vq337t-Y
 
-**Mié 26** *(práctico, 2h — cierra P3 salvo 7\*, 12\*)* — P3 ej. 10, 11, 13
+**Jue 27 Ago** *(~2h)* — P3 ej. 9, 10, 11
+* *Ej 9* — Demostrar x∧(y∧z) = z∧(y∧x) en un reticulado — 🎥 "Relaciones reflexivas, simétricas y transitivas" — https://www.youtube.com/watch?v=KG0Vq337t-Y
 * *Ej 10* — Probar que x∨y es cota superior de {x,y} — 🎥 "Propiedades de las relaciones: reflexividad, simetría, antisimetría, transitividad" — https://www.youtube.com/watch?v=m85j8bxFqvU
 * *Ej 11* — Decidir cuáles de L1, L2, L3, L4 son complementados — 🎥 "Retículos y álgebras de Boole — parte 2" — https://www.youtube.com/watch?v=cn5_iePGK9o
-* *Ej 13* — Para qué valores de n se tiene que Dn se incrusta en L3 — 🎥 "Retículos y álgebras de Boole — parte 1" — https://www.youtube.com/watch?v=R9zzpsSIVig
 
-**Jue 27** *(~2h)* — P4 ej. 1, 2, 3
+**Vie 28 Ago** *(práctico, 2h — cierra P3 salvo 7\*, 12\*)* — P3 ej. 13 · P4 ej. 1, 2
+* *Ej 13* — Para qué valores de n se tiene que Dn se incrusta en L3 — 🎥 "Retículos y álgebras de Boole — parte 1" — https://www.youtube.com/watch?v=R9zzpsSIVig
 * *Ej 1* — Reticulado L1: complementos de a,b,d,0; ¿complementado?; ¿distributivo? — 🎥 "Ley Distributiva del Álgebra de Boole" — https://www.youtube.com/watch?v=4ZixcbkHydA
 * *Ej 2* — Diagramas L3-L11: incrustaciones, isomorfismo con Dn, distributivos, álgebra de Boole — 🎥 "Álgebra Booleana — Introducción" — https://www.youtube.com/watch?v=p58C7OWe3Xk
-* *Ej 3* — Demostrar x∨(z∧y) ≤ (x∨z)∧y; comprobar igualdad si distributivo — 🎥 "Retículos y álgebras de Boole — parte 2" — https://www.youtube.com/watch?v=cn5_iePGK9o
 
-**Vie 28** *(práctico, 2h)* — P4 ej. 4, 5, 6
+**Sáb 29 Ago** *(~4h, + Álgebra — cierra P4)* — P4 ej. 3, 4, 5, 6, 7, 8
+* *Ej 3* — Demostrar x∨(z∧y) ≤ (x∨z)∧y; comprobar igualdad si distributivo — 🎥 "Retículos y álgebras de Boole — parte 2" — https://www.youtube.com/watch?v=cn5_iePGK9o
 * *Ej 4* — Demostrar que M3 y N5 no satisfacen la propiedad cancelativa — 🎥 "Retículos y álgebras de Boole — parte 1" — https://www.youtube.com/watch?v=R9zzpsSIVig
 * *Ej 5* — Demostrar: cancelativa ⟹ distributivo (Teorema M3-N5) — 🎥 "Ley Distributiva del Álgebra de Boole" — https://www.youtube.com/watch?v=4ZixcbkHydA
 * *Ej 6* — Determinar átomos e irreducibles de los posets L3, L4, L6, L8, L11 — 🎥 "Teorema de Representación de Birkhoff — ILC FAMAF" — https://www.youtube.com/watch?v=Kr-qM-TqlLs
-
-**Sáb 29** *(~4h, + Álgebra — cierra P4)* — P4 ej. 7, 8 · P5 ej. 1, 2, 3, 4
 * *Ej 7 (P4)* — Demostrar propiedades de álgebras de Boole: ¬(¬x)=x; ¬(x∧y)=¬x∨¬y — 🎥 "Álgebra Booleana — Introducción" — https://www.youtube.com/watch?v=p58C7OWe3Xk
 * *Ej 8 (P4)* — Propiedades del orden asociado a un álgebra de Boole — 🎥 "Retículos y álgebras de Boole — parte 2" — https://www.youtube.com/watch?v=cn5_iePGK9o
+
+**Lun 31 Ago** *(~4h, + PyE)* — P5 ej. 1, 2, 3, 4, 5, 7
 * *Ej 1 (P5)* — Probar que todo átomo es irreducible — 🎥 "Teorema de Representación de Birkhoff — ILC FAMAF" — https://www.youtube.com/watch?v=Kr-qM-TqlLs
 * *Ej 2 (P5)* — Relaciones de isomorfismo (D2310 vs P(5 elem.); D90 vs P(4 elem.)) — 🎥 "Ejemplo: relaciones de equivalencia" — https://www.youtube.com/watch?v=rzz92xgPVuY
 * *Ej 3 (P5)* — Probar que ∅ es decreciente; unión de decrecientes es decreciente — 🎥 "Relaciones de EQUIVALENCIA — Definición, Clases y Cociente" — https://www.youtube.com/watch?v=ke4FJlEe_EU
 * *Ej 4 (P5)* — Para cada reticulado: hallar At(L), Hasse de P(At(L)), determinar álgebras de Boole — 🎥 "Teorema de Representación de Birkhoff — ILC FAMAF" — https://www.youtube.com/watch?v=Kr-qM-TqlLs
-
-**Lun 31** *(~4h, + PyE — cierre general del temario)* — P5 ej. 5, 7 · P2 ej. 2c\* · P3 ej. 7\*, 12\* · P5 ej. 6\*
 * *Ej 5 (P5)* — Hasse de irreducibles, Hasse de D(Irr(L)), definir mapa F, usar Birkhoff — 🎥 "Teorema de Representación de Birkhoff — ILC FAMAF" — https://www.youtube.com/watch?v=Kr-qM-TqlLs
 * *Ej 7 (P5)* — Producto L×M de posets: reticulado y distributividad — 🎥 "Relaciones de equivalencia — Ejercicio 1" — https://www.youtube.com/watch?v=vjjLC7Vh-NI
+
+**Mié 2 Sep** *(práctico, 2h — cierre general del temario)* — P2 ej. 2c\* · P3 ej. 7\*, 12\* · P5 ej. 6\*
 * *Ej 2c\* (P2)* — ¿Único maximal (sin ser finito) implica máximo? — 🎥 "Ínfimo, supremo, mínimo y máximo de un conjunto" — https://www.youtube.com/watch?v=RM11dDasmgg
 * *Ej 7\* (P3)* — Cuántos isomorfismos hay de P({a,b,c}) en sí mismo — 🎥 "Supremo e Ínfimo — Explicación con ejemplo" — https://www.youtube.com/watch?v=SslId-CutLQ
 * *Ej 12\* (P3)* — Si sup(S) existe siempre para todo S⊆P, demostrar que ínf(S) también existe — 🎥 "Supremo e Ínfimo — Cotas y Conjuntos Ordenados" — https://www.youtube.com/watch?v=L3rgqDYANYM
@@ -239,7 +238,8 @@
 
 ## Notas del método
 
-- **Corrida del 17/8:** Sáb 15, Dom 16 y Lun 17 se perdieron por un imprevisto familiar. Todo el cronograma se corrió respetando el ritmo real de cada tipo de día (2h en Mié/Jue/Vie, ~4h en Sáb/Lun) en vez de simplemente trasladar el contenido de un día a otro con distinta capacidad. El cierre general pasó del Vie 28 Ago al Lun 31 Ago.
+- **Corrida del 22/8 (gripe):** se perdieron Mié 19, Jue 20 y Vie 21 por gripe. El Sáb 22 se acortó a 3h (repartido con Álgebra) y el Mar 25 se convirtió en un día especial 100% Lógica (sin PyE ni Álgebra) para recuperar terreno. El cierre general pasó del Lun 31 Ago al Mié 2 Sep.
+- **Corrida anterior (17/8):** Sáb 15, Dom 16 y Lun 17 se perdieron por un imprevisto familiar. Todo el cronograma se corrió respetando el ritmo real de cada tipo de día (2h en Mié/Jue/Vie, ~4h en Sáb/Lun) en vez de simplemente trasladar el contenido de un día a otro con distinta capacidad.
 
 - Como es matemática discreta/estructural (pruebas y diagramas, no cálculo numérico), varios videos son de teoría general del tema en vez de resolver exactamente el mismo enunciado — el objetivo es entender la técnica de demostración, no encontrar el ejercicio calcado.
 - Encontré un video hecho específicamente para este curso de FaMAF sobre el Teorema de Birkhoff — lo reutilicé en varios ejercicios de átomos/irreducibles/representación porque es el más pertinente posible.

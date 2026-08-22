@@ -8,16 +8,16 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 
 | Fecha | Evento |
 |---|---|
-| Mar 29 Septiembre | **Parcial 1** — Guías 1 a 4 |
+| Mar 22 Septiembre | **Parcial 1** — Guías 1 a 4 |
 | Mar 10 Noviembre | **Parcial 2** — Guías 5 a 8 |
 
 ---
 
-## Estado actual (17 Agosto)
+## Estado actual (22 Agosto)
 
 - Recursada: se vuelve a cursar la materia completa, a full profundidad (no repaso liviano).
-- G1 a G8: todo por hacer.
-- Se perdió el fin de semana del 15 al 17 de agosto (imprevisto familiar) — el cronograma abajo ya está corrido.
+- G1 ej. 1-6 hechos (Mar 18, llegó más lejos de lo planeado). Resto de G1 a G8: por hacer.
+- Semana de la gripe (19-21/8): se perdió el Jue 20. El domingo 23 se dedica completo a PyE (sin AED2 esa semana). El práctico del martes 25 sigue siendo de PyE como siempre (está dentro de la cursada) — solo el tiempo extra después de las 6pm ese día se lo lleva Lógica. El cronograma abajo ya está corrido — el margen antes del Parcial 1 quedó en ~8 días.
 
 ---
 
@@ -247,34 +247,24 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 | ~~Sáb 15 Ago~~ | ~~Sáb~~ | ~~Lógica y Álgebra~~ — **PERDIDO** |
 | ~~Dom 16 Ago~~ | ~~Dom~~ | **PERDIDO** (imprevisto familiar) |
 | ~~Lun 17 Ago~~ | ~~Lun~~ | **PERDIDO** |
-| Mar 18 Ago | Mar | **PyE** (práctico, 2h) — INV-01 · **G1 ej. 1, 2, 3** |
-| Jue 20 Ago | Jue | **PyE** (práctico, 2h) — **G1 ej. 4, 5, 6** |
+| Mar 18 Ago | Mar | **PyE** (práctico, 2h) — INV-01 · **G1 ej. 1-6** *(hecho — llegó hasta el ej. 6, no solo el 3)* |
+| ~~Jue 20 Ago~~ | ~~Jue~~ | **PERDIDO** (gripe) |
 | Vie 21 Ago | Vie | Libre — sin materia |
 | Sáb 22 Ago | Sáb | Lógica y Álgebra |
-| Dom 23 Ago | Dom | **PyE** — **G1 ej. 7–12** |
-| Lun 24 Ago | Lun | **PyE** (+ Lógica) — **G1 ej. 13–18** (cierra Guía 1) |
-| Mar 25 Ago | Mar | **PyE** (práctico, 2h) — INV-02 · **G2 ej. 0, 1, 2** |
-| Mié 26 Ago | Mié | Álgebra |
-| Jue 27 Ago | Jue | **PyE** (práctico, 2h) — **G2 ej. 3, 4, 5** |
-| Vie 28 Ago | Vie | Libre — sin materia |
-| Sáb 29 Ago | Sáb | Lógica y Álgebra |
-| Dom 30 Ago | Dom | **PyE** — **G2 ej. 6–11** |
-| Lun 31 Ago | Lun | **PyE** (+ Lógica) — **G2 ej. 12–17** (cierra Guía 2) |
-| Mar 1 Sep | Mar | **PyE** (práctico, 2h) — INV-03/04 · **G3 ej. 1, 2, 3** |
-| Mié 2 Sep | Mié | Álgebra |
-| Jue 3 Sep | Jue | **PyE** (práctico, 2h) — **G3 ej. 4, 5, 6** |
-| Vie 4 Sep | Vie | Libre — sin materia |
-| Sáb 5 Sep | Sáb | Lógica y Álgebra |
-| Dom 6 Sep | Dom | **PyE** — **G3 ej. 7–12** |
-| Lun 7 Sep | Lun | **PyE** (+ Lógica) — **G3 ej. 13–17** (cierra Guía 3) |
-| Mar 8 Sep | Mar | **PyE** (práctico, 2h) — INV-05 · **G4 ej. 1, 2, 3** |
-| Mié 9 Sep | Mié | Álgebra |
-| Jue 10 Sep | Jue | **PyE** (práctico, 2h) — **G4 ej. 4, 5, 6** |
-| Vie 11 Sep | Vie | Libre — sin materia |
-| Sáb 12 Sep | Sáb | Lógica y Álgebra |
-| Dom 13 Sep | Dom | **PyE** — **G4 ej. 7–12** |
-| Lun 14 Sep | Lun | **PyE** (+ Lógica) — **G4 ej. 13–16** (cierra Guía 4 — temario completo del parcial listo) |
-| Mar 15 Sep | Mar | **PyE** (práctico, 2h) — Repaso liviano / dudas |
+| Dom 23 Ago | **G1 ej. 7-12** |
+| Lun 24 Ago | **G1 ej. 13-18** |
+| Mar 25 Ago | **G2 ej. 0, 1, 2** |
+| Jue 27 Ago | **G2 ej. 3, 4, 5** |
+| Dom 30 Ago | **G2 ej. 6-11** |
+| Lun 31 Ago | **G2 ej. 12-17** |
+| Mar 1 Sep | **G3 ej. 1, 2, 3** |
+| Jue 3 Sep | **G3 ej. 4, 5, 6** |
+| Dom 6 Sep | **G3 ej. 7-12** |
+| Lun 7 Sep | **G3 ej. 13-17** |
+| Mar 8 Sep | **G4 ej. 1, 2, 3** |
+| Jue 10 Sep | **G4 ej. 4, 5, 6** |
+| Dom 13 Sep | **G4 ej. 7-12** |
+| Lun 14 Sep | **G4 ej. 13-16** |
 | Mié 16 Sep | Mié | Álgebra |
 | Jue 17 Sep | Jue | **PyE** (práctico, 2h) — Repaso liviano / dudas |
 | Vie 18 Sep | Vie | Libre — sin materia |
@@ -283,23 +273,21 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 | Lun 21 Sep | Lun | **PyE** (+ Lógica) — Repaso final, copiar y repasar pizarrón |
 | **Mar 22 Sep** | Mar | **FINAL PARCIAL 1 — sin sesión** |
 
-> Se perdieron Sáb 15, Dom 16 y Lun 17 (imprevisto familiar). El cronograma se corrió respetando el ritmo real de cada tipo de día (2h en Martes/Jueves, ~4h en Domingo/Lunes) en vez de trasladar contenido entre días de distinta capacidad. El temario nuevo (G1–G4) ahora cierra el **Lun 14 Sep** (antes Jue 10 Sep) — quedan ~8 días de repaso antes del parcial (Mar 15 → Lun 21 Sep), menos que los ~12 días originales pero todavía razonable.
+> Corrección: el martes 18 llegaste hasta el ejercicio 6 de G1 (no solo el 3) — se corrió todo 3 ejercicios hacia adelante. El temario nuevo (G1–G4) sigue cerrando el **Lun 14 Sep**, pero ahora ese último día queda más liviano (4 ejercicios en vez de 6).
 
 #### Detalle día por día — próximas sesiones
-**Mar 18 Ago** *(práctico, 2h — INV-01 + ejercicios)* — G1 ej. 1, 2, 3
+**Mar 18 Ago** *(práctico, 2h — INV-01 + ejercicios, llegó hasta el ej. 6)* — G1 ej. 1, 2, 3, 4, 5, 6
 * *Ej 1* — Biblioteca: listar resultados posibles, eventos A/B/C, uniones e intersecciones — 🎥 "Experimento Aleatorio, Espacio Muestral, Evento o Suceso y Probabilidades" — https://www.youtube.com/watch?v=fTIS83G7aC8
 * *Ej 2* — Demostrar P(B−A)=P(B)−P(A) si A⊆B; relación P(A), P(A∩B), P(A∪B) — 🎥 "Demostración. Teoremas de Probabilidad: Vacío, Unión y Complemento" — 
 https://www.youtube.com/watch?v=nDl0mhVkNeM
 * *Ej 3* — Licitaciones: uniones e intersecciones de 3 eventos — 🎥 "Probabilidades de 3 eventos" — https://www.youtube.com/watch?v=ipqWoW4yqik
-
-**Jue 20 Ago** *(práctico, 2h)* — G1 ej. 4, 5, 6
 * *Ej 4* — Asignación de contratos a empresas: conteo y probabilidad — 🎥 "Técnicas de conteo — ejercicios resueltos" — https://www.youtube.com/watch?v=v3TFHZsqhME
 * *Ej 5* — Colectivos con grietas: selección de muestra sin reposición — 🎥 "Probabilidad, permutaciones y combinaciones — ejercicios resueltos" — 
 https://www.youtube.com/watch?v=lNQIT9Hir5I
 * *Ej 6* — Comisión de 2 entre 5 miembros: combinatoria + años de experiencia — 🎥 "Permutaciones y Combinaciones — Ejercicios Resueltos Nivel 1" — 
 https://www.youtube.com/watch?v=QXO3u6Ak4rU
 
-**Dom 23 Ago** *(~4h)* — G1 ej. 7, 8, 9, 10, 11, 12
+**Dom 23 Ago** *(~4h)* — G1 ej. 7-12
 * *Ej 7* — Reuniones ordenadas con 8 ayudantes: permutaciones — 🎥 "Variaciones, Combinaciones y Permutaciones — Nivel 1" — https://www.youtube.com/watch?v=ynxsVxVZ9Vw
 * *Ej 8* — Cubos entre dos cajas: extracción secuencial (prob. condicional) — 🎥 "Teorema de Bayes — Problema 3 resuelto" — https://www.youtube.com/watch?v=850a--CribU
 * *Ej 9* — Tabla de camisas por talle/modelo/manga: conjunta y condicional desde tabla — 🎥 "Teorema de Bayes — ejercicios resueltos" — 
@@ -310,7 +298,7 @@ https://www.youtube.com/watch?v=G_4k4qxZRP4
 https://www.youtube.com/watch?v=CP4ToX5Tyvw
 * *Ej 12* — Demostrar independencia de eventos complementarios (Ā y B̄) — 🎥 "Eventos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=Ny8NBX7ZLcw
 
-**Lun 24 Ago** *(~4h, + Lógica — cierra Guía 1)* — G1 ej. 13, 14, 15, 16, 17, 18
+**Lun 24 Ago** *(~4h, + Lógica — cierra Guía 1)* — G1 ej. 13-18
 * *Ej 13* — Tablas de madera sin reposición: ¿A y B independientes? — 🎥 "Sucesos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=_vl-2RsrpgQ
 * *Ej 14* — Reparto de 52 cartas entre 4 jugadores — 🎥 "Permutaciones y Combinaciones — Ejercicios Resueltos Nivel 2A" — https://www.youtube.com/watch?v=ns7uwSVPLJk
 * *Ej 15* — Leucoplasia oral: fumar y alcohol, ¿independientes? — 🎥 "Eventos Dependientes e Independientes — Super fácil" — https://www.youtube.com/watch?v=wOwwPD-O5sY
@@ -318,7 +306,7 @@ https://www.youtube.com/watch?v=CP4ToX5Tyvw
 * *Ej 17* — Costura de avión con remaches: independencia + resolver p — 🎥 "Probabilidad de Eventos Dependientes — Super fácil" — https://www.youtube.com/watch?v=iUOnVO7yAfA
 * *Ej 18* — Carrera de caballos: eventos compuestos — 🎥 "Combinaciones, Permutaciones y Variaciones — Ejemplo 1" — https://www.youtube.com/watch?v=h4IfRXoVcpo
 
-**Mar 25 Ago** *(práctico, 2h — INV-02 + ejercicios)* — G2 ej. 0, 1, 2
+**Mar 25 Ago** *(práctico, 2h — dentro de la cursada — INV-02 + ejercicios)* — G2 ej. 0, 1, 2
 * *Ej 0* — Definir función de probabilidad y una VA en experimento de listas aleatorias — 🎥 "Función probabilidad y función de distribución VA discreta" — https://www.youtube.com/watch?v=2qgFRb5nsQg
 * *Ej 1* — Identificar cuál tabla es una fmp válida; calcular P, obtener FDA — 🎥 "Función de probabilidad VA discreta — Ejercicio 1" — https://www.youtube.com/watch?v=9NicRz7xPU0
 * *Ej 2* — fmp de líneas telefónicas en uso: calcular probabilidades de eventos — 🎥 "Función de Probabilidad y Función de Distribución — UPV" — https://www.youtube.com/watch?v=GaRyczJN3WM
@@ -328,7 +316,7 @@ https://www.youtube.com/watch?v=CP4ToX5Tyvw
 * *Ej 4* — Nº de determinaciones hasta encontrar grupo O+ (fmp tipo geométrica) — 🎥 "Aprende probabilidad: VA discretas, teoría y ejercicios" — https://www.youtube.com/watch?v=ktq7f3-L8-c
 * *Ej 5* — Recorrido aleatorio de Silvina: fmp y FDA de destinos y segmentos — 🎥 "Variable Aleatoria Discreta — Ejercicio 1" — https://www.youtube.com/watch?v=wEfgwi9dA-8
 
-**Dom 30 Ago** *(~4h)* — G2 ej. 6, 7, 8, 9, 10, 11
+**Dom 30 Ago** *(~4h)* — G2 ej. 6-11
 * *Ej 6* — Esperanza de un dado y de 1/X; decisión retirarse o jugar — 🎥 "Esperanza y varianza VA discreta" — https://www.youtube.com/watch?v=5W1c9qbRNCw
 * *Ej 7* — Congeladores: E(X), E(X²), V(X), transformación lineal y no lineal — 🎥 "Media, varianza y desviación estándar VA discreta" — https://www.youtube.com/watch?v=oB48B-WUwJk
 * *Ej 8* — Esperanza/varianza de la VA del ej. 4; costo esperado y su varianza — 🎥 "Media, valor esperado de VA discreta" — https://www.youtube.com/watch?v=-v3st4h0HdE
@@ -336,7 +324,7 @@ https://www.youtube.com/watch?v=CP4ToX5Tyvw
 * *Ej 10\** — Binomial: raquetas de tenis, prob. dentro de 1 DE, sin reposición — 🎥 "Distribución binomial (Ejercicio resuelto)" — https://www.youtube.com/watch?v=EisaSQ1j_Kk
 * *Ej 11* — Binomial + Hipergeométrica: reparaciones de TV sin garantía — 🎥 "Distribución binomial — ejercicios de examen, selectividad" — https://www.youtube.com/watch?v=99JVQ_M15Aw
 
-**Lun 31 Ago** *(~4h, + Lógica — cierra Guía 2)* — G2 ej. 12, 13, 14, 15, 16, 17
+**Lun 31 Ago** *(~4h, + Lógica — cierra Guía 2)* — G2 ej. 12-17
 * *Ej 12* — Hipergeométrica: refrigeradores con compresor defectuoso — 🎥 "Distribución Hipergeométrica — Ejercicio 1 con calculadora" — https://www.youtube.com/watch?v=3pDDo0LvRHo
 * *Ej 13* — Binomial Negativa: serie de partidos Boca–River — 🎥 "Distribución binomial negativa — ejemplo" — https://www.youtube.com/watch?v=GcoeTDcOpsc
 * *Ej 14* — Poisson: número de tornados observados en un año — 🎥 "Distribución de Poisson — Ejercicio resuelto 1" — https://www.youtube.com/watch?v=x9jF11I5x-g
@@ -354,7 +342,7 @@ https://www.youtube.com/watch?v=CP4ToX5Tyvw
 * *Ej 5* — Normal N(80,100): probabilidades básicas con tabla Z — 🎥 "Distribución normal estándar — ejercicios resueltos" — https://www.youtube.com/watch?v=9bPDt_1MEvY
 * *Ej 6* — Normal: diámetro de árboles, percentiles, binomial aproximada — 🎥 "Ejercicios con la tabla de distribución normal" — https://www.youtube.com/watch?v=JuLu2PDt3dc
 
-**Dom 6 Sep** *(~4h)* — G3 ej. 7, 8, 9, 10, 11, 12
+**Dom 6 Sep** *(~4h)* — G3 ej. 7-12
 * *Ej 7* — Normal: hallar µ y σ desde percentiles de resistencia — 🎥 "Distribución Normal — Ejercicios Resueltos Nivel 3" — https://www.youtube.com/watch?v=jjNTP9F6lts
 * *Ej 8* — Transformación lineal de Normal; Celsius a Fahrenheit — 🎥 "Tabla de distribución normal — cómo buscar Z" — https://www.youtube.com/watch?v=Pp3mdDcQqgM
 * *Ej 9* — Normal: mezcla de dos máquinas, tornillos aceptables — 🎥 "Determinar el puntaje Z de un percentil — Khan Academy" — https://www.youtube.com/watch?v=yYQaDO8Vt2U
@@ -362,7 +350,7 @@ https://www.youtube.com/watch?v=CP4ToX5Tyvw
 * *Ej 11* — Exponencial: distancia recorrida por canguros — 🎥 "Distribución Exponencial — Ejercicios resueltos" — https://www.youtube.com/watch?v=PEib2DsJ2k4
 * *Ej 12* — Exponencial: sistema en serie, mínimo de 5 exponenciales — 🎥 "Distribución de probabilidad exponencial — ejemplos resueltos" — https://www.youtube.com/watch?v=E-hR_OFCNNE
 
-**Lun 7 Sep** *(~4h, + Lógica — cierra Guía 3)* — G3 ej. 13, 14, 15, 16, 17
+**Lun 7 Sep** *(~4h, + Lógica — cierra Guía 3)* — G3 ej. 13-17
 * *Ej 13* — Sistema de bombas de combustible: Poisson/Exponencial — 🎥 "Distribución exponencial — ejemplo aplicado" — https://www.youtube.com/watch?v=u1WiazG6Z5s
 * *Ej 14\** — Gamma: tiempo semanal de máquina no funcional, pérdida esperada — 🎥 "Distribución gamma — ejercicios resueltos" — https://www.youtube.com/watch?v=kjacFXhxsU4
 * *Ej 15\** — Weibull: tiempo de devolución de un producto defectuoso — 🎥 "Distribución de Weibull — teoría y ejercicios de aplicación" — https://www.youtube.com/watch?v=jaGPyQVPjBc
@@ -385,7 +373,7 @@ https://www.youtube.com/watch?v=lmbMPAq7bnY
 * *Ej 6* — Demostrar que suma de Binomiales independientes es Binomial (Vandermonde) — 🎥 "Distribución binomial — ejercicio resuelto paso a paso" — 
 https://www.youtube.com/watch?v=EMRag5uvqBA
 
-**Dom 13 Sep** *(~4h)* — G4 ej. 7, 8, 9, 10, 11, 12
+**Dom 13 Sep** *(~4h)* — G4 ej. 7-12
 * *Ej 7* — Demostrar E(XY)=E(X)E(Y) si independientes; área esperada de un rectángulo — 🎥 "Distribución binomial — Ejercicio resuelto 2, tabla y gráfica" — https://www.youtube.com/watch?v=Beaut1peTxY
 * *Ej 8* — Tabla conjunta con parámetros a,b: covarianza cero pero no independencia — 🎥 "Distribución binomial — Ejercicio resuelto 1" — https://www.youtube.com/watch?v=HJgJGYDXojk
 * *Ej 9* — Combinaciones lineales de Y1, Y2 con covarianza dada — 🎥 "Distribución Binomial — Explicación y ejercicio resuelto" — https://www.youtube.com/watch?v=GvqsxC8UL3I
@@ -393,17 +381,15 @@ https://www.youtube.com/watch?v=EMRag5uvqBA
 * *Ej 11* — TLC: tiempo de procesamiento de 100 pedidos — 🎥 "Teorema del límite central — Ejercicio 1" — https://www.youtube.com/watch?v=FqFqLyiu84w
 * *Ej 12* — TLC/Binomial: estudiantes sin errores tipográficos — 🎥 "Ejercicios resueltos — Teorema del límite central" — https://www.youtube.com/watch?v=gtYPsI75V7Q
 
-**Lun 14 Sep** *(~4h, + Lógica — cierra Guía 4, temario completo)* — G4 ej. 13, 14, 15, 16
+**Lun 14 Sep** *(~4h, + Lógica — cierra Guía 4, temario completo)* — G4 ej. 13-16
 * *Ej 13* — TLC/Binomial: ejes de acero fuera de especificación — 🎥 "Teorema del límite central — Ejercicio 2" — https://www.youtube.com/watch?v=PoKqOdGDLCk
 * *Ej 14* — TLC/Poisson: aproximación normal para media 100 — 🎥 "Teorema central de límite — Ejercicio práctico" — https://www.youtube.com/watch?v=LY4v1AsTQGw
 * *Ej 15* — TLC: diferencia de medias muestrales de dos aceros — 🎥 "Teorema central del límite: ejemplo de aplicación — UPV" — https://www.youtube.com/watch?v=UV0F6E5PGP4
 * *Ej 16* — TLC: consumo calórico diario promedio en un año — 🎥 "Ejemplo del Teorema de Límite Central" — https://www.youtube.com/watch?v=o2afi9BKRIM
 
-**Mar 15 Sep** *(práctico, 2h)* — Repaso liviano / consultar dudas puntuales de toda la Guía 4 recién cerrada.
-
 **Mié 16 Sep** — Álgebra (no es día de PyE)
 
-**Jue 17 Sep** *(práctico, 2h)* — Repaso liviano / consultar dudas puntuales.
+**Jue 17 Sep** *(práctico, 2h)* — Repaso liviano / consultar dudas puntuales de toda la Guía 4 recién cerrada.
 
 **Vie 18 → Sáb 19 Sep** — Libre / Lógica y Álgebra (no son días de PyE)
 
@@ -487,7 +473,10 @@ https://www.youtube.com/watch?v=EMRag5uvqBA
 
 ## Notas del método
 
-- **Corrida del 17/8:** Sáb 15, Dom 16 y Lun 17 se perdieron por un imprevisto familiar. El cronograma hacia el Parcial 1 se corrió respetando la capacidad real de cada tipo de día (2h en Martes/Jueves, ~4h en Domingo/Lunes) en vez de trasladar contenido entre días de distinta capacidad. El cierre del temario pasó del jueves 10/9 al lunes 14/9, y el repaso pre-parcial se achicó de ~12 a ~8 días.
+- **Corrección de progreso (misma sesión):** el martes 18 en realidad se llegó hasta el ej. 6 de G1, no solo el 3 — se corrió todo 3 ejercicios hacia adelante. El cierre de G1-G4 se mantiene en el Lun 14 Sep, pero con el último día más liviano.
+- **Corrección de reparto (misma sesión):** el práctico del martes de PyE (2h, dentro de la cursada 9-13) no se cede a Lógica — eso fue un error. Solo el tiempo extra después de las 6pm cambia de materia esa semana.
+- **Corrida del 22/8 (gripe):** se perdió el Jue 20 por gripe. El Dom 23 (4h libres) se dedicó por completo a PyE, sin AED2 esa semana.
+- **Corrida anterior (17/8):** Sáb 15, Dom 16 y Lun 17 se perdieron por un imprevisto familiar. El cronograma hacia el Parcial 1 se corrió respetando la capacidad real de cada tipo de día (2h en Martes/Jueves, ~4h en Domingo/Lunes) en vez de trasladar contenido entre días de distinta capacidad.
 
 - Recursada a full profundidad: no se asume nada previo, cada guía nueva arranca con INV completa.
 - INV → ejercicios → SR es el ciclo completo para cada guía.
