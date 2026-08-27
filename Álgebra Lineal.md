@@ -16,10 +16,9 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 ---
 
-## Estado actual (17 Agosto)
+## Estado actual (26 Agosto)
 
-- Por ahora solo hay 2 prácticos disponibles (Cuerpos/Números complejos, y Sistemas de ecuaciones/Matrices) — se van a ir agregando más a medida que la cátedra los publique.
-- Se perdió el sábado 15 de agosto (imprevisto familiar) — el cronograma abajo ya está corrido. Nada resuelto todavía.
+- **Práctico 1 completo.** Arrancando Práctico 2 ahora (miércoles 26, 2h) — sigue el viernes 28 con un sprint de 8h dedicado 100% a Álgebra (jueves 27 es paro no docente, libre).
 
 ---
 
@@ -109,45 +108,43 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | ~~Sáb 15 Ago~~ | ~~Sáb~~ | **PERDIDO** (imprevisto familiar) |
 | Dom 16 Ago | Dom | PyE y AED2 |
 | Lun 17 Ago | Lun | PyE y Lógica |
-| Mar 18 Ago | Mar | **Álgebra** (práctico, 2h) — P1 ej. 1, 2 *(hecho)* |
+| Mar 18 Ago | Mar | **Álgebra** — P1 ej. 1, 2 *(hecho)* |
 | ~~Mié 19 Ago~~ | ~~Mié~~ | **PERDIDO** (gripe) |
 | ~~Jue 20 Ago~~ | ~~Jue~~ | **PERDIDO** (gripe) |
 | Vie 21 Ago | Vie | Libre — sin materia |
-| Sáb 22 Ago | **P1 ej. 3, 11, 12, 13 · P2 ej. 1** |
-| Mar 25 Ago | **P2 ej. 2, 3** |
-| Mié 26 Ago | **P2 ej. 4, 5, 6, 7, 8, 9** |
-| Jue 27 Ago | **P2 ej. 10, 11** |
-| Sáb 29 Ago | **P2 ej. 12, 13** |
-| Dom 30 Ago → Mar 22 Sep | — | Sin prácticos nuevos todavía. Usar Miércoles y Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
+| Sáb 22 Ago | Sáb | **Álgebra** — P1 ej. 3, 11, 12, 13 *(cierra P1 — hecho)* |
+| Mar 25 Ago | Mar | **Álgebra** — P1 ej. 12, 13 *(hecho, cierra P1)* |
+| Mié 26 Ago | **P2 ej. 1, 2** |
+| Vie 28 Ago | **P2 ej. 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13** |
+| ~~Jue 27 Ago~~ | ~~Jue~~ | Libre (paro no docente) |
+| Sáb 29 Ago | Sáb | Lógica (día de sprint — sin Álgebra) |
+| Dom 30 Ago | Dom | PyE (día de sprint — sin Álgebra) |
+| Lun 31 Ago → Mar 22 Sep | — | Sin prácticos nuevos todavía. Usar Miércoles y Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
 | **Mar 22 Sep** | Mar | **PRIMER PARCIAL** |
 
-> Corrección: el práctico del martes de Álgebra (2h, dentro de la cursada 14-18) no se cede a Lógica — solo el tiempo extra después de las 6pm cambia de materia. Con el martes de vuelta en su lugar, el temario cierra igual el **Sáb 29 Ago** pero con más margen en el camino. Sigue quedando más de tres semanas antes del parcial.
+> **P1 completo.** Con el jueves 27 libre (paro no docente) y el sprint de 8h dedicado a Álgebra el viernes 28, el temario (P1+P2, 19 ejercicios) cierra ese mismo viernes — casi un mes de margen antes del parcial.
 
 ### Detalle día por día
-**Sáb 22 Ago** *(3h, + Lógica — cierra P1)* — P1 ej. 3, 11, 12, 13 · P2 ej. 1
+**Mié 26 Ago** *(Práctico 1 completo — hecho)* — P1 ej. 1, 2, 3, 11, 12, 13
+* *Ej 1* — Demostrar en un cuerpo K: a·0=0 para todo a; si a·b=0 entonces a=0 o b=0 — 🎥 "Axiomas de cuerpo — Teoremas y Demostraciones" — https://www.youtube.com/watch?v=OAE7MBFDUgQ
+* *Ej 2* — Demostrar propiedades algebraicas de cuerpo: −(ab)=(−a)b=a(−b); (ab)⁻¹=a⁻¹b⁻¹; cancelativa; unicidad de solución de ax=y; si aⁿ=0 entonces a=0 — 🎥 "Cuerpos (Álgebra) — Definición y ejemplos básicos" — https://www.youtube.com/watch?v=gPmJzlBnviU
 * *Ej 3* — Demostrar que (Zn,+,·) es cuerpo si y solo si n es primo — 🎥 "Los enteros módulo m" — https://www.youtube.com/watch?v=wwVhqsIpQHk
-* *Ej 11* — Verificar si (1,1) es solución; ver si la suma de dos soluciones también lo es — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
+* *Ej 11* — Sistemas: verificar si (1,1) es solución; ver si la suma de dos soluciones también lo es — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
 * *Ej 12* — Resolver los sistemas lineales en R y comparar con el ejercicio anterior — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
 * *Ej 13* — Resolver sistemas lineales en Q, R y C — 🎥 "Sistemas de ecuaciones lineales 2x2 — Método de Sustitución" — https://www.youtube.com/watch?v=LTfv1G2iYuQ
-* *Ej 1* — Decidir si los sistemas son equivalentes; expresar ecuaciones como combinación lineal — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
 
-**Mar 25 Ago** *(práctico, 2h — dentro de la cursada)* — P2 ej. 2, 3
-* *Ej 2* — Mostrar que dos sistemas NO son equivalentes estudiando sus soluciones — 🎥 "Álgebra Abstracta — Ejercicio 1" — https://www.youtube.com/watch?v=ZGUgMtX0Udk
+**Vie 28 Ago** *(8h — cierra P2, temario completo)* — P2 ej. 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+* *Ej 1* — Decidir si los sistemas son equivalentes; expresar ecuaciones del primero como combinación lineal del segundo — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
+* *Ej 2* — Mostrar que dos sistemas NO son equivalentes estudiando sus soluciones — 🎥 "Álgebra Abstracta — Estructuras Algebraicas, Ejercicio 1" — https://www.youtube.com/watch?v=ZGUgMtX0Udk
 * *Ej 3* — Demostrar que dos matrices dadas no son equivalentes por filas — 🎥 "Matriz escalonada reducida por filas paso a paso" — https://www.youtube.com/watch?v=BLr4V7rDsmY
-
-**Mié 26 Ago** *(~4h)* — P2 ej. 4, 5, 6, 7, 8, 9
 * *Ej 4* — Reducir matriz A por filas: resolver AX=0 y AX=b en Q, R y C — 🎥 "Álgebra Lineal — Matriz Escalonada Reducida (3/3)" — https://www.youtube.com/watch?v=3XH42hAQFos
 * *Ej 5* — Determinar cuáles matrices dadas están en forma MERF — 🎥 "Matrices Escalonadas y Reducidas — Características y Ejemplos" — https://www.youtube.com/watch?v=cp-6QPcTZeA
 * *Ej 6* — Para cada MERF del ej. 5: escribir el sistema homogéneo y no homogéneo asociado, dar las soluciones — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
 * *Ej 7* — Dar todas las posibles matrices 2×2 escalón reducidas por filas — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
 * *Ej 8* — Para los sistemas dados: describir explícitamente las soluciones e indicar la MERF asociada — 🎥 "Sistemas de ecuaciones lineales 2x2 — Método de Sustitución" — https://www.youtube.com/watch?v=LTfv1G2iYuQ
 * *Ej 9* — Encontrar los coeficientes de la parábola y=ax²+bx+c que pasa por 3 puntos dados — 🎥 "Ejercicios Resueltos PARÁBOLA — Paso a paso" — https://www.youtube.com/watch?v=8BzOty0Gen4
-
-**Jue 27 Ago** *(práctico, 2h)* — P2 ej. 10, 11
 * *Ej 10* — Hallar un sistema lineal cuyo conjunto de soluciones sea una recta paramétrica dada — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
 * *Ej 11* — Determinar para qué valores de a el sistema AX=b admite solución; hallarlas — 🎥 "Álgebra Lineal — Matriz Escalonada Reducida (3/3)" — https://www.youtube.com/watch?v=3XH42hAQFos
-
-**Sáb 29 Ago** *(~4h, + Lógica — cierra P2, temario completo)* — P2 ej. 12, 13
 * *Ej 12* — Sistema con matriz de números consecutivos: resolver AX=0 y AX=(1,...,1) — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
 * *Ej 13* — Demostrar: si el sistema homogéneo tiene solución no trivial, entonces AX=Y no tiene solución o tiene al menos dos — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
 
@@ -155,9 +152,7 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 ## Notas del método
 
-- **Corrección (misma sesión):** el práctico del martes de Álgebra (2h, dentro de la cursada 14-18) no se cede a Lógica — eso fue un error. Solo el tiempo extra después de las 6pm cambia de materia esa semana.
-- **Corrida del 22/8 (gripe):** se perdieron Mié 19 y Jue 20. El Sáb 22 se acortó a 3h (repartido con Lógica). El temario cerró el sábado 29/8.
-- **Corrida anterior (17/8):** se perdió el sábado 15 por un imprevisto familiar.
+- **Sprint post-gripe (26-28/8):** P1 confirmado completo. Jueves 27 es paro no docente (libre, sin estudio). Viernes 28 se dedica 8h enteras a Álgebra (parte del sprint Vie-Lun de 1 materia/día: Vie=Álgebra, Sáb=Lógica, Dom=PyE, Lun=AyED2) — con eso el Práctico 2 completo cierra ese mismo viernes.
 - Se salteó números complejos del Práctico 1 (ej. 4-10) por decisión explícita — pendiente sumarlos cuando se decida retomarlos.
 - Como Álgebra "cuesta más", el ritmo de práctico (Martes/Jueves) se fijó en 2 ejercicios en vez de los 3 que se usan en PyE.
 - Cuando lleguen nuevos prácticos, se agregan guía por guía manteniendo este mismo formato (tabla resumen + detalle inline con video único por ejercicio).

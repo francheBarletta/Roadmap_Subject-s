@@ -13,9 +13,9 @@
 
 ---
 
-## Estado actual (22 Agosto)
+## Estado actual (26 Agosto)
 
-- Nada resuelto todavía. Se perdieron dos domingos seguidos: 16/8 (imprevisto familiar) y 23/8 (semana de gripe) — arranca recién el domingo 30 de agosto.
+- Nada resuelto todavía. Se perdieron tres domingos seguidos: 16/8, 23/8 y 30/8 (este último porque el domingo del sprint se lo lleva PyE) — pero el 30/8 no se pierde de verdad: se fusiona con el contenido del domingo siguiente en el lunes 31/8 (día de AED2 dentro del sprint Vie=Álgebra/Sáb=Lógica/Dom=PyE/Lun=AyED2), así que arranca ahí con el doble de contenido (4h) y el resto del cronograma no se mueve.
 - Prácticos disponibles: **Práctico 1** (Parte 1, 2 y 3), **Práctico 2** (Parte 1, 2 y 3), **Práctico 3** (Parte 1: voraces, Parte 2: voraces en grafos, Parte 3: backtracking, Parte 4: programación dinámica).
 - **Práctico 0** (introducción al lenguaje de la materia) queda como lectura de referencia — no tiene ejercicios a resolver de cero (trae las soluciones incluidas), pero conviene repasarlo antes de arrancar porque define la sintaxis (`proc`, `fun`, `array`, `for`, `while`, etc.) que se usa en todos los prácticos siguientes.
 - Por el desfasaje entre el ritmo real (~3 ejercicios/domingo) y los ejercicios totales de los 3 prácticos (70), se acordó **saltear los ejercicios "de aplicación" repetitivos** dentro de cada sección (mismo criterio/técnica aplicado a distintos disfraces) para bajar el total a 59 y que entre en las 16 semanas disponibles.
@@ -80,8 +80,9 @@
 |---|---|
 | ~~Dom 16 Ago~~ | ~~**PERDIDO**~~ (familia de visita) |
 | ~~Dom 23 Ago~~ | ~~**PERDIDO**~~ (semana de gripe, sin AED2) |
-| Dom 30 Ago | **P1.1 ej. 1, 3, 4, 5** |
-| Dom 6 Sep | **P1.1 ej. 6, 7, 8, 10 (cierra P1 Parte 1)** |
+| ~~Dom 30 Ago~~ | ~~**PERDIDO**~~ (domingo del sprint, se lo lleva PyE) |
+| Lun 31 Ago | **P1.1 ej. 1, 3, 4, 5, 6, 7, 8, 10 (4h — fusiona lo de los dos domingos anteriores, cierra P1 Parte 1)** |
+| Dom 6 Sep | — *(no es día de AED2 esta semana — el lunes ya cubrió lo suyo)* |
 | Dom 13 Sep | **P1.2 ej. 1, 2, 3, 4** |
 | Dom 20 Sep | **P1.2 ej. 5, 6 (cierra P1 Parte 2) · P1.3 ej. 1, 2, 3** |
 | Dom 27 Sep | **P1.3 ej. 4, 5, 6 (cierra P1) · P2.1 ej. 1** |
@@ -96,19 +97,17 @@
 | Dom 29 Nov | **P3.4 ej. 1, 2, 3, 4 (cierra el temario completo)** |
 | **Mié 2 Dic** | **LLAMADO 1** |
 
-> Se perdió el domingo 16/8 (imprevisto familiar) y el domingo 23/8 (semana de gripe, PyE tuvo prioridad ese día). Con 14 domingos restantes para 59 ejercicios, el ritmo subió a ~4-5 ejercicios/domingo (antes ~4) — sigue sin margen de repaso antes del Llamado 1.
+> Se perdió el domingo 16/8 (imprevisto familiar), el domingo 23/8 (semana de gripe) y el domingo 30/8 (semana del sprint, se lo lleva PyE). El lunes 31/8 (día de AED2 dentro del sprint Vie-Lun) fusiona exactamente el contenido de esos dos domingos más recientes (4h = 2h+2h), así que el resto del cronograma **no se corre ni un día** — sigue cerrando el 29/11, sin margen de repaso antes del Llamado 1 (igual que antes).
 
 ---
 
 ## Detalle día por día
 
-**Dom 30 Ago** *(2h)* — P1.1 ej. 1, 3, 4, 5
+**Lun 31 Ago** *(4h — fusiona los dos domingos perdidos, cierra P1 Parte 1)* — P1.1 ej. 1, 3, 4, 5, 6, 7, 8, 10
 * *Ej 1* — Inicializar cada componente del arreglo con 0, usando `do` — 🎥 "CLASE 25 - Arreglos: recorrer elementos" — https://www.youtube.com/watch?v=KGU8k6V2-VI
 * *Ej 3* — Determinar si un arreglo está ordenado — 🎥 "Recorrer un Arreglo en C++" — https://www.youtube.com/watch?v=lCD6kjj4mu4
 * *Ej 4* — Ordenar arreglos con el algoritmo de selección, mostrando cada paso — 🎥 "Algoritmo de Selección — Explicación y Ejemplo Paso a Paso" — https://www.youtube.com/watch?v=1TLehzzoauU
 * *Ej 5* — Calcular el número de asignaciones a `t` en loops anidados (sumatorias) — 🎥 "¿Cómo funciona la notación asintótica?" — https://www.youtube.com/watch?v=HcDV5MGGrRE
-
-**Dom 6 Sep** *(2h)* — P1.1 ej. 6, 7, 8, 10 (cierra P1 Parte 1)
 * *Ej 6* — Descifrar un algoritmo (selecciona el máximo y hace swap), reescribirlo con nombres adecuados — 🎥 "Algoritmos de ordenación – Selección" — https://www.youtube.com/watch?v=ZMO3Fow05tg
 * *Ej 7* — Ordenar arreglos con el algoritmo de inserción, mostrando comparaciones e intercambios — 🎥 "Paso a paso a través de la función de ordenamiento por inserción" — https://www.youtube.com/watch?v=jRa1HqG9YaI
 * *Ej 8* — Calcular el orden de asignaciones a `t` en distintos `do`-loops (incisos a-d) — 🎥 "Complejidad algoritmos recursivos" — https://www.youtube.com/watch?v=qNDaGZNI6s8
@@ -194,10 +193,11 @@
 
 ## Notas del método
 
-- **Corrida del 22/8 (gripe):** se perdió también el domingo 23/8 — esa semana PyE tuvo prioridad sobre AED2. Quedan 14 domingos para los 59 ejercicios, así que el ritmo subió a ~4-5 ejercicios/domingo en 3 semanas puntuales en vez de 4 parejo.
-- **Corrida del 17/8:** se perdió el domingo 16/8 por un imprevisto familiar. Todo el cronograma se corrió una semana, lo que consumió el único domingo de repaso que tenía este plan (29/11) — ahora el temario cierra ese mismo día, sin colchón antes del Llamado 1.
+- **Sprint post-TP (26-31/8):** el domingo 30/8 se lo lleva PyE (día de sprint). Se fusiona su contenido con el del domingo siguiente en el lunes 31/8 (4h = 2h+2h) — el resto del cronograma no se corre ni un día.
+- **Corrida del 22/8 (gripe):** se perdió también el domingo 23/8 — esa semana PyE tuvo prioridad sobre AED2.
+- **Corrida del 17/8:** se perdió el domingo 16/8 por un imprevisto familiar.
 
 - El déficit entre el ritmo real (~3-4 ej./domingo) y el total de ejercicios se resolvió **salteando ejercicios de aplicación repetitivos** dentro de cada práctico (misma técnica en distintos disfraces) en vez de acelerar el ritmo o recortar prácticos completos — así se mantienen todos los temas del programa, aligerando solo la cantidad de variantes de cada uno.
 - Varios videos son de la técnica general (partition, ABB, backtracking) en vez del enunciado exacto — como en Álgebra y Lógica, el objetivo es entender el mecanismo, no encontrar el ejercicio calcado.
-- El cronograma queda con un solo domingo de margen (29/11) antes del Llamado 1 — es un margen ajustado; si algún domingo rinde menos de lo esperado, ese es el día para absorberlo.
+- El cronograma sigue cerrando el 29/11 sin margen de repaso antes del Llamado 1 — si algún domingo rinde menos de lo esperado, no hay colchón extra para absorberlo.
 - Cuando lleguen los prácticos 4 en adelante (si se suman), se agregan con el mismo formato (tabla banco + detalle inline).
