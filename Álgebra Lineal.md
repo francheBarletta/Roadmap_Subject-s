@@ -16,9 +16,9 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 ---
 
-## Estado actual (26 Agosto)
+## Estado actual (28 Agosto)
 
-- **Práctico 1 completo.** Arrancando Práctico 2 ahora (miércoles 26, 2h) — sigue el viernes 28 con un sprint de 8h dedicado 100% a Álgebra (jueves 27 es paro no docente, libre).
+- **Práctico 1 completo.** Práctico 2: solo el ej. 1a resuelto — el viernes rindió menos de lo esperado (~5h45 de las 8h planeadas). Se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2.
 
 ---
 
@@ -114,15 +114,16 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | Vie 21 Ago | Vie | Libre — sin materia |
 | Sáb 22 Ago | Sáb | **Álgebra** — P1 ej. 3, 11, 12, 13 *(cierra P1 — hecho)* |
 | Mar 25 Ago | Mar | **Álgebra** — P1 ej. 12, 13 *(hecho, cierra P1)* |
-| Mié 26 Ago | **P2 ej. 1, 2** |
-| Vie 28 Ago | **P2 ej. 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13** |
+| Mié 26 Ago | Se planeaba avanzar P2, pero no se llegó a resolver nada ese día |
+| Vie 28 Ago | **P2 ej. 1a** *(único resuelto — el día rindió menos de lo esperado, ~5h45 en vez de 8h)* |
 | ~~Jue 27 Ago~~ | ~~Jue~~ | Libre (paro no docente) |
-| Sáb 29 Ago | Sáb | Lógica (día de sprint — sin Álgebra) |
-| Dom 30 Ago | Dom | PyE (día de sprint — sin Álgebra) |
-| Lun 31 Ago → Mar 22 Sep | — | Sin prácticos nuevos todavía. Usar Miércoles y Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
+| Sáb 29 Ago | Sáb | **Álgebra** (día corrido +1 por el viernes flojo) — **P2 ej. 1b, 2-13** |
+| Dom 30 Ago | Dom | Lógica (día corrido — sin Álgebra) |
+| Lun 31 Ago | Lun | PyE (día corrido — sin Álgebra) |
+| Mar 1 Sep → Mar 22 Sep | — | Sin prácticos nuevos todavía. Usar Miércoles y Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
 | **Mar 22 Sep** | Mar | **PRIMER PARCIAL** |
 
-> **P1 completo.** Con el jueves 27 libre (paro no docente) y el sprint de 8h dedicado a Álgebra el viernes 28, el temario (P1+P2, 19 ejercicios) cierra ese mismo viernes — casi un mes de margen antes del parcial.
+> **Corrida del 28/8:** el viernes rindió mucho menos de lo esperado (~5h45 de 8h, y solo se resolvió el ej. 1a) — se corrieron las 4 materias del sprint un lugar cada una: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2 (en vez de SR). Con eso, Álgebra cierra el Práctico 2 completo el sábado 29 — sigue con más de tres semanas de margen antes del parcial.
 
 ### Detalle día por día
 **Mié 26 Ago** *(Práctico 1 completo — hecho)* — P1 ej. 1, 2, 3, 11, 12, 13
@@ -133,8 +134,13 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 * *Ej 12* — Resolver los sistemas lineales en R y comparar con el ejercicio anterior — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
 * *Ej 13* — Resolver sistemas lineales en Q, R y C — 🎥 "Sistemas de ecuaciones lineales 2x2 — Método de Sustitución" — https://www.youtube.com/watch?v=LTfv1G2iYuQ
 
-**Vie 28 Ago** *(8h — cierra P2, temario completo)* — P2 ej. 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
-* *Ej 1* — Decidir si los sistemas son equivalentes; expresar ecuaciones del primero como combinación lineal del segundo — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
+**Mié 26 Ago** — no se resolvió nada de P2 ese día (el plan lo tenía como en curso, pero no avanzó).
+
+**Vie 28 Ago** *(~5h45 repartidas en 3 bloques — rindió menos de lo esperado)* — P2 ej. 1a
+* *Ej 1a* — Sistema (a): decidir si son equivalentes y expresar la combinación lineal — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
+
+**Sáb 29 Ago** *(día corrido +1 — cierra P2, temario completo)* — P2 ej. 1b, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+* *Ej 1b* — Sistema (b): decidir si son equivalentes y expresar la combinación lineal (o justificar por qué no aplica) — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
 * *Ej 2* — Mostrar que dos sistemas NO son equivalentes estudiando sus soluciones — 🎥 "Álgebra Abstracta — Estructuras Algebraicas, Ejercicio 1" — https://www.youtube.com/watch?v=ZGUgMtX0Udk
 * *Ej 3* — Demostrar que dos matrices dadas no son equivalentes por filas — 🎥 "Matriz escalonada reducida por filas paso a paso" — https://www.youtube.com/watch?v=BLr4V7rDsmY
 * *Ej 4* — Reducir matriz A por filas: resolver AX=0 y AX=b en Q, R y C — 🎥 "Álgebra Lineal — Matriz Escalonada Reducida (3/3)" — https://www.youtube.com/watch?v=3XH42hAQFos
@@ -152,7 +158,8 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 ## Notas del método
 
-- **Sprint post-gripe (26-28/8):** P1 confirmado completo. Jueves 27 es paro no docente (libre, sin estudio). Viernes 28 se dedica 8h enteras a Álgebra (parte del sprint Vie-Lun de 1 materia/día: Vie=Álgebra, Sáb=Lógica, Dom=PyE, Lun=AyED2) — con eso el Práctico 2 completo cierra ese mismo viernes.
+- **Corrida del 28/8:** el viernes de sprint rindió mucho menos de lo esperado (~5h45 de 8h, solo se resolvió ej. 1a) — se corrieron las 4 materias del sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2 (en vez del día de SR normal). Con eso, P2 completo cierra el sábado 29.
+- **Sprint post-gripe (26-28/8):** P1 confirmado completo. Jueves 27 fue paro no docente (libre, sin estudio).
 - Se salteó números complejos del Práctico 1 (ej. 4-10) por decisión explícita — pendiente sumarlos cuando se decida retomarlos.
 - Como Álgebra "cuesta más", el ritmo de práctico (Martes/Jueves) se fijó en 2 ejercicios en vez de los 3 que se usan en PyE.
 - Cuando lleguen nuevos prácticos, se agregan guía por guía manteniendo este mismo formato (tabla resumen + detalle inline con video único por ejercicio).

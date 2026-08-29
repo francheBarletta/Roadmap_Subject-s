@@ -13,9 +13,9 @@
 
 ---
 
-## Estado actual (26 Agosto)
+## Estado actual (28 Agosto)
 
-- Nada resuelto todavía. Se perdieron tres domingos seguidos: 16/8, 23/8 y 30/8 (este último porque el domingo del sprint se lo lleva PyE) — pero el 30/8 no se pierde de verdad: se fusiona con el contenido del domingo siguiente en el lunes 31/8 (día de AED2 dentro del sprint Vie=Álgebra/Sáb=Lógica/Dom=PyE/Lun=AyED2), así que arranca ahí con el doble de contenido (4h) y el resto del cronograma no se mueve.
+- Nada resuelto todavía. Se perdieron tres domingos seguidos: 16/8, 23/8 y 30/8 (el sprint se corrió un lugar por un viernes flojo de Álgebra, así que ahora AED2 le toca al martes en vez del lunes) — el 30/8 no se pierde de verdad: se fusiona con el contenido del domingo siguiente en el martes 1/9 (día de AED2 dentro del sprint Sáb=Álgebra/Dom=Lógica/Lun=PyE/Mar=AyED2), arrancando ahí con el doble de contenido (4h). El resto del cronograma no se mueve.
 - Prácticos disponibles: **Práctico 1** (Parte 1, 2 y 3), **Práctico 2** (Parte 1, 2 y 3), **Práctico 3** (Parte 1: voraces, Parte 2: voraces en grafos, Parte 3: backtracking, Parte 4: programación dinámica).
 - **Práctico 0** (introducción al lenguaje de la materia) queda como lectura de referencia — no tiene ejercicios a resolver de cero (trae las soluciones incluidas), pero conviene repasarlo antes de arrancar porque define la sintaxis (`proc`, `fun`, `array`, `for`, `while`, etc.) que se usa en todos los prácticos siguientes.
 - Por el desfasaje entre el ritmo real (~3 ejercicios/domingo) y los ejercicios totales de los 3 prácticos (70), se acordó **saltear los ejercicios "de aplicación" repetitivos** dentro de cada sección (mismo criterio/técnica aplicado a distintos disfraces) para bajar el total a 59 y que entre en las 16 semanas disponibles.
@@ -81,7 +81,7 @@
 | ~~Dom 16 Ago~~ | ~~**PERDIDO**~~ (familia de visita) |
 | ~~Dom 23 Ago~~ | ~~**PERDIDO**~~ (semana de gripe, sin AED2) |
 | ~~Dom 30 Ago~~ | ~~**PERDIDO**~~ (domingo del sprint, se lo lleva PyE) |
-| Lun 31 Ago | **P1.1 ej. 1, 3, 4, 5, 6, 7, 8, 10 (4h — fusiona lo de los dos domingos anteriores, cierra P1 Parte 1)** |
+| Mar 1 Sep | **P1.1 ej. 1, 3, 4, 5, 6, 7, 8, 10 (4h — fusiona lo de los dos domingos anteriores, cierra P1 Parte 1)** |
 | Dom 6 Sep | — *(no es día de AED2 esta semana — el lunes ya cubrió lo suyo)* |
 | Dom 13 Sep | **P1.2 ej. 1, 2, 3, 4** |
 | Dom 20 Sep | **P1.2 ej. 5, 6 (cierra P1 Parte 2) · P1.3 ej. 1, 2, 3** |
@@ -103,7 +103,7 @@
 
 ## Detalle día por día
 
-**Lun 31 Ago** *(4h — fusiona los dos domingos perdidos, cierra P1 Parte 1)* — P1.1 ej. 1, 3, 4, 5, 6, 7, 8, 10
+**Mar 1 Sep** *(4h — fusiona los dos domingos perdidos, cierra P1 Parte 1)* — P1.1 ej. 1, 3, 4, 5, 6, 7, 8, 10
 * *Ej 1* — Inicializar cada componente del arreglo con 0, usando `do` — 🎥 "CLASE 25 - Arreglos: recorrer elementos" — https://www.youtube.com/watch?v=KGU8k6V2-VI
 * *Ej 3* — Determinar si un arreglo está ordenado — 🎥 "Recorrer un Arreglo en C++" — https://www.youtube.com/watch?v=lCD6kjj4mu4
 * *Ej 4* — Ordenar arreglos con el algoritmo de selección, mostrando cada paso — 🎥 "Algoritmo de Selección — Explicación y Ejemplo Paso a Paso" — https://www.youtube.com/watch?v=1TLehzzoauU
@@ -193,7 +193,8 @@
 
 ## Notas del método
 
-- **Sprint post-TP (26-31/8):** el domingo 30/8 se lo lleva PyE (día de sprint). Se fusiona su contenido con el del domingo siguiente en el lunes 31/8 (4h = 2h+2h) — el resto del cronograma no se corre ni un día.
+- **Corrida del 28/8:** el viernes de Álgebra rindió menos de lo esperado, así que se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. El día de AED2 pasó del lunes 31/8 al martes 1/9.
+- **Sprint post-TP (26-31/8):** el domingo 30/8 se lo lleva PyE (día de sprint). Se fusiona su contenido con el del domingo siguiente en el martes 1/9 (4h = 2h+2h) — el resto del cronograma no se corre ni un día.
 - **Corrida del 22/8 (gripe):** se perdió también el domingo 23/8 — esa semana PyE tuvo prioridad sobre AED2.
 - **Corrida del 17/8:** se perdió el domingo 16/8 por un imprevisto familiar.
 

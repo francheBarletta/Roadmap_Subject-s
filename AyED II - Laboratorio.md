@@ -13,9 +13,9 @@
 
 ---
 
-## Estado actual (26 Agosto)
+## Estado actual (28 Agosto)
 
-- Nada resuelto todavía. Se perdieron tres domingos seguidos: 16/8, 23/8 y 30/8 (este último porque el domingo del sprint se lo lleva PyE) — pero el 30/8 no se pierde de verdad: se fusiona con el contenido del domingo siguiente en el lunes 31/8 (día de AED2 dentro del sprint), arrancando ahí con el doble de contenido (4h). El resto del cronograma no se mueve.
+- Nada resuelto todavía. Se perdieron tres domingos seguidos: 16/8, 23/8 y 30/8 (el sprint se corrió un lugar por un viernes flojo de Álgebra, así que ahora AED2 le toca al martes en vez del lunes) — el 30/8 no se pierde de verdad: se fusiona con el contenido del domingo siguiente en el martes 1/9 (día de AED2 dentro del sprint), arrancando ahí con el doble de contenido (4h). El resto del cronograma no se mueve.
 - Laboratorios disponibles: **Lab 0** (repaso C), **Lab 1** (ordenación), **Lab 2** (divide y vencerás), **Lab 3** (tipos de datos), **Lab 4** (punteros y memoria dinámica), **Lab 5 Parte 1** (TADs — puede faltar la Parte 2), **Lab 6** (programación dinámica).
 - Con 25 ejercicios (contando sub-partes a/b/c) repartidos en apenas 16 domingos, el ritmo queda **más comprimido que en el teórico-práctico** — varios domingos agrupan 2 ejercicios livianos en vez de 1, y no queda margen antes del Llamado 1 (a diferencia del teórico-práctico, que sí tiene un domingo de repaso).
 - Los ejercicios que ya vienen con solución provista por la cátedra (como el ítem eliminado del Lab 6) se saltean — solo se repasa la solución en vez de resolverla de cero.
@@ -71,7 +71,7 @@
 | ~~Dom 16 Ago~~ | ~~**PERDIDO**~~ (familia de visita) |
 | ~~Dom 23 Ago~~ | ~~**PERDIDO**~~ (semana de gripe, sin AED2) |
 | ~~Dom 30 Ago~~ | ~~**PERDIDO**~~ (domingo del sprint, se lo lleva PyE) |
-| Lun 31 Ago | Lab 0: Ej. 1, 2, 3a, 3b completo — **cierra Lab 0** + Lab 1: Ej. 0 (fixstring) + Lab 1: Ej. 1 A, B, C (insertion sort completo) — **4h, fusiona lo de los dos domingos anteriores** |
+| Mar 1 Sep | Lab 0: Ej. 1, 2, 3a, 3b completo — **cierra Lab 0** + Lab 1: Ej. 0 (fixstring) + Lab 1: Ej. 1 A, B, C (insertion sort completo) — **4h, fusiona lo de los dos domingos anteriores** |
 | Dom 6 Sep | — *(no es día de AED2 esta semana — el lunes ya cubrió lo suyo)* |
 | Dom 13 Sep | Lab 1: Ej. 2 A, B (quick sort I) + Ej. 3 (quick sort II: partition) |
 | Dom 20 Sep | Lab 1: Ej. 4 (versus) + Ej. 5 a, b (ordenación alfabética) — **cierra Lab 1** |
@@ -91,7 +91,7 @@
 
 ## Detalle día por día
 
-**Lun 31 Ago** *(4h — cierra Lab 0, fusiona los dos domingos perdidos)* — Lab 0: Ej. 1, 2, 3a, 3b · Lab 1: Ej. 0 · Lab 1: Ej. 1 (A, B, C)
+**Mar 1 Sep** *(4h — cierra Lab 0, fusiona los dos domingos perdidos)* — Lab 0: Ej. 1, 2, 3a, 3b · Lab 1: Ej. 0 · Lab 1: Ej. 1 (A, B, C)
 * *Lab 0, Ej 1* — `check_bound()`: cota superior/inferior + búsqueda en un único ciclo, usando `struct bound_data` — 🎥 "Programación en C: STRUCTS y vectores de STRUCTS" — https://www.youtube.com/watch?v=kdKHZsxdHz4
 * *Lab 0, Ej 2* — Leer y entender el tictactoe incompleto: implementar `has_free_cell()` y `get_winner()` — 🎥 "Arreglos bidimensionales C# — Colecciones y Arreglos" — https://www.youtube.com/watch?v=dXchlGBS0FQ
 * *Lab 0, Ej 3a* — Tictactoe generalizado a tablero 4x4 (4 en línea para ganar) — 🎥 "C #20 — Arreglo Bidimensional" — https://www.youtube.com/watch?v=dei49_2PltI
@@ -173,7 +173,8 @@
 
 ## Notas del método
 
-- **Sprint post-TP (26-31/8):** el domingo 30/8 se lo lleva PyE (día de sprint). Se fusiona su contenido (Lab 0 + Lab 1 Ej. 0) con el del domingo siguiente (Lab 1 Ej. 1) en el lunes 31/8 (4h = 2h+2h) — el resto del cronograma no se corre ni un día.
+- **Corrida del 28/8:** el viernes de Álgebra rindió menos de lo esperado, así que se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. El día de AED2 pasó del lunes 31/8 al martes 1/9.
+- **Sprint post-TP (26-31/8):** el domingo 30/8 se lo lleva PyE (día de sprint). Se fusiona su contenido (Lab 0 + Lab 1 Ej. 0) con el del domingo siguiente (Lab 1 Ej. 1) en el martes 1/9 (4h = 2h+2h) — el resto del cronograma no se corre ni un día.
 - **Corrida del 22/8 (gripe):** se perdió también el domingo 23/8. Como ya no había margen para absorberlo, Lab 0 completo se fusionó con Lab 1 Ej. 0 en un solo domingo (30/8) — ese domingo ahora se fusionó a su vez en el lunes 31/8 (ver arriba).
 - **Corrida del 17/8:** se perdió el domingo 16/8 (imprevisto familiar) — Lab 0 (que tenía 2 domingos) ya se había fusionado en uno solo entonces.
 - 14 domingos + 1 lunes (31/8) para 25 ejercicios (con sub-partes), sin margen de repaso antes del final. El domingo más cargado sigue siendo el último (29/11, cierre del Lab 6) — si hace falta liberar tiempo, ese es el primer candidato a aligerar (por ejemplo, dejando la fábrica de automóviles solo de lectura).

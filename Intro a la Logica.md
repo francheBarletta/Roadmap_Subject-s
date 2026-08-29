@@ -19,7 +19,7 @@
 - **Práctico 1 completo** (todos los ejercicios, terminado el lunes 24). Práctico 2: **cero ejercicios resueltos todavía** — el martes 25 estaba pensado como día especial para arrancarlo, pero no se llegó a resolver nada.
 - Se resuelven **todos** los ejercicios de los 5 prácticos, salvo los que requieran conceptos aún no vistos en el teórico (por ahora: P3 ej. 11, reticulados complementados).
 - Los ejercicios marcados con (*) se dejan para el final de cada práctico, como cierre/repaso.
-- Sábado 29 es día de sprint (8h, 100% Lógica) dentro de la semana Vie=Álgebra / Sáb=Lógica / Dom=PyE / Lun=AyED2 — arranca ahí de cero con el Práctico 2 completo.
+- Sábado 29 pasa a ser Álgebra; domingo 30 es ahora el día de sprint (8h, 100% Lógica) — corrido un lugar por un viernes flojo de Álgebra.
 
 ---
 
@@ -164,28 +164,30 @@
 | Mié 26 Ago | Mié | Álgebra (no es día de Lógica hoy) |
 | ~~Jue 27 Ago~~ | ~~Jue~~ | Libre (paro no docente) |
 | Vie 28 Ago | Vie | Álgebra (día de sprint — sin Lógica) |
-| Sáb 29 Ago | Sáb | **Lógica** (8h — sprint, cierra P2 completo) — **P2 ej. 1, 2, 3, 4, 5, 6, 2c\*** + **P3 ej. 1, 2, 3, 4, 5** |
-| Dom 30 Ago | Dom | PyE (día de sprint — sin Lógica) |
-| Lun 31 Ago | Lun | AyED2 (día de sprint — sin Lógica) |
-| Mar 1 Sep → Vie 11 Sep | — | Retoma el cronograma semanal normal (Lun/Mié/Jue/Vie/Sáb) desde donde quedó P3 (ej. 6, 8, 9, 10, 13, 7\*, 12\*, salvo el 11\* que sigue pendiente de teórico) — se detalla cuando se confirme el avance real del sábado. |
+| Sáb 29 Ago | Sáb | Álgebra (día corrido — sin Lógica) |
+| Dom 30 Ago | Dom | **Lógica** (8h — sprint, cierra P2 completo) — **P2 ej. 1, 2, 3, 4, 5, 6, 2c\*** + **P3 ej. 1, 2, 3, 4, 5** |
+| Lun 31 Ago | Lun | PyE (día corrido — sin Lógica) |
+| Mar 1 Sep | Mar | AyED2 (día corrido — sin Lógica) |
+| Mié 2 Sep → Vie 11 Sep | — | Retoma el cronograma semanal normal (Lun/Mié/Jue/Vie/Sáb) desde donde quedó P3 (ej. 6, 8, 9, 10, 13, 7\*, 12\*, salvo el 11\* que sigue pendiente de teórico) — se detalla cuando se confirme el avance real del domingo. |
 | **Vie 11 Sep** | Vie | **PRIMER PARCIAL** |
 
-> **P1 completo.** El jueves 27 es paro no docente (libre). El sábado 29 es el día de sprint dedicado 100% a Lógica (8h) dentro de la semana Vie=Álgebra / Sáb=Lógica / Dom=PyE / Lun=AyED2 — contando el avance conceptual que ya tenías de P2, ese día cierra el Práctico 2 completo y avanza bastante en P3. El resto de P3, P4 y P5 se retoma con el cronograma semanal normal a partir del martes 1/9, según cuánto realmente se resuelva el sábado.
+> **P1 completo.** El sprint se corrió un lugar por un viernes flojo de Álgebra: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. El domingo 30 es ahora el día de sprint dedicado 100% a Lógica (8h) — arrancando de cero en P2 (nada se resolvió el martes 25), ese día cierra el Práctico 2 completo y avanza en P3. El resto de P3, P4 y P5 se retoma con el cronograma semanal normal a partir del miércoles 2/9, según cuánto realmente se resuelva el domingo.
 
 ### Detalle día por día
-
-**Lun 24 Ago** *(~4h, + PyE — cierra P1)* — P1 ej. 6, 7
+**Sáb 22 Ago** *(3h, + Álgebra — se perdieron Mié19/Jue20/Vie21 por gripe, arranca de cero acá)* — P1 ej. 1-5
 * *Ej 1* — Determinar si la relación dada es de equivalencia sobre {1,...,5}; indicar clases — 🎥 "Relaciones de equivalencia, clases y conjunto cociente" — https://www.youtube.com/watch?v=8GxiX1xHJtk
 * *Ej 2* — Determinar si las relaciones sobre Z son reflexivas, simétricas, antisimétricas o transitivas — 🎥 "Relaciones de orden parcial 01" — https://www.youtube.com/watch?v=FCIQb4MNrP4
 * *Ej 3* — Usando el ej. 2, determinar si cada relación es de equivalencia y/o de orden — 🎥 "Relaciones reflexivas, transitivas y simétricas" — https://www.youtube.com/watch?v=5L8oMg1roGE
 * *Ej 4* — Probar que la relación {(x,y) | f(x)=f(y)} es de equivalencia; comparar con 2a — 🎥 "Clases de equivalencia y conjunto cociente — Ejercicio" — https://www.youtube.com/watch?v=bJFBxC5qcUA
 * *Ej 5* — Orden parcial estricto → orden parcial (unión con igualdad); y a la inversa — 🎥 "Relaciones — propiedades, ejemplos y contraejemplos" — https://www.youtube.com/watch?v=-wxZsukZcac
+
+**Lun 24 Ago** *(~4h, + PyE — cierra P1)* — P1 ej. 6, 7
 * *Ej 6* — Listar pares de la relación de equivalencia definida por una partición dada; clases — 🎥 "Relaciones de equivalencia — Ejercicios resueltos" — https://www.youtube.com/watch?v=Yly68pfz2ac
 * *Ej 7 (P1)* — Relación "Fulano no es más viejo que Mengano": ejemplo donde no es orden parcial — 🎥 "Relaciones propiedades 04" — https://www.youtube.com/watch?v=MMUzadgFLvc
 
-**Mar 25 Ago** — Se hizo resumen
+**Mar 25 Ago** — *no se tocó Lógica ese día (el plan original lo tenía como "día especial", pero no se llegó a resolver nada de P2 — arranca de cero el sábado)*
 
-**Sáb 29 Ago** *(8h — sprint, cierra P2 completo)* — P2 ej. 1, 2, 3, 4, 5, 6, 2c\* · P3 ej. 1, 2, 3, 4, 5
+**Dom 30 Ago** *(8h — sprint, cierra P2 completo)* — P2 ej. 1, 2, 3, 4, 5, 6, 2c\* · P3 ej. 1, 2, 3, 4, 5
 * *Ej 1 (P2)* — Diagramas de Hasse A,B,C: maximales/minimales, máximo/mínimo, qué cubre a "e", cotas y supremos/ínfimos de conjuntos dados — 🎥 "Diagrama de Hasse — cota superior, maximales, minimales, máximo, mínimo" — https://www.youtube.com/watch?v=BCH9auS9yi8
 * *Ej 2 (P2)* — V o F sobre posets: único maximal ⟹ máximo (finito / general) — 🎥 "Objetos Maximales y Minimales — Conjuntos Ordenados" — https://www.youtube.com/watch?v=RDxwk9Vjth4
 * *Ej 3 (P2)* — Dar diagramas de Hasse de P={a,b,c,d,e} que satisfagan condiciones sobre sup/ínf — 🎥 "Estructuras de orden — Elementos maximales, máximo, minimales, mínimo" — https://www.youtube.com/watch?v=5NRQPEKluTg
@@ -203,7 +205,8 @@
 
 ## Notas del método
 
-- **Sprint post-TP (26-31/8):** P1 confirmado completo, con 8/10 en el TP sorpresa del 26/8. El martes 25 no se avanzó nada de P2 (pese a estar planeado como "día especial"). Jueves 27 es paro no docente (libre). El sábado 29 es el día de sprint dedicado 100% a Lógica (8h) dentro de la semana Vie=Álgebra / Sáb=Lógica / Dom=PyE / Lun=AyED2 — arranca ahí de cero con el Práctico 2 completo y avanza en P3. El resto (P3 restante, P4, P5) se retoma con el cronograma semanal normal desde el martes 1/9, según cuánto se resuelva realmente el sábado.
+- **Corrida del 28/8:** el viernes de Álgebra rindió menos de lo esperado, así que se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. El domingo 30 es ahora el día de sprint dedicado 100% a Lógica (8h) — arranca de cero con el Práctico 2 completo y avanza en P3. El resto (P3 restante, P4, P5) se retoma con el cronograma semanal normal desde el miércoles 2/9, según cuánto se resuelva realmente el domingo.
+- **Sprint post-TP (26-28/8):** P1 confirmado completo, con 8/10 en el TP sorpresa del 26/8. El martes 25 no se avanzó nada de P2 (pese a estar planeado como "día especial"). Jueves 27 fue paro no docente (libre).
 - **Corrida del 22/8 (gripe):** se perdieron Mié 19, Jue 20 y Vie 21 por gripe. El Sáb 22 se acortó a 3h (repartido con Álgebra) y el Mar 25 se convirtió en un día especial 100% Lógica (sin PyE ni Álgebra) para recuperar terreno.
 - **Corrida anterior (17/8):** Sáb 15, Dom 16 y Lun 17 se perdieron por un imprevisto familiar.
 
