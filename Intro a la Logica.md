@@ -14,12 +14,12 @@
 
 ---
 
-## Estado actual (26 Agosto)
+## Estado actual (1 Septiembre)
 
-- **Práctico 1 completo** (todos los ejercicios, terminado el lunes 24). Práctico 2: **cero ejercicios resueltos todavía** — el martes 25 estaba pensado como día especial para arrancarlo, pero no se llegó a resolver nada.
+- **Práctico 1 completo** (todos los ejercicios, terminado el lunes 24, TP sorpresa 8/10). Práctico 2: **ej. 1-3 hechos** (domingo 30, rindió menos de lo esperado); el lunes 31 se usó para la clase particular de Álgebra en vez de Lógica.
 - Se resuelven **todos** los ejercicios de los 5 prácticos, salvo los que requieran conceptos aún no vistos en el teórico (por ahora: P3 ej. 11, reticulados complementados).
 - Los ejercicios marcados con (*) se dejan para el final de cada práctico, como cierre/repaso.
-- Sábado 29 pasa a ser Álgebra; domingo 30 es ahora el día de sprint (8h, 100% Lógica) — corrido un lugar por un viernes flojo de Álgebra.
+- Objetivo para el martes 1/9: terminar el Práctico 2 completo (ej. 4, 5, 6, 2c\*).
 
 ---
 
@@ -165,13 +165,13 @@
 | ~~Jue 27 Ago~~ | ~~Jue~~ | Libre (paro no docente) |
 | Vie 28 Ago | Vie | Álgebra (día de sprint — sin Lógica) |
 | Sáb 29 Ago | Sáb | Álgebra (día corrido — sin Lógica) |
-| Dom 30 Ago | Dom | **Lógica** (8h — sprint, cierra P2 completo) — **P2 ej. 1, 2, 3, 4, 5, 6, 2c\*** + **P3 ej. 1, 2, 3, 4, 5** |
-| Lun 31 Ago | Lun | PyE (día corrido — sin Lógica) |
-| Mar 1 Sep | Mar | AyED2 (día corrido — sin Lógica) |
-| Mié 2 Sep → Vie 11 Sep | — | Retoma el cronograma semanal normal (Lun/Mié/Jue/Vie/Sáb) desde donde quedó P3 (ej. 6, 8, 9, 10, 13, 7\*, 12\*, salvo el 11\* que sigue pendiente de teórico) — se detalla cuando se confirme el avance real del domingo. |
+| Dom 30 Ago | Dom | **Lógica** — **P2 ej. 1, 2, 3** *(el sprint rindió menos de lo planeado — no se llegó a P3)* |
+| Lun 31 Ago | Lun | *(no se tocó Lógica — día de la clase particular de Álgebra)* |
+| Mar 1 Sep | Mar | **Lógica** (día corrido — objetivo: terminar P2) — **P2 ej. 4, 5, 6, 2c\*** |
+| Mié 2 Sep → Vie 11 Sep | — | Retoma el cronograma semanal normal (Lun/Mié/Jue/Vie/Sáb) desde P3 ej. 1 en adelante — se detalla cuando se confirme el avance real del martes. |
 | **Vie 11 Sep** | Vie | **PRIMER PARCIAL** |
 
-> **P1 completo.** El sprint se corrió un lugar por un viernes flojo de Álgebra: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. El domingo 30 es ahora el día de sprint dedicado 100% a Lógica (8h) — arrancando de cero en P2 (nada se resolvió el martes 25), ese día cierra el Práctico 2 completo y avanza en P3. El resto de P3, P4 y P5 se retoma con el cronograma semanal normal a partir del miércoles 2/9, según cuánto realmente se resuelva el domingo.
+> **P1 completo.** El domingo 30 el sprint rindió menos de lo esperado (P2 ej. 1-3 nomás, no llegó a P3), y el lunes 31 se usó para la clase particular de Álgebra en vez de Lógica. El objetivo para el martes 1/9 es cerrar el Práctico 2 completo (ej. 4, 5, 6 y 2c\*). El resto (P3, P4, P5) se retoma con el cronograma semanal normal a partir del miércoles 2/9.
 
 ### Detalle día por día
 **Sáb 22 Ago** *(3h, + Álgebra — se perdieron Mié19/Jue20/Vie21 por gripe, arranca de cero acá)* — P1 ej. 1-5
@@ -187,14 +187,20 @@
 
 **Mar 25 Ago** — *no se tocó Lógica ese día (el plan original lo tenía como "día especial", pero no se llegó a resolver nada de P2 — arranca de cero el sábado)*
 
-**Dom 30 Ago** *(8h — sprint, cierra P2 completo)* — P2 ej. 1, 2, 3, 4, 5, 6, 2c\* · P3 ej. 1, 2, 3, 4, 5
+**Dom 30 Ago** *(sprint — rindió menos de lo esperado)* — P2 ej. 1, 2, 3 *(hecho)*
 * *Ej 1 (P2)* — Diagramas de Hasse A,B,C: maximales/minimales, máximo/mínimo, qué cubre a "e", cotas y supremos/ínfimos de conjuntos dados — 🎥 "Diagrama de Hasse — cota superior, maximales, minimales, máximo, mínimo" — https://www.youtube.com/watch?v=BCH9auS9yi8
 * *Ej 2 (P2)* — V o F sobre posets: único maximal ⟹ máximo (finito / general) — 🎥 "Objetos Maximales y Minimales — Conjuntos Ordenados" — https://www.youtube.com/watch?v=RDxwk9Vjth4
 * *Ej 3 (P2)* — Dar diagramas de Hasse de P={a,b,c,d,e} que satisfagan condiciones sobre sup/ínf — 🎥 "Estructuras de orden — Elementos maximales, máximo, minimales, mínimo" — https://www.youtube.com/watch?v=5NRQPEKluTg
+
+**Lun 31 Ago** — no se tocó Lógica (día de la clase particular de Álgebra).
+
+**Mar 1 Sep** *(día corrido — objetivo: terminar P2)* — P2 ej. 4, 5, 6, 2c\*
 * *Ej 4 (P2)* — Poset [0,1)∪[2,3) con orden heredado: V o F sobre existencia de supremos — 🎥 "Poset de Z — Matemática Discreta" — https://www.youtube.com/watch?v=6n6ZgStal4E
 * *Ej 5 (P2)* — Probar que sup(S) e ínf(S) existen para todo S finito no vacío en un poset reticulado — 🎥 "Supremo e Ínfimo — Cotas y Conjuntos Ordenados" — https://www.youtube.com/watch?v=L3rgqDYANYM
 * *Ej 6 (P2)* — Diagramas de Hasse de (A,|) y (B,|) con divisores de 12; ¿cuáles son reticulados?; calcular 4∧(2∨3); subconjunto de P({a,b,c}) — 🎥 "Supremo e Ínfimo — Explicación con ejemplo" — https://www.youtube.com/watch?v=SslId-CutLQ
-* *Ej 2c* (P2)* — ¿Único maximal (sin ser finito) implica máximo? — 🎥 "Ínfimo, supremo, mínimo y máximo de un conjunto" — https://www.youtube.com/watch?v=RM11dDasmgg
+* *Ej 2c\* (P2)* — ¿Único maximal (sin ser finito) implica máximo? — 🎥 "Ínfimo, supremo, mínimo y máximo de un conjunto" — https://www.youtube.com/watch?v=RM11dDasmgg
+
+**Pendiente (a partir de Mié 2 Sep, se retoma según avance real)** — P3 ej. 1, 2, 3, 4...
 * *Ej 1 (P3)* — En el reticulado L2: encontrar v∨x, s∨v y u∨v — 🎥 "Relaciones de equivalencia || Conjunto Cociente" — https://www.youtube.com/watch?v=W6x35jEhHx8
 * *Ej 2 (P3)* — Demostrar x∨(y∧z) ≤ (x∨y)∧(x∨z) en todo poset reticulado — 🎥 "Asesorías — Relaciones de equivalencia, Ejercicio 1" — https://www.youtube.com/watch?v=vjjLC7Vh-NI
 * *Ej 3 (P3)* — Determinar si los mapeos f dados son isomorfismos de posets; qué falla si no — 🎥 "Relaciones de EQUIVALENCIA — Definición, Clases y Cociente" — https://www.youtube.com/watch?v=ke4FJlEe_EU
@@ -205,7 +211,7 @@
 
 ## Notas del método
 
-- **Corrida del 28/8:** el viernes de Álgebra rindió menos de lo esperado, así que se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. El domingo 30 es ahora el día de sprint dedicado 100% a Lógica (8h) — arranca de cero con el Práctico 2 completo y avanza en P3. El resto (P3 restante, P4, P5) se retoma con el cronograma semanal normal desde el miércoles 2/9, según cuánto se resuelva realmente el domingo.
+- **Corrida del 1/9:** el domingo 30 el sprint rindió menos de lo esperado (P2 ej. 1-3 nomás), y el lunes 31 se usó para la clase particular de Álgebra en vez de Lógica. Objetivo para el martes 1/9: terminar el Práctico 2 completo.
 - **Sprint post-TP (26-28/8):** P1 confirmado completo, con 8/10 en el TP sorpresa del 26/8. El martes 25 no se avanzó nada de P2 (pese a estar planeado como "día especial"). Jueves 27 fue paro no docente (libre).
 - **Corrida del 22/8 (gripe):** se perdieron Mié 19, Jue 20 y Vie 21 por gripe. El Sáb 22 se acortó a 3h (repartido con Álgebra) y el Mar 25 se convirtió en un día especial 100% Lógica (sin PyE ni Álgebra) para recuperar terreno.
 - **Corrida anterior (17/8):** Sáb 15, Dom 16 y Lun 17 se perdieron por un imprevisto familiar.

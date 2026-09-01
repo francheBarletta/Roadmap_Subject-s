@@ -13,11 +13,11 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 
 ---
 
-## Estado actual (28 Agosto)
+## Estado actual (1 Septiembre)
 
 - Recursada: se vuelve a cursar la materia completa, a full profundidad (no repaso liviano).
-- G1 ej. 1-3 confirmados. Ej. 4-6 ya se habían hecho pero se retoman en el sprint para afianzar mejor la base.
-- Lunes 31 es ahora el día de sprint dedicado a PyE (8h) — corrido un lugar por un viernes flojo de Álgebra: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. Parcial 1 confirmado el 29/9.
+- G1 ej. 1-3 confirmados. El lunes fue un día disperso y no se avanzó nada — el plan de PyE se corrió al martes 1/9: 4 ejercicios en el práctico de la facultad + 4 más a la tarde (G1 ej. 4-11).
+- Parcial 1 confirmado el 29/9 — sigue habiendo margen amplio.
 
 ---
 
@@ -257,12 +257,12 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 | Vie 28 Ago | Vie | Álgebra (día de sprint — sin PyE) |
 | Sáb 29 Ago | Sáb | Álgebra (día corrido — sin PyE) |
 | Dom 30 Ago | Dom | Lógica (día corrido — sin PyE) |
-| Lun 31 Ago | Lun | **PyE** (8h — sprint) — **G1 ej. 4-15**, retomando desde el 4 para afianzar |
-| Mar 1 Sep | Mar | AyED2 (día corrido — sin PyE) |
-| Mié 2 Sep → Mar 29 Sep | — | Retoma el cronograma semanal normal (Mar/Jue/Dom/Lun) desde G1 ej. 16 en adelante — se detalla cuando se confirme el avance real del lunes. |
+| Lun 31 Ago | Lun | *(no se avanzó — día disperso, se corrió el sprint de PyE al martes)* |
+| Mar 1 Sep | Mar | **PyE** — práctico (4 ej.) + tarde post-facu (4 ej.) — **G1 ej. 4, 5, 6, 7, 8, 9, 10, 11** |
+| Mié 2 Sep → Mar 29 Sep | — | Retoma el cronograma semanal normal (Mar/Jue/Dom/Lun) desde G1 ej. 12 en adelante — se detalla cuando se confirme el avance real del martes. |
 | **Mar 29 Sep** | Mar | **FINAL PARCIAL 1 — sin sesión** |
 
-> **Restart en G1 ej.4:** aunque ya se había llegado hasta el ej.6, se decidió retomar desde el ej.4 para afianzar mejor el contenido, en vez de seguir avanzando sin base sólida. El sprint se corrió un lugar por un viernes flojo de Álgebra: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. El lunes 31 es ahora el día de sprint dedicado a PyE (8h). Con el Parcial 1 confirmado el 29/9, sigue habiendo margen amplio.
+> **Corrida del 1/9:** el lunes fue un día disperso y no se avanzó nada de PyE — se corrió al martes. Plan para mañana: 4 ejercicios en el práctico de la facultad + 4 más a la tarde después de clase, arrancando en el ej. 4 (retomado para afianzar mejor la base). Con el Parcial 1 confirmado el 29/9, sigue habiendo margen amplio.
 
 #### Detalle día por día — próximas sesiones
 **Mar 18 Ago** *(práctico, 2h — INV-01 + ejercicios, llegó hasta el ej. 6)* — G1 ej. 1, 2, 3, 4, 5, 6
@@ -270,13 +270,8 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 * *Ej 2* — Demostrar P(B−A)=P(B)−P(A) si A⊆B; relación P(A), P(A∩B), P(A∪B) — 🎥 "Demostración. Teoremas de Probabilidad: Vacío, Unión y Complemento" — 
 https://www.youtube.com/watch?v=nDl0mhVkNeM
 * *Ej 3* — Licitaciones: uniones e intersecciones de 3 eventos — 🎥 "Probabilidades de 3 eventos" — https://www.youtube.com/watch?v=ipqWoW4yqik
-* *Ej 4* — Asignación de contratos a empresas: conteo y probabilidad — 🎥 "Técnicas de conteo — ejercicios resueltos" — https://www.youtube.com/watch?v=v3TFHZsqhME
-* *Ej 5* — Colectivos con grietas: selección de muestra sin reposición — 🎥 "Probabilidad, permutaciones y combinaciones — ejercicios resueltos" — 
-https://www.youtube.com/watch?v=lNQIT9Hir5I
-* *Ej 6* — Comisión de 2 entre 5 miembros: combinatoria + años de experiencia — 🎥 "Permutaciones y Combinaciones — Ejercicios Resueltos Nivel 1" — 
-https://www.youtube.com/watch?v=QXO3u6Ak4rU
 
-**Lun 31 Ago** *(8h — sprint, retoma desde ej.4 para afianzar)* — G1 ej. 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+**Mar 1 Sep** *(práctico, 4 ej. + tarde post-facu, 4 ej. más)* — G1 ej. 4, 5, 6, 7, 8, 9, 10, 11
 * *Ej 4* — Asignación de contratos a empresas (conteo + probabilidad) — 🎥 "Técnicas de conteo — ejercicios resueltos" — https://www.youtube.com/watch?v=v3TFHZsqhME
 * *Ej 5* — Colectivos con grietas: selección de muestra sin reposición — 🎥 "Probabilidad, permutaciones y combinaciones — ejercicios" — https://www.youtube.com/watch?v=lNQIT9Hir5I
 * *Ej 6* — Comisión de 2 entre 5 miembros: combinatoria + años de experiencia — 🎥 "Permutaciones y combinaciones — Nivel 1" — https://www.youtube.com/watch?v=QXO3u6Ak4rU
@@ -285,6 +280,8 @@ https://www.youtube.com/watch?v=QXO3u6Ak4rU
 * *Ej 9* — Tabla de camisas por talle/modelo/manga: conjunta y condicional desde tabla — 🎥 "Teorema de Bayes — ejercicios resueltos" — https://www.youtube.com/watch?v=ENiTI9Rgs-c
 * *Ej 10* — Demostraciones de propiedades de probabilidad condicional — 🎥 "Teorema de Bayes — ejercicios resueltos (selectividad)" — https://www.youtube.com/watch?v=G_4k4qxZRP4
 * *Ej 11* — Prueba diagnóstica de enfermedad: Bayes con falsos +/− — 🎥 "Teorema de Bayes — probabilidades, ejercicios resueltos" — https://www.youtube.com/watch?v=CP4ToX5Tyvw
+
+**Pendiente (a partir de Mié 2 Sep, se retoma según avance real)** — G1 ej. 12, 13, 14, 15
 * *Ej 12* — Demostrar independencia de eventos complementarios — 🎥 "Eventos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=Ny8NBX7ZLcw
 * *Ej 13* — Tablas de madera sin reposición: ¿A y B independientes? — 🎥 "Sucesos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=_vl-2RsrpgQ
 * *Ej 14* — Reparto de 52 cartas entre 4 jugadores — 🎥 "Permutaciones y combinaciones — Nivel 2A" — https://www.youtube.com/watch?v=ns7uwSVPLJk
@@ -364,7 +361,8 @@ https://www.youtube.com/watch?v=QXO3u6Ak4rU
 
 ## Notas del método
 
-- **Corrida del 28/8:** el viernes de Álgebra rindió menos de lo esperado, así que se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2. El lunes 31 es ahora el día de sprint dedicado a PyE (8h).
+- **Corrida del 1/9:** el lunes de PyE fue un día disperso, sin avance — se corrió al martes 1/9: 4 ejercicios en el práctico + 4 más a la tarde post-facu.
+- **Corrida del 28/8:** el viernes de Álgebra rindió menos de lo esperado, así que se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2.
 - **Sprint post-TP (26-28/8):** decidió retomar desde G1 ej.4 (en vez de seguir desde el 7) para afianzar mejor la base, tras sentir que no había aprendido bien esos ejercicios la primera vez. El martes 25 no se avanzó nada (semana dedicada a Lógica para el TP sorpresa). Jueves 27 fue paro no docente (libre).
 - **Corrección de fecha:** el Parcial 1 es el **29 de septiembre**, no el 22.
 - **Corrida del 22/8 (gripe):** se perdió el Jue 20 por gripe.

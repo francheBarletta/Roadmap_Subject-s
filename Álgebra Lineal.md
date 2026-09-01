@@ -16,9 +16,10 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 ---
 
-## Estado actual (28 Agosto)
+## Estado actual (1 Septiembre)
 
-- **Práctico 1 completo.** Práctico 2: solo el ej. 1a resuelto — el viernes rindió menos de lo esperado (~5h45 de las 8h planeadas). Se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2.
+- **Práctico 1 completo.** Práctico 2: hecho hasta el ej. 7 (confirmado en la clase particular del lunes 31/8, que fue repaso general sin ejercicios nuevos). Quedan ej. 8-13 (6 ejercicios).
+- Miércoles 2/9 se saltea Álgebra por completo — prioridad a PyE y Lógica esta semana. Se retoma el jueves 3/9 en el práctico de cursada.
 
 ---
 
@@ -117,11 +118,16 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | Mié 26 Ago | Se planeaba avanzar P2, pero no se llegó a resolver nada ese día |
 | Vie 28 Ago | **P2 ej. 1a** *(único resuelto — el día rindió menos de lo esperado, ~5h45 en vez de 8h)* |
 | ~~Jue 27 Ago~~ | ~~Jue~~ | Libre (paro no docente) |
-| Sáb 29 Ago | Sáb | **Álgebra** (día corrido +1 por el viernes flojo) — **P2 ej. 1b, 2-13** |
+| Sáb 29 Ago | Sáb | **Álgebra** — P2 ej. 1b-7 *(progreso real: llegó hasta acá entre sáb-dom-lun, confirmado hoy en la clase particular)* |
 | Dom 30 Ago | Dom | Lógica (día corrido — sin Álgebra) |
-| Lun 31 Ago | Lun | PyE (día corrido — sin Álgebra) |
-| Mar 1 Sep → Mar 22 Sep | — | Sin prácticos nuevos todavía. Usar Miércoles y Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
+| Lun 31 Ago | Lun | **Clase particular** — repaso general, sin avanzar ejercicios nuevos (quedó confirmado en el ej. 7) |
+| Mar 1 Sep | Mar | AyED2 (día corrido — sin Álgebra) |
+| Mié 2 Sep | Mié | *(salteado — prioridad a PyE y Lógica esta semana, vuelve más temprano sin quedarse al práctico)* |
+| Jue 3 Sep | Jue | **Álgebra** (práctico, 2h — dentro de la cursada) — retoma en **P2 ej. 8** |
+| Vie 4 Sep → Mar 22 Sep | — | Sin prácticos nuevos todavía más allá de lo que quede pendiente. Usar Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
 | **Mar 22 Sep** | Mar | **PRIMER PARCIAL** |
+
+> **Corrida del 1/9:** el progreso real de P2 quedó en el ej. 7 (no se cerró el práctico completo el sábado como estaba planeado). La clase particular del lunes fue repaso general, no avanzó ejercicios nuevos. El miércoles 2/9 se saltea Álgebra por completo — esta semana la prioridad es ponerse al día con PyE y Lógica — y se retoma el jueves 3/9 en el práctico de cursada, arrancando en el ej. 8.
 
 > **Corrida del 28/8:** el viernes rindió mucho menos de lo esperado (~5h45 de 8h, y solo se resolvió el ej. 1a) — se corrieron las 4 materias del sprint un lugar cada una: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2 (en vez de SR). Con eso, Álgebra cierra el Práctico 2 completo el sábado 29 — sigue con más de tres semanas de margen antes del parcial.
 
@@ -139,7 +145,7 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 **Vie 28 Ago** *(~5h45 repartidas en 3 bloques — rindió menos de lo esperado)* — P2 ej. 1a
 * *Ej 1a* — Sistema (a): decidir si son equivalentes y expresar la combinación lineal — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
 
-**Sáb 29 Ago** *(día corrido +1 — cierra P2, temario completo)* — P2 ej. 1b, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+**Sáb 29 → Lun 31 Ago** *(progreso real entre el sábado, domingo y la clase particular del lunes)* — P2 ej. 1b, 2, 3, 4, 5, 6, 7 *(hecho)*
 * *Ej 1b* — Sistema (b): decidir si son equivalentes y expresar la combinación lineal (o justificar por qué no aplica) — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
 * *Ej 2* — Mostrar que dos sistemas NO son equivalentes estudiando sus soluciones — 🎥 "Álgebra Abstracta — Estructuras Algebraicas, Ejercicio 1" — https://www.youtube.com/watch?v=ZGUgMtX0Udk
 * *Ej 3* — Demostrar que dos matrices dadas no son equivalentes por filas — 🎥 "Matriz escalonada reducida por filas paso a paso" — https://www.youtube.com/watch?v=BLr4V7rDsmY
@@ -147,6 +153,10 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 * *Ej 5* — Determinar cuáles matrices dadas están en forma MERF — 🎥 "Matrices Escalonadas y Reducidas — Características y Ejemplos" — https://www.youtube.com/watch?v=cp-6QPcTZeA
 * *Ej 6* — Para cada MERF del ej. 5: escribir el sistema homogéneo y no homogéneo asociado, dar las soluciones — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
 * *Ej 7* — Dar todas las posibles matrices 2×2 escalón reducidas por filas — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
+
+**Mié 2 Sep** — salteado (prioridad a PyE y Lógica esta semana).
+
+**Jue 3 Sep** *(práctico, 2h — dentro de la cursada)* — P2 ej. 8, 9, 10, 11, 12, 13 (cierra P2, temario completo)
 * *Ej 8* — Para los sistemas dados: describir explícitamente las soluciones e indicar la MERF asociada — 🎥 "Sistemas de ecuaciones lineales 2x2 — Método de Sustitución" — https://www.youtube.com/watch?v=LTfv1G2iYuQ
 * *Ej 9* — Encontrar los coeficientes de la parábola y=ax²+bx+c que pasa por 3 puntos dados — 🎥 "Ejercicios Resueltos PARÁBOLA — Paso a paso" — https://www.youtube.com/watch?v=8BzOty0Gen4
 * *Ej 10* — Hallar un sistema lineal cuyo conjunto de soluciones sea una recta paramétrica dada — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
