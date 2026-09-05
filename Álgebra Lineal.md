@@ -16,10 +16,10 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 ---
 
-## Estado actual (1 Septiembre)
+## Estado actual (3 Septiembre)
 
-- **Práctico 1 completo.** Práctico 2: hecho hasta el ej. 7 (confirmado en la clase particular del lunes 31/8, que fue repaso general sin ejercicios nuevos). Quedan ej. 8-13 (6 ejercicios).
-- Miércoles 2/9 se saltea Álgebra por completo — prioridad a PyE y Lógica esta semana. Se retoma el jueves 3/9 en el práctico de cursada.
+- **Práctico 1 completo.** Práctico 2: hecho hasta ej. 8, 9, 10, 12a (jueves 3/9). Quedan ej. 11, 12b, 13.
+- **Nuevo sistema de prueba (5-8/9):** en vez de "1 materia por día", se estudian Álgebra + PyE + Lógica todos los días del finde, 2h/día para Álgebra. Con 16 ejercicios pendientes (P2: 3 + P3: 13) a 4/día, cierra P2 el sábado y P3 completo el martes 8/9. P4 (21 ejercicios) queda para más adelante.
 
 ---
 
@@ -124,12 +124,17 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | Mar 1 Sep | Mar | AyED2 (día corrido — sin Álgebra) |
 | Mié 2 Sep | Mié | *(salteado — prioridad a PyE y Lógica esta semana, vuelve más temprano sin quedarse al práctico)* |
 | Jue 3 Sep | Jue | **Álgebra** (práctico, 2h — dentro de la cursada) — retoma en **P2 ej. 8** |
-| Vie 4 Sep → Mar 22 Sep | — | Sin prácticos nuevos todavía más allá de lo que quede pendiente. Usar Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
+| Vie 4 Sep | Vie | Libre — sin materia |
+| Sáb 5 Sep | Sáb | **P2 ej. 11, 12b, 13 (cierra P2) · P3 ej. 1** |
+| Dom 6 Sep | Dom | **P3 ej. 2, 3, 4, 5** |
+| Lun 7 Sep | Lun | **P3 ej. 6, 7, 8, 9** |
+| Mar 8 Sep | Mar | **P3 ej. 10, 11, 12, 13 (cierra P3)** |
+| Mié 9 Sep → Mar 22 Sep | — | Sin prácticos nuevos todavía más allá de lo que quede pendiente (P4 completo queda para más adelante). Usar Miércoles y Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
 | **Mar 22 Sep** | Mar | **PRIMER PARCIAL** |
 
 > **Corrida del 1/9:** el progreso real de P2 quedó en el ej. 7 (no se cerró el práctico completo el sábado como estaba planeado). La clase particular del lunes fue repaso general, no avanzó ejercicios nuevos. El miércoles 2/9 se saltea Álgebra por completo — esta semana la prioridad es ponerse al día con PyE y Lógica — y se retoma el jueves 3/9 en el práctico de cursada, arrancando en el ej. 8.
 
-> **Corrida del 28/8:** el viernes rindió mucho menos de lo esperado (~5h45 de 8h, y solo se resolvió el ej. 1a) — se corrieron las 4 materias del sprint un lugar cada una: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2 (en vez de SR). Con eso, Álgebra cierra el Práctico 2 completo el sábado 29 — sigue con más de tres semanas de margen antes del parcial.
+> **Finde de 4 ejercicios/día (5-8/9):** nuevo sistema de prueba — en vez de "1 materia por día", se estudian las 3 materias todos los días (Álgebra 2h, PyE 2h, Lógica 3-4h). Con 16 ejercicios pendientes (P2: 3 + P3: 13) y 4 ejercicios/día, cierra el sábado con P2 y arranca P3, cerrando el Práctico 3 completo el martes 8/9. P4 (21 ejercicios) queda para después.
 
 ### Detalle día por día
 **Mié 26 Ago** *(Práctico 1 completo — hecho)* — P1 ej. 1, 2, 3, 11, 12, 13
@@ -156,13 +161,31 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 **Mié 2 Sep** — salteado (prioridad a PyE y Lógica esta semana).
 
-**Jue 3 Sep** *(práctico, 2h — dentro de la cursada)* — P2 ej. 8, 9, 10, 11, 12, 13 (cierra P2, temario completo)
+**Jue 3 Sep** *(práctico, 2h — dentro de la cursada)* — P2 ej. 8, 9, 10, 12a *(hecho — llegó hasta acá, quedan ej. 11, 12b, 13 para el finde)*
 * *Ej 8* — Para los sistemas dados: describir explícitamente las soluciones e indicar la MERF asociada — 🎥 "Sistemas de ecuaciones lineales 2x2 — Método de Sustitución" — https://www.youtube.com/watch?v=LTfv1G2iYuQ
 * *Ej 9* — Encontrar los coeficientes de la parábola y=ax²+bx+c que pasa por 3 puntos dados — 🎥 "Ejercicios Resueltos PARÁBOLA — Paso a paso" — https://www.youtube.com/watch?v=8BzOty0Gen4
 * *Ej 10* — Hallar un sistema lineal cuyo conjunto de soluciones sea una recta paramétrica dada — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
-* *Ej 11* — Determinar para qué valores de a el sistema AX=b admite solución; hallarlas — 🎥 "Álgebra Lineal — Matriz Escalonada Reducida (3/3)" — https://www.youtube.com/watch?v=3XH42hAQFos
-* *Ej 12* — Sistema con matriz de números consecutivos: resolver AX=0 y AX=(1,...,1) — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
-* *Ej 13* — Demostrar: si el sistema homogéneo tiene solución no trivial, entonces AX=Y no tiene solución o tiene al menos dos — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
+* *Ej 12a* — Sistema con matriz de números consecutivos: resolver AX=0 — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
+
+**Sáb 5 Sep** *(2h)* — P2 ej. 11, 12b, 13 (cierra P2) · P3 ej. 1
+* *Ej 11 (P2)* — Determinar para qué valores de a el sistema AX=b admite solución; hallarlas — 🎥 "Álgebra Lineal — Matriz Escalonada Reducida (3/3)" — https://www.youtube.com/watch?v=3XH42hAQFos
+* *Ej 12b (P2)* — Sistema con matriz de números consecutivos: resolver AX=(1,...,1) (ya resuelto AX=0) — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
+* *Ej 13 (P2)* — Demostrar: si el sistema homogéneo tiene solución no trivial, entonces AX=Y no tiene solución o tiene al menos dos — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
+* *Ej 1 (P3)* — Realizar los productos AB, BA, AC, CA, BC, CB y las combinaciones de a 3 (ABC, ACB, etc.); verificar que la asociatividad da igual resultado al agrupar de una forma u otra — 🎥 "Multiplicación de matrices — Producto de matrices 3x3" — https://www.youtube.com/watch?v=hfztTmI-U_w
+
+**Dom 6 Sep** *(2h)* — P3 ej. 2, 3, 4, 5
+
+**Lun 7 Sep** *(2h)* — P3 ej. 6, 7, 8, 9
+* *Ej 2* — Probar que si A y B son r×n y C es n×q, entonces (A+B)C = AC+BC — 🎥 "Producto de matrices" — https://www.youtube.com/watch?v=eRBuGozq6Us
+* *Ej 3* — Repetir el ejercicio 1 con matrices de otras dimensiones, solo con los productos que tengan sentido — 🎥 "Multiplicación de matrices — Producto de matrices 2x2" — https://www.youtube.com/watch?v=uH8TOZ8rLZE
+* *Ej 4* — Si m>n, el sistema ABX=0 tiene soluciones no triviales; si r>n, existe Y tal que ABX=Y no tiene solución — 🎥 "Matriz Inversa mediante operaciones elementales por filas" — https://www.youtube.com/watch?v=f_A-zQSQyT8
+* *Ej 5* — Hallar dos matrices no nulas A (2×2 y 3×3) tales que A²=0 pero A≠0 (matrices nilpotentes) — 🎥 "Potencias de matrices" — https://www.youtube.com/watch?v=9YrGHTxRKKs
+
+**Mar 8 Sep** *(2h)* — P3 ej. 10, 11, 12, 13 (cierra P3)
+* *Ej 6* — Decidir si existe una matriz A∈R2×2 tal que A²=-I2 — 🎥 "La multiplicación de matrices NO es conmutativa" — https://www.youtube.com/watch?v=KTkNDuKRnTA
+* *Ej 7* — Hallar dos matrices cuadradas A y B tales que AB≠BA — 🎥 "La multiplicación de matrices NO es conmutativa" — https://www.youtube.com/watch?v=KTkNDuKRnTA
+* *Ej 8* — Hallar una matriz A∈Rn×n tal que A≠0, A≠In y A²=A (matriz idempotente) — 🎥 "Multiplicación de matrices — Producto de matrices 3x3" — https://www.youtube.com/watch?v=hfztTmI-U_w
+* *Ej 9* — Condiciones necesarias y suficientes para (A+B)²=A²+2AB+B² y (A+B)(A-B)=A²-B² — 🎥 "Producto de matrices" — https://www.youtube.com/watch?v=eRBuGozq6Us
 
 ---
 

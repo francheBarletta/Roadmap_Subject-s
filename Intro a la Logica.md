@@ -14,12 +14,13 @@
 
 ---
 
-## Estado actual (1 Septiembre)
+## Estado actual (3 Septiembre)
 
-- **Práctico 1 completo** (todos los ejercicios, terminado el lunes 24, TP sorpresa 8/10). Práctico 2: **ej. 1-3 hechos** (domingo 30, rindió menos de lo esperado); el lunes 31 se usó para la clase particular de Álgebra en vez de Lógica.
+- **Práctico 1 completo.** Práctico 2: hecho hasta ej. 3. El miércoles 2/9 y el viernes 4/9 no se avanzó nada más (quedaron pendientes ej. 4, 5, 6, 2c\*).
 - Se resuelven **todos** los ejercicios de los 5 prácticos, salvo los que requieran conceptos aún no vistos en el teórico (por ahora: P3 ej. 11, reticulados complementados).
 - Los ejercicios marcados con (*) se dejan para el final de cada práctico, como cierre/repaso.
-- Objetivo para el martes 1/9: terminar el Práctico 2 completo (ej. 4, 5, 6, 2c\*).
+- **Nuevo sistema de prueba (5-8/9):** en vez de "1 materia por día", se estudian Álgebra + PyE + Lógica todos los días del finde. El Domingo queda **exclusivo para Lógica** (4h, sin AED2 ni otra materia — parcial muy cerca). Con 6 ejercicios/día (ritmo humano, no forzado), cierra P2, P3 y P4 en estos 4 días — P5 (7 ejercicios) queda para el miércoles/jueves antes del parcial.
+- Desde la semana que viene, el **Martes se suma como día fijo de Lógica** (antes SR/AED2).
 
 ---
 
@@ -132,7 +133,7 @@
 | Día | Materia(s) |
 |---|---|
 | Lunes (día completo, sin clase) | PyE y **Lógica** |
-| Martes (clase 9-13 PyE + 14-18 Álgebra) | AED2 |
+| Martes (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** *(antes SR/AED2, cambiado el 1/9 — parcial está cerca)* |
 | Miércoles (clase 9-13 **Lógica**, práctico 2h) | Álgebra (tarde) — pero **2h de práctico de Lógica ya están en la cursada de la mañana** |
 | Jueves (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** (noche) |
 | Viernes (clase 9-13 **Lógica**, práctico 2h) | Libre — pero **2h de práctico de Lógica dentro de la cursada de la mañana** |
@@ -167,11 +168,19 @@
 | Sáb 29 Ago | Sáb | Álgebra (día corrido — sin Lógica) |
 | Dom 30 Ago | Dom | **Lógica** — **P2 ej. 1, 2, 3** *(el sprint rindió menos de lo planeado — no se llegó a P3)* |
 | Lun 31 Ago | Lun | *(no se tocó Lógica — día de la clase particular de Álgebra)* |
-| Mar 1 Sep | Mar | **Lógica** (día corrido — objetivo: terminar P2) — **P2 ej. 4, 5, 6, 2c\*** |
-| Mié 2 Sep → Vie 11 Sep | — | Retoma el cronograma semanal normal (Lun/Mié/Jue/Vie/Sáb) desde P3 ej. 1 en adelante — se detalla cuando se confirme el avance real del martes. |
+| ~~Mar 1 Sep~~ | ~~Mar~~ | **PERDIDO** (pichones de paloma) |
+| Mié 2 Sep | Mié | **Lógica** (tarde — no se llegó a avanzar) — P2 ej. 4, 5, 6, 2c\* quedaron pendientes |
+| Jue 3 Sep | Jue | *(Álgebra esta semana, no es día de Lógica)* |
+| ~~Vie 4 Sep~~ | ~~Vie~~ | **PERDIDO** (no se avanzó nada) |
+| Sáb 5 Sep | Sáb | **P2 ej. 4, 5, 6, 2c\* (cierra P2) · P3 ej. 1, 2** |
+| Dom 6 Sep | Dom | **P3 ej. 3, 4, 5, 6, 8, 9** |
+| Lun 7 Sep | Lun | **P3 ej. 10, 13, 7\*, 12\* (cierra P3) · P4 ej. 1, 2** |
+| Mar 8 Sep | Mar | **P4 ej. 3, 4, 5, 6, 7, 8 (cierra P4)** |
+| Mié 9 Sep | Mié | **P5 completo (cierra P5, temario completo)** — **P5 ej. 1, 2, 3, 4, 5, 7, 6\*** |
+| Jue 10 Sep | Jue | Repaso general / SR de todo el temario, sin ejercicios nuevos |
 | **Vie 11 Sep** | Vie | **PRIMER PARCIAL** |
 
-> **P1 completo.** El domingo 30 el sprint rindió menos de lo esperado (P2 ej. 1-3 nomás, no llegó a P3), y el lunes 31 se usó para la clase particular de Álgebra en vez de Lógica. El objetivo para el martes 1/9 es cerrar el Práctico 2 completo (ej. 4, 5, 6 y 2c\*). El resto (P3, P4, P5) se retoma con el cronograma semanal normal a partir del miércoles 2/9.
+> **P1 completo.** P2 quedó en el ej. 3 tras varios días sin avance (miércoles y viernes no rindieron). **Nuevo sistema de prueba (5-8/9):** en vez de "1 materia por día", se estudian las 3 materias todos los días del finde — el Domingo queda exclusivo para Lógica (4h). A 6 ejercicios/día (ritmo humano), cierra P2, P3 y P4 en estos 4 días; **P5 completo (7 ejercicios) va el miércoles 9/9**, dejando el jueves 10/9 libre para repaso general antes del parcial (11/9).
 
 ### Detalle día por día
 **Sáb 22 Ago** *(3h, + Álgebra — se perdieron Mié19/Jue20/Vie21 por gripe, arranca de cero acá)* — P1 ej. 1-5
@@ -194,19 +203,52 @@
 
 **Lun 31 Ago** — no se tocó Lógica (día de la clase particular de Álgebra).
 
-**Mar 1 Sep** *(día corrido — objetivo: terminar P2)* — P2 ej. 4, 5, 6, 2c\*
+**Mié 2 Sep** *(tarde — no se llegó a avanzar)* — P2 ej. 4, 5, 6, 2c\* quedaron pendientes
+
+**Vie 4 Sep** — sin avance (no se estudió Lógica ese día).
+
+**Sáb 5 Sep** *(4h — nuevo sistema)* — P2 ej. 4, 5, 6, 2c* (cierra P2) · P3 ej. 1, 2
 * *Ej 4 (P2)* — Poset [0,1)∪[2,3) con orden heredado: V o F sobre existencia de supremos — 🎥 "Poset de Z — Matemática Discreta" — https://www.youtube.com/watch?v=6n6ZgStal4E
 * *Ej 5 (P2)* — Probar que sup(S) e ínf(S) existen para todo S finito no vacío en un poset reticulado — 🎥 "Supremo e Ínfimo — Cotas y Conjuntos Ordenados" — https://www.youtube.com/watch?v=L3rgqDYANYM
 * *Ej 6 (P2)* — Diagramas de Hasse de (A,|) y (B,|) con divisores de 12; ¿cuáles son reticulados?; calcular 4∧(2∨3); subconjunto de P({a,b,c}) — 🎥 "Supremo e Ínfimo — Explicación con ejemplo" — https://www.youtube.com/watch?v=SslId-CutLQ
-* *Ej 2c\* (P2)* — ¿Único maximal (sin ser finito) implica máximo? — 🎥 "Ínfimo, supremo, mínimo y máximo de un conjunto" — https://www.youtube.com/watch?v=RM11dDasmgg
-
-**Pendiente (a partir de Mié 2 Sep, se retoma según avance real)** — P3 ej. 1, 2, 3, 4...
+* *Ej 2c* (P2)* — ¿Único maximal (sin ser finito) implica máximo? — 🎥 "Ínfimo, supremo, mínimo y máximo de un conjunto" — https://www.youtube.com/watch?v=RM11dDasmgg
 * *Ej 1 (P3)* — En el reticulado L2: encontrar v∨x, s∨v y u∨v — 🎥 "Relaciones de equivalencia || Conjunto Cociente" — https://www.youtube.com/watch?v=W6x35jEhHx8
 * *Ej 2 (P3)* — Demostrar x∨(y∧z) ≤ (x∨y)∧(x∨z) en todo poset reticulado — 🎥 "Asesorías — Relaciones de equivalencia, Ejercicio 1" — https://www.youtube.com/watch?v=vjjLC7Vh-NI
+
+**Dom 6 Sep** *(4h — nuevo sistema)* — P3 ej. 3, 4, 5, 6, 8, 9
 * *Ej 3 (P3)* — Determinar si los mapeos f dados son isomorfismos de posets; qué falla si no — 🎥 "Relaciones de EQUIVALENCIA — Definición, Clases y Cociente" — https://www.youtube.com/watch?v=ke4FJlEe_EU
 * *Ej 4 (P3)* — Determinar si se dan los isomorfismos indicados (D6 vs P({a,b}); D30 vs P({a,b,c})) — 🎥 "Ejemplo: relaciones de equivalencia — Ejercicio resuelto" — https://www.youtube.com/watch?v=rzz92xgPVuY
 * *Ej 5 (P3)* — Probar que si f es isomorfismo de posets, f⁻¹ también lo es — 🎥 "Relación de Equivalencia — Demostrar si R es de Equivalencia" — https://www.youtube.com/watch?v=SPMFnKVOww8
+* *Ej 6 (P3)* — Probar que si m es minimal en P, entonces f(m) es minimal en Q — 🎥 "Relaciones de equivalencia — Definición y ejemplo" — https://www.youtube.com/watch?v=DcTP8ouyjCk
+* *Ej 8 (P3)* — Función biyectiva que preserva orden entre L3 y L4 pero no es isomorfismo; no preserva sup/ínf — 🎥 "Relación de equivalencia, reflexiva, simétrica, transitiva" — https://www.youtube.com/watch?v=nBbd6Fuqk8M
+* *Ej 9 (P3)* — Demostrar x∧(y∧z) = z∧(y∧x) en un reticulado — 🎥 "Relaciones reflexivas, simétricas y transitivas" — https://www.youtube.com/watch?v=KG0Vq337t-Y
 
+**Lun 7 Sep** *(4h — nuevo sistema)* — P3 ej. 10, 13, 7*, 12* (cierra P3) · P4 ej. 1, 2
+* *Ej 10 (P3)* — Probar que x∨y es cota superior de {x,y} (desde x≤y ⟺ x∨y=y) — 🎥 "Propiedades de las relaciones: reflexividad, simetría, antisimetría, transitividad" — https://www.youtube.com/watch?v=m85j8bxFqvU
+* *Ej 13 (P3)* — Para qué valores de n se tiene que Dn se incrusta en L3 — 🎥 "Retículos y álgebras de Boole — parte 1" — https://www.youtube.com/watch?v=R9zzpsSIVig
+* *Ej 7* (P3)* — Cuántos isomorfismos hay de P({a,b,c}) en sí mismo — 🎥 "Supremo e Ínfimo — Explicación con ejemplo" — https://www.youtube.com/watch?v=SslId-CutLQ
+* *Ej 12* (P3)* — Si sup(S) existe siempre para todo S⊆P, demostrar que ínf(S) también existe — 🎥 "Supremo e Ínfimo — Cotas y Conjuntos Ordenados" — https://www.youtube.com/watch?v=L3rgqDYANYM
+* *Ej 1 (P4)* — Reticulado L1: complementos de a,b,d,0; ¿es complementado?; ¿es distributivo? — 🎥 "Ley Distributiva del Álgebra de Boole" — https://www.youtube.com/watch?v=4ZixcbkHydA
+* *Ej 2 (P4)* — Diagramas L3-L11: incrustaciones, isomorfismo con Dn, cuáles son distributivos, cuáles son álgebra de Boole — 🎥 "Álgebra Booleana — Introducción, Ejercicios para Aprender" — https://www.youtube.com/watch?v=p58C7OWe3Xk
+
+**Mar 8 Sep** *(4h — nuevo sistema)* — P4 ej. 3, 4, 5, 6, 7, 8 (cierra P4)
+* *Ej 3 (P4)* — Demostrar x∨(z∧y) ≤ (x∨z)∧y; comprobar igualdad si S es distributivo — 🎥 "Retículos y álgebras de Boole — parte 2" — https://www.youtube.com/watch?v=cn5_iePGK9o
+* *Ej 4 (P4)* — Demostrar que M3 y N5 no satisfacen la propiedad cancelativa — 🎥 "Retículos y álgebras de Boole — parte 1" — https://www.youtube.com/watch?v=R9zzpsSIVig
+* *Ej 5 (P4)* — Demostrar: si un reticulado satisface cancelativa, entonces es distributivo (Teorema M3-N5) — 🎥 "Ley Distributiva del Álgebra de Boole" — https://www.youtube.com/watch?v=4ZixcbkHydA
+* *Ej 6 (P4)* — Determinar átomos e irreducibles de los posets L3, L4, L6, L8, L11 — 🎥 "Teorema de Representación de Birkhoff — ILC FAMAF" — https://www.youtube.com/watch?v=Kr-qM-TqlLs
+* *Ej 7 (P4)* — Demostrar propiedades de álgebras de Boole: ¬(¬x)=x; ¬(x∧y)=¬x∨¬y — 🎥 "Álgebra Booleana — Introducción, Ejercicios para Aprender" — https://www.youtube.com/watch?v=p58C7OWe3Xk
+* *Ej 8 (P4)* — Propiedades del orden asociado a un álgebra de Boole: x≤y ⟺ ¬y≤¬x; etc. — 🎥 "Retículos y álgebras de Boole — parte 2" — https://www.youtube.com/watch?v=cn5_iePGK9o
+
+**Mié 9 Sep** *(cierra P5, temario completo)* — P5 ej. 1, 2, 3, 4, 5, 7, 6\*
+* *Ej 1 (P5)* — Probar que todo átomo es irreducible — 🎥 "Teorema de Representación de Birkhoff — ILC FAMAF" — https://www.youtube.com/watch?v=Kr-qM-TqlLs
+* *Ej 2 (P5)* — Determinar si se cumplen las relaciones de isomorfismo (D2310 vs P(5 elem.); D90 vs P(4 elem.)) — 🎥 "Ejemplo: relaciones de equivalencia — Ejercicio resuelto" — https://www.youtube.com/watch?v=rzz92xgPVuY
+* *Ej 3 (P5)* — Probar que ∅ es decreciente; si D1 y D2 son decrecientes, D1∪D2 también lo es — 🎥 "Relaciones de EQUIVALENCIA — Definición, Clases y Cociente" — https://www.youtube.com/watch?v=ke4FJlEe_EU
+* *Ej 4 (P5)* — Para cada reticulado: hallar At(L), dibujar Hasse de P(At(L)), determinar cuáles son álgebra de Boole — 🎥 "Teorema de Representación de Birkhoff — ILC FAMAF" — https://www.youtube.com/watch?v=Kr-qM-TqlLs
+* *Ej 5 (P5)* — Hasse de irreducibles, Hasse de D(Irr(L)), definir el mapa F, usar Birkhoff para ver si es distributivo — 🎥 "Teorema de Representación de Birkhoff — ILC FAMAF" — https://www.youtube.com/watch?v=Kr-qM-TqlLs
+* *Ej 7 (P5)* — Producto L×M de posets: si L,M son reticulados, L×M también; ídem distributividad — 🎥 "Asesorías — Relaciones de equivalencia, Ejercicio 1" — https://www.youtube.com/watch?v=vjjLC7Vh-NI
+* *Ej 6\* (P5)* — Dar todos los reticulados distributivos con exactamente 3 elementos irreducibles — 🎥 "Retículos y álgebras de Boole — parte 1" — https://www.youtube.com/watch?v=R9zzpsSIVig
+
+**Jue 10 Sep** — Repaso general / SR de todo el temario (P1 a P5), sin ejercicios nuevos.
 ---
 
 ## Notas del método

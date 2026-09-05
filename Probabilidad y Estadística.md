@@ -13,10 +13,11 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 
 ---
 
-## Estado actual (1 Septiembre)
+## Estado actual (3 Septiembre)
 
 - Recursada: se vuelve a cursar la materia completa, a full profundidad (no repaso liviano).
-- G1 ej. 1-3 confirmados. El lunes fue un día disperso y no se avanzó nada — el plan de PyE se corrió al martes 1/9: 4 ejercicios en el práctico de la facultad + 4 más a la tarde (G1 ej. 4-11).
+- G1 ej. 1-11 confirmados. Quedó en el ej. 12 (no hecho).
+- **Nuevo sistema de prueba (5-8/9), sin Domingo:** en vez de "1 materia por día", se estudian Álgebra + PyE + Lógica todos los días del finde — salvo el Domingo, que queda exclusivo para Lógica + AED2 (parcial de Lógica muy cerca). PyE entra Sábado, Lunes y Martes (3 días) a 4 ejercicios/día — cierra G1 el lunes, avanza G2 el martes.
 - Parcial 1 confirmado el 29/9 — sigue habiendo margen amplio.
 
 ---
@@ -258,11 +259,17 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 | Sáb 29 Ago | Sáb | Álgebra (día corrido — sin PyE) |
 | Dom 30 Ago | Dom | Lógica (día corrido — sin PyE) |
 | Lun 31 Ago | Lun | *(no se avanzó — día disperso, se corrió el sprint de PyE al martes)* |
-| Mar 1 Sep | Mar | **PyE** — práctico (4 ej.) + tarde post-facu (4 ej.) — **G1 ej. 4, 5, 6, 7, 8, 9, 10, 11** |
-| Mié 2 Sep → Mar 29 Sep | — | Retoma el cronograma semanal normal (Mar/Jue/Dom/Lun) desde G1 ej. 12 en adelante — se detalla cuando se confirme el avance real del martes. |
+| ~~Mar 1 Sep~~ | ~~Mar~~ | **PERDIDO** (pichones de paloma) |
+| Mié 2 Sep | Mié | **PyE** (mañana) — **G1 ej. 4, 5, 6, 7, 8, 9, 10, 11** |
+| Jue 3 Sep | Jue | Libre — sin materia |
+| Sáb 5 Sep | Sáb | **G1 ej. 12, 13, 14, 15** |
+| Dom 6 Sep | Dom | Lógica y AED2 (no es día de PyE) |
+| Lun 7 Sep | Lun | **G1 ej. 16, 17\*, 18\* (cierra G1) · G2 ej. 0** |
+| Mar 8 Sep | Mar | **G2 ej. 1, 2, 3, 4** |
+| Mié 9 Sep → Mar 29 Sep | — | Retoma el cronograma semanal normal (Jue/Dom/Lun) desde G2 ej. 5 en adelante — se detalla cuando se confirme el avance real del martes. |
 | **Mar 29 Sep** | Mar | **FINAL PARCIAL 1 — sin sesión** |
 
-> **Corrida del 1/9:** el lunes fue un día disperso y no se avanzó nada de PyE — se corrió al martes. Plan para mañana: 4 ejercicios en el práctico de la facultad + 4 más a la tarde después de clase, arrancando en el ej. 4 (retomado para afianzar mejor la base). Con el Parcial 1 confirmado el 29/9, sigue habiendo margen amplio.
+> **Finde de 4 ejercicios/día (5-8/9), sin Domingo:** nuevo sistema de prueba — se estudian las 3 materias (Álgebra, PyE, Lógica) todos los días del finde, salvo el Domingo que queda exclusivo para Lógica + AED2. PyE entra Sábado, Lunes y Martes (3 días, no 4). Con 12 ejercicios pendientes a 4/día, cierra G1 el lunes y avanza en G2 el martes.
 
 #### Detalle día por día — próximas sesiones
 **Mar 18 Ago** *(práctico, 2h — INV-01 + ejercicios, llegó hasta el ej. 6)* — G1 ej. 1, 2, 3, 4, 5, 6
@@ -270,8 +277,13 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 * *Ej 2* — Demostrar P(B−A)=P(B)−P(A) si A⊆B; relación P(A), P(A∩B), P(A∪B) — 🎥 "Demostración. Teoremas de Probabilidad: Vacío, Unión y Complemento" — 
 https://www.youtube.com/watch?v=nDl0mhVkNeM
 * *Ej 3* — Licitaciones: uniones e intersecciones de 3 eventos — 🎥 "Probabilidades de 3 eventos" — https://www.youtube.com/watch?v=ipqWoW4yqik
+* *Ej 4* — Asignación de contratos a empresas: conteo y probabilidad — 🎥 "Técnicas de conteo — ejercicios resueltos" — https://www.youtube.com/watch?v=v3TFHZsqhME
+* *Ej 5* — Colectivos con grietas: selección de muestra sin reposición — 🎥 "Probabilidad, permutaciones y combinaciones — ejercicios resueltos" — 
+https://www.youtube.com/watch?v=lNQIT9Hir5I
+* *Ej 6* — Comisión de 2 entre 5 miembros: combinatoria + años de experiencia — 🎥 "Permutaciones y Combinaciones — Ejercicios Resueltos Nivel 1" — 
+https://www.youtube.com/watch?v=QXO3u6Ak4rU
 
-**Mar 1 Sep** *(práctico, 4 ej. + tarde post-facu, 4 ej. más)* — G1 ej. 4, 5, 6, 7, 8, 9, 10, 11
+**Mié 2 Sep** *(mañana — corrido del martes perdido por los pichones)* — G1 ej. 4, 5, 6, 7, 8, 9, 10, 11
 * *Ej 4* — Asignación de contratos a empresas (conteo + probabilidad) — 🎥 "Técnicas de conteo — ejercicios resueltos" — https://www.youtube.com/watch?v=v3TFHZsqhME
 * *Ej 5* — Colectivos con grietas: selección de muestra sin reposición — 🎥 "Probabilidad, permutaciones y combinaciones — ejercicios" — https://www.youtube.com/watch?v=lNQIT9Hir5I
 * *Ej 6* — Comisión de 2 entre 5 miembros: combinatoria + años de experiencia — 🎥 "Permutaciones y combinaciones — Nivel 1" — https://www.youtube.com/watch?v=QXO3u6Ak4rU
@@ -280,6 +292,24 @@ https://www.youtube.com/watch?v=nDl0mhVkNeM
 * *Ej 9* — Tabla de camisas por talle/modelo/manga: conjunta y condicional desde tabla — 🎥 "Teorema de Bayes — ejercicios resueltos" — https://www.youtube.com/watch?v=ENiTI9Rgs-c
 * *Ej 10* — Demostraciones de propiedades de probabilidad condicional — 🎥 "Teorema de Bayes — ejercicios resueltos (selectividad)" — https://www.youtube.com/watch?v=G_4k4qxZRP4
 * *Ej 11* — Prueba diagnóstica de enfermedad: Bayes con falsos +/− — 🎥 "Teorema de Bayes — probabilidades, ejercicios resueltos" — https://www.youtube.com/watch?v=CP4ToX5Tyvw
+
+**Sáb 5 Sep** *(2h)* — G1 ej. 12, 13, 14, 15
+* *Ej 12* — Demostrar independencia de eventos complementarios — 🎥 "Eventos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=Ny8NBX7ZLcw
+* *Ej 13* — Tablas de madera sin reposición: ¿A y B independientes? — 🎥 "Sucesos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=_vl-2RsrpgQ
+* *Ej 14* — Reparto de 52 cartas entre 4 jugadores — 🎥 "Permutaciones y combinaciones — Nivel 2A" — https://www.youtube.com/watch?v=ns7uwSVPLJk
+* *Ej 15* — Leucoplasia oral: fumar y alcohol, ¿independientes? — 🎥 "Eventos dependientes e independientes — fácil" — https://www.youtube.com/watch?v=wOwwPD-O5sY
+
+**Lun 7 Sep** *(2h)* — G1 ej. 16, 17*, 18* (cierra G1) · G2 ej. 0
+* *Ej 16* — Empresas de correo: probabilidad total + Bayes — 🎥 "Teorema de Bayes — explicación y ejercicio resuelto" — https://www.youtube.com/watch?v=KrvsiHh1ThA
+* *Ej 17** — Costura de avión con remaches: independencia + resolver p — 🎥 "Probabilidad de eventos dependientes — fácil" — https://www.youtube.com/watch?v=iUOnVO7yAfA
+* *Ej 18** — Carrera de caballos: eventos compuestos — 🎥 "Combinaciones, permutaciones y variaciones — Ejemplo 1" — https://www.youtube.com/watch?v=h4IfRXoVcpo
+* *Ej 0 (G2)* — Definir función de probabilidad y una VA en experimento de listas aleatorias — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
+
+**Mar 8 Sep** *(2h)* — G2 ej. 1, 2, 3, 4
+* *Ej 1* — Identificar cuál tabla es una fmp válida; calcular P, obtener FDA — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
+* *Ej 2* — fmp de líneas telefónicas en uso: calcular probabilidades de eventos — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
+* *Ej 3* — FDA dada por tramos: obtener la fmp y probabilidades — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
+* *Ej 4* — Nº de determinaciones hasta encontrar grupo O+ (fmp tipo geométrica) — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
 
 **Pendiente (a partir de Mié 2 Sep, se retoma según avance real)** — G1 ej. 12, 13, 14, 15
 * *Ej 12* — Demostrar independencia de eventos complementarios — 🎥 "Eventos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=Ny8NBX7ZLcw
