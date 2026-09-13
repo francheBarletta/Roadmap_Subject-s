@@ -13,11 +13,11 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 
 ---
 
-## Estado actual (3 Septiembre)
+## Estado actual (6 Septiembre)
 
 - Recursada: se vuelve a cursar la materia completa, a full profundidad (no repaso liviano).
 - G1 ej. 1-11 confirmados. Quedó en el ej. 12 (no hecho).
-- **Nuevo sistema de prueba (5-8/9), sin Domingo:** en vez de "1 materia por día", se estudian Álgebra + PyE + Lógica todos los días del finde — salvo el Domingo, que queda exclusivo para Lógica + AED2 (parcial de Lógica muy cerca). PyE entra Sábado, Lunes y Martes (3 días) a 4 ejercicios/día — cierra G1 el lunes, avanza G2 el martes.
+- **Semana del parcial de Lógica (7-10/9):** PyE se reduce a la mañana (11:30am-1pm, 1.5h) — el resto del día se lo lleva Lógica. Con eso, cierra G1 y avanza en G2 hasta ej. 8 el jueves 10/9. Parcial propio recién el 29/9 — margen de sobra.
 - Parcial 1 confirmado el 29/9 — sigue habiendo margen amplio.
 
 ---
@@ -266,7 +266,10 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad.
 | Dom 6 Sep | Dom | Lógica y AED2 (no es día de PyE) |
 | Lun 7 Sep | Lun | **G1 ej. 16, 17\*, 18\* (cierra G1) · G2 ej. 0** |
 | Mar 8 Sep | Mar | **G2 ej. 1, 2, 3, 4** |
-| Mié 9 Sep → Mar 29 Sep | — | Retoma el cronograma semanal normal (Jue/Dom/Lun) desde G2 ej. 5 en adelante — se detalla cuando se confirme el avance real del martes. |
+| Mié 9 Sep | Mié | **G2 ej. 5, 6** (mañana, 1.5h) |
+| Jue 10 Sep | Jue | **G2 ej. 7, 8** (mañana, 1.5h) |
+| Vie 11 Sep | Vie | Libre de PyE — parcial de Lógica |
+| Sáb 12 Sep → Mar 29 Sep | — | Retoma el cronograma semanal normal desde G2 ej. 9 en adelante. |
 | **Mar 29 Sep** | Mar | **FINAL PARCIAL 1 — sin sesión** |
 
 > **Finde de 4 ejercicios/día (5-8/9), sin Domingo:** nuevo sistema de prueba — se estudian las 3 materias (Álgebra, PyE, Lógica) todos los días del finde, salvo el Domingo que queda exclusivo para Lógica + AED2. PyE entra Sábado, Lunes y Martes (3 días, no 4). Con 12 ejercicios pendientes a 4/día, cierra G1 el lunes y avanza en G2 el martes.
@@ -294,28 +297,63 @@ https://www.youtube.com/watch?v=QXO3u6Ak4rU
 * *Ej 11* — Prueba diagnóstica de enfermedad: Bayes con falsos +/− — 🎥 "Teorema de Bayes — probabilidades, ejercicios resueltos" — https://www.youtube.com/watch?v=CP4ToX5Tyvw
 
 **Sáb 5 Sep** *(2h)* — G1 ej. 12, 13, 14, 15
+
+**Lun 7 Sep** *(2h)* 
 * *Ej 12* — Demostrar independencia de eventos complementarios — 🎥 "Eventos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=Ny8NBX7ZLcw
 * *Ej 13* — Tablas de madera sin reposición: ¿A y B independientes? — 🎥 "Sucesos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=_vl-2RsrpgQ
 * *Ej 14* — Reparto de 52 cartas entre 4 jugadores — 🎥 "Permutaciones y combinaciones — Nivel 2A" — https://www.youtube.com/watch?v=ns7uwSVPLJk
-* *Ej 15* — Leucoplasia oral: fumar y alcohol, ¿independientes? — 🎥 "Eventos dependientes e independientes — fácil" — https://www.youtube.com/watch?v=wOwwPD-O5sY
 
-**Lun 7 Sep** *(2h)* — G1 ej. 16, 17*, 18* (cierra G1) · G2 ej. 0
+**Mar 8 Sep** *(2h)*
+* *Ej 15* — Leucoplasia oral: fumar y alcohol, ¿independientes? — 🎥 "Eventos dependientes e independientes — fácil" — https://www.youtube.com/watch?v=wOwwPD-O5sY
 * *Ej 16* — Empresas de correo: probabilidad total + Bayes — 🎥 "Teorema de Bayes — explicación y ejercicio resuelto" — https://www.youtube.com/watch?v=KrvsiHh1ThA
-* *Ej 17** — Costura de avión con remaches: independencia + resolver p — 🎥 "Probabilidad de eventos dependientes — fácil" — https://www.youtube.com/watch?v=iUOnVO7yAfA
-* *Ej 18** — Carrera de caballos: eventos compuestos — 🎥 "Combinaciones, permutaciones y variaciones — Ejemplo 1" — https://www.youtube.com/watch?v=h4IfRXoVcpo
 * *Ej 0 (G2)* — Definir función de probabilidad y una VA en experimento de listas aleatorias — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
 
-**Mar 8 Sep** *(2h)* — G2 ej. 1, 2, 3, 4
+**Lun 14 Sep**
 * *Ej 1* — Identificar cuál tabla es una fmp válida; calcular P, obtener FDA — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
 * *Ej 2* — fmp de líneas telefónicas en uso: calcular probabilidades de eventos — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
 * *Ej 3* — FDA dada por tramos: obtener la fmp y probabilidades — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
 * *Ej 4* — Nº de determinaciones hasta encontrar grupo O+ (fmp tipo geométrica) — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
+* *Ej 5* — Recorrido aleatorio de Silvina: fmp y FDA de destinos y segmentos — 🎥 "Función de prob. VA discreta" — https://www.youtube.com/watch?v=GaRyczJN3WM
+* *Ej 6* — Esperanza de un dado y de 1/X; decisión retirarse o jugar — 🎥 "Esperanza y varianza VA discreta" — https://www.youtube.com/watch?v=oB48B-WUwJk
+* *Ej 7* — Congeladores: E(X), E(X²), V(X), transformación lineal y no lineal — 🎥 "Esperanza y varianza VA discreta" — https://www.youtube.com/watch?v=oB48B-WUwJk
+* *Ej 8* — Esperanza/varianza de la VA del ej. 4; costo esperado y su varianza — 🎥 "Esperanza y varianza VA discreta" — https://www.youtube.com/watch?v=oB48B-WUwJk
 
-**Pendiente (a partir de Mié 2 Sep, se retoma según avance real)** — G1 ej. 12, 13, 14, 15
-* *Ej 12* — Demostrar independencia de eventos complementarios — 🎥 "Eventos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=Ny8NBX7ZLcw
-* *Ej 13* — Tablas de madera sin reposición: ¿A y B independientes? — 🎥 "Sucesos independientes — ejercicios resueltos" — https://www.youtube.com/watch?v=_vl-2RsrpgQ
-* *Ej 14* — Reparto de 52 cartas entre 4 jugadores — 🎥 "Permutaciones y combinaciones — Nivel 2A" — https://www.youtube.com/watch?v=ns7uwSVPLJk
-* *Ej 15* — Leucoplasia oral: fumar y alcohol, ¿independientes? — 🎥 "Eventos dependientes e independientes — fácil" — https://www.youtube.com/watch?v=wOwwPD-O5sY
+**Mar 15 Sep**
+* 9 * Binomial: automovilistas que se detienen en un cruce | [Binomial](https://www.youtube.com/watch?v=-XxZGvNClkg) |
+* 10* * Binomial: raquetas de tenis, prob. dentro de 1 DE, sin reposición | [Binomial](https://www.youtube.com/watch?v=-XxZGvNClkg) |
+* 11 * Binomial + Hipergeométrica: reparaciones de TV sin garantía | [Binomial/Hiperg./Poisson – cuándo usar cada una](https://www.youtube.com/watch?v=JWRTMeJg70I) |
+
+**Mie 16 Sep**
+* 12 * Hipergeométrica: refrigeradores con compresor defectuoso | [Hipergeométrica](https://www.youtube.com/watch?v=3pDDo0LvRHo) |
+* 13 * Binomial Negativa: serie de partidos Boca–River | [Binomial Negativa](https://www.youtube.com/watch?v=LgNSqHil6w0) |
+* 14 * Poisson: número de tornados observados en un año | [Poisson](https://www.youtube.com/watch?v=PMX75m4-s9A) |
+* 15 * Poisson: suma de dos Poisson independientes (autos en estacionamiento) | [Poisson](https://www.youtube.com/watch?v=PMX75m4-s9A) |
+* 16* * Poisson: ganancia esperada con transformación cuadrática | [Poisson](https://www.youtube.com/watch?v=PMX75m4-s9A) |
+
+**Jue 17 Sep**
+* 1 * fdp lineal (x/2): probabilidades, FDA, E(X), V(X), cobro esperado h(X) | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+* 2 * FDA cúbica dada: hallar probabilidades y la fdp | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+* 3 * fdp con constante k (kx²): percentil 75, E(X), σ | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+* 4 * Uniforme: tiempo de preparación de laboratorio [25,35] | [Densidad VA continua](https://www.youtube.com/watch?v=Z3AKFyTzsEA) |
+
+**Vie 18 Sep**
+* 5 * Normal N(80,100): probabilidades básicas con tabla Z | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+* 6 * Normal: diámetro de árboles, percentiles, binomial aproximada | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+* 7 * Normal: hallar µ y σ desde percentiles de resistencia | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+* 8 * Transformación lineal de Normal; Celsius a Fahrenheit | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+
+**Sab 19 Sep**
+* 9 * Normal: mezcla de dos máquinas, tornillos aceptables | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+* 10 * Normal: dureza Rockwell, aceptación + binomial aproximada | [Distribución Normal](https://www.youtube.com/watch?v=T7_ktqfVseU) |
+* 11 * Exponencial: distancia recorrida por canguros | [Distribución Exponencial](https://www.youtube.com/watch?v=PEib2DsJ2k4) |
+* 12 * Exponencial: sistema en serie, mínimo de 5 exponenciales | [Distribución Exponencial](https://www.youtube.com/watch?v=PEib2DsJ2k4) |
+* 13 * Sistema de bombas de combustible: Poisson/Exponencial | [Distribución Exponencial](https://www.youtube.com/watch?v=PEib2DsJ2k4) |
+
+**Dom 20 Sep**
+* Solo Algebra
+
+**Lun 21 Sep**
+* Solo Algebra
 
 ### Rumbo al Parcial 2 — 10 Noviembre (G5 a G8, 44 ejercicios)
 
