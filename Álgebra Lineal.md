@@ -183,55 +183,57 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 * Dia de recuperacion de la semana faltada por estudiar Intro a la Logica
  - Recuperar y estudiar teoria dia Martes
  - Recuperar y estudiar teoria dia Jueves
+
+**Jue 17 Sep**
 * *Ej 4* — Si m>n, el sistema ABX=0 tiene soluciones no triviales; si r>n, existe Y tal que ABX=Y no tiene solución — 🎥 "Matriz Inversa mediante operaciones elementales por filas" — https://www.youtube.com/watch?v=f_A-zQSQyT8
 * *Ej 5* — Hallar dos matrices no nulas A (2×2 y 3×3) tales que A²=0 pero A≠0 (matrices nilpotentes) — 🎥 "Potencias de matrices" — https://www.youtube.com/watch?v=9YrGHTxRKKs
-* *Ej 1* (P4) — Decidir si los siguientes conjuntos son R-espacios vectoriales con las operaciones dadas: (a) Rⁿ con v⊕w=v−w; (b) R² con (x,y)⊕(x',y')=(x+x',0), c⊙(x,y)=(cx,0) — 🎥 "CIPAS: Axiomas y propiedades de espacios vectoriales" — https://www.youtube.com/watch?v=xWKng_487HE
-* *Ej 2* — Probar que V^S (funciones de S en V) es un K-espacio vectorial, con suma y producto por escalar definidos puntualmente — 🎥 "Espacios Vectoriales - Demostrar que R² es un espacio vectorial" — https://www.youtube.com/watch?v=IqYtctLEJyE
-
-**Lun 14 Sep**
 * *Ej 6* — Decidir si existe una matriz A∈R2×2 tal que A²=-I2 — 🎥 "La multiplicación de matrices NO es conmutativa" — https://www.youtube.com/watch?v=KTkNDuKRnTA
 * *Ej 7* — Hallar dos matrices cuadradas A y B tales que AB≠BA — 🎥 "La multiplicación de matrices NO es conmutativa" — https://www.youtube.com/watch?v=KTkNDuKRnTA
 * *Ej 8* — Hallar una matriz A∈Rn×n tal que A≠0, A≠In y A²=A (matriz idempotente) — 🎥 "Multiplicación de matrices — Producto de matrices 3x3" — https://www.youtube.com/watch?v=hfztTmI-U_w
+
+**Vie 18 Sep**
 * *Ej 9* — Condiciones necesarias y suficientes para (A+B)²=A²+2AB+B² y (A+B)(A-B)=A²-B² — 🎥 "Producto de matrices" — https://www.youtube.com/watch?v=eRBuGozq6Us
+* *Ej 10* — Usar operaciones elementales por fila para decidir si las matrices dadas son invertibles y hallar la inversa — 🎥 "Calculo de una matriz inversa utilizando operaciones elementales" — https://www.youtube.com/watch?v=FqqIPnUcL0c
+
+**Dom 20 Sep**
+* *Ej 11* — Hallar matrices elementales E1,...,Ek tales que Ek...E1·A=I (para la matriz del ejercicio anterior) — 🎥 "Matriz Inversa mediante operaciones elementales por filas" — https://www.youtube.com/watch?v=f_A-zQSQyT8
+* *Ej 12* — Definir la traza de una matriz y probar que Tr(AB)=Tr(BA) — 🎥 "Traza de AB igual a traza de BA" — https://www.youtube.com/watch?v=BQp9pTqd410
+
+**Lun 21**
+* *Ej 1* (P4) — Decidir si los siguientes conjuntos son R-espacios vectoriales con las operaciones dadas: (a) Rⁿ con v⊕w=v−w; (b) R² con (x,y)⊕(x',y')=(x+x',0), c⊙(x,y)=(cx,0) — 🎥 "CIPAS: Axiomas y propiedades de espacios vectoriales" — https://www.youtube.com/watch?v=xWKng_487HE
+* *Ej 2* — Probar que V^S (funciones de S en V) es un K-espacio vectorial, con suma y producto por escalar definidos puntualmente — 🎥 "Espacios Vectoriales - Demostrar que R² es un espacio vectorial" — https://www.youtube.com/watch?v=IqYtctLEJyE
 * *Ej 3* (a,b,c) — Hallar a,b,c t.q. (−1,2,1) sea combinación lineal de tres vectores; escribir z como combinación de u,v,w; escribir un polinomio como combinación de p,q,r — 🎥 "EJERCICIO RESUELTO COMBINACIÓN LINEAL DE VECTORES SCI" — https://www.youtube.com/watch?v=Ip6pBm3Ms3Y
 * *Ej 4* (a-f) — Decidir si los siguientes subconjuntos de Rⁿ son subespacios vectoriales (x1=xn; suma=1; suma=0; x1≤x2; xn=1; xn=0) — 🎥 "subespacios vectoriales / álgebra lineal" — https://www.youtube.com/watch?v=uuP0niNpPv0
-
-**Mar 15 Sep**
-* *Ej 10* — Usar operaciones elementales por fila para decidir si las matrices dadas son invertibles y hallar la inversa — 🎥 "Calculo de una matriz inversa utilizando operaciones elementales" — https://www.youtube.com/watch?v=FqqIPnUcL0c
-* *Ej 11* — Hallar matrices elementales E1,...,Ek tales que Ek...E1·A=I (para la matriz del ejercicio anterior) — 🎥 "Matriz Inversa mediante operaciones elementales por filas" — https://www.youtube.com/watch?v=f_A-zQSQyT8
 * *Ej 5* — Mostrar que el conjunto de polinomios de grado menor que n es un subespacio vectorial de R[x] (denotado Pn(R)) — 🎥 "¿Es subespacio? 1 + Ejercicio" — https://www.youtube.com/watch?v=HZTVGj3O-cQ
-
-**Mie 16 Sep**
-* *Ej 12* — Definir la traza de una matriz y probar que Tr(AB)=Tr(BA) — 🎥 "Traza de AB igual a traza de BA" — https://www.youtube.com/watch?v=BQp9pTqd410
-* *Ej 13* — (a) Matrices diagonales conmutan (b) Múltiplo escalar de I conmuta con todo B (c) Si A conmuta con toda B, A es múltiplo escalar de In — 🎥 "Traza de AB igual a traza de BA" — https://www.youtube.com/watch?v=BQp9pTqd410
 * *Ej 6 (a,b)* — Probar que C[0,1] es espacio vectorial con suma y producto puntuales; decidir si C¹[0,1], {f(1)=1} y {∫f=0} son subespacios — 🎥 "TAREA 3 WEB CONFERENCIA ÁLGEBRA LINEAL EJERCICIO 1 Y 2" — https://www.youtube.com/watch?v=Yld0DjEZrQ4
-* Ej *7 (a-d)* — Caracterizar con ecuaciones al subespacio vectorial dado por generadores, en R³, R⁴ y R[x] — 🎥 "EJERCICIO RESUELTO COMBINACIÓN LINEAL DE VECTORES SCD" — https://www.youtube.com/watch?v=iIFRbxrc3lU
 
-**Jue 17 Sep**
+
+**Mar 22 Sep**
+* Ej *7 (a-d)* — Caracterizar con ecuaciones al subespacio vectorial dado por generadores, en R³, R⁴ y R[x] — 🎥 "EJERCICIO RESUELTO COMBINACIÓN LINEAL DE VECTORES SCD" — https://www.youtube.com/watch?v=iIFRbxrc3lU
 * *Ej 8* (a,b) — Dado S={v1,v2,v3,v4}⊂R⁴: hallar sistema homogéneo cuyo espacio de soluciones sea W=⟨S⟩; describir W1∩W2 implícitamente — 🎥 "COMBINACIÓN LINEAL DE VECTORES. Ejemplos." — https://www.youtube.com/watch?v=I0yNMZpWk1Q
 * *Ej 9* (a-d) — Determinar si los subconjuntos indicados (vectores, matrices, funciones trigonométricas) son linealmente independientes — 🎥 "Dependencia lineal: Ejercicios con Polinomios y Matrices" — https://www.youtube.com/watch?v=dfeCl_Fyq5Y
 * *Ej 10* — Dar 3 vectores en R³ que sean LD, tales que dos cualesquiera de ellos sean LI — 🎥 "Espacios Vectoriales - Independencia lineal - Ejercicio Resuelto" — https://www.youtube.com/watch?v=LpUNbbAjCPo
 
-**Vie 18 Sep**
+**Mie 23 Sep**
 * *Ej 11* — ¿Cuál es la dimensión de Cⁿ cuando se lo considera como R-espacio vectorial? — 🎥 "Cómo saber si los Vectores son Linealmente INDEPENDIENTES o DEPENDIENTES" — https://www.youtube.com/watch?v=YllQRTLeQY0
 * *Ej 12* (a,b) — Extender, de ser posible, los conjuntos dados a una base de R⁴ — 🎥 "BASE de un ESPACIO VECTORIAL Ejercicios RESUELTOS" — https://www.youtube.com/watch?v=_yTxWUI3P3E
 * *Ej 13* (a,b) — Expresar R² como suma de dos subespacios no nulos; encontrar dos complementos distintos del subespacio generado por (1,2) — 🎥 "ESPACIO VECTORIAL BASE Y DIMENSIÓN ejercicio resuelto" — https://www.youtube.com/watch?v=P_gPauR3j8M
----
 
-**Sab 19 Sep**
+**Jue 24 Sep**
 * *Ej 14* (a-g) — W1,W2 subespacios de R⁶: determinar W1∩W2 y W1+W2, si la suma es directa, dar complementos, clasificar vectores dados — 🎥 "1.5 Bases Y Dimensión de un Espacio Vectorial. Ejercicios resueltos" — https://www.youtube.com/watch?v=2Fln4kQrJX8
+
+**Vie 25**
+* Libre
+
+**Sab 26**
 * *Ej 15* (a-d) — Dar una base y la dimensión de los subespacios vectoriales indicados (en R³, R⁵ y P4) — 🎥 "Base y dimensión de un Espacio Vectorial" — https://www.youtube.com/watch?v=YTkyiQ6jP-0
 * *Ej 16* (a,b) — Calcular la dimensión y exhibir una base de las matrices simétricas y hermíticas — 🎥 "Dependencia lineal de vectores" — https://www.youtube.com/watch?v=p8kbbA19Jpo
-* *Ej 17* — Probar que v1=(1,0,−i), v2=(1+i,1−i,1), v3=(i,i,i) forman base de C³, y dar coordenadas de un vector en esa base — 🎥 "COMBINACIONES LINEALES" — https://www.youtube.com/watch?v=9mbu5Hd-GP8
 
-**Dom 20 Sep**
-* *Ej 18* (a-c) — Demostrar que B es base de R⁴; coordenadas de la base canónica respecto de B; matrices de cambio de base — 🎥 "Combinación Lineal de un conjunto de Vectores en R3" — https://www.youtube.com/watch?v=grh-cgF3h4o
-* *Ej 19* (a,b) — V=P3, B={g1,g2,g3}: demostrar que es base; matrices de cambio de base con la base canónica {1,x,x²} — 🎥 "ÁLGEBRA. MATRIZ / MATRICES DE CAMBIO DE BASE (I)" — https://www.youtube.com/watch?v=tugfKwSvm0A
-* *Ej 20* (a-c) — Demostrar que B es base de M2×3(R); coordenadas de una matriz en B; matrices de cambio de base — 🎥 "Matriz de cambio de base - Parte 1" — https://www.youtube.com/watch?v=EVaFt4OWvrQ
-* *Ej 21* (a-e) — W=⟨v1,v2⟩⊂C³: demostrar que B1 es base; describir W implícitamente; B2 es otra base; coordenadas y matrices de cambio de base — 🎥 "Ejercicio de cambio de báse en Álgebra" — https://www.youtube.com/watch?v=2wIEmehCqHY
-
-**Lun 21**
+**Dom 27**
 * Parciales Viejos, repaso, etc
 
-**Mar 22 Sep**
+**Lun 28**
+* Parciales Viejos, repaso, etc
+
+**Mar 29**
 * 1er Parcial :P
