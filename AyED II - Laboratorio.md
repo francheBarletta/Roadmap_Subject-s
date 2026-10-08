@@ -6,18 +6,22 @@
 
 | Fecha | Evento |
 |---|---|
-| Mié 2 Diciembre 2026 | **Llamado 1** |
-| Mié 16 Diciembre 2026 | Llamado 2 |
+| Mié 2 Diciembre 2026 | Llamado 1 — **no se rinde** (el objetivo es el Llamado 2) |
+| Mié 16 Diciembre 2026 | **Llamado 2** |
 
-> Mismo domingo que el teórico-práctico, otro bloque de 2h (el domingo tiene 4h totales: 2h laboratorio + 2h teórico-práctico). A diferencia del teórico-práctico (papel/pizarra), acá se programa y compila en C de verdad, con los flags estrictos de la cátedra (`-Wall -Wextra -pedantic -std=c99`, y en varios labs también `-Werror`).
+> No cursás la materia este cuatrimestre: la estudiás en paralelo para rendir el final en diciembre. Este plan cubre el bloque de laboratorio (se programa y compila en C con los flags estrictos de la cátedra: `-Wall -Wextra -pedantic -std=c99`, y en varios labs también `-Werror`); el teórico-práctico está en su propio archivo y se estudia en la misma sesión.
 
 ---
 
-## Estado actual (6 Septiembre)
+## Estado actual (5 Octubre)
 
-- Nada resuelto todavía. El jueves 3/9 tampoco se estudió nada — se decidió bajar el ritmo a **2 sub-ítems/sesión** (antes ~4) y sumarle el Jueves (fusionado con el teórico-práctico ese día), ya que solo Domingo a 2/sesión hubiera tardado ~6 meses. Arranca el domingo 6/9.
-- Laboratorios disponibles: **Lab 0** (repaso C), **Lab 1** (ordenación), **Lab 2** (divide y vencerás), **Lab 3** (tipos de datos), **Lab 4** (punteros y memoria dinámica), **Lab 5 Parte 1** (TADs — puede faltar la Parte 2), **Lab 6** (programación dinámica).
-- Los ejercicios que ya vienen con solución provista por la cátedra (como el ítem eliminado del Lab 6) se saltean — solo se repasa la solución en vez de resolverla de cero.
+- **Nada resuelto todavía.** Los intentos de septiembre no se sostuvieron (domingos y jueves perdidos, el jueves 3/9 sin avance). AyED2 estuvo **en pausa desde el 6/9 por los parciales** y **retoma el jueves 15/10**.
+- Plan en dos fases, pensado para llegar al Llamado 2 sin pisar los parciales:
+  1. **Fase 1 (15/10 al 8/11):** jueves y domingo, ritmo liviano de **2 ejercicios de teórico + 2 sub-ítems de laboratorio por sesión** (empezar despacio para no procrastinar de nuevo). Son 8 sesiones.
+  2. **Pausa (9/11 al 20/11):** parciales de Álgebra (10/11), Lógica (13/11), recuperatorios de Álgebra (19/11) y Lógica (20/11).
+  3. **Fase 2 (21/11 al 8/12), propuesta:** AyED2 pasa a ser la prioridad, con sesiones casi diarias de **3 + 3**. Se confirma el 20/11, cuando se sepa cómo quedó el resto.
+- El laboratorio cierra el **Sáb 5 Dic**, lo que deja del 9/12 al 15/12 como margen de repaso antes del Llamado 2.
+- Si en noviembre hace falta más tiempo para los parciales, la fase 2 se corre y el margen se achica; el Llamado 2 sigue siendo alcanzable, y febrero queda como respaldo.
 
 ---
 
@@ -52,21 +56,28 @@
 
 ---
 
-## Reparto semanal (comparte Domingo y Jueves con el teórico-práctico)
+## Reparto semanal de materias (4 materias)
 
-| Bloque | Contenido |
+| Día | Materia(s) |
 |---|---|
-| Domingo y Jueves, 2 sub-ítems c/u | Este plan (Lab 0 a Lab 6) |
-| Domingo y Jueves, 2 ejercicios c/u | Ver `AyED_-_Teorico_Practico.md` |
+| Lunes (día completo, sin clase) | **Lógica, Álgebra y PyE** |
+| Martes (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** |
+| Miércoles (clase 9-13 Lógica) | **Álgebra** |
+| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **AyED2** — teórico-práctico y laboratorio |
+| Viernes (clase 9-13 Lógica) | Libre — sin materia |
+| Sábado (día completo, sin clase) | **Lógica, Álgebra y PyE** |
+| Domingo (día completo, sin clase) | **AyED2 y PyE** |
 
-> Tras fallar el jueves 3/9, el laboratorio se sumó también al Jueves (antes solo Domingo) y bajó el ritmo a 2 sub-ítems/sesión. El temario cierra el 3/12, un día después del Llamado 1 pero con margen antes del Llamado 2.
+> AyED2 usa **jueves** (después de las clases) y **domingo** en la fase 1. Entre el 9/11 y el 20/11 se pausa; desde el 21/11 pasa a ser la prioridad.
 
 ---
 
 ## Cronograma día por día
 
-| Fecha | Contenido |
-|---|---|
+> Las sesiones anteriores al 15/10 quedan como historial del plan anterior (6/9 al 12/10): figuraban planificadas pero no se llegaron a estudiar, AyED2 seguía en cero. Desde el 15/10 sigue el plan nuevo.
+
+| Fecha | Día | Contenido |
+|---|---|---|
 | ~~Dom 16 Ago~~ | ~~**PERDIDO**~~ (familia de visita) |
 | ~~Dom 23 Ago~~ | ~~**PERDIDO**~~ (semana de gripe) |
 | ~~Dom 30 Ago~~ | ~~**PERDIDO**~~ (semana del sprint) |
@@ -83,27 +94,75 @@
 | Dom 4 Oct | Lab2 |
 | Jue 8 Oct | Lab2 |
 | Dom 11 Oct | Lab2 |
-| Jue 15 Oct | Lab2 |
-| Dom 18 Oct | Lab2 |
-| Jue 22 Oct | Lab2 (cierra) · Lab3 |
-| Dom 25 Oct | Lab3 (cierra) · Lab4 |
-| Jue 29 Oct | Lab4 |
-| Dom 1 Nov | Lab4 |
-| Jue 5 Nov | Lab4 |
-| Dom 8 Nov | Lab4 |
-| Jue 12 Nov | Lab4 (cierra) |
-| Dom 15 Nov | Lab5 |
-| Jue 19 Nov | Lab5 |
-| Dom 22 Nov | Lab5 |
-| Jue 26 Nov | Lab5 (cierra) |
-| Dom 29 Nov | Lab6 |
-| Jue 3 Dic | Lab6 (cierra) |
-| **Mié 2 Dic** | **LLAMADO 1** (temario ya completo desde el 3/12... en realidad desde antes, ver nota) |
-| **Mié 16 Dic** | **LLAMADO 2** |
+| **— Desde acá: plan nuevo (corrida del 5/10) —** | | |
+| Jue 15 Oct | Jue | **AyED2 laboratorio** (~2.5h en total) — Lab 0 · ej. 1, 2 · otras: Álgebra, PyE |
+| Vie 16 Oct | Vie | otras: Lógica |
+| Sáb 17 Oct | Sáb | otras: Lógica, Álgebra, PyE |
+| Dom 18 Oct | Dom | **AyED2 laboratorio** (~2.5h en total) — Lab 0 (cierra) · ej. 3a, 3b · otras: PyE |
+| Lun 19 Oct | Lun | otras: Lógica, Álgebra, PyE |
+| Mar 20 Oct | Mar | otras: Lógica, Álgebra, PyE |
+| Mié 21 Oct | Mié | otras: Lógica, Álgebra |
+| Jue 22 Oct | Jue | **AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 0, 1A · otras: Álgebra, PyE |
+| Vie 23 Oct | Vie | otras: Lógica |
+| Sáb 24 Oct | Sáb | otras: Lógica, Álgebra, PyE |
+| Dom 25 Oct | Dom | **AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 1B, 1C · otras: PyE |
+| Lun 26 Oct | Lun | otras: Lógica, Álgebra, PyE |
+| Mar 27 Oct | Mar | otras: Lógica, Álgebra, PyE |
+| Mié 28 Oct | Mié | otras: Lógica, Álgebra |
+| Jue 29 Oct | Jue | **AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 2A, 2B · otras: Álgebra, PyE |
+| Vie 30 Oct | Vie | otras: Lógica |
+| Sáb 31 Oct | Sáb | otras: Lógica, Álgebra, PyE |
+| Dom 1 Nov | Dom | **AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 3, 4 · otras: PyE |
+| Lun 2 Nov | Lun | otras: Lógica, Álgebra, PyE |
+| Mar 3 Nov | Mar | **PARCIAL 2 de PyE** · otras: Lógica, Álgebra |
+| Mié 4 Nov | Mié | otras: Lógica, Álgebra |
+| Jue 5 Nov | Jue | **AyED2 laboratorio** (~2.5h en total) — Lab 1 (cierra) · ej. 5a, 5b · otras: Álgebra |
+| Vie 6 Nov | Vie | otras: Lógica |
+| Sáb 7 Nov | Sáb | otras: Lógica, Álgebra |
+| Dom 8 Nov | Dom | **AyED2 laboratorio** (~2.5h en total) — Lab 2 · ej. 1A, 1B |
+| Lun 9 Nov | Lun | AyED2 en pausa por los parciales · otras: Lógica, Álgebra |
+| Mar 10 Nov | Mar | **PARCIAL 2 de Álgebra** · AyED2 en pausa por los parciales · otras: Lógica |
+| Mié 11 Nov | Mié | AyED2 en pausa por los parciales · otras: Lógica |
+| Jue 12 Nov | Jue | AyED2 en pausa por los parciales |
+| Vie 13 Nov | Vie | **PARCIAL 2 de Lógica** · AyED2 en pausa por los parciales |
+| Sáb 14 Nov | Sáb | AyED2 en pausa por los parciales |
+| Dom 15 Nov | Dom | AyED2 en pausa por los parciales |
+| Lun 16 Nov | Lun | AyED2 en pausa por los parciales |
+| Mar 17 Nov | Mar | AyED2 en pausa por los parciales |
+| Mié 18 Nov | Mié | AyED2 en pausa por los parciales |
+| Jue 19 Nov | Jue | Recuperatorios de Álgebra · AyED2 en pausa por los parciales |
+| Vie 20 Nov | Vie | **Tercer parcial y recuperatorio de Lógica** · AyED2 en pausa por los parciales |
+| Sáb 21 Nov | Sáb | **AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 1C, 1D, 2A |
+| Dom 22 Nov | Dom | **AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 2B, 2C, 2D |
+| Lun 23 Nov | Lun | **AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 3A, 3B, 3C |
+| Mar 24 Nov | Mar | **AyED2 laboratorio** (~3.5h en total) — Lab 2 (cierra) · Lab 3 · ej. 3D, 4, Parte A |
+| Mié 25 Nov | Mié | **AyED2 laboratorio** (~3.5h en total) — Lab 3 (cierra) · Lab 4 · ej. Parte B, 1, 2a |
+| Jue 26 Nov | Jue | **AyED2 laboratorio** (~3.5h en total) — Lab 4 · ej. 2b, 2c, 2d |
+| Vie 27 Nov | Vie | Libre — sin materia |
+| Sáb 28 Nov | Sáb | **AyED2 laboratorio** (~3.5h en total) — Lab 4 · ej. 3a, 3b, 4a |
+| Dom 29 Nov | Dom | **AyED2 laboratorio** (~3.5h en total) — Lab 4 (cierra) · ej. 4b, 4c, 4d |
+| Lun 30 Nov | Lun | **AyED2 laboratorio** (~3.5h en total) — Lab 5 · ej. Lab 5 Ej 1a-c, 1d, 1e |
+| Mar 1 Dic | Mar | **AyED2 laboratorio** (~3.5h en total) — Lab 5 · ej. 2a, 2b, 3a |
+| Mié 2 Dic | Mié | AyED2 Llamado 1 (no se rinde) |
+| Jue 3 Dic | Jue | **AyED2 laboratorio** (~3.5h en total) — Lab 5 (cierra) · Lab 6 · ej. 3b, 3c, Lab 6 Ej 1a-c |
+| Vie 4 Dic | Vie | Libre — sin materia |
+| Sáb 5 Dic | Sáb | **AyED2 laboratorio** (~3.5h en total) — Lab 6 (cierra) · ej. 2, 3a, b, 4a, b |
+| Dom 6 Dic | Dom | **AyED2** — solo teórico / repaso del laboratorio |
+| Lun 7 Dic | Lun | **AyED2** — solo teórico / repaso del laboratorio |
+| Mar 8 Dic | Mar | **AyED2** — solo teórico / repaso del laboratorio |
+| Mié 9 Dic | Mié | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
+| Jue 10 Dic | Jue | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
+| Vie 11 Dic | Vie | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
+| Sáb 12 Dic | Sáb | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
+| Dom 13 Dic | Dom | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
+| Lun 14 Dic | Lun | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
+| Mar 15 Dic | Mar | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
+| Mié 16 Dic | Mié | **AyED2 Llamado 2** |
 
-> **Reorganización del 3/9 — ritmo bajado y Jueves sumado:** tras fallar el jueves 3/9, se decidió empezar despacio: **2 sub-ítems/sesión**, ahora en Domingo **y Jueves** (antes solo Domingo, lo que hubiera tardado ~6 meses). El temario completo (52 sub-ítems) cierra el **3 de diciembre**, un día después del Llamado 1 pero con margen cómodo antes del Llamado 2.
+---
 
 ## Detalle día por día
+
 **Dom 6 Sep** *(2 sub-ítems)* — Lab0
 * *Lab 0, Ej 1* — `check_bound()`: cota superior/inferior + búsqueda en un único ciclo, usando `struct bound_data` — 🎥 "Programación en C: STRUCTS y vectores de STRUCTS" — https://www.youtube.com/watch?v=kdKHZsxdHz4
 * *Lab 0, Ej 2* — Leer y entender el tictactoe incompleto: implementar `has_free_cell()` y `get_winner()` — 🎥 "Arreglos bidimensionales C# — Colecciones y Arreglos" — https://www.youtube.com/watch?v=dXchlGBS0FQ
@@ -148,69 +207,111 @@
 * *Ej 2C* — Imprimir pasos intermedios y verificar contra el video de la cátedra
 * *Ej 2D* — Testing: al menos 10 casos de test para cada función
 
-**Jue 15 Oct** *(2 sub-ítems)* — Lab2
+> **Desde acá: plan nuevo (corrida del 5/10).** Todo lo de arriba es historial, tal cual estaba.
+
+**Jue 15 Oct** *(~2.5h en total)* — Lab 0 · ej. 1, 2
+* *Lab 0, Ej 1* — `check_bound()`: cota superior/inferior + búsqueda en un único ciclo, usando `struct bound_data` — 🎥 "Programación en C: STRUCTS y vectores de STRUCTS" — https://www.youtube.com/watch?v=kdKHZsxdHz4
+* *Lab 0, Ej 2* — Leer y entender el tictactoe incompleto: implementar `has_free_cell()` y `get_winner()` — 🎥 "Arreglos bidimensionales C# — Colecciones y Arreglos" — https://www.youtube.com/watch?v=dXchlGBS0FQ
+
+**Dom 18 Oct** *(~2.5h en total)* — Lab 0 (cierra) · ej. 3a, 3b
+* *Lab 0, Ej 3a* — Tictactoe generalizado a tablero 4x4 (4 en línea para ganar) — 🎥 "C #20 — Arreglo Bidimensional" — https://www.youtube.com/watch?v=dei49_2PltI
+* *Lab 0, Ej 3b* — Extender a tablero 5x5 cambiando el mínimo de código posible — (mismo video que 3a, es una generalización directa)
+
+**Jue 22 Oct** *(~2.5h en total)* — Lab 1 · ej. 0, 1A
+* *Lab 1, Ej 0* — Tipo `fixstring` con `typedef`: `fstring_length`, `fstring_eq`, `fstring_less_eq`, sin usar `string.h` — 🎥 "Programación en C: STRINGS | Como almacenar cadenas de caracteres" — https://www.youtube.com/watch?v=pJHNYeAKogA
+* *Lab 1, Ej 1A* — Completar `insert()` para insertion sort usando `goes_before()` — 🎥 "Paso a paso a través de la función de ordenamiento por inserción" — https://www.youtube.com/watch?v=jRa1HqG9YaI
+
+**Dom 25 Oct** *(~2.5h en total)* — Lab 1 · ej. 1B, 1C
+* *Lab 1, Ej 1B* — Imprimir el arreglo en cada paso con `array_dump()`, verificar contra el teórico
+* *Lab 1, Ej 1C* — Agregar chequeo de invariante del `for` con `assert()` y `array_is_sorted()`
+
+**Jue 29 Oct** *(~2.5h en total)* — Lab 1 · ej. 2A, 2B
+* *Ej 2A* — Implementar `quick_sort_rec()` (top-down), usando `partition()` ya provisto — 🎥 "Quick Sort — algoritmo de ordenamiento explicado al detalle" — https://www.youtube.com/watch?v=YzHDIvxOQcI
+* *Ej 2B* — Completar `main()` llamando a `quick_sort()`
+
+**Dom 1 Nov** *(~2.5h en total)* — Lab 1 · ej. 3, 4
+* *Ej 3* — Implementar `partition()` desde cero (sin la versión precompilada) — 🎥 "Improving Quicksort with Median of 3 and Cutoffs" — https://www.youtube.com/watch?v=1Vl2TB7DoAM
+* *Ej 4* — Comparar selection/insertion/quick sort: tiempo, comparaciones e intercambios — 🎥 "¿Cómo funciona la notación asintótica?" — https://www.youtube.com/watch?v=HcDV5MGGrRE
+
+**Jue 5 Nov** *(~2.5h en total)* — Lab 1 (cierra) · ej. 5a, 5b
+* *Ej 5a* — Ordenar un arreglo de `fixstring` alfabéticamente con quick sort — 🎥 "Manejo de Cadenas en C: Funciones de string.h" — https://www.youtube.com/watch?v=PxiCY5EQdTQ
+* *Ej 5b* — Ordenar el mismo arreglo por longitud de las cadenas
+
+**Dom 8 Nov** *(~2.5h en total)* — Lab 2 · ej. 1A, 1B
+* *Ej 1A* — Resolver el k-ésimo elemento (ejercicio 5 del práctico 1.2) — 🎥 "Quick Select" — https://www.youtube.com/watch?v=aOhyCdxGJvY
+* *Ej 1B* — Implementar `k_esimo()` en C, adaptado a índices desde 0
+
+**Sáb 21 Nov** *(~3.5h en total)* — Lab 2 · ej. 1C, 1D, 2A
+* *Ej 1C* — Imprimir pasos intermedios y verificar contra el video de la cátedra
+* *Ej 1D* — Testing: al menos 10 casos de test (arreglo de 1 elemento, ordenados/desordenados, todos los k)
+* *Ej 2A* — Resolver "tiene cima" y "cima" con búsqueda secuencial (ejercicios 2a, 2b del práctico 1.3) — 🎥 "Estructura de Datos — Método Búsqueda Binaria" — https://www.youtube.com/watch?v=u3J-fe4UFsA
+
+**Dom 22 Nov** *(~3.5h en total)* — Lab 2 · ej. 2B, 2C, 2D
+* *Ej 2B* — Implementar `tiene_cima()` y `cima()` en `cima.c`, adaptado a índices desde 0
+* *Ej 2C* — Imprimir pasos intermedios y verificar contra el video de la cátedra
+* *Ej 2D* — Testing: al menos 10 casos de test para cada función
+
+**Lun 23 Nov** *(~3.5h en total)* — Lab 2 · ej. 3A, 3B, 3C
 * *Ej 3A* — Resolver "cima" con búsqueda binaria (ejercicio 2c del práctico 1.3) — 🎥 "Aprende Divide y Vencerás — Elemento mínimo y máximo de un vector" — https://www.youtube.com/watch?v=0lZmuVkRT44
 * *Ej 3B* — Implementar `cima_log()`, adaptado a índices desde 0
-
-**Dom 18 Oct** *(2 sub-ítems)* — Lab2
 * *Ej 3C* — Imprimir pasos intermedios y verificar contra el video de la cátedra
-* *Ej 3D* — Testing: al menos 10 casos de test
 
-**Jue 22 Oct** *(2 sub-ítems)* — Lab2 (cierra) · Lab3
+**Mar 24 Nov** *(~3.5h en total)* — Lab 2 (cierra) · Lab 3 · ej. 3D, 4, Parte A
+* *Ej 3D* — Testing: al menos 10 casos de test
 * *Ej 4* — Comparar complejidad y tiempos de `cima()` vs `cima_log()`, graficar en Sheets — 🎥 "Complejidad algoritmos recursivos" — https://www.youtube.com/watch?v=qNDaGZNI6s8
 * *Parte A* — Completar la carga de datos climáticos de Córdoba en `weather_table.c`/`weather.c` (robusto ante entradas mal formateadas) — 🎥 "Programación en C: STRUCTS y vectores de STRUCTS" — https://www.youtube.com/watch?v=kdKHZsxdHz4
 
-**Dom 25 Oct** *(2 sub-ítems)* — Lab3 (cierra) · Lab4
+**Mié 25 Nov** *(~3.5h en total)* — Lab 3 (cierra) · Lab 4 · ej. Parte B, 1, 2a
 * *Parte B* — Librería `weather_utils`: menor temperatura mínima histórica, mayor temperatura máxima por año, mes de mayor lluvia por año — verificar contra la tabla de resultados esperados
 * *Ej 1* — Punteros 101: completar `main.c` usando `&` y `*`, sin reasignar `x`, `m`, `a` directamente — 🎥 "Punteros y Paso por Referencia" — https://www.youtube.com/watch?v=jxHeXMPcD_c
-
-**Jue 29 Oct** *(2 sub-ítems)* — Lab4
 * *Ej 2a* — Traducir `absolute()` a C con prototipo `void absolute(int x, int y)` — comparar resultado con el lenguaje del teórico
-* *Ej 2b* — Traducir con prototipo `void absolute(int x, int *y)` (puntero de salida real)
 
-**Dom 1 Nov** *(2 sub-ítems)* — Lab4
+**Jue 26 Nov** *(~3.5h en total)* — Lab 4 · ej. 2b, 2c, 2d
+* *Ej 2b* — Traducir con prototipo `void absolute(int x, int *y)` (puntero de salida real)
 * *Ej 2c* — Responder: ¿`int *y` es parámetro `in`, `out` o `in/out`? ¿Qué tipos de parámetros tiene disponibles C?
 * *Ej 2d* — Implementar `swap()` con parámetros `in/out` usando punteros
 
-**Jue 5 Nov** *(2 sub-ítems)* — Lab4
+**Sáb 28 Nov** *(~3.5h en total)* — Lab 4 · ej. 3a, 3b, 4a
 * *Ej 3a* — Tamaño en bytes de cada campo de `data_t` + tamaño total (padding) — 🎥 "Fundamentos de C: uso de malloc y free (reservar y liberar memoria)" — https://www.youtube.com/watch?v=MtRV51dCwCc
 * *Ej 3b* — `data_t` en memoria dinámica con `malloc`/`free`, incluyendo `array_from_file()` con punteros
-
-**Dom 8 Nov** *(2 sub-ítems)* — Lab4
 * *Ej 4a* — Librería `strfuncs`: `string_length`, `string_filter`, `string_is_symmetric` — 🎥 "Manejo de Cadenas en C: Funciones de string.h" — https://www.youtube.com/watch?v=PxiCY5EQdTQ
-* *Ej 4b* — Detectar y corregir problemas de `scanf()` en `checkpal.c`, reemplazar por `fgets()`
 
-**Jue 12 Nov** *(2 sub-ítems)* — Lab4 (cierra)
+**Dom 29 Nov** *(~3.5h en total)* — Lab 4 (cierra) · ej. 4b, 4c, 4d
+* *Ej 4b* — Detectar y corregir problemas de `scanf()` en `checkpal.c`, reemplazar por `fgets()`
 * *Ej 4c* — Encontrar el bug de `string_clone()` con `valgrind --track-origins=yes` y `gdb`, corregirlo y eliminar memory leaks — 🎥 "Memoria dinámica en C (malloc, free, memory leaks)" — https://www.youtube.com/watch?v=NxE2O-NLOus
 * *Ej 4d* — Completar `string_clone()` usando `<string.h>` (sin `strdup()`)
 
-**Dom 15 Nov** *(2 sub-ítems)* — Lab5
+**Lun 30 Nov** *(~3.5h en total)* — Lab 5 · ej. Lab 5 Ej 1a-c, 1d, 1e
 * *Lab 5 Ej 1a-c* — TAD Par: implementar con tupla, con arreglo, analizar si logra encapsulamiento — 🎥 "¿Qué es un TAD? Tipos Abstractos de Datos explicados en 5 min" — https://www.youtube.com/watch?v=PIWAKf26NCk
 * *Ej 1d* — TAD Par con puntero, agregar manejo de memoria dinámica (constructor/destructor)
-
-**Jue 19 Nov** *(2 sub-ítems)* — Lab5
 * *Ej 1e* — TAD Par polimórfico (`Pair of A`), adaptar la implementación anterior a la nueva interfaz
-* *Ej 2a* — Implementar TAD Contador cumpliendo la especificación (con `assert()` en las precondiciones) — 🎥 "Tipo de Datos Abstractos — Qué es y tutorial" — https://www.youtube.com/watch?v=UJltNyYpMuM
 
-**Dom 22 Nov** *(2 sub-ítems)* — Lab5
+**Mar 1 Dic** *(~3.5h en total)* — Lab 5 · ej. 2a, 2b, 3a
+* *Ej 2a* — Implementar TAD Contador cumpliendo la especificación (con `assert()` en las precondiciones) — 🎥 "Tipo de Datos Abstractos — Qué es y tutorial" — https://www.youtube.com/watch?v=UJltNyYpMuM
 * *Ej 2b* — Usar el TAD Contador para chequear paréntesis balanceados
 * *Ej 3a* — Especificar el TAD Lista en `list.h` (constructores, operaciones, `typedef list_elem`) — 🎥 "Fundamentos de programación. Tipos Abstractos de Datos (TAD)" — https://www.youtube.com/watch?v=Kd8Tna-5e-Y
 
-**Jue 26 Nov** *(2 sub-ítems)* — Lab5 (cierra)
+**Jue 3 Dic** *(~3.5h en total)* — Lab 5 (cierra) · Lab 6 · ej. 3b, 3c, Lab 6 Ej 1a-c
 * *Ej 3b* — Implementar `list.c` con punteros (listas enlazadas), garantizando encapsulamiento
 * *Ej 3c* — Completar `array_to_list()` y `average()` en `main.c`
-
-**Dom 29 Nov** *(2 sub-ítems)* — Lab6
 * *Lab 6 Ej 1a-c* — `change()` con programación dinámica para el problema de la moneda + tests + `print_table()` — 🎥 "Cambio con monedas — Programación Dinámica C#" — https://www.youtube.com/watch?v=w69MsdS2oK8
-* *Ej 2* — `knapsack()` con programación dinámica para el problema de la mochila + tests + `print_table()` — 🎥 "Programación Dinámica: Método Mochila — Ejemplo 1 Paso a Paso" — https://www.youtube.com/watch?v=QFjeujVWufE
 
-**Jue 3 Dic** *(2 sub-ítems)* — Lab6 (cierra)
+**Sáb 5 Dic** *(~3.5h en total)* — Lab 6 (cierra) · ej. 2, 3a, b, 4a, b
+* *Ej 2* — `knapsack()` con programación dinámica para el problema de la mochila + tests + `print_table()` — 🎥 "Programación Dinámica: Método Mochila — Ejemplo 1 Paso a Paso" — https://www.youtube.com/watch?v=QFjeujVWufE
 * *Ej 3a, b* — Problema de la panadería con programación dinámica + tests (**el ítem c está eliminado por la cátedra — no hacer**) — 🎥 "Cambio de Monedas | Programación Dinámica" — https://www.youtube.com/watch?v=vdDBU3BJNPE
 * *Ej 4a, b* — Problema de la fábrica de automóviles (dos líneas de ensamblaje) con programación dinámica + tests — 🎥 "Programación Dinámica: Devolución de Cambio de Monedas" — https://www.youtube.com/watch?v=Sf4OKx1Wz9w
 
 ---
 
 ## Notas del método
+
+- **Corrida del 5/10:** AyED2 se retoma el jueves 15/10 tras la pausa por los parciales. El ritmo vuelve a ser liviano (2 + 2 por sesión) en la fase 1, y la fase 2 es una propuesta que se confirma el 20/11.
+- **Objetivo:** Llamado 2 (16/12); el Llamado 1 ya no es meta.
+- El único ítem eliminado por la cátedra es el (c) del Ejercicio 3 del Lab 6 (panadería con backtracking): no se implementa.
+- Varios videos son de la técnica general y no del enunciado exacto: el objetivo es entender el mecanismo.
+- Cuando llegue la Parte 2 del Lab 5 (si existe), se agrega con el mismo formato.
+
+### Historial de corridas anteriores
 
 - **Corrida del 6/9 — segundo bajón de ritmo:** el jueves 3/9 tampoco se estudió nada. Se bajó el ritmo a **2 sub-ítems/sesión** (antes ~4) y el laboratorio se sumó al Jueves también (fusionado con el teórico-práctico ese día) — solo Domingo a este ritmo hubiera tardado ~6 meses. El temario cierra el 3/12.
 - **Corrida del 1/9:** tras varios corrimientos fallidos (16/8, 23/8, 30/8, 1/9), se había bajado a ~4 sub-ítems/domingo — no llegó a sostenerse ni una semana.
