@@ -8,15 +8,16 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad. Objet
 
 | Fecha | Evento |
 |---|---|
-| Mar 29 Septiembre | **Parcial 1** — Guías 1 a 4 — **reprobado, 3,70** (aprueba con 4) |
+| Mar 29 Septiembre | **Parcial 1** — Guías 1 a 4 — **reprobado** (3,70 sobre 10 según la captura; el 8/10 informó 47/100, aprueba con 50 → *nota a confirmar con el parcial corregido*) |
 | Mar 3 Noviembre | **Parcial 2** — Guías 5 a 8 *(fecha actualizada el 5/10; antes era el 10/11)* |
 | Mar 17 Noviembre | **Recuperatorio del Parcial 1** — G1 a G4. Parcial 1 reprobado con **3,70** (se aprueba con 4) |
 
 ---
 
-## Estado actual (5 Octubre)
+## Estado actual (8 Octubre)
 
 - **Parcial 1 reprobado con 3,70** (rendido el 29/9; aprueba con 4). Recuperatorio el **Mar 17/11** (G1 a G4), dos semanas después del Parcial 2. El jueves 8/10 llega el parcial corregido: con la foto se ve en qué temas se perdieron los 0,30 y el repaso se apunta ahí.
+- **8/10: día sin avance** (solo clases). La teoría atrasada (HI-PyE-06) pasa al lunes 12/10 en Rosario (~1.5h); si no sale, se termina el miércoles 14/10 o el jueves 15/10 antes del práctico, porque G5 la necesita.
 - **Guías 5 a 8 (44 ejercicios): nada hecho.** Quedan **2 clases atrasadas** de teoría (corresponden a la HI-PyE-06, estimadores), que se resumen el martes 6/10, y la clase del 13/10, que se pierde por volver de Rosario (se pide y se copia el 14/10).
 - Con el ritmo calculado (unos 3 ejercicios cada 2 h de práctico y 4 en los días completos), la G8 cierra el **Jue 29 Oct** y quedan **3 días de repaso completos** (Sáb 31/10, Dom 1/11 y Lun 2/11) más el viernes 30/10 libre antes del parcial.
 - Los ejercicios que van marcados con * quedan como cierre de cada guía.
@@ -235,10 +236,10 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad. Objet
 | Lunes (día completo, sin clase) | **Lógica, Álgebra y PyE** |
 | Martes (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** |
 | Miércoles (clase 9-13 Lógica) | **Álgebra** |
-| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **AyED2** — teórico-práctico y laboratorio |
+| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **Repaso de recuperatorios** (Lógica U1) — AyED2 pasa a febrero |
 | Viernes (clase 9-13 Lógica) | Libre — sin materia |
 | Sábado (día completo, sin clase) | **Lógica, Álgebra y PyE** |
-| Domingo (día completo, sin clase) | **AyED2 y PyE** |
+| Domingo (día completo, sin clase) | **PyE** + **repaso de recuperatorios** (Álgebra) — AyED2 pasa a febrero |
 
 > **Cómo se calculan los ejercicios por día:** unos 3 ejercicios cada 2 h de práctico (los prácticos en clase, el particular y las noches) y hasta 4 en los días completos (Sáb, Dom y Lun) de PyE y Álgebra. Las primeras 2 h de cada clase son teoría en vivo, no ejercicios. Cuando una materia se queda sin ejercicios nuevos, los días siguientes quedan como repaso: ese es el margen real antes del examen.
 
@@ -294,44 +295,44 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad. Objet
 | **— Desde acá: plan nuevo (corrida del 5/10) —** | | |
 | Mar 6 Oct | Mar | **PyE** — teoría: resumen de las 2 clases atrasadas · otras: Álgebra |
 | Mié 7 Oct | Mié | otras: Lógica, Álgebra |
-| Jue 8 Oct | Jue | **PyE** (2h) — teoría: terminar las 2 clases atrasadas (HI-PyE-06), sin ejercicios · otras: Álgebra |
+| Jue 8 Oct | Jue | **PyE** — sin avance hoy (solo clases) · la teoría atrasada (HI-PyE-06) pasa al lunes 12/10 · otras: Álgebra |
 | Vie 9 Oct | Vie | Viaje a Rosario (bus 16:15) · otras: Lógica |
-| Sáb 10 Oct | Sáb | Rosario · sin PyE (los ejercicios arrancan después de Rosario) |
+| Sáb 10 Oct | Sáb | Rosario · sin PyE (los ejercicios arrancan después de Rosario) · otras: Lógica |
 | Dom 11 Oct | Dom | Rosario · otras: Lógica |
-| Lun 12 Oct | Lun | Rosario · otras: Álgebra |
+| Lun 12 Oct | Lun | Rosario · **PyE** (~1.5h) — teoría atrasada: terminar el resumen de las 2 clases (HI-PyE-06), sin ejercicios · otras: Álgebra |
 | Mar 13 Oct | Mar | Libre — vuelve de Rosario (se pierden las clases de PyE y Álgebra) |
 | Mié 14 Oct | Mié | tarea: Pedir y copiar la clase de PyE del 13/10 (la que se pierde por volver de Rosario) · otras: Lógica, Álgebra |
-| Jue 15 Oct | Jue | **PyE** (2h) — G5 ej. 1, 2, 3 · otras: Álgebra, AyED2 |
+| Jue 15 Oct | Jue | **PyE** (2h) — G5 ej. 1, 2, 3 · otras: Álgebra, repaso recup. Lógica |
 | Vie 16 Oct | Vie | otras: Lógica |
 | Sáb 17 Oct | Sáb | **PyE** (~3.5h) — G5 ej. 4, 5, 6, 7, 8 · otras: Lógica, Álgebra |
-| Dom 18 Oct | Dom | **PyE** (~3.5h) — G5 ej. 9, 10 · HI-PyE-07 · G6 ej. 1, 2, 3 · otras: AyED2 |
+| Dom 18 Oct | Dom | **PyE** (~3.5h) — G5 ej. 9, 10 · HI-PyE-07 · G6 ej. 1, 2, 3 · otras: repaso recup. Álgebra |
 | Lun 19 Oct | Lun | **PyE** (~2.5h) — G6 ej. 4, 5, 6, 7 · otras: Lógica, Álgebra |
 | Mar 20 Oct | Mar | **PyE** (2h) — G6 ej. 8, 9* · otras: Lógica, Álgebra |
 | Mié 21 Oct | Mié | otras: Lógica, Álgebra |
-| Jue 22 Oct | Jue | **PyE** (2h) — HI-PyE-08 · G7 ej. 1, 2, 3 · otras: Álgebra, AyED2 |
+| Jue 22 Oct | Jue | **PyE** (2h) — HI-PyE-08 · G7 ej. 1, 2, 3 · otras: Álgebra, repaso recup. Lógica |
 | Vie 23 Oct | Vie | otras: Lógica |
 | Sáb 24 Oct | Sáb | **PyE** (~3.5h) — G7 ej. 4, 5, 6, 7, 8 · otras: Lógica, Álgebra |
-| Dom 25 Oct | Dom | **PyE** (~3.5h) — G7 ej. 9, 10, 11, 12, 13 · otras: AyED2 |
+| Dom 25 Oct | Dom | **PyE** (~3.5h) — G7 ej. 9, 10, 11, 12, 13 · otras: repaso recup. Álgebra |
 | Lun 26 Oct | Lun | **PyE** (~2.5h) — G7 ej. 14, 15, 16, 17 · otras: Lógica, Álgebra |
 | Mar 27 Oct | Mar | **PyE** (2h) — HI-PyE-09 · G8 ej. 1, 2 · otras: Lógica, Álgebra |
 | Mié 28 Oct | Mié | **PyE** (~3h) — G8 ej. 3, 4, 5, 6 · tarde cedida por Álgebra y Lógica (en repaso) · otras: Lógica, Álgebra |
-| Jue 29 Oct | Jue | **PyE** (2h) — G8 ej. 7, 8 (cierra G8) · otras: Álgebra, AyED2 |
+| Jue 29 Oct | Jue | **PyE** (2h) — G8 ej. 7, 8 (cierra G8) · otras: Álgebra, repaso recup. Lógica |
 | Vie 30 Oct | Vie | otras: Lógica |
 | Sáb 31 Oct | Sáb | **PyE** (~2.5h) — repaso / SR / parciales viejos · otras: Lógica, Álgebra |
-| Dom 1 Nov | Dom | **PyE** (~2.5h) — repaso / SR / parciales viejos · otras: AyED2 |
+| Dom 1 Nov | Dom | **PyE** (~2.5h) — repaso / SR / parciales viejos |
 | Lun 2 Nov | Lun | **PyE** (~2.5h) — repaso / SR / parciales viejos · repaso final antes del parcial, sin ejercicios nuevos · otras: Lógica, Álgebra |
 | Mar 3 Nov | Mar | **PARCIAL 2 de PyE** · otras: Lógica, Álgebra |
 | Mié 4 Nov | Mié | Descanso post-parcial de PyE · otras: Lógica, Álgebra |
-| Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** · **PyE** (2h, práctico en clase 11-13) — recuperatorio P1: repaso de G1 y G2 (temas flojos según el parcial corregido) · otras: AyED2 |
+| Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** · **PyE** (2h, práctico en clase 11-13) — recuperatorio P1: repaso de G1 y G2 (temas flojos según el parcial corregido) |
 | Vie 6 Nov | Vie | otras: Lógica |
-| Sáb 7 Nov | Sáb | **PyE** (~2.5h) — recuperatorio P1: G3 · otras: Lógica, Álgebra |
-| Dom 8 Nov | Dom | **PyE** (~2.5h) — recuperatorio P1: G4 · otras: AyED2 |
-| Lun 9 Nov | Lun | Repaso final de Álgebra (parcial mañana) · otras: Lógica |
+| Sáb 7 Nov | Sáb | **PyE** (~2.5h) — recuperatorio P1: G3 · otras: Lógica, Álgebra (recup. P1) |
+| Dom 8 Nov | Dom | **PyE** (~2.5h) — recuperatorio P1: G4 · otras: repaso recup. Álgebra |
+| Lun 9 Nov | Lun | otras: Lógica, Álgebra (recup. P1) |
 | Mar 10 Nov | Mar | **PyE** (2h, práctico en clase 11-13) — recuperatorio P1: G3 y G4 con parciales viejos · otras: Lógica |
 | Mié 11 Nov | Mié | otras: Lógica |
 | Jue 12 Nov | Jue | **PyE** (2h) — recuperatorio P1: ejercicios de parciales viejos / SR |
 | Vie 13 Nov | Vie | **PARCIAL 2 de Lógica** — PyE sin sesión |
-| Sáb 14 Nov | Sáb | **PyE** (~2.5h) — recuperatorio P1: simulacro (parcial viejo completo, con tiempo) |
+| Sáb 14 Nov | Sáb | **PyE** (~2.5h) — recuperatorio P1: simulacro (parcial viejo completo, con tiempo) · otras: Álgebra (recup. P1), Lógica (U1) |
 | Dom 15 Nov | Dom | **PyE** (~2.5h) — recuperatorio P1: corregir el simulacro y reforzar lo que falló |
 | Lun 16 Nov | Lun | **PyE** (~1.5h) — repaso final liviano, sin ejercicios nuevos |
 | Mar 17 Nov | Mar | **RECUPERATORIO DEL PARCIAL 1 de PyE** (G1 a G4) |
@@ -436,8 +437,11 @@ https://www.youtube.com/watch?v=QXO3u6Ak4rU
 **Mar 6 Oct** — Teoría y puesta al día
 * *Tarea* — Resumen de la teoría de las 2 clases atrasadas (es la HI-PyE-06: estimadores, momentos y MV). En clase (9-13): las primeras 2 h son teoría en vivo (anotar e interpretar); las 2 h siguientes, resumen de lo atrasado. Sin ejercicios.
 
-**Jue 8 Oct** *(2h)* — Teoría: terminar las 2 clases atrasadas  ·  _clase 9-13 + práctico 11-13_
-* *Tarea* — Terminar el resumen de la teoría de las 2 clases atrasadas (HI-PyE-06: estimadores, momentos y MV): martes 6/10 no alcanzó. En clase (9-13) las primeras 2 h son teoría en vivo; el práctico (11-13) se usa para cerrar el resumen. Sin ejercicios: los de G5 corren un slot.
+**Jue 8 Oct** — Sin avance
+* *Tarea* — Hoy solo se asistió a clase. La teoría atrasada (HI-PyE-06) pasa al lunes 12/10.
+
+**Lun 12 Oct** *(~1.5h)* — Teoría: terminar las 2 clases atrasadas  ·  _Rosario_
+* *Tarea* — Terminar el resumen de la teoría de las 2 clases atrasadas (HI-PyE-06: estimadores, momentos y MV). Sin ejercicios. Si no sale en Rosario, se termina el miércoles 14/10 o el jueves 15/10 antes del práctico: G5 necesita esa teoría.
 
 **Jue 15 Oct** *(2h)* — G5 ej. 1, 2, 3  ·  _práctico en clase 11-13_
 * *Ej 1 (G5)* — Poisson: estimador insesgado de λ, error estándar, comparar estimadores — 🎥 "Estimación puntual — momentos y MV" — https://www.youtube.com/watch?v=p59Rik4oHkQ
@@ -510,6 +514,16 @@ https://www.youtube.com/watch?v=QXO3u6Ak4rU
 * *Ej 7 (G8)* — Carboxihemoglobina en fumadores vs. no fumadores — muestras grandes — 🎥 "PH diferencia de medias — indep." — https://www.youtube.com/watch?v=3Rozok2NjNY
 * *Ej 8 (G8)* — Niveles de DDE en cáncer de mama — apareada, n grande — 🎥 "PH diferencia de medias — apareadas" — https://www.youtube.com/watch?v=_4iR54x3s4I
 
+### Repaso del recuperatorio (Parcial 1, G1 a G4)
+
+> Hasta el parcial del 3/11, PyE no tiene bloque de repaso propio: sigue el plan de G5 a G8. Después del parcial, el repaso del 1er parcial es lo único que queda para el 17/11. Los ejercicios concretos se definen con el parcial corregido (la nota exacta está por confirmar: 3,70/10 o 47/100).
+
+* **Jue 5 Nov** *(2h, práctico 11-13)* — G1 y G2: temas flojos del parcial corregido.
+* **Sáb 7 Nov** *(~2.5h)* — G3. **Dom 8 Nov** *(~2.5h)* — G4.
+* **Mar 10 Nov** *(2h)* — G3 y G4 con parciales viejos. **Jue 12 Nov** *(2h)* — parciales viejos / SR.
+* **Sáb 14 Nov** *(~2.5h)* — simulacro completo con tiempo. **Dom 15 Nov** *(~2.5h)* — corregir y reforzar.
+* **Lun 16 Nov** *(~1.5h)* — repaso liviano, sin ejercicios nuevos. **Mar 17 Nov** — recuperatorio.
+
 ---
 
 ## Hojas de investigación PyE
@@ -532,6 +546,7 @@ https://www.youtube.com/watch?v=QXO3u6Ak4rU
 
 ## Notas del método
 
+- **Corrida del 8/10 (noche):** día sin avance tras recibir las notas; la teoría atrasada pasa al lunes 12/10 (Rosario). Los jueves y domingos que eran de AyED2 pasan a repaso de recuperatorios de Lógica y Álgebra (AyED2 se va a febrero); PyE conserva su bloque de repaso del 5 al 16/11. Nota del Parcial 1 a confirmar (3,70/10 vs 47/100).
 - **Corrida del 6/10 (noche):** el Parcial 1 salió 3,70 y se recupera el 17/11. Se agregó el bloque de repaso de G1 a G4 del 5 al 16/11 (los días libres de PyE entre los parciales de Álgebra y Lógica). Los ejercicios concretos se definen con el parcial corregido.
 - **Corrida del 7/10:** los ejercicios de PyE arrancan después de Rosario (jueves 15/10); sáb 10/10 y dom 11/10 quedan sin PyE. Para sostener el margen se cargaron más los findes sin clases ni compañeros (sáb/dom 17-18 y 24-25, ~3,5 h, 5 ejercicios por día) y se usó el miércoles 28/10 a la tarde (Álgebra y Lógica ya están en repaso). G8 cierra el jueves 29/10 y quedan 3 días de repaso completos (31/10, 1/11 y 2/11).
 - **Corrida del 6/10:** la teoría atrasada no alcanzó el martes; el jueves 8/10 se usa para terminarla y los ejercicios de G5 corren un slot. El margen de repaso antes del 3/11 pasó de 2 días a 1 día (lunes 2/11).

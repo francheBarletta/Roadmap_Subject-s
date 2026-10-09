@@ -8,21 +8,21 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 | Fecha | Evento |
 |---|---|
-| Mar 29 Septiembre | **Primer Parcial** — rendido, nota pendiente (antes figuraba el 22/9) |
+| Mar 29 Septiembre | **Primer Parcial** — rendido, **reprobado: 37/100** (se aprueba con 50) — *nota a confirmar: el 8/10 la informó así, pero el 37% coincide con la captura de PyE (3,70)* |
 | Jue 5 Noviembre | **Segundo Parcial** *(se adelantó del 10/11 al 5/11)* — Práctico 4 desde el ejercicio 17, Práctico 5 y los prácticos 6 y 7 (a confirmar cuáles entran) |
-| Jue 19 Noviembre | Recuperatorios |
+| Jue 19 Noviembre | **Recuperatorio del Parcial 1** (solo cubre el Parcial 1: P1 a P4 ej. 1–16) |
 
 > Modo de evaluación: cada parcial tiene una prueba escrita (se aprueba con 50%) + autoevaluaciones (deben responderse todas correctamente). Se necesitan ambos parciales aprobados (o recuperados) para la regularidad. No hay promoción — el final incluye teoría y práctica.
 
 ---
 
-## Estado actual (7 Octubre)
+## Estado actual (8 Octubre)
 
 - **Prácticos 1, 2 y 3 completos.** **Práctico 4:** se estudia **desde el ejercicio 17 hasta el 21**. Los ejercicios 1 a 16 ya se tomaron en el primer parcial (incluidos los que quedaron sin terminar: 2, 3, 5, 6, 9, 10, 11 y 12) y se saltean.
 - **Práctico 5 (transformaciones lineales):** banco armado, sin empezar. **Prácticos 6 y 7:** todavía no están publicados; probablemente entran en el segundo parcial. Se suman completos (sin elegir) cuando estén disponibles.
-- **Atraso resuelto:** el 7/10 se copiaron las clases atrasadas y hubo particular de 17 a 19. Queda la clase del 13/10, que se pierde por volver de Rosario (se pide y se copia el 14/10).
-- El primer parcial ya se rindió; la nota todavía no llegó. Las autoevaluaciones del primer parcial están terminadas.
-- **23 ejercicios pendientes** (5 de P4 + 18 de P5), que arrancan el jueves 8/10 y cierran el **Mié 21 Oct**. Del Jue 22 Oct al 3/11 quedan **8 slots reservados para P6 y P7** (unos 24 ejercicios); si no hay prácticos nuevos, se usan como repaso. El 4/11 es repaso final.
+- **Atraso:** el 7/10 se copiaron las clases atrasadas y hubo particular de 17 a 19. El **8/10 fue un día sin avance** (solo clases), así que los ej. 17, 18, 19 de P4 corrieron un slot. Queda la clase del 13/10, que se pierde por volver de Rosario (se pide y se copia el 14/10).
+- **Primer parcial reprobado (37/100, aprueba con 50; a confirmar).** Se recupera el **Jue 19/11** (solo Parcial 1). Desde el 15/10 hay un **bloque de repaso de recuperatorios** los domingos (AyED2 pasa a febrero): 18/10 y 25/10 de Álgebra, y desde el 7/11 repaso fuerte (ver cronograma). Cuando llegue el parcial corregido se apunta a los ejercicios que se perdieron.
+- **23 ejercicios pendientes** (5 de P4 + 18 de P5), que arrancan el lunes 12/10 y cierran el **Jue 22 Oct** (con 1 ejercicio de P5). Del Sáb 24 Oct al 3/11 quedan **7 slots completos reservados para P6 y P7** (unos 21 ejercicios), más el resto del Jue 22; si no hay prácticos nuevos, se usan como repaso. El 4/11 es repaso final.
 
 ---
 
@@ -176,10 +176,10 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | Lunes (día completo, sin clase) | **Lógica, Álgebra y PyE** |
 | Martes (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** |
 | Miércoles (clase 9-13 Lógica) | **Álgebra** |
-| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **AyED2** — teórico-práctico y laboratorio |
+| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **Repaso de recuperatorios** (Lógica U1) — AyED2 pasa a febrero |
 | Viernes (clase 9-13 Lógica) | Libre — sin materia |
 | Sábado (día completo, sin clase) | **Lógica, Álgebra y PyE** |
-| Domingo (día completo, sin clase) | **AyED2 y PyE** |
+| Domingo (día completo, sin clase) | **PyE** + **repaso de recuperatorios** (Álgebra) — AyED2 pasa a febrero |
 
 > **Cómo se calculan los ejercicios por día:** unos 3 ejercicios cada 2 h de práctico (los prácticos en clase, el particular y las noches) y hasta 4 en los días completos (Sáb, Dom y Lun) de PyE y Álgebra. Las primeras 2 h de cada clase son teoría en vivo, no ejercicios. Cuando una materia se queda sin ejercicios nuevos, los días siguientes quedan como repaso: ese es el margen real antes del examen.
 
@@ -223,49 +223,49 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | **— Desde acá: plan nuevo (corrida del 5/10) —** | | |
 | Mar 6 Oct | Mar | **Álgebra** — ponerse al día con las 2 clases atrasadas · otras: PyE |
 | Mié 7 Oct | Mié | **Álgebra** — clases atrasadas copiadas + particular 17-19 *(hecho, sin ejercicios)* · otras: Lógica |
-| Jue 8 Oct | Jue | **Álgebra** (2h) — P4 ej. 17, 18, 19 · otras: PyE |
+| Jue 8 Oct | Jue | **Álgebra** — sin avance hoy (solo clases) · otras: PyE |
 | Vie 9 Oct | Vie | Viaje a Rosario (bus 16:15) · otras: Lógica |
 | Sáb 10 Oct | Sáb | Rosario · otras: Lógica |
 | Dom 11 Oct | Dom | Rosario · otras: Lógica |
-| Lun 12 Oct | Lun | Rosario · **Álgebra** (~1.5h) — P4 ej. 20, 21 |
+| Lun 12 Oct | Lun | Rosario · **Álgebra** (~1.5h) — P4 ej. 17, 18 · otras: PyE (teoría atrasada) |
 | Mar 13 Oct | Mar | Libre — vuelve de Rosario (se pierden las clases de PyE y Álgebra) |
-| Mié 14 Oct | Mié | **Álgebra** (2h) — P5 ej. 1, 2, 3 · tarea: Pedir y copiar la clase de Álgebra del 13/10 (la que se pierde por volver de Rosario) en la tarde libre; el particular de 17 a 19 queda para los ejercicios · otras: Lógica |
-| Jue 15 Oct | Jue | **Álgebra** (2h) — P5 ej. 4, 5, 6 · otras: PyE, AyED2 |
+| Mié 14 Oct | Mié | **Álgebra** (2h) — P4 ej. 19, 20, 21 (cierra P4) · tarea: Pedir y copiar la clase de Álgebra del 13/10 (la que se pierde por volver de Rosario) en la tarde libre; el particular de 17 a 19 queda para los ejercicios · otras: Lógica |
+| Jue 15 Oct | Jue | **Álgebra** (2h) — P5 ej. 1, 2, 3 · otras: PyE, repaso recup. Lógica |
 | Vie 16 Oct | Vie | otras: Lógica |
-| Sáb 17 Oct | Sáb | **Álgebra** (~2.5h) — P5 ej. 7, 8, 9, 10 · otras: Lógica, PyE |
-| Dom 18 Oct | Dom | otras: PyE, AyED2 |
-| Lun 19 Oct | Lun | **Álgebra** (~2.5h) — P5 ej. 11, 12, 13, 14 · otras: Lógica, PyE |
-| Mar 20 Oct | Mar | **Álgebra** (2h) — P5 ej. 15, 16, 17 · otras: Lógica, PyE |
-| Mié 21 Oct | Mié | **Álgebra** (2h) — P5 ej. 18 (cierra P5) · otras: Lógica |
-| Jue 22 Oct | Jue | **Álgebra** (2h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: PyE, AyED2 |
+| Sáb 17 Oct | Sáb | **Álgebra** (~2.5h) — P5 ej. 4, 5, 6, 7 · otras: Lógica, PyE |
+| Dom 18 Oct | Dom | **Álgebra** (2h, bloque de repaso) — repaso del recuperatorio (P1 a P4): ver bloques de repaso al final · otras: PyE |
+| Lun 19 Oct | Lun | **Álgebra** (~2.5h) — P5 ej. 8, 9, 10, 11 · otras: Lógica, PyE |
+| Mar 20 Oct | Mar | **Álgebra** (2h) — P5 ej. 12, 13, 14 · otras: Lógica, PyE |
+| Mié 21 Oct | Mié | **Álgebra** (2h) — P5 ej. 15, 16, 17 · otras: Lógica |
+| Jue 22 Oct | Jue | **Álgebra** (2h) — P5 ej. 18 (cierra P5) + P6 y P7 si ya se publicaron (si no, repaso / SR / parciales viejos) · otras: PyE, repaso recup. Lógica |
 | Vie 23 Oct | Vie | otras: Lógica |
 | Sáb 24 Oct | Sáb | **Álgebra** (~2.5h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
-| Dom 25 Oct | Dom | otras: PyE, AyED2 |
+| Dom 25 Oct | Dom | **Álgebra** (2h, bloque de repaso) — repaso del recuperatorio (P1 a P4): ver bloques de repaso al final · otras: PyE |
 | Lun 26 Oct | Lun | **Álgebra** (~2.5h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
 | Mar 27 Oct | Mar | **Álgebra** (2h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
 | Mié 28 Oct | Mié | **Álgebra** (2h) — repaso / SR / parciales viejos *(tarde cedida a PyE)* · otras: Lógica |
-| Jue 29 Oct | Jue | **Álgebra** (2h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: PyE, AyED2 |
+| Jue 29 Oct | Jue | **Álgebra** (2h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: PyE, repaso recup. Lógica |
 | Vie 30 Oct | Vie | otras: Lógica |
 | Sáb 31 Oct | Sáb | **Álgebra** (~2.5h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
-| Dom 1 Nov | Dom | otras: PyE, AyED2 |
+| Dom 1 Nov | Dom | otras: PyE |
 | Lun 2 Nov | Lun | **Álgebra** (~2.5h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
 | Mar 3 Nov | Mar | **PARCIAL 2 de PyE** · **Álgebra** (2h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica |
 | Mié 4 Nov | Mié | **Álgebra** (2h) — repaso / SR / parciales viejos · repaso final antes del parcial, sin ejercicios nuevos · otras: Lógica |
-| Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** · otras: AyED2 |
-| Vie 6 Nov | Vie | otras: Lógica |
-| Sáb 7 Nov | Sáb | otras: Lógica |
-| Dom 8 Nov | Dom | otras: AyED2 |
-| Lun 9 Nov | Lun | otras: Lógica |
+| Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** |
+| Vie 6 Nov | Vie | Libre — sin materia · otras: Lógica |
+| Sáb 7 Nov | Sáb | **Álgebra** (~2.5h) — recuperatorio P1: repaso de los temas flojos del parcial corregido · otras: Lógica, PyE |
+| Dom 8 Nov | Dom | **Álgebra** (2h, bloque de repaso) — recuperatorio P1: rehacer los ejercicios fallados · otras: PyE |
+| Lun 9 Nov | Lun | **Álgebra** (~2.5h) — recuperatorio P1: espacios vectoriales (P4 ej. 1–16) · otras: Lógica |
 | Mar 10 Nov | Mar | otras: Lógica |
 | Mié 11 Nov | Mié | otras: Lógica |
 | Jue 12 Nov | Jue | — |
 | Vie 13 Nov | Vie | **PARCIAL 2 de Lógica** |
-| Sáb 14 Nov | Sáb | — |
-| Dom 15 Nov | Dom | — |
-| Lun 16 Nov | Lun | — |
-| Mar 17 Nov | Mar | — |
-| Mié 18 Nov | Mié | — |
-| Jue 19 Nov | Jue | Recuperatorios de Álgebra |
+| Sáb 14 Nov | Sáb | **Álgebra** (2h) — recuperatorio P1: simulacro de un parcial viejo, con tiempo · otras: Lógica (U1), PyE |
+| Dom 15 Nov | Dom | otras: PyE, Lógica (U1) |
+| Lun 16 Nov | Lun | **Álgebra** (2h) — recuperatorio P1: corregir el simulacro y reforzar · otras: PyE (repaso liviano) |
+| Mar 17 Nov | Mar | **Álgebra** (2h, tarde) — recuperatorio P1: ejercicios tipo parcial · otras: **RECUPERATORIO de PyE** |
+| Mié 18 Nov | Mié | **Álgebra** (~3h) — repaso final del recuperatorio, sin ejercicios nuevos · otras: Lógica (U1) |
+| Jue 19 Nov | Jue | **RECUPERATORIO DEL PARCIAL 1 de Álgebra** (P1 a P4) |
 
 ---
 
@@ -377,59 +377,74 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 **Mié 7 Oct** — Teoría y puesta al día *(hecho)*
 * *Tarea* — Se copiaron las clases de Álgebra que estaban atrasadas y hubo particular de 17 a 19. Sin ejercicios: los de P4 arrancan el jueves 8/10.
 
-**Jue 8 Oct** *(2h)* — P4 ej. 17, 18, 19  ·  _práctico en clase 16-18; las 2 h de teoría de 14 a 16_
+**Jue 8 Oct** — Sin avance
+* *Tarea* — Hoy solo se asistió a clase, sin ejercicios. Los ej. 17, 18 y 19 de P4 se reparten: 17 y 18 el lunes 12/10 (Rosario) y 19 el miércoles 14/10.
+
+**Lun 12 Oct** *(~1.5h)* — P4 ej. 17, 18  ·  _Rosario, mañana/noche_
 * *Ej 17 (P4)* — Probar que v1=(1,0,−i), v2=(1+i,1−i,1), v3=(i,i,i) forman base de C³, y dar coordenadas de un vector en esa base — 🎥 "COMBINACIONES LINEALES" — https://www.youtube.com/watch?v=9mbu5Hd-GP8
 * *Ej 18 (P4)* — Demostrar que B es base de R⁴; coordenadas de la base canónica respecto de B; matrices de cambio de base — 🎥 "Combinación Lineal de un conjunto de Vectores en R3" — https://www.youtube.com/watch?v=grh-cgF3h4o
-* *Ej 19 (P4)* — V=P3, B={g1,g2,g3}: demostrar que es base; matrices de cambio de base con la base canónica {1,x,x²} — 🎥 "ÁLGEBRA. MATRIZ / MATRICES DE CAMBIO DE BASE (I)" — https://www.youtube.com/watch?v=tugfKwSvm0A
+💡 Rosario: si la mañana no salió, la noche es solo el mínimo (1 ejercicio); no se compensa con un sprint nocturno.
 
-**Lun 12 Oct** *(~1.5h)* — P4 ej. 20, 21  ·  _Rosario, mañana/noche_
+**Mié 14 Oct** *(2h)* — P4 ej. 19, 20, 21 (cierra P4)  ·  _particular 17-19; el 20 y el 21 son los más largos: llevarlos al particular_
+* *Tarea* — Pedir y copiar la clase de Álgebra del 13/10 (la que se pierde por volver de Rosario) en la tarde libre; el particular de 17 a 19 queda para los ejercicios.
+* *Ej 19 (P4)* — V=P3, B={g1,g2,g3}: demostrar que es base; matrices de cambio de base con la base canónica {1,x,x²} — 🎥 "ÁLGEBRA. MATRIZ / MATRICES DE CAMBIO DE BASE (I)" — https://www.youtube.com/watch?v=tugfKwSvm0A
 * *Ej 20 (P4)* — Demostrar que B es base de M2×3(R); coordenadas de una matriz en B; matrices de cambio de base — 🎥 "Matriz de cambio de base - Parte 1" — https://www.youtube.com/watch?v=EVaFt4OWvrQ
 * *Ej 21 (P4)* — W=⟨v1,v2⟩⊂C³: demostrar que B1 es base de W; describir W implícitamente; B2 es otra base; coordenadas y matrices de cambio de base — 🎥 "Ejercicio de cambio de báse en Álgebra" — https://www.youtube.com/watch?v=2wIEmehCqHY
-💡 Rosario: si la mañana no salió, se compensa a la noche con lo mismo; si salió, la noche es teoría liviana.
 
-**Mié 14 Oct** *(2h)* — P5 ej. 1, 2, 3  ·  _particular 17-19_
-* *Tarea* — Pedir y copiar la clase de Álgebra del 13/10 (la que se pierde por volver de Rosario) en la tarde libre; el particular de 17 a 19 queda para los ejercicios.
+**Jue 15 Oct** *(2h)* — P5 ej. 1, 2, 3  ·  _práctico en clase 16-18_
 * *Ej 1 (P5)* — ¿Cuáles de las siguientes funciones de Rⁿ en Rᵐ son transformaciones lineales? (a) T(x,y)=(1+x,y); (b) T(x,y)=(y,x,x−2y); (c) T(x,y)=xy; (d) T(x,y,z)=3x−2y+7z — 🎥 "TRANSFORMACIONES LINEALES - ÁLGEBRA LINEAL" — https://www.youtube.com/watch?v=meAQF-m53As
 * *Ej 2 (P5)* — Ídem para: (a) (x1,−x1,x2,−x2,…,xn,−xn); (b) (x1,2x2,…,nxn); (c) (x1,x1+x2,…,x1+…+xn); (d) (x1,x1·x2,…,x1·…·xn) — 🎥 "Transformaciones lineales - Ejercicio resuelto [PASO A PASO]" — https://www.youtube.com/watch?v=WH5K3wwtY8M
 * *Ej 3 (P5)* — Para T(z)=iz, R(z)=z̄ y S(z)=Re(z)+Im(z) de C en C, decidir si son R-lineales o C-lineales — 🎥 "TRANSFORMACIONES LINEALES - ÁLGEBRA LINEAL" *(video general del tema)* — https://www.youtube.com/watch?v=meAQF-m53As
 
-**Jue 15 Oct** *(2h)* — P5 ej. 4, 5, 6  ·  _práctico en clase 16-18_
+**Sáb 17 Oct** *(~2.5h)* — P5 ej. 4, 5, 6, 7  ·  _sábado_
 * *Ej 4 (P5)* — Dar, si es posible, una transformación lineal T:Rⁿ→Rᵐ que cumpla las condiciones dadas (a-d); si existe, estudiar la unicidad; si no, explicar por qué — 🎥 "Transformaciones lineales - Ejercicio resuelto [PASO A PASO]" *(video general del tema)* — https://www.youtube.com/watch?v=WH5K3wwtY8M
 * *Ej 5 (P5)* — A∈R5×4, T(X)=AX: (a) cuáles vectores están en el núcleo; (b) cuáles en la imagen; (c) base del núcleo; (d) base de la imagen; (e) imagen implícita — 🎥 "3 ejercicios de Núcleo e Imagen de una transformación lineal" — https://www.youtube.com/watch?v=OrCmEziS0_U
 * *Ej 6 (P5)* — Para las matrices A1, A2, A3 y T(X)=AiX: (a) base del núcleo; (b) base de la imagen; (c) imagen implícita — 🎥 "Núcleo e Imagen de una transformación lineal" — https://www.youtube.com/watch?v=FMi_vCsLgJc
-
-**Sáb 17 Oct** *(~2.5h)* — P5 ej. 7, 8, 9, 10  ·  _sábado_
 * *Ej 7 (P5)* — Para T:R²→R³ y S:R³→R² dadas, determinar núcleo e imagen, describiéndolos implícita y explícitamente — 🎥 "3 ejercicios de Núcleo e Imagen de una transformación lineal" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=OrCmEziS0_U
+
+**Lun 19 Oct** *(~2.5h)* — P5 ej. 8, 9, 10, 11  ·  _lunes_
 * *Ej 8 (P5)* — Núcleo e imagen (implícita y explícita) de D:P4→P3 (derivada), T:M2×2→K (traza), L:P3→M2×2 y Q:P3→P4 — 🎥 "Núcleo e Imagen de una transformación lineal" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=FMi_vCsLgJc
 * *Ej 9 (P5)* — Definir, cuando sea posible, T:R³→R³ con dim Im T=1; dim Im T=2 y dim Nu T=2; vectores dados en Im T y Nu T; Im T⊆Nu T; Nu T⊆Im T. Si no se puede, justificar — 🎥 "3 ejercicios de Núcleo e Imagen de una transformación lineal" *(video general del tema)* — https://www.youtube.com/watch?v=OrCmEziS0_U
 * *Ej 10 (P5)* — V=Pn(R): decidir cuáles de T(p)=p(x−1), S(p)=xp'(x), Q(p)=p+p' son isomorfismos — 🎥 "Transformaciones Lineales (TL Biyectiva)- Ejercicio resuelto - PASO A PASO" — https://www.youtube.com/watch?v=CwA-LMTqPSA
-
-**Lun 19 Oct** *(~2.5h)* — P5 ej. 11, 12, 13, 14  ·  _lunes_
 * *Ej 11 (P5)* — Escribir las matrices de las transformaciones de los ejercicios 7 y 8 respecto de las bases canónicas — 🎥 "Matriz asociada a una Transformación Lineal" — https://www.youtube.com/watch?v=CHnKvfC-Fos
+
+**Mar 20 Oct** *(2h)* — P5 ej. 12, 13, 14  ·  _práctico en clase 16-18_
 * *Ej 12 (P5)* — Matrices de cambio de base entre las canónicas Cn y las bases B2={(1,0),(1,1)}, B3={(1,0,0),(1,1,0),(1,1,1)}: PCn,Bn, PBn,Cn y su relación — 🎥 "ÁLGEBRA. MATRIZ / MATRICES DE CAMBIO DE BASE (I)" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=tugfKwSvm0A
 * *Ej 13 (P5)* — Dar las matrices de las transformaciones del ejercicio 7 respecto de (Bn,Cn), (Cn,Bn) y (Bn,Bn) (ayuda: ejercicios 11 y 12) — 🎥 "Matriz asociada a una transformación lineal - Ejercicio resuelto - Paso a paso" — https://www.youtube.com/watch?v=ch3odM-4jWk
 * *Ej 14 (P5)* — Mostrar: (a) T=0 ⟹ matriz nula en cualquier par de bases; (b) Nu T no trivial ⟹ base con dim Nu T columnas nulas; (c) existen bases con matriz [Id_m 0; 0 0], m=dim Im T — 🎥 "Matriz asociada a una Transformación Lineal" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=CHnKvfC-Fos
 
-**Mar 20 Oct** *(2h)* — P5 ej. 15, 16, 17  ·  _práctico en clase 16-18_
+**Mié 21 Oct** *(2h)* — P5 ej. 15, 16, 17  ·  _particular 17-19_
 * *Ej 15 (P5)* — V=R³, B={(1,0,1),(1,−1,0),(1,1,1)}: calcular explícitamente la base dual {f1,f2,f3}, es decir fi(x,y,z) — 🎥 "La transpuesta de la matriz de representación" *(video general del tema)* — https://www.youtube.com/watch?v=bGquJu4kiIA
 * *Ej 16 (P5)* — V=P3(R), fi(p)=∫₀ⁱ p(x)dx: probar que {f1,f2,f−1} es base de V* — 🎥 "La transpuesta de la matriz de representación" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=bGquJu4kiIA
 * *Ej 17 (P5)* — T:R²→R³, T(x,y)=(x−y,0,x+y), f(x,y,z)=2x−3y−z: calcular Tᵗ(f) — 🎥 "15. Transpuesta de una transformación lineal" — https://www.youtube.com/watch?v=UQyDHtB7fQg
 
-**Mié 21 Oct** *(2h)* — P5 ej. 18 (cierra P5)  ·  _particular 17-19: cierra P5 y queda tiempo para repasar_
+**Jue 22 Oct** *(2h)* — P5 ej. 18 (cierra P5) + P6 y P7 si ya se publicaron  ·  _práctico en clase 16-18_
 * *Ej 18 (P5)* — Decidir si son verdaderas o falsas (a-e) y justificar: dim Nu T para T:R⁴→R³; existencia de TS=Id; T(1,1,0), T(−1,1,0), T(1,0,0) dados; matriz escalón reducida y dim Im; isomorfismo y composición — 🎥 "Núcleo e Imagen de una transformación lineal" *(video general del tema)* — https://www.youtube.com/watch?v=FMi_vCsLgJc
+
+### Bloques de repaso de recuperatorio (Álgebra, Parcial 1: P1 a P4 ej. 1–16)
+
+> Los domingos (y desde el 7/11 también otros días) el lugar de AyED2 pasa a repaso de recuperatorios. Tope de 2 h por bloque hasta el parcial del 5/11; ningún bloque se compensa de noche.
+
+* **Dom 18 Oct** *(2h)* — Con el parcial corregido en mano: listar los ejercicios que se perdieron y por qué (concepto, cuenta o planteo). Rehacer los 2 más graves sin mirar.
+* **Dom 25 Oct** *(2h)* — Segundo pase: rehacer ejercicios parecidos de P2 y P3 (sistemas y matrices) y 1 de P4 (espacios vectoriales).
+* **Sáb 7 / Dom 8 / Lun 9 Nov** *(~2.5h, 2h, ~2.5h)* — Repaso fuerte tras el parcial 2: P1–P3 (sábado y domingo) y P4 ej. 1–16 (lunes).
+* **Sáb 14 Nov** *(2h)* — Simulacro con un parcial viejo, con tiempo.
+* **Lun 16 / Mar 17 Nov** *(2h cada uno)* — Corregir el simulacro, reforzar y ejercicios tipo parcial.
+* **Mié 18 Nov** *(~3h)* — Repaso final, sin ejercicios nuevos.
 
 ---
 
 ## Notas del método
 
-- **Álgebra cuesta más que las otras materias:** si un slot de 3 ejercicios no sale, lo que falte corre al slot siguiente; hay 8 slots reservados entre el cierre de P5 y el parcial.
+- **Álgebra cuesta más que las otras materias:** si un slot de 3 ejercicios no sale, lo que falte corre al slot siguiente; hay 7 slots reservados entre el cierre de P5 y el parcial.
 - **Particular (miércoles 17-19):** se usa con los ejercicios que más cuestan del día, para que el profe te frene en lo que no entendés antes de seguir.
 - **Teoría en clase:** las primeras 2 h de cada clase son teoría en vivo (anotar e interpretar); el práctico es para ejercicios.
 - **Teoría antes del ejercicio:** video o apunte primero; después resolver. No avanzar un ejercicio que no se entendió.
 - **P4 ej. 1 a 16:** ya se tomaron en el primer parcial; se saltean aunque algunos (2, 3, 5, 6, 9, 10, 11 y 12) hayan quedado sin terminar. Si en el repaso final sobra tiempo, se pueden retomar.
-- **Prácticos 6 y 7:** probablemente entran en el segundo parcial. Se hacen **completos**, sin elegir ejercicios; cuando estén disponibles se cargan en los 8 slots reservados (Jue 22/10 a Mar 3/11) con el mismo formato.
+- **Prácticos 6 y 7:** probablemente entran en el segundo parcial. Se hacen **completos**, sin elegir ejercicios; cuando estén disponibles se cargan en los 7 slots reservados (Sáb 24/10 a Mar 3/11, más el resto del Jue 22/10) con el mismo formato.
+- **Corrida del 8/10 (noche):** día sin avance tras recibir las notas. Los ejercicios de P4 corren un slot (cierra P4 el Mié 14/10) y P5 cierra el **Jue 22/10**. Se pierde un slot reservado de P6/P7 (quedan 7 completos). AyED2 se pasa a febrero y su lugar (jueves y domingos) es repaso de recuperatorios. Nota del Parcial 1: 37/100, a confirmar.
 - **Corrida del 7/10:** se copiaron las clases atrasadas y hubo particular, sin ejercicios. Los ejercicios arrancan el **jueves 8/10** con P4 ej. 17, 18, 19 (se saltea lo ya tomado en el primer parcial) y P5 cierra el **Mié 21 Oct**; del 22/10 al 3/11, slots reservados para P6 y P7.
 - **Corrida del 6/10 (noche):** el Parcial 2 se adelantó del 10/11 al **jueves 5/11**: el repaso termina el 4/11 y los días del 6 al 10/11 quedan libres de Álgebra. Los recuperatorios siguen el 19/11.
-- **Parcial 1 pendiente de nota:** si hubiera que recuperar, los recuperatorios son el 19/11; el repaso de P1 a P4 se arma con los slots libres de noviembre.
+- **Recuperatorio (19/11):** solo cubre el Parcial 1. El repaso se arma con los bloques de los domingos y los días libres de noviembre; el detalle de cada bloque está en la sección de bloques de repaso.
 
 ---

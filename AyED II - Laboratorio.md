@@ -6,22 +6,20 @@
 
 | Fecha | Evento |
 |---|---|
-| Mié 2 Diciembre 2026 | Llamado 1 — **no se rinde** (el objetivo es el Llamado 2) |
-| Mié 16 Diciembre 2026 | **Llamado 2** |
+| ~~Mié 2 Diciembre 2026~~ | ~~Llamado 1~~ — *ya no es meta* |
+| ~~Mié 16 Diciembre 2026~~ | ~~Llamado 2~~ — *pasa a febrero* |
+| **Febrero 2027** | **Nuevo objetivo** — llamado a confirmar (fechas de febrero todavía sin publicar acá) |
 
-> No cursás la materia este cuatrimestre: la estudiás en paralelo para rendir el final en diciembre. Este plan cubre el bloque de laboratorio (se programa y compila en C con los flags estrictos de la cátedra: `-Wall -Wextra -pedantic -std=c99`, y en varios labs también `-Werror`); el teórico-práctico está en su propio archivo y se estudia en la misma sesión.
+> No cursás la materia este cuatrimestre: la estudiás en paralelo; el final pasó de diciembre a febrero (decisión del 8/10). Este plan cubre el bloque de laboratorio (se programa y compila en C con los flags estrictos de la cátedra: `-Wall -Wextra -pedantic -std=c99`, y en varios labs también `-Werror`); el teórico-práctico está en su propio archivo y se estudia en la misma sesión.
 
 ---
 
-## Estado actual (5 Octubre)
+## Estado actual (8 Octubre)
 
-- **Nada resuelto todavía.** Los intentos de septiembre no se sostuvieron (domingos y jueves perdidos, el jueves 3/9 sin avance). AyED2 estuvo **en pausa desde el 6/9 por los parciales** y **retoma el jueves 15/10**.
-- Plan en dos fases, pensado para llegar al Llamado 2 sin pisar los parciales:
-  1. **Fase 1 (15/10 al 8/11):** jueves y domingo, ritmo liviano de **2 ejercicios de teórico + 2 sub-ítems de laboratorio por sesión** (empezar despacio para no procrastinar de nuevo). Son 8 sesiones.
-  2. **Pausa (9/11 al 20/11):** parciales de Álgebra (10/11), Lógica (13/11), recuperatorios de Álgebra (19/11) y Lógica (20/11).
-  3. **Fase 2 (21/11 al 8/12), propuesta:** AyED2 pasa a ser la prioridad, con sesiones casi diarias de **3 + 3**. Se confirma el 20/11, cuando se sepa cómo quedó el resto.
-- El laboratorio cierra el **Sáb 5 Dic**, lo que deja del 9/12 al 15/12 como margen de repaso antes del Llamado 2.
-- Si en noviembre hace falta más tiempo para los parciales, la fase 2 se corre y el margen se achica; el Llamado 2 sigue siendo alcanzable, y febrero queda como respaldo.
+- **Decisión del 8/10: AyED2 pasa a febrero.** Tras las notas del primer parcial (Lógica, PyE y Álgebra reprobados), todo el tiempo hasta el 20/11 va a los segundos parciales y a los recuperatorios. El Llamado 1 (2/12) y el Llamado 2 (16/12) ya no son meta.
+- **Nada resuelto de AyED2 todavía.** Los intentos de septiembre no se sostuvieron y el plan del 15/10 no llegó a arrancar. Los jueves y domingos que eran de AyED2 son ahora **bloques de repaso de recuperatorios** (ver los archivos de Lógica, Álgebra y PyE).
+- Las sesiones del plan anterior (15/10 al 8/12) quedan **tachadas** en el cronograma y en el detalle como banco de referencia: los ejercicios y videos se vuelven a fechar cuando se arme el plan de febrero.
+- **Plan de febrero: a definir el 20/11**, cuando se sepa cómo quedó el resto (después de los recuperatorios). Con diciembre y enero libres de parciales hay margen para un ritmo sostenible.
 
 ---
 
@@ -63,12 +61,12 @@
 | Lunes (día completo, sin clase) | **Lógica, Álgebra y PyE** |
 | Martes (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** |
 | Miércoles (clase 9-13 Lógica) | **Álgebra** |
-| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **AyED2** — teórico-práctico y laboratorio |
+| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **Repaso de recuperatorios** (Lógica U1) — AyED2 pasa a febrero |
 | Viernes (clase 9-13 Lógica) | Libre — sin materia |
 | Sábado (día completo, sin clase) | **Lógica, Álgebra y PyE** |
-| Domingo (día completo, sin clase) | **AyED2 y PyE** |
+| Domingo (día completo, sin clase) | **PyE** + **repaso de recuperatorios** (Álgebra) — AyED2 pasa a febrero |
 
-> AyED2 usa **jueves** (después de las clases) y **domingo** en la fase 1. Entre el 9/11 y el 20/11 se pausa; desde el 21/11 pasa a ser la prioridad.
+> AyED2 está en pausa hasta febrero: sus jueves y domingos son ahora bloques de repaso de recuperatorios (jueves: Lógica U1; domingos: Álgebra).
 
 ---
 
@@ -95,33 +93,33 @@
 | Jue 8 Oct | Lab2 |
 | Dom 11 Oct | Lab2 |
 | **— Desde acá: plan nuevo (corrida del 5/10) —** | | |
-| Jue 15 Oct | Jue | **AyED2 laboratorio** (~2.5h en total) — Lab 0 · ej. 1, 2 · otras: Álgebra, PyE |
+| Jue 15 Oct | Jue | ~~**AyED2 laboratorio** (~2.5h en total) — Lab 0 · ej. 1, 2~~ *(pasa a febrero)* · otras: Álgebra, PyE · lugar cedido al repaso de recuperatorios (Lógica) |
 | Vie 16 Oct | Vie | otras: Lógica |
 | Sáb 17 Oct | Sáb | otras: Lógica, Álgebra, PyE |
-| Dom 18 Oct | Dom | **AyED2 laboratorio** (~2.5h en total) — Lab 0 (cierra) · ej. 3a, 3b · otras: PyE |
+| Dom 18 Oct | Dom | ~~**AyED2 laboratorio** (~2.5h en total) — Lab 0 (cierra) · ej. 3a, 3b~~ *(pasa a febrero)* · otras: PyE · lugar cedido al repaso de recuperatorios (Álgebra) |
 | Lun 19 Oct | Lun | otras: Lógica, Álgebra, PyE |
 | Mar 20 Oct | Mar | otras: Lógica, Álgebra, PyE |
 | Mié 21 Oct | Mié | otras: Lógica, Álgebra |
-| Jue 22 Oct | Jue | **AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 0, 1A · otras: Álgebra, PyE |
+| Jue 22 Oct | Jue | ~~**AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 0, 1A~~ *(pasa a febrero)* · otras: Álgebra, PyE · lugar cedido al repaso de recuperatorios (Lógica) |
 | Vie 23 Oct | Vie | otras: Lógica |
 | Sáb 24 Oct | Sáb | otras: Lógica, Álgebra, PyE |
-| Dom 25 Oct | Dom | **AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 1B, 1C · otras: PyE |
+| Dom 25 Oct | Dom | ~~**AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 1B, 1C~~ *(pasa a febrero)* · otras: PyE · lugar cedido al repaso de recuperatorios (Álgebra) |
 | Lun 26 Oct | Lun | otras: Lógica, Álgebra, PyE |
 | Mar 27 Oct | Mar | otras: Lógica, Álgebra, PyE |
 | Mié 28 Oct | Mié | otras: Lógica, Álgebra |
-| Jue 29 Oct | Jue | **AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 2A, 2B · otras: Álgebra, PyE |
+| Jue 29 Oct | Jue | ~~**AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 2A, 2B~~ *(pasa a febrero)* · otras: Álgebra, PyE · lugar cedido al repaso de recuperatorios (Lógica) |
 | Vie 30 Oct | Vie | otras: Lógica |
 | Sáb 31 Oct | Sáb | otras: Lógica, Álgebra, PyE |
-| Dom 1 Nov | Dom | **AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 3, 4 · otras: PyE |
+| Dom 1 Nov | Dom | ~~**AyED2 laboratorio** (~2.5h en total) — Lab 1 · ej. 3, 4~~ *(pasa a febrero)* · otras: PyE |
 | Lun 2 Nov | Lun | otras: Lógica, Álgebra, PyE |
 | Mar 3 Nov | Mar | **PARCIAL 2 de PyE** · otras: Lógica, Álgebra |
 | Mié 4 Nov | Mié | otras: Lógica, Álgebra |
-| Jue 5 Nov | Jue | **AyED2 laboratorio** (~2.5h en total) — Lab 1 (cierra) · ej. 5a, 5b · otras: Álgebra |
+| Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** · ~~**AyED2 laboratorio** (~2.5h en total) — Lab 1 (cierra) · ej. 5a, 5b~~ *(pasa a febrero)* |
 | Vie 6 Nov | Vie | otras: Lógica |
 | Sáb 7 Nov | Sáb | otras: Lógica, Álgebra |
-| Dom 8 Nov | Dom | **AyED2 laboratorio** (~2.5h en total) — Lab 2 · ej. 1A, 1B |
+| Dom 8 Nov | Dom | ~~**AyED2 laboratorio** (~2.5h en total) — Lab 2 · ej. 1A, 1B~~ *(pasa a febrero)* · lugar cedido al repaso de recuperatorios (Álgebra) |
 | Lun 9 Nov | Lun | AyED2 en pausa por los parciales · otras: Lógica, Álgebra |
-| Mar 10 Nov | Mar | **PARCIAL 2 de Álgebra** · AyED2 en pausa por los parciales · otras: Lógica |
+| Mar 10 Nov | Mar | AyED2 en pausa por los parciales · otras: Lógica |
 | Mié 11 Nov | Mié | AyED2 en pausa por los parciales · otras: Lógica |
 | Jue 12 Nov | Jue | AyED2 en pausa por los parciales |
 | Vie 13 Nov | Vie | **PARCIAL 2 de Lógica** · AyED2 en pausa por los parciales |
@@ -132,32 +130,32 @@
 | Mié 18 Nov | Mié | AyED2 en pausa por los parciales |
 | Jue 19 Nov | Jue | Recuperatorios de Álgebra · AyED2 en pausa por los parciales |
 | Vie 20 Nov | Vie | **Tercer parcial y recuperatorio de Lógica** · AyED2 en pausa por los parciales |
-| Sáb 21 Nov | Sáb | **AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 1C, 1D, 2A |
-| Dom 22 Nov | Dom | **AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 2B, 2C, 2D |
-| Lun 23 Nov | Lun | **AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 3A, 3B, 3C |
-| Mar 24 Nov | Mar | **AyED2 laboratorio** (~3.5h en total) — Lab 2 (cierra) · Lab 3 · ej. 3D, 4, Parte A |
-| Mié 25 Nov | Mié | **AyED2 laboratorio** (~3.5h en total) — Lab 3 (cierra) · Lab 4 · ej. Parte B, 1, 2a |
-| Jue 26 Nov | Jue | **AyED2 laboratorio** (~3.5h en total) — Lab 4 · ej. 2b, 2c, 2d |
+| Sáb 21 Nov | Sáb | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 1C, 1D, 2A~~ *(pasa a febrero)* |
+| Dom 22 Nov | Dom | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 2B, 2C, 2D~~ *(pasa a febrero)* |
+| Lun 23 Nov | Lun | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 2 · ej. 3A, 3B, 3C~~ *(pasa a febrero)* |
+| Mar 24 Nov | Mar | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 2 (cierra) · Lab 3 · ej. 3D, 4, Parte A~~ *(pasa a febrero)* |
+| Mié 25 Nov | Mié | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 3 (cierra) · Lab 4 · ej. Parte B, 1, 2a~~ *(pasa a febrero)* |
+| Jue 26 Nov | Jue | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 4 · ej. 2b, 2c, 2d~~ *(pasa a febrero)* |
 | Vie 27 Nov | Vie | Libre — sin materia |
-| Sáb 28 Nov | Sáb | **AyED2 laboratorio** (~3.5h en total) — Lab 4 · ej. 3a, 3b, 4a |
-| Dom 29 Nov | Dom | **AyED2 laboratorio** (~3.5h en total) — Lab 4 (cierra) · ej. 4b, 4c, 4d |
-| Lun 30 Nov | Lun | **AyED2 laboratorio** (~3.5h en total) — Lab 5 · ej. Lab 5 Ej 1a-c, 1d, 1e |
-| Mar 1 Dic | Mar | **AyED2 laboratorio** (~3.5h en total) — Lab 5 · ej. 2a, 2b, 3a |
-| Mié 2 Dic | Mié | AyED2 Llamado 1 (no se rinde) |
-| Jue 3 Dic | Jue | **AyED2 laboratorio** (~3.5h en total) — Lab 5 (cierra) · Lab 6 · ej. 3b, 3c, Lab 6 Ej 1a-c |
+| Sáb 28 Nov | Sáb | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 4 · ej. 3a, 3b, 4a~~ *(pasa a febrero)* |
+| Dom 29 Nov | Dom | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 4 (cierra) · ej. 4b, 4c, 4d~~ *(pasa a febrero)* |
+| Lun 30 Nov | Lun | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 5 · ej. Lab 5 Ej 1a-c, 1d, 1e~~ *(pasa a febrero)* |
+| Mar 1 Dic | Mar | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 5 · ej. 2a, 2b, 3a~~ *(pasa a febrero)* |
+| Mié 2 Dic | Mié | ~~AyED2 Llamado 1 (no se rinde)~~ *(pasa a febrero)* |
+| Jue 3 Dic | Jue | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 5 (cierra) · Lab 6 · ej. 3b, 3c, Lab 6 Ej 1a-c~~ *(pasa a febrero)* |
 | Vie 4 Dic | Vie | Libre — sin materia |
-| Sáb 5 Dic | Sáb | **AyED2 laboratorio** (~3.5h en total) — Lab 6 (cierra) · ej. 2, 3a, b, 4a, b |
+| Sáb 5 Dic | Sáb | ~~**AyED2 laboratorio** (~3.5h en total) — Lab 6 (cierra) · ej. 2, 3a, b, 4a, b~~ *(pasa a febrero)* |
 | Dom 6 Dic | Dom | **AyED2** — solo teórico / repaso del laboratorio |
 | Lun 7 Dic | Lun | **AyED2** — solo teórico / repaso del laboratorio |
 | Mar 8 Dic | Mar | **AyED2** — solo teórico / repaso del laboratorio |
-| Mié 9 Dic | Mié | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
-| Jue 10 Dic | Jue | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
-| Vie 11 Dic | Vie | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
-| Sáb 12 Dic | Sáb | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
-| Dom 13 Dic | Dom | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
-| Lun 14 Dic | Lun | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
-| Mar 15 Dic | Mar | **AyED2** — repaso general, SR y simulacros antes del Llamado 2 |
-| Mié 16 Dic | Mié | **AyED2 Llamado 2** |
+| Mié 9 Dic | Mié | ~~**AyED2** — repaso general, SR y simulacros antes del Llamado 2~~ *(pasa a febrero)* |
+| Jue 10 Dic | Jue | ~~**AyED2** — repaso general, SR y simulacros antes del Llamado 2~~ *(pasa a febrero)* |
+| Vie 11 Dic | Vie | ~~**AyED2** — repaso general, SR y simulacros antes del Llamado 2~~ *(pasa a febrero)* |
+| Sáb 12 Dic | Sáb | ~~**AyED2** — repaso general, SR y simulacros antes del Llamado 2~~ *(pasa a febrero)* |
+| Dom 13 Dic | Dom | ~~**AyED2** — repaso general, SR y simulacros antes del Llamado 2~~ *(pasa a febrero)* |
+| Lun 14 Dic | Lun | ~~**AyED2** — repaso general, SR y simulacros antes del Llamado 2~~ *(pasa a febrero)* |
+| Mar 15 Dic | Mar | ~~**AyED2** — repaso general, SR y simulacros antes del Llamado 2~~ *(pasa a febrero)* |
+| Mié 16 Dic | Mié | ~~**AyED2 Llamado 2**~~ *(pasa a febrero)* |
 
 ---
 
@@ -208,6 +206,8 @@
 * *Ej 2D* — Testing: al menos 10 casos de test para cada función
 
 > **Desde acá: plan nuevo (corrida del 5/10).** Todo lo de arriba es historial, tal cual estaba.
+
+> **Corrida del 8/10: todo lo de abajo (15/10 al 8/12) pasa a febrero.** Se conserva como banco de referencia; los ejercicios y videos se vuelven a fechar cuando se arme el plan de febrero.
 
 **Jue 15 Oct** *(~2.5h en total)* — Lab 0 · ej. 1, 2
 * *Lab 0, Ej 1* — `check_bound()`: cota superior/inferior + búsqueda en un único ciclo, usando `struct bound_data` — 🎥 "Programación en C: STRUCTS y vectores de STRUCTS" — https://www.youtube.com/watch?v=kdKHZsxdHz4
@@ -305,6 +305,7 @@
 
 ## Notas del método
 
+- **Corrida del 8/10 (noche):** AyED2 se pasa a febrero tras las notas del primer parcial. El plan 15/10–8/12 queda como banco de referencia (tachado en el cronograma). Los jueves y domingos de AyED2 son repaso de recuperatorios hasta el 20/11; el plan de febrero se arma después.
 - **Corrida del 5/10:** AyED2 se retoma el jueves 15/10 tras la pausa por los parciales. El ritmo vuelve a ser liviano (2 + 2 por sesión) en la fase 1, y la fase 2 es una propuesta que se confirma el 20/11.
 - **Objetivo:** Llamado 2 (16/12); el Llamado 1 ya no es meta.
 - El único ítem eliminado por la cátedra es el (c) del Ejercicio 3 del Lab 6 (panadería con backtracking): no se implementa.

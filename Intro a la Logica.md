@@ -8,20 +8,21 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 
 | Fecha | Evento |
 |---|---|
-| Vie 11 Septiembre | Primer Parcial (estructuras de orden) — **rendido, nota 2.4** |
+| Vie 11 Septiembre | Primer Parcial (estructuras de orden) — **rendido, nota 2.4 (reprobado)** |
 | Vie 13 Noviembre | **Segundo Parcial** |
-| Vie 20 Noviembre | **Tercer Parcial y Recuperatorio** |
+| Vie 20 Noviembre | **Tercer Parcial y Recuperatorio** — el recuperatorio cubre solo el Parcial 1 (Unidad 1, estructuras de orden) |
 
 > Regularidad: aprobar al menos 2 de los 3 parciales (o uno + recuperatorio de otro). Promoción: los 3 parciales ≥6 con promedio ≥7, y todos los TPs ≥6.
 
 ---
 
-## Estado actual (5 Octubre)
+## Estado actual (8 Octubre)
 
-- **Primer parcial reprobado (2.4).** Se rinden el segundo parcial (13/11) y el recuperatorio (20/11). ⚠️ Falta confirmar si el recuperatorio es de la unidad 1 (estructuras de orden) o cubre lo nuevo; el banco de la unidad 1 queda archivado al final del archivo por si hace falta.
+- **Primer parcial reprobado (2.4).** Se rinden el segundo parcial (13/11) y el recuperatorio (20/11). **El recuperatorio es de la Unidad 1** (confirmado el 8/10): el banco de la unidad 1 queda archivado al final del archivo y se usa en los bloques de repaso.
 - **Unidad 2 (lógica proposicional):** 5 filminas de teoría y 5 prácticos (35 ejercicios), **nada empezado todavía**: Lógica no se tocó hasta el 7/10. Arranca el **viernes 9/10**.
 - Método para esta unidad: teoría primero (filmina o video + resumen con ejemplos), después el ejercicio; pista antes que solución; las demostraciones no se copian.
 - **Ritmo acordado el 7/10:** 1 filmina y medio práctico por día (3 a 4 ejercicios); en Rosario, media filmina y medio práctico por día. Así, las 5 filminas terminan el **Sáb 17 Oct** y los 35 ejercicios el **Vie 23 Oct**, lo que deja del 24/10 al 12/11 como margen de repaso.
+- **Bloques de repaso (desde el 15/10):** los jueves 15, 22 y 29/10 (2h cada uno) son repaso del recuperatorio con la Unidad 1; AyED2 pasa a febrero. Del 14 al 19/11, preparación final del recuperatorio.
 - Los ejercicios se resuelven y se corrigen en el chat específico de Lógica; este archivo es el plan.
 
 ---
@@ -127,10 +128,10 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 | Lunes (día completo, sin clase) | **Lógica, Álgebra y PyE** |
 | Martes (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** |
 | Miércoles (clase 9-13 Lógica) | **Álgebra** |
-| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **AyED2** — teórico-práctico y laboratorio |
+| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **Repaso de recuperatorios** (Lógica U1) — AyED2 pasa a febrero |
 | Viernes (clase 9-13 Lógica) | Libre — sin materia |
 | Sábado (día completo, sin clase) | **Lógica, Álgebra y PyE** |
-| Domingo (día completo, sin clase) | **AyED2 y PyE** |
+| Domingo (día completo, sin clase) | **PyE** + **repaso de recuperatorios** (Álgebra) — AyED2 pasa a febrero |
 
 > **Cómo se calculan los ejercicios por día:** unos 3 ejercicios cada 2 h de práctico (los prácticos en clase, el particular y las noches) y hasta 4 en los días completos (Sáb, Dom y Lun) de PyE y Álgebra. Las primeras 2 h de cada clase son teoría en vivo, no ejercicios. Cuando una materia se queda sin ejercicios nuevos, los días siguientes quedan como repaso: ese es el margen real antes del examen.
 
@@ -175,49 +176,49 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 | **— Desde acá: plan nuevo (corrida del 5/10) —** | | |
 | Mar 6 Oct | Mar | otras: Álgebra, PyE |
 | Mié 7 Oct | Mié | **Lógica** — sin avance hoy (día de Álgebra) · otras: Álgebra |
-| Jue 8 Oct | Jue | otras: Álgebra, PyE |
+| Jue 8 Oct | Jue | otras: Álgebra, PyE (día sin avance en todo) |
 | Vie 9 Oct | Vie | Viaje a Rosario (bus 16:15) · **Lógica** (2h) — Filmina 1 · P1 ej. 1, 2, 3 |
 | Sáb 10 Oct | Sáb | Rosario · **Lógica** (~3h) — ½ filmina 2 · P1 ej. 4, 5, 6 |
 | Dom 11 Oct | Dom | Rosario · **Lógica** (~3.5h) — ½ filmina 2 · P2 ej. 1, 2, 3, 4 |
 | Lun 12 Oct | Lun | Rosario · otras: Álgebra |
 | Mar 13 Oct | Mar | Libre — vuelve de Rosario (se pierden las clases de PyE y Álgebra) |
 | Mié 14 Oct | Mié | **Lógica** (~3h) — Filmina 3 · P2 ej. 5, 6, 7 · otras: Álgebra |
-| Jue 15 Oct | Jue | otras: Álgebra, PyE, AyED2 |
+| Jue 15 Oct | Jue | **Lógica** (2h, bloque de repaso) — repaso del recuperatorio (Unidad 1): ver bloques de repaso al final · otras: Álgebra, PyE |
 | Vie 16 Oct | Vie | **Lógica** (~3h) — Filmina 4 · P3 ej. 1, 2, 3 |
 | Sáb 17 Oct | Sáb | **Lógica** (~3.5h) — Filmina 5 (cierra la teoría) · P3 ej. 4, 5, 6 · otras: Álgebra, PyE |
-| Dom 18 Oct | Dom | otras: PyE, AyED2 |
+| Dom 18 Oct | Dom | otras: PyE, repaso recup. Álgebra |
 | Lun 19 Oct | Lun | **Lógica** (~2.5h) — P4 ej. 1, 2, 3, 4 · otras: Álgebra, PyE |
 | Mar 20 Oct | Mar | **Lógica** (2h) — P4 ej. 5, 6, 7 · otras: Álgebra, PyE |
 | Mié 21 Oct | Mié | **Lógica** (~3h) — P5 ej. 1, 2, 3, 4, 5 · otras: Álgebra |
-| Jue 22 Oct | Jue | otras: Álgebra, PyE, AyED2 |
+| Jue 22 Oct | Jue | **Lógica** (2h, bloque de repaso) — repaso del recuperatorio (Unidad 1): ver bloques de repaso al final · otras: Álgebra, PyE |
 | Vie 23 Oct | Vie | **Lógica** (~2.5h) — P5 ej. 6, 7, 8, 9 |
 | Sáb 24 Oct | Sáb | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
-| Dom 25 Oct | Dom | otras: PyE, AyED2 |
+| Dom 25 Oct | Dom | otras: PyE, repaso recup. Álgebra |
 | Lun 26 Oct | Lun | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
 | Mar 27 Oct | Mar | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
 | Mié 28 Oct | Mié | **Lógica** (2h) — repaso / SR / parciales viejos *(tarde cedida a PyE)* · otras: Álgebra |
-| Jue 29 Oct | Jue | otras: Álgebra, PyE, AyED2 |
+| Jue 29 Oct | Jue | **Lógica** (2h, bloque de repaso) — repaso del recuperatorio (Unidad 1): ver bloques de repaso al final · otras: Álgebra, PyE |
 | Vie 30 Oct | Vie | **Lógica** (2h) — repaso / SR / parciales viejos |
 | Sáb 31 Oct | Sáb | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
-| Dom 1 Nov | Dom | otras: PyE, AyED2 |
+| Dom 1 Nov | Dom | otras: PyE |
 | Lun 2 Nov | Lun | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
 | Mar 3 Nov | Mar | **PARCIAL 2 de PyE** · **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra |
 | Mié 4 Nov | Mié | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra |
-| Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** · otras: AyED2 |
+| Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** |
 | Vie 6 Nov | Vie | **Lógica** (2h) — repaso / SR / parciales viejos |
 | Sáb 7 Nov | Sáb | **Lógica** (2h) — repaso / SR / parciales viejos |
-| Dom 8 Nov | Dom | otras: AyED2 |
+| Dom 8 Nov | Dom | otras: repaso recup. Álgebra |
 | Lun 9 Nov | Lun | **Lógica** (2h) — repaso / SR / parciales viejos |
 | Mar 10 Nov | Mar | **Lógica** (2h) — repaso / SR / parciales viejos |
 | Mié 11 Nov | Mié | **Lógica** (2h) — repaso / SR / parciales viejos |
 | Jue 12 Nov | Jue | repaso final antes del parcial, sin ejercicios nuevos |
 | Vie 13 Nov | Vie | **PARCIAL 2 de Lógica** |
-| Sáb 14 Nov | Sáb | preparación del recuperatorio del 20/11 (a definir según qué parcial se recupere) |
-| Dom 15 Nov | Dom | preparación del recuperatorio del 20/11 (a definir según qué parcial se recupere) |
-| Lun 16 Nov | Lun | preparación del recuperatorio del 20/11 (a definir según qué parcial se recupere) |
-| Mar 17 Nov | Mar | preparación del recuperatorio del 20/11 (a definir según qué parcial se recupere) |
-| Mié 18 Nov | Mié | preparación del recuperatorio del 20/11 (a definir según qué parcial se recupere) |
-| Jue 19 Nov | Jue | Recuperatorios de Álgebra · preparación del recuperatorio del 20/11 (a definir según qué parcial se recupere) |
+| Sáb 14 Nov | Sáb | **Lógica** (~1.5h) — recuperatorio (Unidad 1): temas flojos del primer parcial corregido · otras: Álgebra, PyE |
+| Dom 15 Nov | Dom | **Lógica** (2h) — recuperatorio (Unidad 1): ejercicios tipo parcial · otras: PyE |
+| Lun 16 Nov | Lun | otras: Álgebra, PyE (liviano) |
+| Mar 17 Nov | Mar | otras: Álgebra, **RECUPERATORIO de PyE** |
+| Mié 18 Nov | Mié | **Lógica** (2h) — recuperatorio (Unidad 1): simulacro con un parcial viejo, con tiempo · otras: Álgebra |
+| Jue 19 Nov | Jue | **Lógica** (1.5h, noche) — repaso liviano del recuperatorio · **Recuperatorio de Álgebra** |
 | Vie 20 Nov | Vie | **Tercer parcial y recuperatorio de Lógica** |
 
 ---
@@ -353,6 +354,16 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 * *Ej 8 (P5)* — Dar al menos dos conjuntos Γ consistentes maximales distintos que contengan {p0,¬(p1→p2),p3∨p2} — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: un maximal consistente es el conjunto de fórmulas verdaderas bajo una asignación; variá la asignación en lo que quede libre
 * *Ej 9 (P5)* — Decidir si son consistentes maximales: (a) {φ∈PROP : {p0,p1,p3,…}⊢φ}; (b) las tautologías — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: maximal ⟺ para toda φ, φ∈Γ o ¬φ∈Γ: chequeá si eso se cumple
 
+### Bloques de repaso del recuperatorio (Unidad 1: estructuras de orden)
+
+> El lugar de AyED2 de los jueves pasa a repaso de la Unidad 1. Con el primer parcial corregido (2.4) se arma la lista de temas flojos; el banco de la Unidad 1 está al final del archivo.
+
+* **Jue 15 Oct** *(2h)* — Ver el parcial corregido: listar los ejercicios perdidos y el tema de cada uno. Repasar el primer tema flojo.
+* **Jue 22 Oct** *(2h)* — Segundo tema flojo + 2 ejercicios del banco de la Unidad 1.
+* **Jue 29 Oct** *(2h)* — Tercer tema flojo + 2 ejercicios del banco de la Unidad 1.
+* **Sáb 14 Nov** *(~1.5h)* — Temas flojos del parcial corregido. **Dom 15 Nov** *(2h)* — ejercicios tipo parcial.
+* **Mié 18 Nov** *(2h)* — Simulacro con un parcial viejo, con tiempo. **Jue 19 Nov** *(1.5h, noche)* — repaso liviano. **Vie 20 Nov** — recuperatorio.
+
 ---
 
 ## Notas del método
@@ -361,7 +372,8 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 - **Clase en vivo:** las primeras 2 h de cada clase son teoría para anotar e interpretar; el tramo de práctico es para ejercicios (unos 3 cada 2 h).
 - **Pista antes que solución:** si una demostración no sale, se vuelve a la definición y se pide una pista; no se copia.
 - **Cierre con margen:** las 5 filminas terminan el Sáb 17 Oct y los 35 ejercicios el Vie 23 Oct; del Sáb 24 Oct al 12/11 quedan los slots como repaso, parciales viejos y filminas nuevas que salgan en clase. Es un ritmo exigente (1 filmina + medio práctico por día): si un día se pierde, se corre al siguiente slot en vez de compensarlo a la noche.
-- **Después del 13/11:** del 14 al 19/11 se prepara el recuperatorio del 20/11 (a definir según qué parcial se recupere).
+- **Después del 13/11:** del 14 al 19/11 se prepara el recuperatorio del 20/11, que es de la Unidad 1 (bloques de repaso al final del cronograma).
+- **Corrida del 8/10 (noche):** Lógica no se tocaba el 8/10 igual. AyED2 pasa a febrero y los jueves 15, 22 y 29/10 son repaso de la Unidad 1 para el recuperatorio.
 - (*) Los ejercicios de cierre se hacen solo si sobra tiempo.
 
 ---
@@ -481,7 +493,7 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 | Lunes (día completo, sin clase) | PyE y **Lógica** |
 | Martes (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** *(antes SR/AED2, cambiado el 1/9 — parcial está cerca)* |
 | Miércoles (clase 9-13 **Lógica**, práctico 2h) | Álgebra (tarde) — pero **2h de práctico de Lógica ya están en la cursada de la mañana** |
-| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **Lógica** (noche) |
+| Jueves (clase 9-13 PyE + 14-18 Álgebra) | **Repaso de recuperatorios** (Lógica U1) — AyED2 pasa a febrero |
 | Viernes (clase 9-13 **Lógica**, práctico 2h) | Libre — pero **2h de práctico de Lógica dentro de la cursada de la mañana** |
 | Sábado | **Lógica** y Álgebra (refuerzo) |
 | Domingo | PyE y AED2 |
