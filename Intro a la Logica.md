@@ -16,12 +16,13 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 
 ---
 
-## Estado actual (8 Octubre)
+## Estado actual (12 Octubre)
 
+- **Fin de semana de estudio (Jue 15 a Lun 19), con el calendar real:** el miércoles 14 no se estudió (día de viaje y descanso; solo se copia la clase de Álgebra a la noche) y se faltó a la clase de Lógica; el jueves 15 es paro docente (sin clases) y se viaja a Huerta Grande al mediodía; el sábado 17 y el domingo 18 hay particular. **Lógica queda en stand by del Jue 15 al Dom 18** (sin noches de Lógica) y se replanifica a partir del **Lun 19**; todo el tiempo va a PyE y Álgebra, que son las más atrasadas (PyE 3,5 a 4 h y Álgebra 4 h por día; el lunes 19 unas 7,5 h). Cada materia tiene su tabla de mínimo / objetivo / extra. Los bloques de repaso de recuperatorios del Jue 15 y el Dom 18 quedan en pausa y retoman el Jue 22.
 - **Primer parcial reprobado (2.4).** Se rinden el segundo parcial (13/11) y el recuperatorio (20/11). **El recuperatorio es de la Unidad 1** (confirmado el 8/10): el banco de la unidad 1 queda archivado al final del archivo y se usa en los bloques de repaso.
 - **Unidad 2 (lógica proposicional):** 5 filminas de teoría y 5 prácticos (35 ejercicios), **nada empezado todavía**: Lógica no se tocó hasta el 7/10. Arranca el **viernes 9/10**.
 - Método para esta unidad: teoría primero (filmina o video + resumen con ejemplos), después el ejercicio; pista antes que solución; las demostraciones no se copian.
-- **Ritmo acordado el 7/10:** 1 filmina y medio práctico por día (3 a 4 ejercicios); en Rosario, media filmina y medio práctico por día. Así, las 5 filminas terminan el **Sáb 17 Oct** y los 35 ejercicios el **Vie 23 Oct**, lo que deja del 24/10 al 12/11 como margen de repaso.
+- **(Ritmo original del 7/10, reemplazado el 12/10 por el fin de semana de estudio):** 1 filmina y medio práctico por día (3 a 4 ejercicios); en Rosario, media filmina y medio práctico por día. Con el atraso de Rosario y el calendar real, las 5 filminas terminan el **Mié 21 Oct** y los 35 ejercicios el **Dom 1 Nov**, lo que deja del 2/11 al 12/11 como margen de repaso.
 - **Bloques de repaso (desde el 15/10):** los jueves 15, 22 y 29/10 (2h cada uno) son repaso del recuperatorio con la Unidad 1; AyED2 pasa a febrero. Del 14 al 19/11, preparación final del recuperatorio.
 - Los ejercicios se resuelven y se corrigen en el chat específico de Lógica; este archivo es el plan.
 
@@ -177,30 +178,30 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 | Mar 6 Oct | Mar | otras: Álgebra, PyE |
 | Mié 7 Oct | Mié | **Lógica** — sin avance hoy (día de Álgebra) · otras: Álgebra |
 | Jue 8 Oct | Jue | otras: Álgebra, PyE (día sin avance en todo) |
-| Vie 9 Oct | Vie | Viaje a Rosario (bus 16:15) · **Lógica** (2h) — Filmina 1 · P1 ej. 1, 2, 3 |
-| Sáb 10 Oct | Sáb | Rosario · **Lógica** (~3h) — ½ filmina 2 · P1 ej. 4, 5, 6 |
-| Dom 11 Oct | Dom | Rosario · **Lógica** (~3.5h) — ½ filmina 2 · P2 ej. 1, 2, 3, 4 |
-| Lun 12 Oct | Lun | Rosario · otras: Álgebra |
-| Mar 13 Oct | Mar | Libre — vuelve de Rosario (se pierden las clases de PyE y Álgebra) |
-| Mié 14 Oct | Mié | **Lógica** (~3h) — Filmina 3 · P2 ej. 5, 6, 7 · otras: Álgebra |
-| Jue 15 Oct | Jue | **Lógica** (2h, bloque de repaso) — repaso del recuperatorio (Unidad 1): ver bloques de repaso al final · otras: Álgebra, PyE |
-| Vie 16 Oct | Vie | **Lógica** (~3h) — Filmina 4 · P3 ej. 1, 2, 3 |
-| Sáb 17 Oct | Sáb | **Lógica** (~3.5h) — Filmina 5 (cierra la teoría) · P3 ej. 4, 5, 6 · otras: Álgebra, PyE |
-| Dom 18 Oct | Dom | otras: PyE, repaso recup. Álgebra |
-| Lun 19 Oct | Lun | **Lógica** (~2.5h) — P4 ej. 1, 2, 3, 4 · otras: Álgebra, PyE |
-| Mar 20 Oct | Mar | **Lógica** (2h) — P4 ej. 5, 6, 7 · otras: Álgebra, PyE |
-| Mié 21 Oct | Mié | **Lógica** (~3h) — P5 ej. 1, 2, 3, 4, 5 · otras: Álgebra |
+| Vie 9 Oct | Vie | Viaje a Rosario (bus 16:15) · ~~**Lógica** (2h) — Filmina 1 · P1 ej. 1, 2, 3~~ *(no se hizo: Rosario)* |
+| Sáb 10 Oct | Sáb | Rosario · ~~**Lógica** (~3h) — ½ filmina 2 · P1 ej. 4, 5, 6~~ *(no se hizo: Rosario)* |
+| Dom 11 Oct | Dom | Rosario · ~~**Lógica** (~3.5h) — ½ filmina 2 · P2 ej. 1, 2, 3, 4~~ *(no se hizo: Rosario)* |
+| Lun 12 Oct | Lun | Rosario · sin avance de Lógica (visitas a la familia) · otras: Álgebra |
+| Mar 13 Oct | Mar | Rosario · sin carga (se faltó: se pierden las clases de PyE y Álgebra) |
+| Mié 14 Oct | Mié | ~~**Lógica** (~3h) — Filmina 3 · P2 ej. 5, 6, 7~~ *(se faltó a la clase; el día quedó sin estudio por viaje y descanso)* · otras: Álgebra (solo copiar la clase, a la noche) |
+| Jue 15 Oct | Jue | Paro docente (marcha) · viaje a Huerta Grande desde el mediodía · ~~**Lógica** (2h, 21:30-23:30) — Filmina 1 · P1 ej. 1, 2~~ *(en pausa: Lógica en stand by hasta el lunes 19)* · otras: PyE (15-17), Álgebra (18:30-20:30) |
+| Vie 16 Oct | Vie | Fin de semana de estudio (no se va a clase) · ~~**Lógica** (2h, 21-23) — Filmina 2 · P1 ej. 3, 4~~ *(en pausa: Lógica en stand by hasta el lunes 19)* · otras: PyE, Álgebra |
+| Sáb 17 Oct | Sáb | ~~**Lógica** (2h, 21-23) — Filmina 3 · P1 ej. 5, 6~~ *(en pausa: particular; Lógica en stand by hasta el lunes 19)* · otras: PyE, Álgebra |
+| Dom 18 Oct | Dom | ~~**Lógica** (2h, 21-23) — Filmina 4 · P2 ej. 1, 2~~ *(en pausa: particular; Lógica en stand by hasta el lunes 19)* · otras: PyE, Álgebra |
+| Lun 19 Oct | Lun | **Lógica: se retoma y se replanifica** (stand by hasta hoy) · otras: PyE, Álgebra |
+| Mar 20 Oct | Mar | otras: PyE, Álgebra · sin bloque de Lógica |
+| Mié 21 Oct | Mié | **Lógica** (clase 9-13) — Filmina 5 (teoría en vivo; cierra la teoría) · P2 ej. 3, 4, 5 (práctico 11-13) · otras: Álgebra (según la cita médica de las 14) |
 | Jue 22 Oct | Jue | **Lógica** (2h, bloque de repaso) — repaso del recuperatorio (Unidad 1): ver bloques de repaso al final · otras: Álgebra, PyE |
-| Vie 23 Oct | Vie | **Lógica** (~2.5h) — P5 ej. 6, 7, 8, 9 |
-| Sáb 24 Oct | Sáb | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
-| Dom 25 Oct | Dom | otras: PyE, repaso recup. Álgebra |
-| Lun 26 Oct | Lun | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
-| Mar 27 Oct | Mar | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
+| Vie 23 Oct | Vie | **Lógica** (clase 9-13) — P2 ej. 6, 7 · P3 ej. 1, 2 (práctico 11-13) |
+| Sáb 24 Oct | Sáb | **Lógica** (~2h) — P3 ej. 3, 4, 5 · otras: Álgebra, PyE |
+| Dom 25 Oct | Dom | **Lógica** (~2h) — P3 ej. 6 · P4 ej. 1, 2 · otras: PyE, repaso recup. Álgebra |
+| Lun 26 Oct | Lun | **Lógica** (~2h) — P4 ej. 3, 4, 5 · otras: Álgebra, PyE |
+| Mar 27 Oct | Mar | **Lógica** (2h) — P4 ej. 6, 7 · otras: Álgebra, PyE |
 | Mié 28 Oct | Mié | **Lógica** (2h) — repaso / SR / parciales viejos *(tarde cedida a PyE)* · otras: Álgebra |
 | Jue 29 Oct | Jue | **Lógica** (2h, bloque de repaso) — repaso del recuperatorio (Unidad 1): ver bloques de repaso al final · otras: Álgebra, PyE |
-| Vie 30 Oct | Vie | **Lógica** (2h) — repaso / SR / parciales viejos |
-| Sáb 31 Oct | Sáb | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
-| Dom 1 Nov | Dom | otras: PyE |
+| Vie 30 Oct | Vie | **Lógica** (clase 9-13) — P5 ej. 1, 2, 3 (práctico 11-13) |
+| Sáb 31 Oct | Sáb | **Lógica** (2h) — P5 ej. 4, 5, 6 · otras: Álgebra, PyE |
+| Dom 1 Nov | Dom | **Lógica** (2h) — P5 ej. 7, 8, 9 (cierra P5) · otras: PyE |
 | Lun 2 Nov | Lun | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra, PyE |
 | Mar 3 Nov | Mar | **PARCIAL 2 de PyE** · **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra |
 | Mié 4 Nov | Mié | **Lógica** (2h) — repaso / SR / parciales viejos · otras: Álgebra |
@@ -293,72 +294,129 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 **Mié 7 Oct** — Lógica sin avance *(día de Álgebra: clases copiadas + particular 17-19)*
 * *Tarea* — Hoy no se tocó Lógica. La teoría de la unidad 2 (5 filminas) y los 5 prácticos arrancan el viernes 9/10, con ritmo de 1 filmina y medio práctico por día (media filmina y medio práctico en Rosario).
 
-**Vie 9 Oct** *(2h)* — Filmina 1 · P1 ej. 1, 2, 3  ·  _filmina 1 en la clase de 9 a 11 + práctico en clase 11-13_
+**Vie 9 Oct** *(2h)* — Filmina 1 · P1 ej. 1, 2, 3 *(no se hizo: Rosario)*  ·  _filmina 1 en la clase de 9 a 11 + práctico en clase 11-13_
 * *Teoría* — Filmina 1 de la unidad 2: leer, resumir y anotar con ejemplos (en clase, teoría en vivo de 9 a 11).
 * *Ej 1 (P1)* — Para las cadenas dadas decidir cuáles están en Σ*, cuáles en PROP y cuáles en ninguno: (a) p0→p1; (b) ((p∧p)→p); (c) (φ∨ψ); (d) (((p1→p2)→p1)→p2) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: chequeá símbolo por símbolo contra el alfabeto (variables pᵢ, ⊥, conectivos, paréntesis) y después contra la definición inductiva de PROP
 * *Ej 2 (P1)* — Demostrar que toda φ∈PROP tiene tantos “(” como “)”, y que la cantidad total de paréntesis es el doble de la cantidad de conectivos distintos de ⊥ que ocurren — 🎥 "MÉTODO de INDUCCIÓN para demostrar PROPOSICIONES" *(video general del tema)* — https://www.youtube.com/watch?v=bNB2Mb3O5C4 · 💡 Pista: inducción estructural sobre φ: una base (pᵢ, ⊥) y un paso por cada forma de construir fórmulas
 * *Ej 3 (P1)* — Definir recursivamente ocur(k,φ): la cantidad de ocurrencias de pₖ en φ, para cada φ∈PROP — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: un caso por cada cláusula de PROP; en la variable, distinguí pᵢ con i=k de i≠k
 
-**Sáb 10 Oct** *(~3h)* — ½ filmina 2 · P1 ej. 4, 5, 6  ·  _Rosario, mañana_
+**Sáb 10 Oct** *(~3h)* — ½ filmina 2 · P1 ej. 4, 5, 6 *(no se hizo: Rosario)*  ·  _Rosario, mañana_
 * *Teoría* — Filmina 2, primera mitad: leer y resumir con ejemplos (Rosario, ritmo reducido).
 * *Ej 4 (P1)* — Definir recursivamente la función “longitud”: cantidad de símbolos de una proposición, incluyendo paréntesis — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: en (φ□ψ) contá los 2 paréntesis y el conectivo, más la longitud de cada subfórmula
 * *Ej 5 (P1)* — Definir recursivamente S:PROP→P(PROP) tal que S(φ) sea el conjunto de subfórmulas de φ (ej.: S(⊥)={⊥}, S((p0∧p1))={p0,p1,(p0∧p1)}) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: S de una fórmula compuesta = {la fórmula} ∪ S de cada una de sus partes
 * *Ej 6 (P1)* — (a) Calcular φ[((p7→⊥)→p3)/p7] para dos fórmulas dadas. (b)(*) Definir recursivamente la sustitución G(φ,ψ,pᵢ)=φ[ψ/pᵢ] — (b) es de cierre, opcional — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: sustituí cada ocurrencia de p7 por la fórmula completa con sus paréntesis; para (b) un caso por cláusula de PROP (pᵢ vs pⱼ con j≠i)
 
-**Dom 11 Oct** *(~3.5h)* — ½ filmina 2 · P2 ej. 1, 2, 3, 4  ·  _Rosario, mañana/noche_
+**Dom 11 Oct** *(~3.5h)* — ½ filmina 2 · P2 ej. 1, 2, 3, 4 *(no se hizo: Rosario)*  ·  _Rosario, mañana/noche_
 * *Teoría* — Filmina 2, segunda mitad: cerrar el resumen con ejemplos (Rosario, ritmo reducido).
 * *Ej 1 (P2)* — Dadas asignaciones parciales f, g, h, calcular la semántica ⟦φ⟧ de las fórmulas indicadas (a-c) — 🎥 "Tablas de verdad | Ejemplo 1" — https://www.youtube.com/watch?v=ZK8QUphO4MA · 💡 Pista: evaluá de adentro hacia afuera con las tablas de cada conectivo; ¬φ es φ→⊥
 * *Ej 2 (P2)* — Decidir si existe una asignación f que modele cada conjunto: (a) {p0}; (b) {p0,¬p1,p2,¬p3,…}; (c) PROP; (d) {p0,p0→¬p1,p1} — 🎥 "TABLAS DE VERDAD | OPERADORES LÓGICOS | lógica proposicional | ejercicios resueltos" *(video general del tema)* — https://www.youtube.com/watch?v=pttgIlBLm-s · 💡 Pista: f modela Γ si ⟦φ⟧f=1 para toda φ∈Γ: mirá si el conjunto fuerza valores contradictorios en alguna variable
 * *Ej 3 (P2)* — Demostrar: (a) |= ((¬(¬φ))→φ); (b) |= φ si y sólo si ∅ |= φ — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: usá la definición de |= (toda asignación modela φ); en (b) toda asignación modela a ∅
 * *Ej 4 (P2)* — Decidir cuáles son ciertas y demostrarlas con la definición de consecuencia (o dar una asignación que la refute): (a) {p0→p1} |= ¬p0∨p1; (b) {p0} |= (p0∧p1); (c) {p0,p0→(p1∨p2)} |= p2 — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: para refutar buscá una f que haga verdaderas todas las hipótesis y falsa la conclusión
 
-**Mié 14 Oct** *(~3h)* — Filmina 3 · P2 ej. 5, 6, 7  ·  _práctico en clase 11-13_
+**Mié 14 Oct** *(~3h)* — Filmina 3 · P2 ej. 5, 6, 7 *(se faltó a la clase)*  ·  _práctico en clase 11-13_
 * *Teoría* — Filmina 3 de la unidad 2: teoría en vivo de 9 a 11 y completar el resumen a la tarde.
 * *Ej 5 (P2)* — Demostrar: (a) si Γ⊆Δ y Γ |= φ entonces Δ |= φ; (b) si Γ |= φ y {φ} |= ψ entonces Γ |= ψ — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: tomá una asignación que modele Δ (o Γ) y seguí la definición paso a paso
 * *Ej 6 (P2)* — Determinar φ[(¬p0)/p0] para dos fórmulas dadas (a-b) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: igual que P1 ej. 6a: reemplazá cada p0 por (¬p0)
 * *Ej 7 (P2)* — Dada una asignación f, hallar g tal que ⟦φ⟧g = ⟦φ[⊥/p0]⟧f para toda φ∈PROP; caracterizar las φ con ⟦φ⟧f = ⟦φ⟧g — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: definí g igual que f salvo en p0 y probá por inducción sobre φ
 
-**Vie 16 Oct** *(~3h)* — Filmina 4 · P3 ej. 1, 2, 3  ·  _filmina en clase 9-11 + práctico en clase 11-13_
-* *Teoría* — Filmina 4 de la unidad 2: teoría en vivo de 9 a 11 y resumen con ejemplos.
+> **Corrida del 13/10 (con el calendar real).** Lógica estudia de noche (2 h por día, jueves a domingo) y en las clases del 21/10 y 23/10; los bloques anteriores quedan como historial. Prioridad de estas semanas: Álgebra y PyE; Lógica usa parte de su margen de repaso.
+
+> **Corrida del 14/10 (Lógica en stand by).** Del Jue 15 al Dom 18 no hay Lógica (particular el sábado y el domingo, y prioridad a PyE y Álgebra). Los bloques de abajo quedan como referencia y el plan de Lógica se rehace el **Lun 19**; las fechas desde el Mié 21 son provisorias hasta entonces.
+
+**Jue 15 Oct** *(2h)* — ~~Filmina 1 · P1 ej. 1, 2~~ *(en pausa: stand by hasta el lunes 19)*  ·  _noche 21:30-23:30 (paro docente, sin clases)_
+* *Teoría* — Filmina 1 de la unidad 2: leer, resumir y anotar con ejemplos (~1 h).
+* *Ej 1 (P1)* — Para las cadenas dadas decidir cuáles están en Σ*, cuáles en PROP y cuáles en ninguno: (a) p0→p1; (b) ((p∧p)→p); (c) (φ∨ψ); (d) (((p1→p2)→p1)→p2) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: chequeá símbolo por símbolo contra el alfabeto (variables pᵢ, ⊥, conectivos, paréntesis) y después contra la definición inductiva de PROP
+* *Ej 2 (P1)* — Demostrar que toda φ∈PROP tiene tantos “(” como “)”, y que la cantidad total de paréntesis es el doble de la cantidad de conectivos distintos de ⊥ que ocurren — 🎥 "MÉTODO de INDUCCIÓN para demostrar PROPOSICIONES" *(video general del tema)* — https://www.youtube.com/watch?v=bNB2Mb3O5C4 · 💡 Pista: inducción estructural sobre φ: una base (pᵢ, ⊥) y un paso por cada forma de construir fórmulas
+
+**Vie 16 Oct** *(2h)* — ~~Filmina 2 · P1 ej. 3, 4~~ *(en pausa: stand by hasta el lunes 19)*  ·  _noche 21-23_
+* *Teoría* — Filmina 2 de la unidad 2: leer y resumir con ejemplos (~1 h).
+* *Ej 3 (P1)* — Definir recursivamente ocur(k,φ): la cantidad de ocurrencias de pₖ en φ, para cada φ∈PROP — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: un caso por cada cláusula de PROP; en la variable, distinguí pᵢ con i=k de i≠k
+* *Ej 4 (P1)* — Definir recursivamente la función “longitud”: cantidad de símbolos de una proposición, incluyendo paréntesis — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: en (φ□ψ) contá los 2 paréntesis y el conectivo, más la longitud de cada subfórmula
+
+**Sáb 17 Oct** *(2h)* — ~~Filmina 3 · P1 ej. 5, 6~~ *(en pausa: particular; stand by hasta el lunes 19)*  ·  _noche 21-23_
+* *Teoría* — Filmina 3 de la unidad 2: leer y resumir con ejemplos (~1 h).
+* *Ej 5 (P1)* — Definir recursivamente S:PROP→P(PROP) tal que S(φ) sea el conjunto de subfórmulas de φ (ej.: S(⊥)={⊥}, S((p0∧p1))={p0,p1,(p0∧p1)}) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: S de una fórmula compuesta = {la fórmula} ∪ S de cada una de sus partes
+* *Ej 6 (P1)* — (a) Calcular φ[((p7→⊥)→p3)/p7] para dos fórmulas dadas. (b)(*) Definir recursivamente la sustitución G(φ,ψ,pᵢ)=φ[ψ/pᵢ] — (b) es de cierre, opcional — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: sustituí cada ocurrencia de p7 por la fórmula completa con sus paréntesis; para (b) un caso por cláusula de PROP (pᵢ vs pⱼ con j≠i)
+
+**Dom 18 Oct** *(2h)* — ~~Filmina 4 · P2 ej. 1, 2~~ *(en pausa: particular; stand by hasta el lunes 19)*  ·  _noche 21-23_
+* *Teoría* — Filmina 4 de la unidad 2: leer y resumir con ejemplos (~1 h).
+* *Ej 1 (P2)* — Dadas asignaciones parciales f, g, h, calcular la semántica ⟦φ⟧ de las fórmulas indicadas (a-c) — 🎥 "Tablas de verdad | Ejemplo 1" — https://www.youtube.com/watch?v=ZK8QUphO4MA · 💡 Pista: evaluá de adentro hacia afuera con las tablas de cada conectivo; ¬φ es φ→⊥
+* *Ej 2 (P2)* — Decidir si existe una asignación f que modele cada conjunto: (a) {p0}; (b) {p0,¬p1,p2,¬p3,…}; (c) PROP; (d) {p0,p0→¬p1,p1} — 🎥 "TABLAS DE VERDAD | OPERADORES LÓGICOS | lógica proposicional | ejercicios resueltos" *(video general del tema)* — https://www.youtube.com/watch?v=pttgIlBLm-s · 💡 Pista: f modela Γ si ⟦φ⟧f=1 para toda φ∈Γ: mirá si el conjunto fuerza valores contradictorios en alguna variable
+
+**Mié 21 Oct** *(clase 9-13)* — Filmina 5 · P2 ej. 3, 4, 5  ·  _teoría en vivo 9-11 y práctico 11-13_
+* *Teoría* — Filmina 5 de la unidad 2: cierra la teoría; hacer un resumen general de las 5 filminas.
+* *Ej 3 (P2)* — Demostrar: (a) |= ((¬(¬φ))→φ); (b) |= φ si y sólo si ∅ |= φ — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: usá la definición de |= (toda asignación modela φ); en (b) toda asignación modela a ∅
+* *Ej 4 (P2)* — Decidir cuáles son ciertas y demostrarlas con la definición de consecuencia (o dar una asignación que la refute): (a) {p0→p1} |= ¬p0∨p1; (b) {p0} |= (p0∧p1); (c) {p0,p0→(p1∨p2)} |= p2 — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: para refutar buscá una f que haga verdaderas todas las hipótesis y falsa la conclusión
+* *Ej 5 (P2)* — Demostrar: (a) si Γ⊆Δ y Γ |= φ entonces Δ |= φ; (b) si Γ |= φ y {φ} |= ψ entonces Γ |= ψ — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: tomá una asignación que modele Δ (o Γ) y seguí la definición paso a paso
+
+**Vie 23 Oct** *(clase 9-13)* — P2 ej. 6, 7 · P3 ej. 1, 2  ·  _práctico en clase 11-13_
+* *Ej 6 (P2)* — Determinar φ[(¬p0)/p0] para dos fórmulas dadas (a-b) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: igual que P1 ej. 6a: reemplazá cada p0 por (¬p0)
+* *Ej 7 (P2)* — Dada una asignación f, hallar g tal que ⟦φ⟧g = ⟦φ[⊥/p0]⟧f para toda φ∈PROP; caracterizar las φ con ⟦φ⟧f = ⟦φ⟧g — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: definí g igual que f salvo en p0 y probá por inducción sobre φ
 * *Ej 1 (P3)* — Probar que |= φ→ψ si y sólo si {φ} |= ψ — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: una dirección por vez, con la tabla del condicional y la definición de |=
 * *Ej 2 (P3)* — Si φ satisface {φ} |= ⊥, ¿cómo es la tabla de verdad de φ? — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: ¿qué asignaciones modelan φ si de φ se sigue ⊥, que nunca vale 1?
-* *Ej 3 (P3)* — Completar dos derivaciones agregando la regla usada en cada paso y los corchetes de las hipótesis canceladas (se cancelan todas las posibles; ¬φ abrevia φ→⊥) — 🎥 "7. Ejercicios Resueltos Deducción Natural. Lógica Proposicional" *(video general del tema)* — https://www.youtube.com/watch?v=1L2KP-kyYjU · 💡 Pista: identificá cada paso por la forma de la fórmula (→I, →E, ⊥E…); las hipótesis se cancelan en →I y en RAA
 
-**Sáb 17 Oct** *(~3.5h)* — Filmina 5 (cierra la teoría) · P3 ej. 4, 5, 6  ·  _sábado_
-* *Teoría* — Filmina 5 de la unidad 2: cierra la teoría; hacer un resumen general de las 5 filminas.
+**Sáb 24 Oct** *(~2h)* — P3 ej. 3, 4, 5  ·  _noche_
+* *Ej 3 (P3)* — Completar dos derivaciones agregando la regla usada en cada paso y los corchetes de las hipótesis canceladas (se cancelan todas las posibles; ¬φ abrevia φ→⊥) — 🎥 "7. Ejercicios Resueltos Deducción Natural. Lógica Proposicional" *(video general del tema)* — https://www.youtube.com/watch?v=1L2KP-kyYjU · 💡 Pista: identificá cada paso por la forma de la fórmula (→I, →E, ⊥E…); las hipótesis se cancelan en →I y en RAA
 * *Ej 4 (P3)* — Encontrar derivaciones: (a) {φ∧γ, φ→(ψ∧γ)} ⊢ ψ; (b) {φ→(ψ→γ)} ⊢ ψ→(φ→γ); (c) {φ} ⊢ ¬(¬φ∧¬ψ); (d) ⊢ (φ→ψ)→((φ→(ψ→γ))→(φ→γ)) — 🎥 "Ejercicio de deducción natural en Lóg. Proposicional. Examen feb. 2013" *(video general del tema)* — https://www.youtube.com/watch?v=d-9vhwLR6fY · 💡 Pista: trabajá hacia atrás desde la conclusión: si es una implicación, suponé el antecedente y buscá el consecuente
 * *Ej 5 (P3)* — Lo siguiente ya fue demostrado en esta guía: {¬(p2→p5)} ⊢ ¬(¬(¬(p2→p5)) ∧ ¬(p3→((¬p2)∧p5))). ¿En qué ejercicio? — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: compará la forma con la del ítem 4c, sustituyendo φ y ψ por fórmulas adecuadas
-* *Ej 6 (P3)* — Determinar cuáles son válidas y, para las que lo son, dar derivaciones: (a) {¬φ,ψ→φ} |= γ→(ψ→⊥); (b) {¬φ} |= ψ→(φ∧¬ψ); (c) {¬φ} |= ψ→(φ→¬ψ) — 🎥 "Métodos de demostración: Reducción al absurdo" *(video general del tema)* — https://www.youtube.com/watch?v=3jqzuqDHOkQ · 💡 Pista: primero decidí con la semántica (¿hay una asignación que modele las hipótesis y falle la conclusión?); después derivá
 
-**Lun 19 Oct** *(~2.5h)* — P4 ej. 1, 2, 3, 4  ·  _tarde_
+**Dom 25 Oct** *(~2h)* — P3 ej. 6 · P4 ej. 1, 2  ·  _noche_
+* *Ej 6 (P3)* — Determinar cuáles son válidas y, para las que lo son, dar derivaciones: (a) {¬φ,ψ→φ} |= γ→(ψ→⊥); (b) {¬φ} |= ψ→(φ∧¬ψ); (c) {¬φ} |= ψ→(φ→¬ψ) — 🎥 "Métodos de demostración: Reducción al absurdo" *(video general del tema)* — https://www.youtube.com/watch?v=3jqzuqDHOkQ · 💡 Pista: primero decidí con la semántica (¿hay una asignación que modele las hipótesis y falle la conclusión?); después derivá
 * *Ej 1 (P4)* — Completar dos derivaciones (ramas que faltan, reglas y corchetes) para (¬φ∧¬ψ)→¬(φ∨ψ) y para φ∨¬φ; se cancelan todas las hipótesis — 🎥 "7. Ejercicios Resueltos Deducción Natural. Lógica Proposicional" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=1L2KP-kyYjU · 💡 Pista: ∨E necesita un caso por cada rama de la disyunción; la segunda usa RAA
 * *Ej 2 (P4)* — Derivaciones: (a) {¬φ∨ψ} ⊢ φ→ψ (con ∨E); (b) {¬φ∨¬ψ} ⊢ ¬(φ∧ψ); (c) {φ→ψ} ⊢ ¬φ∨ψ; (d) {¬(φ∧ψ)} ⊢ ¬φ∨¬ψ — 🎥 "Ejercicio de deducción natural en Lóg. Proposicional. Examen feb. 2013" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=d-9vhwLR6fY · 💡 Pista: en (c) y (d) la última regla es RAA: suponé la negación de la conclusión y derivá ⊥, no intentes ∨I directo
+
+**Lun 26 Oct** *(~2h)* — P4 ej. 3, 4, 5  ·  _noche_
 * *Ej 3 (P4)* — Con RAA encontrar derivaciones: (a) ⊢ φ↔¬¬φ; (b)(*) ⊢ ((φ→ψ)→φ)→φ — (b) es de cierre, opcional — 🎥 "Métodos de demostración: Reducción al absurdo" — https://www.youtube.com/watch?v=3jqzuqDHOkQ · 💡 Pista: ↔ son dos implicaciones: una dirección sale con →I/→E y la otra con RAA
 * *Ej 4 (P4)* — Encontrar derivaciones: (a) ⊢ (φ→ψ)∨(ψ→φ); (b) ⊢ ((φ→ψ)∧(¬φ→ψ))→ψ — 🎥 "Métodos de demostración: Reducción al absurdo" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=3jqzuqDHOkQ · 💡 Pista: (b) es una prueba por casos sobre φ∨¬φ (ejercicio 1); (a) probablemente RAA
-
-**Mar 20 Oct** *(2h)* — P4 ej. 5, 6, 7  ·  _noche_
 * *Ej 5 (P4)* — Sean Δ,Γ⊆PROP y φ∈PROP. Demostrar: (a) si Δ∖{φ}⊆Γ entonces Δ⊆Γ∪{φ}; (b) comprobar que sin unir {φ} la afirmación no es cierta; (c) si Δ⊆Γ y Δ⊢φ entonces Γ⊢φ — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: (a) y (b) son teoría de conjuntos; en (c) la misma derivación sirve con más hipótesis disponibles
+
+**Mar 27 Oct** *(2h)* — P4 ej. 6, 7  ·  _noche_
 * *Ej 6 (P4)* — Demostrar: (a) ⊢φ implica ⊢ψ→φ; (b) si φ⊢ψ y ¬φ⊢ψ entonces ⊢ψ; (c) Γ∪{φ}⊢ψ implica Γ∖{φ}⊢(φ→φ)∧(φ→ψ); (d) Γ∪{φ}⊢ψ implica Γ⊢φ→(ψ∨¬φ) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: armá una derivación nueva a partir de la que te dan, con →I, ∧I, ∨I; en (b) usá φ∨¬φ
 * *Ej 7 (P4)* — Demostrar los casos inductivos (∨I) y (∨E) de la prueba del Teorema de Corrección — 🎥 "Demostrar una fórmula por INDUCCIÓN MATEMÁTICA │ ejercicio 2" *(video general del tema)* — https://www.youtube.com/watch?v=8z4t-MTuyuc · 💡 Pista: hipótesis inductiva: las premisas de la regla son consecuencia semántica de sus hipótesis; probá que la conclusión también (en ∨E separá por casos según qué disyunto valga 1)
 
-**Mié 21 Oct** *(~3h)* — P5 ej. 1, 2, 3, 4, 5  ·  _práctico en clase 11-13_
+**Vie 30 Oct** *(clase 9-13)* — P5 ej. 1, 2, 3  ·  _práctico en clase 11-13_
 * *Ej 1 (P5)* — Demostrar (con derivaciones o citando resultados del teórico): (a) Γ⊢¬⊥; (b) {p0}⊬p1; (c) {⊥}⊢φ∧¬φ; (d) {¬p0,¬(p1∧¬p2)}⊬p2→p0 — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: para ⊬ usá Corrección: si Γ⊢φ entonces Γ|=φ, y buscá una asignación que lo contradiga
 * *Ej 2 (P5)* — Decidir cuáles de los siguientes conjuntos son consistentes (a-f), incluyendo los infinitos (“pares implican impares”, {p2n}∪{¬p3n+1}, {p2n}∪{¬p4n+1}) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: consistente ⟺ tiene modelo: buscá una asignación que satisfaga todas; en los infinitos mirá qué variables fuerza cada familia
 * *Ej 3 (P5)* — Decidir si son verdaderos o falsos y justificar: (a) Γ consistente ⟹ ⊥∉Γ; (b) Γ consistente ⟹ ⊥ no ocurre en ninguna fórmula de Γ; (c) Γ inconsistente ⟹ existe φ con φ∈Γ y ¬φ∈Γ — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: para (b) pensá qué fórmulas con ⊥ son tautologías; para (c) pensá un conjunto inconsistente donde la contradicción aparece recién al derivar
+
+**Sáb 31 Oct** *(2h)* — P5 ej. 4, 5, 6  ·  _noche_
 * *Ej 4 (P5)* — Demostrar que “Γ⊢¬φ” equivale a “Γ∪{φ} es inconsistente” — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: →I y →E con ⊥, una dirección por vez
 * *Ej 5 (P5)* — Demostrar que Γ⁺ := {φ∈PROP : ⊥ no ocurre en φ} es consistente (ayuda: una f explícita con ⟦φ⟧f=1 para toda φ∈Γ⁺) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: probá por inducción que una asignación constante hace verdaderas a las fórmulas sin ⊥
-
-**Vie 23 Oct** *(~2.5h)* — P5 ej. 6, 7, 8, 9  ·  _práctico en clase 11-13_
 * *Ej 6 (P5)* — Probar que todo Γ consistente maximal realiza la disyunción: φ∨ψ∈Γ si y sólo si φ∈Γ ó ψ∈Γ — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: usá que un maximal consistente es cerrado por derivación y que para toda φ vale φ∈Γ o ¬φ∈Γ
+
+**Dom 1 Nov** *(2h)* — P5 ej. 7, 8, 9 (cierra P5)  ·  _noche_
 * *Ej 7 (P5)* — Sea Γ consistente maximal con {p0,¬(p1→p2),p3∨p2}⊆Γ. Decidir si están en Γ: (a) ¬p0; (b) (¬p1)∨p2; (c) p3; (d) p2→p5; (e) p1∨p6 — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: usá Completitud: Γ tiene un modelo f; ¿qué fuerzan p0, ¬(p1→p2) y p3∨p2 sobre f?
 * *Ej 8 (P5)* — Dar al menos dos conjuntos Γ consistentes maximales distintos que contengan {p0,¬(p1→p2),p3∨p2} — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: un maximal consistente es el conjunto de fórmulas verdaderas bajo una asignación; variá la asignación en lo que quede libre
 * *Ej 9 (P5)* — Decidir si son consistentes maximales: (a) {φ∈PROP : {p0,p1,p3,…}⊢φ}; (b) las tautologías — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: maximal ⟺ para toda φ, φ∈Γ o ¬φ∈Γ: chequeá si eso se cumple
+
+### Objetivos por día — Lógica (con el calendar real)
+
+| Día | Mínimo | Objetivo | Extra |
+|---|---|---|---|
+| Jue 15 | — | *(en pausa)* | — |
+| Vie 16 | — | *(en pausa)* | — |
+| Sáb 17 | — | *(en pausa)* | — |
+| Dom 18 | — | *(en pausa)* | — |
+
+**Provisorio:** Lógica queda en stand by del Jue 15 al Dom 18 y se replanifica el Lun 19; las fechas que siguen son las del plan anterior, hasta rehacerlas. Con 2 h por noche y sin bloque el lunes 19, la teoría cierra el Mié 21 (clase en vivo) y los 35 ejercicios el **Dom 1 Nov** (antes el Mar 27/10). El repaso para el parcial del 13/11 queda del Lun 2/11 al Jue 12/11, con los parciales de PyE (3/11) y Álgebra (5/11) en el medio: unos 9 días útiles. Si un día de estos no sale entero, lo que falte corre a la noche siguiente.
+
+### Errores del Parcial 1 (2.4) — qué rehacer para el recuperatorio (Unidad 1)
+
+*El PDF no trae correcciones del docente a la vista, así que esto sale de revisar la resolución contra el enunciado. L = ((1, 2, 4, 5, 20, 60), |).*
+
+* **1a — Hasse de L.** Parece bien (1<2<4<20, 1<5<20, 20<60: un pentágono con 60 arriba).
+* **1b — Irr(L).** Los irreducibles son los que cubren a un solo elemento: **(2, 4, 5, 60)** (el 1 no es irreducible; el 20 cubre a 4 y a 5). En el orden de divisibilidad 2 | 4 | 60 y 5 | 60, así que 60 queda **por encima** de 2, 4 y 5; en el dibujo quedaron sueltos.
+* **1c — D(Irr(L)).** Usó el 1 y conjuntos que no son los *down-sets* de (2, 4, 5, 60). Los down-sets son ∅, 2, 5, (2, 5), (2, 4), (2, 4, 5) y (2, 4, 5, 60): son **7**.
+* **1d — distributividad.** Concluyó que L es distributivo. Pero L tiene 6 elementos y D(Irr(L)) tiene 7, así que la función de Birkhoff no es un isomorfismo, y además L contiene el pentágono N₅ (1, 2, 4, 20, 5): **no es distributivo**. Mirar si aparece N₅ o M₃ sirve de verificación cruzada.
+* **Ej. 2 — mínimo ⇒ único minimal.** Mezcló las definiciones de mínimo (m ≤ x para todo x) y minimal (si x ≤ m entonces x = m), y la prueba no avanzó. Esquema: (i) m es minimal: si x ≤ m, como m es mínimo también m ≤ x, y por antisimetría x = m. (ii) Es el único: si m' es minimal, como m es mínimo m ≤ m', y por ser m' minimal m = m'.
+
+*Patrón general:* dos definiciones (irreducible, mínimo/minimal) sin dominar y no chequear el resultado final con una segunda vía (el pentágono N₅). Es lo primero que se rehace en los bloques de repaso del recuperatorio (jueves 22 y 29/10 y del 14 al 19/11).
 
 ### Bloques de repaso del recuperatorio (Unidad 1: estructuras de orden)
 
 > El lugar de AyED2 de los jueves pasa a repaso de la Unidad 1. Con el primer parcial corregido (2.4) se arma la lista de temas flojos; el banco de la Unidad 1 está al final del archivo.
 
-* **Jue 15 Oct** *(2h)* — Ver el parcial corregido: listar los ejercicios perdidos y el tema de cada uno. Repasar el primer tema flojo.
+* **Jue 15 Oct** *(en pausa: la noche es para la filmina 1; se retoma el Jue 22)* — Ver el parcial corregido: listar los ejercicios perdidos y el tema de cada uno. Repasar el primer tema flojo.
 * **Jue 22 Oct** *(2h)* — Segundo tema flojo + 2 ejercicios del banco de la Unidad 1.
 * **Jue 29 Oct** *(2h)* — Tercer tema flojo + 2 ejercicios del banco de la Unidad 1.
 * **Sáb 14 Nov** *(~1.5h)* — Temas flojos del parcial corregido. **Dom 15 Nov** *(2h)* — ejercicios tipo parcial.
@@ -373,6 +431,9 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 - **Pista antes que solución:** si una demostración no sale, se vuelve a la definición y se pide una pista; no se copia.
 - **Cierre con margen:** las 5 filminas terminan el Sáb 17 Oct y los 35 ejercicios el Vie 23 Oct; del Sáb 24 Oct al 12/11 quedan los slots como repaso, parciales viejos y filminas nuevas que salgan en clase. Es un ritmo exigente (1 filmina + medio práctico por día): si un día se pierde, se corre al siguiente slot en vez de compensarlo a la noche.
 - **Después del 13/11:** del 14 al 19/11 se prepara el recuperatorio del 20/11, que es de la Unidad 1 (bloques de repaso al final del cronograma).
+- **Corrida del 14/10:** el miércoles 14 se faltó a la clase (ya estaba previsto). Lógica queda en **stand by del Jue 15 al Dom 18** (particular el sábado y el domingo; prioridad a PyE y Álgebra) y se replanifica a partir del **Lun 19**. Las fechas desde el Mié 21 (Filmina 5, cierre de ejercicios el Dom 1/11 y repaso hasta el 13/11) son las del plan anterior y quedan provisorias.
+- **Corrida del 13/10:** con el calendar real, Lógica pasa a 2 h por noche (jueves a domingo), sin bloque el lunes 19 y con las clases del Mié 21 y el Vie 23. La teoría cierra el Mié 21 y los 35 ejercicios el **Dom 1 Nov**; el repaso queda del 2 al 12/11 (unos 9 días útiles). Se agregan los errores del Parcial 1 (2.4) para el recuperatorio.
+- **Corrida del 12/10:** Rosario no rindió (Vie 9 a Mié 14 sin Lógica). Fin de semana de estudio del Jue 15 al Lun 19: la teoría cierra el Lun 19 y los ejercicios el Mar 27; el repaso se acorta (28/10 a 12/11).
 - **Corrida del 8/10 (noche):** Lógica no se tocaba el 8/10 igual. AyED2 pasa a febrero y los jueves 15, 22 y 29/10 son repaso de la Unidad 1 para el recuperatorio.
 - (*) Los ejercicios de cierre se hacen solo si sobra tiempo.
 
