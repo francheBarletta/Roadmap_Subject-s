@@ -1,6 +1,6 @@
 # Álgebra Lineal — Plan de estudio (cuatrimestre 2026)
 
-Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prácticos 2, 3, 4 y 5** completos (sin los ejercicios adicionales de cada práctico). **Desde el 7/10 se estudia a partir del Práctico 4, ejercicio 17**: los ejercicios 1 a 16 ya se tomaron en el primer parcial y se saltean, aunque no se hayan terminado. Los prácticos 6 y 7 (a publicar) se suman completos, sin elegir ejercicios.
+Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prácticos 2, 3, 4 y 5** completos (sin los ejercicios adicionales de cada práctico). **Desde el 7/10 se estudia a partir del Práctico 4, ejercicio 17**: los ejercicios 1 a 16 ya se tomaron en el primer parcial y se saltean, aunque no se hayan terminado. El **Práctico 6 (determinantes)** ya está publicado y se suma completo (8 ejercicios; los 2 adicionales como extra). El 7 se suma completo cuando se publique.
 
 ---
 
@@ -16,14 +16,12 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 ---
 
-## Estado actual (12 Octubre)
+## Estado actual (21 Octubre)
 
-- **Fin de semana de estudio (Jue 15 a Lun 19), con el calendar real:** el miércoles 14 no se estudió (día de viaje y descanso; solo se copia la clase de Álgebra a la noche) y se faltó a la clase de Lógica; el jueves 15 es paro docente (sin clases) y se viaja a Huerta Grande al mediodía; de viernes a domingo son unas 9,5 a 10 h por día (PyE 3,5 a 4 h, Álgebra 4 h y Lógica 2 h de noche) y el lunes 19 unas 7,5 h (sin bloque de Lógica). Prioridad: Álgebra y PyE, que son las más atrasadas; Lógica corre y usa parte de su margen de repaso. Cada materia tiene su tabla de mínimo / objetivo / extra. Los bloques de repaso de recuperatorios del Jue 15 y el Dom 18 quedan en pausa y retoman el Jue 22.
+- **Estado al 21/10 (miércoles):** no hubo avance de ejercicios desde el 14/10 (el jueves 15 y el viernes 16 se perdieron, el fin de semana fue de enfermedad y el martes 20 se volvió a casa a las 16). Pendiente: copiar la clase del 13/10 y **23 ejercicios** (P4 ej. 17 a 21 y P5 ej. 1 a 18). **Práctico 6 ya publicado (determinantes: 8 ejercicios + 2 adicionales)**; el 7 todavía no. Con los bloques reales del calendar (~50 h de Álgebra hasta el Mié 4): P4 cierra el **Vie 23**, P5 el **Mar 27**, P6 el **Jue 29** y desde el **Vie 30** queda para P7 (cuando se publique), simulacros y repaso final (Mié 4: 6 h). Si P7 no sale, esos bloques son repaso con parciales viejos. El jueves 5/11 es el Parcial 2.
 - **Prácticos 1, 2 y 3 completos.** **Práctico 4:** se estudia **desde el ejercicio 17 hasta el 21**. Los ejercicios 1 a 16 ya se tomaron en el primer parcial (incluidos los que quedaron sin terminar: 2, 3, 5, 6, 9, 10, 11 y 12) y se saltean.
-- **Práctico 5 (transformaciones lineales):** banco armado, sin empezar. **Prácticos 6 y 7:** todavía no están publicados; probablemente entran en el segundo parcial. Se suman completos (sin elegir) cuando estén disponibles.
-- **Atraso:** el 7/10 se copiaron las clases atrasadas y hubo particular de 17 a 19. El **8/10 fue un día sin avance** (solo clases), así que los ej. 17, 18, 19 de P4 corrieron un slot. Queda la clase del 13/10, que se pierde por volver de Rosario (se pide y se copia la noche del 14/10).
+- **Práctico 5 (transformaciones lineales):** banco armado, sin empezar. **Práctico 6 (determinantes):** publicado el 21/10, 8 ejercicios + 2 adicionales; entra completo. **Práctico 7:** todavía no está publicado; se suma completo cuando salga.
 - **Primer parcial reprobado (37/100, aprueba con 50).** Se recupera el **Jue 19/11** (solo Parcial 1). Desde el 15/10 hay un **bloque de repaso de recuperatorios** los domingos (AyED2 pasa a febrero): 18/10 y 25/10 de Álgebra, y desde el 7/11 repaso fuerte (ver cronograma). Cuando llegue el parcial corregido se apunta a los ejercicios que se perdieron.
-- **23 ejercicios pendientes** (5 de P4 + 18 de P5), que arrancan el jueves 15/10 (el miércoles 14 solo se copia la clase) y cierran el **Jue 22 Oct**. Del Jue 22 Oct al 3/11 quedan **7 slots completos reservados para P6 y P7** (más el Jue 22, compartido con P5 ej. 18; unos 24 ejercicios); si no hay prácticos nuevos, se usan como repaso. El 4/11 es repaso final.
 
 ---
 
@@ -36,9 +34,10 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | P3 | Operaciones con matrices | 1 a 13 (13 ejercicios) |
 | P4 | Espacios vectoriales | 17 a 21 (5 ejercicios; el 1 a 16 ya se tomó en el primer parcial) |
 | P5 | Transformaciones lineales | 1 a 18 (18 ejercicios) |
-| P6 y P7 | A publicar | Completos, sin elegir (cantidad a confirmar) |
+| P6 | Determinantes | 1 a 8 (8 ejercicios) + 2 adicionales (extra) |
+| P7 | A publicar | Completo, sin elegir (cantidad a confirmar) |
 
-**Pendientes hoy: 23 ejercicios** (5 de P4 + 18 de P5), más P6 y P7 cuando estén publicados.
+**Pendientes hoy: 31 ejercicios** (5 de P4 + 18 de P5 + 8 de P6), más los 2 adicionales de P6 y el P7 cuando se publique.
 
 ---
 
@@ -168,6 +167,23 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 
 > **Sobre los videos de P5:** de los 18 ejercicios, 8 tienen video propio, 5 usan un video general del tema y 5 repiten el video de otro ejercicio del mismo tema (en total son 10 videos distintos). Varios enunciados son demostraciones o definiciones abstractas y no tienen video que los resuelva.
 
+### Práctico 6 — Determinantes (completo; los 2 adicionales como extra)
+
+| Ej | Descripción | Video |
+|---|---|---|
+| 1 | Calcular el determinante de A (2×2), B (3×3) y C (4×4) dadas | [Determinante de una matriz de 4x4 por cofactores utilizando renglones o columnas](https://www.youtube.com/watch?v=No1gMoJDuqw) |
+| 2 | Con det A=−1, det B=2, det C=3, calcular det(A²BCᵗB⁻¹) y det(B²C⁻¹AB⁻¹Cᵗ) | [Propiedades de determinantes, producto por un número y matriz traspuesta](https://www.youtube.com/watch?v=342XGfSwLnQ) |
+| 3 | Matriz de Vandermonde: probar por inducción que det V = ∏_{i<j}(λj − λi) | [DETERMINANTE DE VANDERMONDE (Demostración)](https://www.youtube.com/watch?v=XsyABoFivck) |
+| 4 | Probar por inducción el determinante de la matriz con t en la diagonal, −1 debajo y última columna a0…a_{n−1}+t: tⁿ + a_{n−1}tⁿ⁻¹ + … + a1 t + a0 | [Matrices: método de INDUCCIÓN (I) Ejercicio RESUELTO](https://www.youtube.com/watch?v=9GRCgYkNmNQ) *(video general de inducción)* |
+| 5 | Para qué valores de c ∈ R son invertibles tres matrices dadas (3×3 con parámetro) | [Ejercicio 5 determinante / matriz: hallar k para que la matriz sea invertible](https://www.youtube.com/watch?v=GS9frWBAQyk) |
+| 6 | Decidir si A (3×3) y B (con cos t y sen t) son invertibles y, si lo son, calcular la inversa con la matriz de cofactores | [Matriz Inversa 3x3 por Cofactores (método de la Adjunta)](https://www.youtube.com/watch?v=lQMVb087Zbo) |
+| 7 | Sabiendo det(a b c; p q r; x y z) = −1, calcular el det de la matriz con filas (−2a,−2b,−2c), (2p+x,2q+y,2r+z), (3x,3y,3z) | [Cómo resolver un DETERMINANTE usando operaciones elementales de fila y propiedades](https://www.youtube.com/watch?v=yC1MLtaJ900) |
+| 8 | Matriz antisimétrica (Aᵗ=−A): (a) si n es impar, det A = 0; (b) para cada n par, hallar una antisimétrica con det ≠ 0 | [Determinante de matriz antisimétrica (47/113)](https://www.youtube.com/watch?v=bGJPTiOluRY) |
+| ad. 1 | Calcular el determinante de tres matrices (A 4×4, B 4×4 casi diagonal, C 5×5 por bloques) | [Álgebra Linear - 9. Determinantes - 6. Matriz triangular por bloques](https://www.youtube.com/watch?v=xI3wClJ4Gig) *(video en portugués)* |
+| ad. 2 | Probar que det(I + fila de x’s) = 1 + x1 + … + xn | *(sin video específico; apoyate en las propiedades del determinante y la inducción)* |
+
+> **Sobre los videos de P6:** se eligieron por búsqueda según el tema de cada ejercicio; revisá que el video corresponda al método antes de ver los 20 minutos completos.
+
 ---
 
 ## Reparto semanal de materias (4 materias)
@@ -193,23 +209,17 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | Fecha | Día | Contenido |
 |---|---|---|
 | Vie 14 Ago | Vie | Libre — sin materia |
-| ~~Sáb 15 Ago~~ | ~~Sáb~~ | **PERDIDO** (imprevisto familiar) |
 | Dom 16 Ago | Dom | PyE y AED2 |
 | Lun 17 Ago | Lun | PyE y Lógica |
 | Mar 18 Ago | Mar | **Álgebra** — P1 ej. 1, 2 *(hecho)* |
-| ~~Mié 19 Ago~~ | ~~Mié~~ | **PERDIDO** (gripe) |
-| ~~Jue 20 Ago~~ | ~~Jue~~ | **PERDIDO** (gripe) |
 | Vie 21 Ago | Vie | Libre — sin materia |
 | Sáb 22 Ago | Sáb | **Álgebra** — P1 ej. 3, 11, 12, 13 *(cierra P1 — hecho)* |
 | Mar 25 Ago | Mar | **Álgebra** — P1 ej. 12, 13 *(hecho, cierra P1)* |
-| Mié 26 Ago | Se planeaba avanzar P2, pero no se llegó a resolver nada ese día |
 | Vie 28 Ago | **P2 ej. 1a** *(único resuelto — el día rindió menos de lo esperado, ~5h45 en vez de 8h)* |
-| ~~Jue 27 Ago~~ | ~~Jue~~ | Libre (paro no docente) |
 | Sáb 29 Ago | Sáb | **Álgebra** — P2 ej. 1b-7 *(progreso real: llegó hasta acá entre sáb-dom-lun, confirmado hoy en la clase particular)* |
 | Dom 30 Ago | Dom | Lógica (día corrido — sin Álgebra) |
 | Lun 31 Ago | Lun | **Clase particular** — repaso general, sin avanzar ejercicios nuevos (quedó confirmado en el ej. 7) |
 | Mar 1 Sep | Mar | AyED2 (día corrido — sin Álgebra) |
-| Mié 2 Sep | Mié | *(salteado — prioridad a PyE y Lógica esta semana, vuelve más temprano sin quedarse al práctico)* |
 | Jue 3 Sep | Jue | **Álgebra** (práctico, 2h — dentro de la cursada) — retoma en **P2 ej. 8** |
 | Vie 4 Sep | Vie | Libre — sin materia |
 | Sáb 5 Sep | Sáb | **P2 ej. 11, 12b, 13 (cierra P2) · P3 ej. 1** |
@@ -219,39 +229,25 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 | Mié 9 Sep | Mié | Repaso/consolidación de P1-P3 (mañana, 1.5h — sin ejercicios nuevos, Práctico 4 todavía no tiene banco armado) |
 | Jue 10 Sep | Jue | Repaso/consolidación de P1-P3 (mañana, 1.5h) |
 | Mié 9 Sep → Mar 22 Sep | — | Sin prácticos nuevos todavía más allá de lo que quede pendiente (P4 completo queda para más adelante). Usar Miércoles y Sábado para repaso, SR, y sumar los prácticos que la cátedra vaya publicando. |
-| ~~Mar 22 Sep~~ | Mar | **PRIMER PARCIAL** — se corrió al Mar 29 Sep |
 | Mar 29 Sep → Lun 5 Oct | — | **Primer Parcial rendido el 29/9** (nota pendiente). Sin más plan registrado en este archivo hasta el 5/10. |
 | **— Desde acá: plan nuevo (corrida del 5/10) —** | | |
 | Mar 6 Oct | Mar | **Álgebra** — ponerse al día con las 2 clases atrasadas · otras: PyE |
 | Mié 7 Oct | Mié | **Álgebra** — clases atrasadas copiadas + particular 17-19 *(hecho, sin ejercicios)* · otras: Lógica |
-| Jue 8 Oct | Jue | **Álgebra** — sin avance hoy (solo clases) · otras: PyE |
-| Vie 9 Oct | Vie | Viaje a Rosario (bus 16:15) · otras: Lógica |
-| Sáb 10 Oct | Sáb | Rosario · otras: Lógica |
-| Dom 11 Oct | Dom | Rosario · otras: Lógica |
-| Lun 12 Oct | Lun | Rosario · ~~**Álgebra** (~1.5h) — P4 ej. 17, 18~~ *(no se hizo: Rosario)* · otras: PyE (teoría atrasada, tampoco se hizo) |
-| Mar 13 Oct | Mar | Rosario · sin carga (se faltó: se pierden las clases de PyE y Álgebra) |
-| Mié 14 Oct | Mié | **Álgebra** (a la noche, ~1h) — copiar la clase del 13/10 · ~~P4 ej. 17, 18, 19~~ *(no se hizo: día de viaje y descanso; corren desde el Jue 15)* · otras: ~~PyE~~ *(tampoco se hizo)* · Lógica: se faltó a la clase |
-| Jue 15 Oct | Jue | Paro docente (marcha) · viaje a Huerta Grande desde el mediodía · **Álgebra** (2h, 18:30-20:30) — P4 ej. 17, 18 · otras: PyE (15-17), Lógica (21:30-23:30) |
-| Vie 16 Oct | Vie | Fin de semana de estudio (no se va a clase) · **Álgebra** (4h: 15-17 y 18-20) — P4 ej. 19, 20, 21 · P5 ej. 1 · otras: PyE (8:30-10:30 y 12-13:30), Lógica (21-23) |
-| Sáb 17 Oct | Sáb | **Álgebra** (4h: 15-17 y 18-20) — P5 ej. 2, 3, 4, 5 · otras: PyE (8:30-10:30 y 11:30-13:30), Lógica (21-23) |
-| Dom 18 Oct | Dom | **Álgebra** (4h: 15-17 y 18-20) — P5 ej. 6, 7, 8, 9 · otras: PyE (8:30-10:30 y 11:30-13:30), Lógica (21-23) *(el bloque de repaso de recuperatorio queda en pausa)* |
-| Lun 19 Oct | Lun | **Álgebra** (4h: 15-17 y 18-20) — P5 ej. 10, 11, 12, 13 · otras: PyE (8:30-10:30 y 12-13:30) · sin bloque de Lógica |
-| Mar 20 Oct | Mar | **Álgebra** (práctico 2h, clase 14-18) — P5 ej. 14, 15 · otras: PyE (clase 11-13) |
-| Mié 21 Oct | Mié | **Álgebra** (2h, según la cita médica de las 14) — P5 ej. 16, 17 · otras: Lógica (clase 9-13) |
-| Jue 22 Oct | Jue | **Álgebra** (2h) — P5 ej. 18 (cierra P5); el resto del bloque, P6 y P7 si ya se publicaron (si no, repaso de errores del parcial) · otras: PyE, repaso recup. Lógica |
-| Vie 23 Oct | Vie | otras: Lógica |
-| Sáb 24 Oct | Sáb | **Álgebra** (~2.5h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
-| Dom 25 Oct | Dom | **Álgebra** (2h, bloque de repaso) — repaso del recuperatorio (P1 a P4): ver bloques de repaso al final · otras: PyE |
-| Lun 26 Oct | Lun | **Álgebra** (~2.5h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
-| Mar 27 Oct | Mar | **Álgebra** (2h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
-| Mié 28 Oct | Mié | **Álgebra** (2h) — repaso / SR / parciales viejos *(tarde cedida a PyE)* · otras: Lógica |
-| Jue 29 Oct | Jue | **Álgebra** (2h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: PyE, repaso recup. Lógica |
-| Vie 30 Oct | Vie | otras: Lógica |
-| Sáb 31 Oct | Sáb | **Álgebra** (~2.5h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
-| Dom 1 Nov | Dom | otras: PyE |
-| Lun 2 Nov | Lun | **Álgebra** (~2.5h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica, PyE |
-| Mar 3 Nov | Mar | **PARCIAL 2 de PyE** · **Álgebra** (2h) — reservado para P6 y P7 cuando se publiquen (si no hay, repaso / SR / parciales viejos) · otras: Lógica |
-| Mié 4 Nov | Mié | **Álgebra** (2h) — repaso / SR / parciales viejos · repaso final antes del parcial, sin ejercicios nuevos · otras: Lógica |
+| Mié 21 Oct | Mié | **Álgebra** (1,5h, 15:30-17:00) — copiar la clase del 13/10 (~40 min) · P4 ej. 17 · otras: PyE (11:30-13:00 y 19:00-20:00) · cita médica 14:00 · particular 17-19 · gym 20-21 |
+| Jue 22 Oct | Jue | **Álgebra** (4h, clase 14:00-18:00) — P4 ej. 18, 19, 20 · otras: PyE (clase 11:00-13:00) · gym 18-19 · viaje a Huerta Grande 19:30-21:45 |
+| Vie 23 Oct | Vie | **Álgebra** (3h, 16:00-19:00) — P4 ej. 21 · P5 ej. 1, 2, 3 · otras: PyE (9:30-12:30), Lógica (20:00-21:30) |
+| Sáb 24 Oct | Sáb | **Álgebra** (3h, 16:00-19:00) — P5 ej. 4, 5, 6, 7 · otras: PyE (8:30-10:30 y 11:30-13:30), Lógica (20:00-21:30) |
+| Dom 25 Oct | Dom | **Álgebra** (3h, 16:00-19:00) — P5 ej. 8, 9, 10, 11 · otras: PyE (8:30-10:30 y 11:30-13:30), Lógica (20:00-21:30) · checkpoint de la semana (21:30) |
+| Lun 26 Oct | Lun | **Álgebra** (2h, 15:00-17:00) — P5 ej. 12, 13, 14 · otras: PyE (8:30-11:15), Lógica (19:00-20:00) · psicóloga 11:45-12:45 · particular 17-19 · viaje 20:40-22:10 |
+| Mar 27 Oct | Mar | **Álgebra** (6h, clase 14:00-18:00 y 19:00-21:00) — P5 ej. 15, 16, 17, 18 · P6 ej. 1, 2 · otras: PyE (8:30-10:30 y clase 11:00-13:00) |
+| Mié 28 Oct | Mié | **Álgebra** (4h, 15:00-17:00 y 19:30-21:30) — P6 ej. 3, 4, 5, 6 · otras: PyE (8:30-10:30 y 11:30-13:30) · particular 17-19 |
+| Jue 29 Oct | Jue | **Álgebra** (6h, clase 14:00-18:00 y 19:00-21:00) — P6 ej. 7, 8 · adicionales 1, 2 · repaso P4 a P6 y P7 si ya se publicó · otras: PyE (8:30-10:30 y clase 11:00-13:00) |
+| Vie 30 Oct | Vie | **Álgebra** (3h, 16:00-19:00) — P7 (cuando se publique) o repaso: errores del Parcial 1 y parcial viejo · otras: PyE (8:30-10:30 y 11:30-13:30), Lógica (20:00-21:30) |
+| Sáb 31 Oct | Sáb | **Álgebra** (2h, 15:00-17:00) — P7 o repaso con parcial viejo · otras: PyE (8:30-10:30 y 11:30-13:30), Lógica (20:00-21:30) · particular 17-18:30 |
+| Dom 1 Nov | Dom | **Álgebra** (3h, 16:00-19:00) — P7 o repaso: simulacro de parcial viejo · otras: PyE (8:30-10:30 y 11:30-13:30), Lógica (20:00-21:30) · checkpoint antes del parcial de PyE (21:30) |
+| Lun 2 Nov | Lun | otras: PyE (8:30-11:30 y 15:00-17:00) · psicóloga 11:45-12:45 · particular 17-19 · viaje 20:40-22:10 |
+| Mar 3 Nov | Mar | **Álgebra** (4h, 15:00-17:00 y 18:00-20:00) — P7 o repaso liviano (después del parcial) · simulacro de parcial viejo de Álgebra · otras: PyE (9:00-13:00) |
+| Mié 4 Nov | Mié | **Álgebra** (6h, 8:30-10:30 y 11:30-13:30 y 15:00-17:00) — repaso final: errores del Parcial 1 y hoja de fórmulas · simulacro de parcial viejo (con tiempo) · corregir el simulacro; dudas para el particular · particular 17-19 |
 | Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** |
 | Vie 6 Nov | Vie | Libre — sin materia · otras: Lógica |
 | Sáb 7 Nov | Sáb | **Álgebra** (~2.5h) — recuperatorio P1: repaso de los temas flojos del parcial corregido · otras: Lógica, PyE |
@@ -280,8 +276,6 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 * *Ej 12* — Resolver los sistemas lineales en R y comparar con el ejercicio anterior — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
 * *Ej 13* — Resolver sistemas lineales en Q, R y C — 🎥 "Sistemas de ecuaciones lineales 2x2 — Método de Sustitución" — https://www.youtube.com/watch?v=LTfv1G2iYuQ
 
-**Mié 26 Ago** — no se resolvió nada de P2 ese día (el plan lo tenía como en curso, pero no avanzó).
-
 **Vie 28 Ago** *(~5h45 repartidas en 3 bloques — rindió menos de lo esperado)* — P2 ej. 1a
 * *Ej 1a* — Sistema (a): decidir si son equivalentes y expresar la combinación lineal — 🎥 "Sistemas de ecuaciones — Sustitución, Reducción" — https://www.youtube.com/watch?v=d9vXfeSRRYM
 
@@ -293,8 +287,6 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 * *Ej 5* — Determinar cuáles matrices dadas están en forma MERF — 🎥 "Matrices Escalonadas y Reducidas — Características y Ejemplos" — https://www.youtube.com/watch?v=cp-6QPcTZeA
 * *Ej 6* — Para cada MERF del ej. 5: escribir el sistema homogéneo y no homogéneo asociado, dar las soluciones — 🎥 "Sistemas de ecuaciones lineales — Ejercicios Resueltos" — https://www.youtube.com/watch?v=PltlSiS4_6g
 * *Ej 7* — Dar todas las posibles matrices 2×2 escalón reducidas por filas — 🎥 "Solución de sistemas 3x3 — Método de Gauss-Jordan" — https://www.youtube.com/watch?v=dFmGzr1j6eY
-
-**Mié 2 Sep** — salteado (prioridad a PyE y Lógica esta semana).
 
 **Jue 3 Sep** *(práctico, 2h — dentro de la cursada)* — P2 ej. 8, 9, 10, 12a *(hecho — llegó hasta acá, quedan ej. 11, 12b, 13 para el finde)*
 * *Ej 8* — Para los sistemas dados: describir explícitamente las soluciones e indicar la MERF asociada — 🎥 "Sistemas de ecuaciones lineales 2x2 — Método de Sustitución" — https://www.youtube.com/watch?v=LTfv1G2iYuQ
@@ -378,73 +370,99 @@ Ejercicios seleccionados: **Práctico 1** solo ej. 1, 2, 3, 11, 12, 13 · **Prá
 **Mié 7 Oct** — Teoría y puesta al día *(hecho)*
 * *Tarea* — Se copiaron las clases de Álgebra que estaban atrasadas y hubo particular de 17 a 19. Sin ejercicios: los de P4 arrancan el jueves 8/10.
 
-**Jue 8 Oct** — Sin avance
-* *Tarea* — Hoy solo se asistió a clase, sin ejercicios. Los ej. 17, 18 y 19 de P4 se reparten: 17 y 18 el lunes 12/10 (Rosario) y 19 el miércoles 14/10.
+> **Corrida del 21/10 (calendar real).** Los ejercicios de Álgebra no avanzaron desde el 14/10. Con los bloques del calendar: P4 cierra el Vie 23, P5 el Mar 27, P6 el Jue 29 (con los 2 adicionales) y del Vie 30 al Mié 4 quedan P7 (cuando se publique), simulacros y repaso final.
 
-**Lun 12 Oct** *(~1.5h)* — P4 ej. 17, 18 *(no se hizo: Rosario)*  ·  _Rosario, mañana/noche_
+**Jue 22 Oct** *(4h)* — P4 ej. 18, 19, 20  ·  _práctico en clase 14:00-18:00_
+* *Tarea* — Copiar la clase del 13/10 (~40 min).
 * *Ej 17 (P4)* — Probar que v1=(1,0,−i), v2=(1+i,1−i,1), v3=(i,i,i) forman base de C³, y dar coordenadas de un vector en esa base — 🎥 "COMBINACIONES LINEALES" — https://www.youtube.com/watch?v=9mbu5Hd-GP8
 * *Ej 18 (P4)* — Demostrar que B es base de R⁴; coordenadas de la base canónica respecto de B; matrices de cambio de base — 🎥 "Combinación Lineal de un conjunto de Vectores en R3" — https://www.youtube.com/watch?v=grh-cgF3h4o
-💡 Rosario: si la mañana no salió, la noche es solo el mínimo (1 ejercicio); no se compensa con un sprint nocturno.
-
-> **Corrida del 14/10 (miércoles 14 perdido).** El miércoles 14 solo se copia la clase de Álgebra a la noche; los ejercicios corren desde el jueves 15 y P5 cierra el Jue 22. Lo anterior (Rosario y el plan del 13/10) queda como historial.
-
-**Mié 14 Oct** *(a la noche, ~1h)* — copiar la clase del 13/10 · ~~P4 ej. 17, 18, 19~~ *(no se hizo: día de viaje y descanso; corren desde el Jue 15)*
-* *Tarea* — Copiar la clase de Álgebra del 13/10 (la que se faltó por Rosario), ~1 h a la noche. Los ej. 17, 18 y 19 de P4 pasan al Jue 15 y al Vie 16.
-
-**Jue 15 Oct** *(2h)* — P4 ej. 17, 18  ·  _tarde-noche, bloque 18:30-20:30 (paro docente, sin clases)_
-* *Ej 17 (P4)* — Probar que v1=(1,0,−i), v2=(1+i,1−i,1), v3=(i,i,i) forman base de C³, y dar coordenadas de un vector en esa base — 🎥 "COMBINACIONES LINEALES" — https://www.youtube.com/watch?v=9mbu5Hd-GP8
-* *Ej 18 (P4)* — Demostrar que B es base de R⁴; coordenadas de la base canónica respecto de B; matrices de cambio de base — 🎥 "Combinación Lineal de un conjunto de Vectores en R3" — https://www.youtube.com/watch?v=grh-cgF3h4o
-
-**Vie 16 Oct** *(4h)* — P4 ej. 19, 20, 21 · P5 ej. 1  ·  _bloques 15-17 y 18-20; el 20 y el 21 son los más largos_
 * *Ej 19 (P4)* — V=P3, B={g1,g2,g3}: demostrar que es base; matrices de cambio de base con la base canónica {1,x,x²} — 🎥 "ÁLGEBRA. MATRIZ / MATRICES DE CAMBIO DE BASE (I)" — https://www.youtube.com/watch?v=tugfKwSvm0A
 * *Ej 20 (P4)* — Demostrar que B es base de M2×3(R); coordenadas de una matriz en B; matrices de cambio de base — 🎥 "Matriz de cambio de base - Parte 1" — https://www.youtube.com/watch?v=EVaFt4OWvrQ
+
+**Vie 23 Oct** *(3h)* — P4 ej. 21 · P5 ej. 1, 2, 3  ·  _16:00-19:00_
 * *Ej 21 (P4)* — W=⟨v1,v2⟩⊂C³: demostrar que B1 es base de W; describir W implícitamente; B2 es otra base; coordenadas y matrices de cambio de base — 🎥 "Ejercicio de cambio de báse en Álgebra" — https://www.youtube.com/watch?v=2wIEmehCqHY
 * *Ej 1 (P5)* — ¿Cuáles de las siguientes funciones de Rⁿ en Rᵐ son transformaciones lineales? (a) T(x,y)=(1+x,y); (b) T(x,y)=(y,x,x−2y); (c) T(x,y)=xy; (d) T(x,y,z)=3x−2y+7z — 🎥 "TRANSFORMACIONES LINEALES - ÁLGEBRA LINEAL" — https://www.youtube.com/watch?v=meAQF-m53As
-
-**Sáb 17 Oct** *(4h)* — P5 ej. 2, 3, 4, 5  ·  _bloques 15-17 y 18-20_
 * *Ej 2 (P5)* — Ídem para: (a) (x1,−x1,x2,−x2,…,xn,−xn); (b) (x1,2x2,…,nxn); (c) (x1,x1+x2,…,x1+…+xn); (d) (x1,x1·x2,…,x1·…·xn) — 🎥 "Transformaciones lineales - Ejercicio resuelto [PASO A PASO]" — https://www.youtube.com/watch?v=WH5K3wwtY8M
 * *Ej 3 (P5)* — Para T(z)=iz, R(z)=z̄ y S(z)=Re(z)+Im(z) de C en C, decidir si son R-lineales o C-lineales — 🎥 "TRANSFORMACIONES LINEALES - ÁLGEBRA LINEAL" *(video general del tema)* — https://www.youtube.com/watch?v=meAQF-m53As
+
+**Sáb 24 Oct** *(3h)* — P5 ej. 4, 5, 6, 7  ·  _16:00-19:00_
 * *Ej 4 (P5)* — Dar, si es posible, una transformación lineal T:Rⁿ→Rᵐ que cumpla las condiciones dadas (a-d); si existe, estudiar la unicidad; si no, explicar por qué — 🎥 "Transformaciones lineales - Ejercicio resuelto [PASO A PASO]" *(video general del tema)* — https://www.youtube.com/watch?v=WH5K3wwtY8M
 * *Ej 5 (P5)* — A∈R5×4, T(X)=AX: (a) cuáles vectores están en el núcleo; (b) cuáles en la imagen; (c) base del núcleo; (d) base de la imagen; (e) imagen implícita — 🎥 "3 ejercicios de Núcleo e Imagen de una transformación lineal" — https://www.youtube.com/watch?v=OrCmEziS0_U
-
-**Dom 18 Oct** *(4h)* — P5 ej. 6, 7, 8, 9  ·  _bloques 15-17 y 18-20_
 * *Ej 6 (P5)* — Para las matrices A1, A2, A3 y T(X)=AiX: (a) base del núcleo; (b) base de la imagen; (c) imagen implícita — 🎥 "Núcleo e Imagen de una transformación lineal" — https://www.youtube.com/watch?v=FMi_vCsLgJc
 * *Ej 7 (P5)* — Para T:R²→R³ y S:R³→R² dadas, determinar núcleo e imagen, describiéndolos implícita y explícitamente — 🎥 "3 ejercicios de Núcleo e Imagen de una transformación lineal" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=OrCmEziS0_U
+
+**Dom 25 Oct** *(3h)* — P5 ej. 8, 9, 10, 11  ·  _16:00-19:00_
 * *Ej 8 (P5)* — Núcleo e imagen (implícita y explícita) de D:P4→P3 (derivada), T:M2×2→K (traza), L:P3→M2×2 y Q:P3→P4 — 🎥 "Núcleo e Imagen de una transformación lineal" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=FMi_vCsLgJc
 * *Ej 9 (P5)* — Definir, cuando sea posible, T:R³→R³ con dim Im T=1; dim Im T=2 y dim Nu T=2; vectores dados en Im T y Nu T; Im T⊆Nu T; Nu T⊆Im T. Si no se puede, justificar — 🎥 "3 ejercicios de Núcleo e Imagen de una transformación lineal" *(video general del tema)* — https://www.youtube.com/watch?v=OrCmEziS0_U
-
-**Lun 19 Oct** *(4h)* — P5 ej. 10, 11, 12, 13  ·  _bloques 15-17 y 18-20_
 * *Ej 10 (P5)* — V=Pn(R): decidir cuáles de T(p)=p(x−1), S(p)=xp'(x), Q(p)=p+p' son isomorfismos — 🎥 "Transformaciones Lineales (TL Biyectiva)- Ejercicio resuelto - PASO A PASO" — https://www.youtube.com/watch?v=CwA-LMTqPSA
 * *Ej 11 (P5)* — Escribir las matrices de las transformaciones de los ejercicios 7 y 8 respecto de las bases canónicas — 🎥 "Matriz asociada a una Transformación Lineal" — https://www.youtube.com/watch?v=CHnKvfC-Fos
+
+**Lun 26 Oct** *(2h)* — P5 ej. 12, 13, 14  ·  _15:00-17:00_
 * *Ej 12 (P5)* — Matrices de cambio de base entre las canónicas Cn y las bases B2={(1,0),(1,1)}, B3={(1,0,0),(1,1,0),(1,1,1)}: PCn,Bn, PBn,Cn y su relación — 🎥 "ÁLGEBRA. MATRIZ / MATRICES DE CAMBIO DE BASE (I)" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=tugfKwSvm0A
 * *Ej 13 (P5)* — Dar las matrices de las transformaciones del ejercicio 7 respecto de (Bn,Cn), (Cn,Bn) y (Bn,Bn) (ayuda: ejercicios 11 y 12) — 🎥 "Matriz asociada a una transformación lineal - Ejercicio resuelto - Paso a paso" — https://www.youtube.com/watch?v=ch3odM-4jWk
-
-**Mar 20 Oct** *(2h)* — P5 ej. 14, 15  ·  _práctico en clase 16-18_
 * *Ej 14 (P5)* — Mostrar: (a) T=0 ⟹ matriz nula en cualquier par de bases; (b) Nu T no trivial ⟹ base con dim Nu T columnas nulas; (c) existen bases con matriz [Id_m 0; 0 0], m=dim Im T — 🎥 "Matriz asociada a una Transformación Lineal" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=CHnKvfC-Fos
-* *Ej 15 (P5)* — V=R³, B={(1,0,1),(1,−1,0),(1,1,1)}: calcular explícitamente la base dual {f1,f2,f3}, es decir fi(x,y,z) — 🎥 "La transpuesta de la matriz de representación" *(video general del tema)* — https://www.youtube.com/watch?v=bGquJu4kiIA
 
-**Mié 21 Oct** *(2h)* — P5 ej. 16, 17  ·  _según la cita médica de las 14_
+**Mar 27 Oct** *(6h: clase 14:00-18:00 y 19:00-21:00)* — P5 ej. 15, 16, 17, 18 · P6 ej. 1, 2
+* *Ej 15 (P5)* — V=R³, B={(1,0,1),(1,−1,0),(1,1,1)}: calcular explícitamente la base dual {f1,f2,f3}, es decir fi(x,y,z) — 🎥 "La transpuesta de la matriz de representación" *(video general del tema)* — https://www.youtube.com/watch?v=bGquJu4kiIA
 * *Ej 16 (P5)* — V=P3(R), fi(p)=∫₀ⁱ p(x)dx: probar que {f1,f2,f−1} es base de V* — 🎥 "La transpuesta de la matriz de representación" *(mismo video que otro ejercicio del tema)* — https://www.youtube.com/watch?v=bGquJu4kiIA
 * *Ej 17 (P5)* — T:R²→R³, T(x,y)=(x−y,0,x+y), f(x,y,z)=2x−3y−z: calcular Tᵗ(f) — 🎥 "15. Transpuesta de una transformación lineal" — https://www.youtube.com/watch?v=UQyDHtB7fQg
-
-**Jue 22 Oct** *(2h)* — P5 ej. 18 (cierra P5)  ·  _el resto del bloque: P6 y P7 si ya están publicados; si no, repaso de errores del parcial_
 * *Ej 18 (P5)* — Decidir si son verdaderas o falsas (a-e) y justificar: dim Nu T para T:R⁴→R³; existencia de TS=Id; T(1,1,0), T(−1,1,0), T(1,0,0) dados; matriz escalón reducida y dim Im; isomorfismo y composición — 🎥 "Núcleo e Imagen de una transformación lineal" *(video general del tema)* — https://www.youtube.com/watch?v=FMi_vCsLgJc
+* *Ej 1 (P6)* — Calcular el determinante de A (2×2), B (3×3) y C (4×4) dadas — 🎥 "Determinante de una matriz de 4x4 por cofactores utilizando renglones o columnas" — https://www.youtube.com/watch?v=No1gMoJDuqw
+* *Ej 2 (P6)* — Con det A=−1, det B=2, det C=3, calcular det(A²BCᵗB⁻¹) y det(B²C⁻¹AB⁻¹Cᵗ) — 🎥 "Propiedades de determinantes, producto por un número y matriz traspuesta" — https://www.youtube.com/watch?v=342XGfSwLnQ
+
+**Mié 28 Oct** *(4h: 15:00-17:00 y 19:30-21:30)* — P6 ej. 3, 4, 5, 6
+* *Ej 3 (P6)* — Matriz de Vandermonde: probar por inducción que det V = ∏_{i<j}(λj − λi) — 🎥 "DETERMINANTE DE VANDERMONDE (Demostración)" — https://www.youtube.com/watch?v=XsyABoFivck
+* *Ej 4 (P6)* — Probar por inducción que el determinante de la matriz con t en la diagonal, −1 debajo y última columna a0…a_{n−1}+t vale tⁿ + a_{n−1}tⁿ⁻¹ + … + a1 t + a0 — 🎥 "Matrices: método de INDUCCIÓN (I) Ejercicio RESUELTO" *(video general de inducción)* — https://www.youtube.com/watch?v=9GRCgYkNmNQ
+* *Ej 5 (P6)* — Para qué valores de c ∈ R son invertibles tres matrices dadas (A 3×3, B 3×3, C 3×3 con parámetro) — 🎥 "Ejercicio 5 determinante / matriz: hallar k para que la matriz sea invertible" — https://www.youtube.com/watch?v=GS9frWBAQyk
+* *Ej 6 (P6)* — Decidir si A (3×3) y B (con cos t y sen t) son invertibles y, si lo son, calcular la inversa con la matriz de cofactores — 🎥 "Matriz Inversa 3x3 por Cofactores (método de la Adjunta)" — https://www.youtube.com/watch?v=lQMVb087Zbo
+
+**Jue 29 Oct** *(6h: clase 14:00-18:00 y 19:00-21:00)* — P6 ej. 7, 8 · adicionales 1, 2 · repaso P4 a P6 y P7 si ya se publicó
+* *Ej 7 (P6)* — Sabiendo det(a b c; p q r; x y z) = −1, calcular el det de la matriz con filas (−2a,−2b,−2c), (2p+x,…), (3x,3y,3z) — 🎥 "Cómo resolver un DETERMINANTE usando operaciones elementales de fila y propiedades" — https://www.youtube.com/watch?v=yC1MLtaJ900
+* *Ej 8 (P6)* — Matriz antisimétrica (Aᵗ=−A): (a) si n es impar, det A = 0; (b) para cada n par, encontrar una antisimétrica con det ≠ 0 — 🎥 "Determinante de matriz antisimétrica (47/113)" — https://www.youtube.com/watch?v=bGJPTiOluRY
+* *Ej adicional 1 (P6)* — Calcular el determinante de tres matrices (A 4×4, B 4×4 casi diagonal, C 5×5 por bloques) — 🎥 "Álgebra Linear - 9. Determinantes - 6. Matriz triangular por bloques" *(video en portugués)* — https://www.youtube.com/watch?v=xI3wClJ4Gig
+* *Ej adicional 2 (P6)* — Probar que det(I + fila de x’s) = 1 + x1 + … + xn — *(sin video específico; apoyate en las propiedades del determinante y la inducción)*
+* *Tarea* — Repaso P4 a P6 y P7 si ya se publicó.
+
+**Vie 30 Oct** *(3h)* — P7 (cuando se publique) o repaso: errores del Parcial 1 y parcial viejo  ·  _16:00-19:00_
+* *Tarea* — P7 (cuando se publique) o repaso: errores del Parcial 1 y parcial viejo.
+
+**Sáb 31 Oct** *(2h)* — P7 o repaso con parcial viejo  ·  _15:00-17:00_
+* *Tarea* — P7 o repaso con parcial viejo.
+
+**Dom 1 Nov** *(3h)* — P7 o repaso: simulacro de parcial viejo  ·  _16:00-19:00_
+* *Tarea* — P7 o repaso: simulacro de parcial viejo.
+
+**Mar 3 Nov** *(4h: 15:00-17:00 y 18:00-20:00)* — P7 o repaso liviano (después del parcial) · simulacro de parcial viejo de Álgebra
+* *Tarea* — P7 o repaso liviano (después del parcial).
+* *Tarea* — Simulacro de parcial viejo de Álgebra.
+
+**Mié 4 Nov** *(6h: 8:30-10:30 y 11:30-13:30 y 15:00-17:00)* — repaso final: errores del Parcial 1 y hoja de fórmulas · simulacro de parcial viejo (con tiempo) · corregir el simulacro; dudas para el particular
+* *Tarea* — Repaso final: errores del Parcial 1 y hoja de fórmulas.
+* *Tarea* — Simulacro de parcial viejo (con tiempo).
+* *Tarea* — Corregir el simulacro; dudas para el particular.
+
 
 ### Objetivos por día — Álgebra (con el calendar real)
 
 | Día | Mínimo | Objetivo | Extra |
 |---|---|---|---|
-| Mié 14 | Copiar la clase | Copiar la clase | — |
-| Jue 15 | P4 ej. 17 | P4 ej. 17, 18 | P4 ej. 19 |
-| Vie 16 | P4 ej. 19 | P4 ej. 19, 20, 21 · P5 ej. 1 | P5 ej. 2 |
-| Sáb 17 | P5 ej. 2 | P5 ej. 2 a 5 | P5 ej. 6 |
-| Dom 18 | P5 ej. 6 | P5 ej. 6 a 9 | P5 ej. 10 |
-| Lun 19 | P5 ej. 10 | P5 ej. 10 a 13 | P5 ej. 14 |
-| Mar 20 | P5 ej. 14 | P5 ej. 14, 15 | P5 ej. 16 |
-| Mié 21 | P5 ej. 16 | P5 ej. 16, 17 | P5 ej. 18 |
-| Jue 22 | P5 ej. 18 | P5 ej. 18 (cierra P5) | P6 / repaso de errores del parcial |
+| Mié 21 | copiar la clase del 13/10 (~40 min) | copiar la clase del 13/10 (~40 min) · P4 ej. 17 | P4 ej. 18 |
+| Jue 22 | P4 ej. 18, 19, 20 | P4 ej. 18, 19, 20 | P4 ej. 21 |
+| Vie 23 | P4 ej. 21 | P4 ej. 21 · P5 ej. 1, 2, 3 | P5 ej. 4 |
+| Sáb 24 | P5 ej. 4, 5, 6, 7 | P5 ej. 4, 5, 6, 7 | P5 ej. 8 |
+| Dom 25 | P5 ej. 8, 9, 10, 11 | P5 ej. 8, 9, 10, 11 | P5 ej. 12 |
+| Lun 26 | P5 ej. 12, 13, 14 | P5 ej. 12, 13, 14 | P5 ej. 15 |
+| Mar 27 | P5 ej. 15, 16, 17, 18 | P5 ej. 15, 16, 17, 18 · P6 ej. 1, 2 | P6 ej. 3 |
+| Mié 28 | P6 ej. 3, 4 | P6 ej. 3, 4, 5, 6 | P6 ej. 7 |
+| Jue 29 | P6 ej. 7, 8 · adicional 1 | P6 ej. 7, 8 · adicionales 1, 2 · repaso P4 a P6 y P7 si ya se publicó | P7 (cuando se publique) o repaso: errores del Parcial 1 y parcial viejo |
+| Vie 30 | P7 (cuando se publique) o repaso: errores del Parcial 1 y parcial viejo | P7 (cuando se publique) o repaso: errores del Parcial 1 y parcial viejo | P7 o repaso con parcial viejo |
+| Sáb 31 | P7 o repaso con parcial viejo | P7 o repaso con parcial viejo | P7 o repaso: simulacro de parcial viejo |
+| Dom 1 | P7 o repaso: simulacro de parcial viejo | P7 o repaso: simulacro de parcial viejo | P7 o repaso liviano (después del parcial) |
+| Mar 3 | P7 o repaso liviano (después del parcial) | P7 o repaso liviano (después del parcial) · simulacro de parcial viejo de Álgebra | repaso final: errores del Parcial 1 y hoja de fórmulas |
+| Mié 4 | repaso final: errores del Parcial 1 y hoja de fórmulas · simulacro de parcial viejo (con tiempo) | repaso final: errores del Parcial 1 y hoja de fórmulas · simulacro de parcial viejo (con tiempo) · corregir el simulacro; dudas para el particular | — |
 
-Si un día no sale entero, lo que falte corre al siguiente bloque: no se compensa de noche. Con el miércoles perdido, P5 cierra el **Jue 22** (antes el Mar 20) y quedan **7 slots completos** (Sáb 24, Lun 26, Mar 27, Jue 29, Sáb 31, Lun 2 y Mar 3, sin contar el Dom 25 ni el Mié 28) para P6 y P7, más lo que sobre del bloque del Jue 22.
+**Plan del 21/10.** Si un día no sale entero, lo que falte corre al siguiente bloque: no se compensa de noche. Los martes y jueves la clase de 14 a 18 es práctico (3 ejercicios) y los bloques de 19 a 21 de esos días son parte del plan. Mínimo diario: 1 ejercicio o la tarea del día.
+
 
 ### Errores del Parcial 1 (37/100) — qué rehacer para el recuperatorio
 
@@ -461,8 +479,6 @@ Si un día no sale entero, lo que falte corre al siguiente bloque: no se compens
 
 > Los domingos (y desde el 7/11 también otros días) el lugar de AyED2 pasa a repaso de recuperatorios. Tope de 2 h por bloque hasta el parcial del 5/11; ningún bloque se compensa de noche.
 
-* **Dom 18 Oct** *(en pausa: el fin de semana de estudio usa las 4 h de Álgebra; se retoma el Dom 25)* — Con el parcial corregido en mano: listar los ejercicios que se perdieron y por qué (concepto, cuenta o planteo). Rehacer los 2 más graves sin mirar.
-* **Dom 25 Oct** *(2h)* — Segundo pase: rehacer ejercicios parecidos de P2 y P3 (sistemas y matrices) y 1 de P4 (espacios vectoriales).
 * **Sáb 7 / Dom 8 / Lun 9 Nov** *(~2.5h, 2h, ~2.5h)* — Repaso fuerte tras el parcial 2: P1–P3 (sábado y domingo) y P4 ej. 1–16 (lunes).
 * **Sáb 14 Nov** *(2h)* — Simulacro con un parcial viejo, con tiempo.
 * **Lun 16 / Mar 17 Nov** *(2h cada uno)* — Corregir el simulacro, reforzar y ejercicios tipo parcial.
@@ -472,17 +488,13 @@ Si un día no sale entero, lo que falte corre al siguiente bloque: no se compens
 
 ## Notas del método
 
+- **Corrida del 21/10:** plan recalculado con los bloques reales del calendar; P6 (determinantes) cargado el 21/10. P7 se carga cuando se publique.
 - **Álgebra cuesta más que las otras materias:** si un slot de 3 ejercicios no sale, lo que falte corre al slot siguiente; hay 7 slots completos reservados (más el Jue 22 compartido) entre el cierre de P5 y el parcial.
-- **Particular (miércoles 17-19):** se usa con los ejercicios que más cuestan del día, para que el profe te frene en lo que no entendés antes de seguir.
+- **Particular (lunes y miércoles, 17 a 19):** se usa con los ejercicios que más cuestan del día, para que el profe te frene en lo que no entendés antes de seguir.
 - **Teoría en clase:** las primeras 2 h de cada clase son teoría en vivo (anotar e interpretar); el práctico es para ejercicios.
 - **Teoría antes del ejercicio:** video o apunte primero; después resolver. No avanzar un ejercicio que no se entendió.
 - **P4 ej. 1 a 16:** ya se tomaron en el primer parcial; se saltean aunque algunos (2, 3, 5, 6, 9, 10, 11 y 12) hayan quedado sin terminar. Si en el repaso final sobra tiempo, se pueden retomar.
 - **Prácticos 6 y 7:** probablemente entran en el segundo parcial. Se hacen **completos**, sin elegir ejercicios; cuando estén disponibles se cargan en los slots reservados (Jue 22/10 a Mar 3/11) con el mismo formato.
-- **Corrida del 14/10:** el miércoles 14 se perdió (día de viaje y descanso; solo se copia la clase a la noche). Los ej. 17 a 21 de P4 corren al Jue 15 y al Vie 16, P5 cierra el **Jue 22** (antes el Mar 20) y quedan 7 slots completos para P6 y P7 (más el Jue 22 compartido).
-- **Corrida del 13/10:** con el calendar real, el miércoles 14 ya se estudia (Álgebra 3,5 h con los ej. 17, 18, 19 de P4). P4 cierra el Jue 15 y P5 el **Mar 20**, así que quedan 9 slots para P6 y P7 (Mié 21 a Mar 3). Se agregan los errores concretos del Parcial 1 para el recuperatorio.
-- **Corrida del 12/10:** en Rosario no se estudió (Lun 12 y Mié 14 sin hacer). Fin de semana de estudio del Jue 15 (tarde) al Lun 19 con 8 a 9 h por día; P4 cierra el Vie 16 y P5 vuelve a cerrar el **Mié 21 Oct**, así que se recuperan los 8 slots reservados para P6 y P7 (Jue 22 a Mar 3). El bloque de repaso del Dom 18 queda en pausa.
-- **Corrida del 8/10 (noche):** día sin avance tras recibir las notas. Los ejercicios de P4 corren un slot (cierra P4 el Mié 14/10) y P5 cierra el **Jue 22/10**. Se pierde un slot reservado de P6/P7 (quedan 7 completos). AyED2 se pasa a febrero y su lugar (jueves y domingos) es repaso de recuperatorios. Nota del Parcial 1: 37/100.
-- **Corrida del 7/10:** se copiaron las clases atrasadas y hubo particular, sin ejercicios. Los ejercicios arrancan el **jueves 8/10** con P4 ej. 17, 18, 19 (se saltea lo ya tomado en el primer parcial) y P5 cierra el **Mié 21 Oct**; del 22/10 al 3/11, slots reservados para P6 y P7.
 - **Corrida del 6/10 (noche):** el Parcial 2 se adelantó del 10/11 al **jueves 5/11**: el repaso termina el 4/11 y los días del 6 al 10/11 quedan libres de Álgebra. Los recuperatorios siguen el 19/11.
 - **Recuperatorio (19/11):** solo cubre el Parcial 1. El repaso se arma con los bloques de los domingos y los días libres de noviembre; el detalle de cada bloque está en la sección de bloques de repaso.
 

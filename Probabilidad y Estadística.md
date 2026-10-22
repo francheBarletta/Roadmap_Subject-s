@@ -14,13 +14,10 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad. Objet
 
 ---
 
-## Estado actual (12 Octubre)
+## Estado actual (21 Octubre)
 
-- **Fin de semana de estudio (Jue 15 a Lun 19), con el calendar real:** el miércoles 14 no se estudió (día de viaje y descanso; solo se copia la clase de Álgebra a la noche) y se faltó a la clase de Lógica; el jueves 15 es paro docente (sin clases) y se viaja a Huerta Grande al mediodía; de viernes a domingo son unas 9,5 a 10 h por día (PyE 3,5 a 4 h, Álgebra 4 h y Lógica 2 h de noche) y el lunes 19 unas 7,5 h (sin bloque de Lógica). Prioridad: Álgebra y PyE, que son las más atrasadas; Lógica corre y usa parte de su margen de repaso. Cada materia tiene su tabla de mínimo / objetivo / extra. Los bloques de repaso de recuperatorios del Jue 15 y el Dom 18 quedan en pausa y retoman el Jue 22.
+- **Estado al 21/10 (miércoles):** el fin de semana del 17 al 19 se perdió casi entero (enfermedad) y el martes 20 se volvió a casa a las 16. Hecho: la teoría de G5 y **G5 ej. 1 a 3** *(supuesto: si el martes se hizo algo más, se ajusta)*. Con el calendar real: PyE tiene unas 47 h de bloques hasta el Lun 2/11. Quedan 37 ejercicios de la primera pasada (G5 ej. 4 a 10, G6 ej. 1 a 8, G7 menos los ej. 4, 12 y 14, y G8) más 3 mini-teorías de 30-40 min. Cierres: G5 el Vie 23, G6 el Sáb 24, G7 el Mar 27 y G8 el Jue 29. Del Vie 30 al Lun 2 queda el repaso: 2 simulacros de parcial viejo, los 4 ejercicios cortados (G6 ej. 9\*, G7 ej. 4, 12 y 14) y la hoja de fórmulas única. Si un bloque no sale entero, lo que falta pasa al bloque siguiente, no a la noche. Método: ejercicios con una mini-teoría (30-40 min por tema) y una **hoja de fórmulas**, en lugar de resúmenes profundos del libro.
 - **Parcial 1 reprobado con 3,70** (rendido el 29/9; aprueba con 4). Recuperatorio el **Mar 17/11** (G1 a G4), dos semanas después del Parcial 2. El jueves 8/10 llega el parcial corregido: con la foto se ve en qué temas se perdieron los 0,30 y el repaso se apunta ahí.
-- **8/10: día sin avance** (solo clases). La teoría atrasada (HI-PyE-06) pasa al lunes 12/10 en Rosario (~1.5h); si no sale, se termina el miércoles 14/10 o el jueves 15/10 antes del práctico, porque G5 la necesita.
-- **Guías 5 a 8 (44 ejercicios): nada hecho.** Quedan **2 clases atrasadas** de teoría (corresponden a la HI-PyE-06, estimadores), que se resumen el martes 6/10, y la clase del 13/10, que se pierde por volver de Rosario (se pide y se copia el Vie 16/10).
-- Con el ritmo calculado (unos 3 ejercicios cada 2 h de práctico y 4 en los días completos), y con el miércoles 14 perdido, G6 cierra el **Lun 19**, G7 el **Lun 26** y G8 el **Mié 28 Oct**; quedan unos **4 días de repaso** (Jue 29, Sáb 31, Dom 1 y Lun 2, más lo que sobre de la tarde del Mié 28) y el viernes 30/10 libre antes del parcial.
 - En G5 a G8 el único ejercicio con estrella es el **G6 ej. 9**: se corta de la primera pasada (≈45 min) y queda para el repaso si sobra tiempo.
 
 ---
@@ -224,8 +221,6 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad. Objet
 
 ---
 
-
-
 > **Sobre los videos de G5 a G8:** varios ejercicios comparten el mismo video del tema (no hay un video propio para cada enunciado). Se van reemplazando por tandas, guía por guía, a medida que se acerca cada una.
 
 ---
@@ -254,21 +249,13 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad. Objet
 
 | Fecha | Día | Contenido |
 |---|---|---|
-| ~~Sáb 15 Ago~~ | ~~Sáb~~ | ~~Lógica y Álgebra~~ — **PERDIDO** |
-| ~~Dom 16 Ago~~ | ~~Dom~~ | **PERDIDO** (imprevisto familiar) |
-| ~~Lun 17 Ago~~ | ~~Lun~~ | **PERDIDO** |
 | Mar 18 Ago | Mar | **PyE** — INV-01 · **G1 ej. 1-6** *(hecho — pero se retoma desde ej.4 el domingo para afianzar)* |
-| ~~Jue 20 Ago~~ | ~~Jue~~ | **PERDIDO** (gripe) |
 | Vie 21 Ago | Vie | Libre — sin materia |
 | Sáb 22 Ago | Sáb | Lógica y Álgebra |
-| ~~Mar 25 Ago~~ | ~~Mar~~ | **No se avanzó** (semana dedicada a Lógica para el TP) |
 | Mié 26 Ago | Mié | Álgebra (no es día de PyE hoy) |
-| ~~Jue 27 Ago~~ | ~~Jue~~ | Libre (paro no docente) |
 | Vie 28 Ago | Vie | Álgebra (día de sprint — sin PyE) |
 | Sáb 29 Ago | Sáb | Álgebra (día corrido — sin PyE) |
 | Dom 30 Ago | Dom | Lógica (día corrido — sin PyE) |
-| Lun 31 Ago | Lun | *(no se avanzó — día disperso, se corrió el sprint de PyE al martes)* |
-| ~~Mar 1 Sep~~ | ~~Mar~~ | **PERDIDO** (pichones de paloma) |
 | Mié 2 Sep | Mié | **PyE** (mañana) — **G1 ej. 4, 5, 6, 7, 8, 9, 10, 11** |
 | Jue 3 Sep | Jue | Libre — sin materia |
 | Sáb 5 Sep | Sáb | **G1 ej. 12, 13, 14, 15** |
@@ -296,34 +283,23 @@ Prioridad: ALTA — dos parciales, se cursa desde cero a full profundidad. Objet
 | **— Desde acá: plan nuevo (corrida del 5/10) —** | | |
 | Mar 6 Oct | Mar | **PyE** — teoría: resumen de las 2 clases atrasadas · otras: Álgebra |
 | Mié 7 Oct | Mié | otras: Lógica, Álgebra |
-| Jue 8 Oct | Jue | **PyE** — sin avance hoy (solo clases) · la teoría atrasada (HI-PyE-06) pasa al lunes 12/10 · otras: Álgebra |
-| Vie 9 Oct | Vie | Viaje a Rosario (bus 16:15) · otras: Lógica |
-| Sáb 10 Oct | Sáb | Rosario · sin PyE (los ejercicios arrancan después de Rosario) · otras: Lógica |
-| Dom 11 Oct | Dom | Rosario · otras: Lógica |
-| Lun 12 Oct | Lun | Rosario · ~~**PyE** (~1.5h) — teoría atrasada (HI-PyE-06)~~ *(no se hizo: Rosario)* · otras: Álgebra |
-| Mar 13 Oct | Mar | Rosario · sin carga (se faltó: se pierden las clases de PyE y Álgebra) |
-| Mié 14 Oct | Mié | ~~**PyE** (3.5h: 10-12 y 17-18:30) — teoría atrasada HI-PyE-06 (2h) · copiar la clase del 13/10 · G5 ej. 1, 2~~ *(no se hizo: día de viaje y descanso; corre desde el Jue 15)* · otras: Álgebra (solo copiar la clase, a la noche) · Lógica: se faltó a la clase |
-| Jue 15 Oct | Jue | Paro docente (marcha) · viaje a Huerta Grande desde el mediodía · **PyE** (2h, 15-17) — teoría atrasada HI-PyE-06 (G5 la necesita) · otras: Álgebra (18:30-20:30), Lógica (21:30-23:30) |
-| Vie 16 Oct | Vie | Fin de semana de estudio (no se va a clase) · **PyE** (3.5h: 8:30-10:30 y 12-13:30) — copiar la clase del 13/10 · G5 ej. 1, 2, 3, 4 · otras: Álgebra, Lógica |
-| Sáb 17 Oct | Sáb | **PyE** (4h: 8:30-10:30 y 11:30-13:30) — G5 ej. 5, 6, 7, 8, 9 · otras: Álgebra, Lógica |
-| Dom 18 Oct | Dom | **PyE** (4h: 8:30-10:30 y 11:30-13:30) — G5 ej. 10 (cierra G5) · HI-PyE-07 · G6 ej. 1, 2, 3 · otras: Álgebra, Lógica |
-| Lun 19 Oct | Lun | **PyE** (3.5h: 8:30-10:30 y 12-13:30) — G6 ej. 4, 5, 6, 7, 8 (cierra G6; el ej. 9* se corta) · otras: Álgebra |
-| Mar 20 Oct | Mar | **PyE** (práctico 2h, clase 11-13) — HI-PyE-08 · G7 ej. 1, 2 · otras: Álgebra, Lógica |
-| Mié 21 Oct | Mié | otras: Lógica, Álgebra |
-| Jue 22 Oct | Jue | **PyE** (2h) — G7 ej. 3, 4, 5 (práctico en clase 11-13) · otras: Álgebra, repaso recup. Lógica |
-| Vie 23 Oct | Vie | otras: Lógica |
-| Sáb 24 Oct | Sáb | **PyE** (~3.5h) — G7 ej. 6, 7, 8, 9, 10 · otras: Lógica, Álgebra |
-| Dom 25 Oct | Dom | **PyE** (~3.5h) — G7 ej. 11, 12, 13, 14, 15, 16 · otras: Álgebra (repaso recup.), Lógica |
-| Lun 26 Oct | Lun | **PyE** (~3h) — G7 ej. 17 (cierra G7) · HI-PyE-09 · G8 ej. 1, 2 · otras: Lógica, Álgebra |
-| Mar 27 Oct | Mar | **PyE** (2h) — G8 ej. 3, 4, 5 (práctico en clase 11-13) · otras: Lógica, Álgebra |
-| Mié 28 Oct | Mié | **PyE** (~2h) — G8 ej. 6, 7, 8 (cierra G8) · luego repaso / SR / parciales viejos con lo que sobre de la tarde *(tarde cedida por Álgebra y Lógica)* · otras: Lógica, Álgebra |
-| Jue 29 Oct | Jue | **PyE** (2h) — repaso / SR / parciales viejos (práctico en clase 11-13) · otras: Álgebra, repaso recup. Lógica |
-| Vie 30 Oct | Vie | otras: Lógica |
-| Sáb 31 Oct | Sáb | **PyE** (~2.5h) — repaso / SR / parciales viejos · otras: Lógica, Álgebra |
-| Dom 1 Nov | Dom | **PyE** (~2.5h) — repaso / SR / parciales viejos |
-| Lun 2 Nov | Lun | **PyE** (~2.5h) — repaso / SR / parciales viejos · repaso final antes del parcial, sin ejercicios nuevos · otras: Lógica, Álgebra |
-| Mar 3 Nov | Mar | **PARCIAL 2 de PyE** · otras: Lógica, Álgebra |
-| Mié 4 Nov | Mié | Descanso post-parcial de PyE · otras: Lógica, Álgebra |
+| Jue 15 Oct | Jue | Paro docente (marcha) · viaje a Huerta Grande desde el mediodía · **PyE** (2h, 15-17) — teoría atrasada HI-PyE-06 (G5 la necesita) · otras: Álgebra (18:30-20:30) · sin Lógica |
+| Vie 16 Oct | Vie | Fin de semana de estudio (no se va a clase) · **PyE** (3.5h: 8:30-10:30 y 12-13:30) — copiar la clase del 13/10 · G5 ej. 1, 2, 3, 4 *(real: se llegó hasta el ej. 3; el 4 corre al Mié 21)* · otras: Álgebra · sin Lógica |
+| Mié 21 Oct | Mié | **PyE** (2,5h, 11:30-13:00 y 19:00-20:00) — G5 ej. 4, 5, 6 · otras: Álgebra (15:30-17:00) · cita médica 14:00 · particular 17-19 · gym 20-21 |
+| Jue 22 Oct | Jue | **PyE** (2h, clase 11:00-13:00) — G5 ej. 7, 8, 9 · otras: Álgebra (clase 14:00-18:00) · gym 18-19 · viaje a Huerta Grande 19:30-21:45 |
+| Vie 23 Oct | Vie | **PyE** (3h, 9:30-12:30) — G5 ej. 10 · mini-teoría de IC (30-40 min) · G6 ej. 1, 2 · otras: Álgebra (16:00-19:00), Lógica (20:00-21:30) |
+| Sáb 24 Oct | Sáb | **PyE** (4h, 8:30-10:30 y 11:30-13:30) — G6 ej. 3, 4, 5, 6, 7, 8 · otras: Álgebra (16:00-19:00), Lógica (20:00-21:30) |
+| Dom 25 Oct | Dom | **PyE** (4h, 8:30-10:30 y 11:30-13:30) — mini-teoría de pruebas de hipótesis (30-40 min) · G7 ej. 1, 2, 3, 5, 6 · otras: Álgebra (16:00-19:00), Lógica (20:00-21:30) · checkpoint de la semana (21:30) |
+| Lun 26 Oct | Lun | **PyE** (2,75h, 8:30-11:15) — G7 ej. 7, 8, 9, 10 · otras: Álgebra (15:00-17:00), Lógica (19:00-20:00) · psicóloga 11:45-12:45 · particular 17-19 · viaje 20:40-22:10 |
+| Mar 27 Oct | Mar | **PyE** (4h, 8:30-10:30 y clase 11:00-13:00) — G7 ej. 11, 13, 15, 16, 17 · mini-teoría de 2 muestras (si la clase no la cubre) · otras: Álgebra (clase 14:00-18:00 y 19:00-21:00) |
+| Mié 28 Oct | Mié | **PyE** (4h, 8:30-10:30 y 11:30-13:30) — G8 ej. 1, 2, 3, 4, 5, 6 · otras: Álgebra (15:00-17:00 y 19:30-21:30) · particular 17-19 |
+| Jue 29 Oct | Jue | **PyE** (4h, 8:30-10:30 y clase 11:00-13:00) — G8 ej. 7, 8 · hoja de fórmulas G5 a G8 (primera versión) · dudas con la docente: G7 y G8 · repaso de lo que costó · otras: Álgebra (clase 14:00-18:00 y 19:00-21:00) |
+| Vie 30 Oct | Vie | **PyE** (4h, 8:30-10:30 y 11:30-13:30) — simulacro de parcial viejo (2 h, con tiempo, sin apuntes) · corregir el simulacro y rehacer lo que falló · otras: Álgebra (16:00-19:00), Lógica (20:00-21:30) |
+| Sáb 31 Oct | Sáb | **PyE** (4h, 8:30-10:30 y 11:30-13:30) — G6 ej. 9 · G7 ej. 4, 12, 14 · los cortados de la primera pasada (los que alcancen) · hoja de fórmulas G5 a G8: versión final + temas flojos · otras: Álgebra (15:00-17:00), Lógica (20:00-21:30) · particular 17-18:30 |
+| Dom 1 Nov | Dom | **PyE** (4h, 8:30-10:30 y 11:30-13:30) — simulacro #2 de parcial viejo (2 h) · corregir y repasar errores típicos · otras: Álgebra (16:00-19:00), Lógica (20:00-21:30) · checkpoint antes del parcial de PyE (21:30) |
+| Lun 2 Nov | Lun | **PyE** (5h, 8:30-11:30 y 15:00-17:00) — repaso liviano: hoja de fórmulas y errores típicos, sin ejercicios nuevos · lectura final de la hoja y descanso; dejar todo listo para el parcial · psicóloga 11:45-12:45 · particular 17-19 · viaje 20:40-22:10 |
+| Mar 3 Nov | Mar | **PyE** (4h, 9:00-13:00) — PARCIAL 2 de PyE · otras: Álgebra (15:00-17:00 y 18:00-20:00) |
+| Mié 4 Nov | Mié | otras: Álgebra (8:30-10:30 y 11:30-13:30 y 15:00-17:00) · particular 17-19 |
 | Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** · **PyE** (2h, práctico en clase 11-13) — recuperatorio P1: repaso de G1 y G2 (temas flojos según el parcial corregido) |
 | Vie 6 Nov | Vie | otras: Lógica |
 | Sáb 7 Nov | Sáb | **PyE** (~2.5h) — recuperatorio P1: G3 · otras: Lógica, Álgebra (recup. P1) |
@@ -438,11 +414,6 @@ https://www.youtube.com/watch?v=QXO3u6Ak4rU
 **Mar 6 Oct** — Teoría y puesta al día
 * *Tarea* — Resumen de la teoría de las 2 clases atrasadas (es la HI-PyE-06: estimadores, momentos y MV). En clase (9-13): las primeras 2 h son teoría en vivo (anotar e interpretar); las 2 h siguientes, resumen de lo atrasado. Sin ejercicios.
 
-**Jue 8 Oct** — Sin avance
-* *Tarea* — Hoy solo se asistió a clase. La teoría atrasada (HI-PyE-06) pasa al lunes 12/10.
-
-> **Corrida del 14/10 (miércoles 14 perdido).** El miércoles 14 no se estudió (día de viaje y descanso); la teoría atrasada, la clase del 13/10 y los primeros ejercicios de G5 corren desde el jueves 15. Se corta el único ejercicio con estrella (G6 ej. 9). Lo anterior (Rosario y el plan del 13/10) queda como historial.
-
 **Jue 15 Oct** *(2h)* — teoría HI-PyE-06  ·  _bloque 15-17, después del viaje (paro docente)_
 * *Teoría* — HI-PyE-06 (2h, 15-17): estimadores, insesgadez, método de momentos y máxima verosimilitud; las 2 clases atrasadas. G5 necesita esta teoría.
 
@@ -453,84 +424,118 @@ https://www.youtube.com/watch?v=QXO3u6Ak4rU
 * *Ej 3 (G5)* — Fumadores con/sin filtro: estimador insesgado de p1−p2 — 🎥 "Estimación puntual — momentos y MV" — https://www.youtube.com/watch?v=p59Rik4oHkQ
 * *Ej 4 (G5)* — Demostrar que X̄² no es insesgado para µ²; hallar k para el estimador corregido — 🎥 "Estimación puntual — momentos y MV" — https://www.youtube.com/watch?v=p59Rik4oHkQ
 
-**Sáb 17 Oct** *(4h)* — G5 ej. 5, 6, 7, 8, 9  ·  _bloques 8:30-10:30 y 11:30-13:30_
+> **Corrida del 21/10 (calendar real).** Con el calendar real: PyE tiene unas 47 h de bloques hasta el Lun 2/11. Quedan 37 ejercicios de la primera pasada (G5 ej. 4 a 10, G6 ej. 1 a 8, G7 menos los ej. 4, 12 y 14, y G8) más 3 mini-teorías de 30-40 min. Cierres: G5 el Vie 23, G6 el Sáb 24, G7 el Mar 27 y G8 el Jue 29. Del Vie 30 al Lun 2 queda el repaso: 2 simulacros de parcial viejo, los 4 ejercicios cortados (G6 ej. 9\*, G7 ej. 4, 12 y 14) y la hoja de fórmulas única. Si un bloque no sale entero, lo que falta pasa al bloque siguiente, no a la noche.
+
+**Mié 21 Oct** *(2,5h: 11:30-13:00 y 19:00-20:00)* — G5 ej. 4, 5, 6
+* *Ej 4 (G5)* — Demostrar que X̄² no es insesgado para µ²; hallar k para el estimador corregido — 🎥 "Estimación puntual — momentos y MV" — https://www.youtube.com/watch?v=p59Rik4oHkQ
 * *Ej 5 (G5)* — fdp con parámetro θ: demostrar que 3X̄ es insesgado, calcular su varianza — 🎥 "Estimación puntual — momentos y MV" — https://www.youtube.com/watch?v=p59Rik4oHkQ
 * *Ej 6 (G5)* — Método de momentos: fdp (θ+1)xᶿ, estimación con 10 datos — 🎥 "Estimación puntual — momentos y MV" — https://www.youtube.com/watch?v=p59Rik4oHkQ
+
+**Jue 22 Oct** *(2h)* — G5 ej. 7, 8, 9  ·  _práctico en clase 11:00-13:00_
 * *Ej 7 (G5)* — Momentos y MV: espesor de pintura, percentil 90, P(X<1.5) — 🎥 "MV — ejemplo Normal" — https://www.youtube.com/watch?v=BOp7n09I3uY
 * *Ej 8 (G5)* — MV Exponencial: tiempo de respuesta de una terminal — 🎥 "MV — ejemplo Binomial" — https://www.youtube.com/watch?v=RbaW4lhgGc8
 * *Ej 9 (G5)* — MV Normal: resistencia de soldaduras, percentil 95, propiedad de invarianza — 🎥 "MV — ejemplo Normal" — https://www.youtube.com/watch?v=BOp7n09I3uY
 
-**Dom 18 Oct** *(4h)* — G5 ej. 10 (cierra G5) · HI-PyE-07 · G6 ej. 1, 2, 3  ·  _bloques 8:30-10:30 y 11:30-13:30_
+**Vie 23 Oct** *(3h)* — G5 ej. 10 · mini-teoría de IC (30-40 min) · G6 ej. 1, 2  ·  _9:30-12:30_
 * *Ej 10 (G5)* — MV Uniforme[0,θ]: distribución de Y=máx(Xi), sesgo, estimadores insesgados — 🎥 "MV — introducción" — https://www.youtube.com/watch?v=Ypy-6Jnk0Gw
-* *Teoría* — Hoja de investigación HI-PyE-07 (intervalos de confianza: Z vs T, chi², proporciones)
+* *Tarea* — Mini-teoría de IC (30-40 min).
 * *Ej 1 (G6)* — IC media, σ conocido: motor de inducción, distintos n y confianza — 🎥 "IC media — σ conocido" — https://www.youtube.com/watch?v=91gR7Up9LZc
 * *Ej 2 (G6)* — Frecuencia de resonancia: nivel de confianza, zα/2, comparar intervalos — 🎥 "IC media — σ conocido" — https://www.youtube.com/watch?v=91gR7Up9LZc
-* *Ej 3 (G6)* — IC media, n grande y σ desconocido: densidad de capa de tinte — 🎥 "IC media — T de Student" — https://www.youtube.com/watch?v=lJ1V3SJRgio
 
-**Lun 19 Oct** *(3.5h)* — G6 ej. 4, 5, 6, 7, 8 (cierra G6)  ·  _bloques 8:30-10:30 y 12-13:30_
+**Sáb 24 Oct** *(4h: 8:30-10:30 y 11:30-13:30)* — G6 ej. 3, 4, 5, 6, 7, 8
+* *Ej 3 (G6)* — IC media, n grande y σ desconocido: densidad de capa de tinte — 🎥 "IC media — T de Student" — https://www.youtube.com/watch?v=lJ1V3SJRgio
 * *Ej 4 (G6)* — IC proporción: propietarios de armas de fuego — 🎥 "IC para una proporción" — https://www.youtube.com/watch?v=Ca3XN4h2tgw
 * *Ej 5 (G6)* — IC media: contenido de ácido según laboratorio — 🎥 "IC media — T de Student" — https://www.youtube.com/watch?v=lJ1V3SJRgio
 * *Ej 6 (G6)* — IC media y varianza: pulsaciones de triatletas (n=40 y n=9) — 🎥 "IC para la varianza (chi²)" — https://www.youtube.com/watch?v=RmFOZOOJ6_Q
 * *Ej 7 (G6)* — IC media T: recalcular con otro nivel de confianza — 🎥 "IC media — T de Student" — https://www.youtube.com/watch?v=lJ1V3SJRgio
 * *Ej 8 (G6)* — IC media y desviación estándar: tiempo de reacción de nadadores — 🎥 "IC para la varianza (chi²)" — https://www.youtube.com/watch?v=RmFOZOOJ6_Q
-* ~~*Ej 9 (G6)* — IC para θ en Uniforme[0,θ]: dos formas, comparar longitud~~ *(estrella: se corta de la primera pasada; si sobra tiempo en el repaso, se hace entonces)*
 
-**Mar 20 Oct** *(2h)* — HI-PyE-08 · G7 ej. 1, 2  ·  _práctico en clase 11-13_
-* *Teoría* — Hoja de investigación HI-PyE-08 (pruebas de hipótesis: estructura, p-valor, errores I y II)
+**Dom 25 Oct** *(4h: 8:30-10:30 y 11:30-13:30)* — mini-teoría de pruebas de hipótesis (30-40 min) · G7 ej. 1, 2, 3, 5, 6
+* *Tarea* — Mini-teoría de pruebas de hipótesis (30-40 min).
 * *Ej 1 (G7)* — Prueba Z bilateral: calibración de balanza, error tipo I y II — 🎥 "Prueba de hipótesis — media, Z" — https://www.youtube.com/watch?v=RS5F_bhNugw
 * *Ej 2 (G7)* — Nivel de significación desde la región de rechazo dada — 🎥 "Prueba de hipótesis — media, Z" — https://www.youtube.com/watch?v=RS5F_bhNugw
-
-**Jue 22 Oct** *(2h)* — G7 ej. 3, 4, 5  ·  _práctico en clase 11-13_
 * *Ej 3 (G7)* — Prueba Z bilateral: punto de fusión de aceite, error tipo II — 🎥 "Prueba de hipótesis — media, Z" — https://www.youtube.com/watch?v=RS5F_bhNugw
-* *Ej 4 (G7)* — Comparar la prueba de hipótesis con el IC del ej. 5 de G6 — 🎥 "Prueba de hipótesis — media, Z" — https://www.youtube.com/watch?v=RS5F_bhNugw
 * *Ej 5 (G7)* — Prueba unilateral: tiempo de escape de trabajadores petroleros — 🎥 "Prueba de hipótesis — media, T" — https://www.youtube.com/watch?v=p6n7d2ZLAxg
-
-**Sáb 24 Oct** *(~3.5h)* — G7 ej. 6, 7, 8, 9, 10  ·  _sábado_
 * *Ej 6 (G7)* — Prueba n≥40: expansión lateral de una aleación, error tipo II — 🎥 "Prueba de hipótesis — media, Z" — https://www.youtube.com/watch?v=RS5F_bhNugw
+
+**Lun 26 Oct** *(2,75h)* — G7 ej. 7, 8, 9, 10  ·  _8:30-11:15_
 * *Ej 7 (G7)* — Prueba t bilateral: diámetro de ruedas, distintos casos de tobs — 🎥 "Prueba de hipótesis — media, T" — https://www.youtube.com/watch?v=p6n7d2ZLAxg
 * *Ej 8 (G7)* — Prueba t unilateral: desgaste de un eje, error tipo II — 🎥 "Prueba de hipótesis — media, T" — https://www.youtube.com/watch?v=p6n7d2ZLAxg
 * *Ej 9 (G7)* — Prueba t: contenido de sodio en galletas (norma CAA) — 🎥 "Prueba de hipótesis — media, T" — https://www.youtube.com/watch?v=p6n7d2ZLAxg
 * *Ej 10 (G7)* — Prueba t bilateral + IC: lecturas de radón — 🎥 "Prueba de hipótesis — media, T" — https://www.youtube.com/watch?v=p6n7d2ZLAxg
 
-**Dom 25 Oct** *(~3.5h)* — G7 ej. 11, 12, 13, 14, 15, 16  ·  _domingo; del 13 al 16 son de p-valor, más cortos_
+**Mar 27 Oct** *(4h: 8:30-10:30 y clase 11:00-13:00)* — G7 ej. 11, 13, 15, 16, 17 · mini-teoría de 2 muestras (si la clase no la cubre)
 * *Ej 11 (G7)* — Prueba de proporción: preferencia entre dos empresas de cable — 🎥 "Prueba de hipótesis — proporción" — https://www.youtube.com/watch?v=EsTm9MGZacI
-* *Ej 12 (G7)* — Prueba de proporción: donantes de sangre tipo A — 🎥 "Prueba de hipótesis — proporción" — https://www.youtube.com/watch?v=EsTm9MGZacI
 * *Ej 13 (G7)* — Prueba de proporción (p-valor): robots vs. humanos ensamblando cables — 🎥 "p-valor en pruebas de hipótesis" — https://www.youtube.com/watch?v=47vZXLESRWc
-* *Ej 14 (G7)* — Comparar p-valor con distintos niveles de significación (6 pares) — 🎥 "p-valor en pruebas de hipótesis" — https://www.youtube.com/watch?v=47vZXLESRWc
 * *Ej 15 (G7)* — Calcular p-valor con estadístico Z, distintas alternativas — 🎥 "p-valor en pruebas de hipótesis" — https://www.youtube.com/watch?v=47vZXLESRWc
 * *Ej 16 (G7)* — Acotar p-valor: ganancia de peso de terneros con hormonas — 🎥 "p-valor en pruebas de hipótesis" — https://www.youtube.com/watch?v=47vZXLESRWc
-
-**Lun 26 Oct** *(~3h)* — G7 ej. 17 (cierra G7) · HI-PyE-09 · G8 ej. 1, 2  ·  _lunes_
 * *Ej 17 (G7)* — Acotar p-valor con estadístico T, distintos casos — 🎥 "Prueba de hipótesis — media, T" — https://www.youtube.com/watch?v=p6n7d2ZLAxg
-* *Teoría* — Hoja de investigación HI-PyE-09 (dos muestras: independientes vs apareadas)
+* *Tarea* — Mini-teoría de 2 muestras (si la clase no la cubre).
+
+**Mié 28 Oct** *(4h: 8:30-10:30 y 11:30-13:30)* — G8 ej. 1, 2, 3, 4, 5, 6
 * *Ej 1 (G8)* — Síndrome de Raynaud: prueba unilateral, σ1 y σ2 conocidos — 🎥 "PH diferencia de medias — indep." — https://www.youtube.com/watch?v=3Rozok2NjNY
 * *Ej 2 (G8)* — Fuerza de unión de espigas de madera: prueba unilateral, σ conocidos — 🎥 "PH diferencia de medias — indep." — https://www.youtube.com/watch?v=3Rozok2NjNY
-
-**Mar 27 Oct** *(2h)* — G8 ej. 3, 4, 5  ·  _práctico en clase 11-13_
 * *Ej 3 (G8)* — Calcio en suero con/sin vitamina D: varianzas iguales desconocidas — 🎥 "PH diferencia de medias — varianzas desiguales" — https://www.youtube.com/watch?v=mSKZCstzNOU
 * *Ej 4 (G8)* — Creatinina medida con dos métodos (A y B) — muestras apareadas — 🎥 "PH diferencia de medias — apareadas" — https://www.youtube.com/watch?v=_4iR54x3s4I
 * *Ej 5 (G8)* — Glóbulos blancos: infectados vs. sanos, prueba unilateral — 🎥 "PH diferencia de medias — varianzas desiguales" — https://www.youtube.com/watch?v=mSKZCstzNOU
-
-**Mié 28 Oct** *(~2h)* — G8 ej. 6, 7, 8 (cierra G8), luego repaso con lo que sobre  ·  _tarde cedida por Álgebra y Lógica_
 * *Ej 6 (G8)* — Frecuencia cardíaca antes/después de un experimento — apareada — 🎥 "PH diferencia de medias — apareadas" — https://www.youtube.com/watch?v=_4iR54x3s4I
+
+**Jue 29 Oct** *(4h: 8:30-10:30 y clase 11:00-13:00)* — G8 ej. 7, 8 · hoja de fórmulas G5 a G8 (primera versión) · dudas con la docente: G7 y G8 · repaso de lo que costó
 * *Ej 7 (G8)* — Carboxihemoglobina en fumadores vs. no fumadores — muestras grandes — 🎥 "PH diferencia de medias — indep." — https://www.youtube.com/watch?v=3Rozok2NjNY
 * *Ej 8 (G8)* — Niveles de DDE en cáncer de mama — apareada, n grande — 🎥 "PH diferencia de medias — apareadas" — https://www.youtube.com/watch?v=_4iR54x3s4I
+* *Tarea* — Hoja de fórmulas G5 a G8 (primera versión).
+* *Tarea* — Dudas con la docente: G7 y G8 · repaso de lo que costó.
+
+**Vie 30 Oct** *(4h: 8:30-10:30 y 11:30-13:30)* — simulacro de parcial viejo (2 h, con tiempo, sin apuntes) · corregir el simulacro y rehacer lo que falló
+* *Tarea* — Simulacro de parcial viejo (2 h, con tiempo, sin apuntes).
+* *Tarea* — Corregir el simulacro y rehacer lo que falló.
+
+**Sáb 31 Oct** *(4h: 8:30-10:30 y 11:30-13:30)* — G6 ej. 9 · G7 ej. 4, 12, 14 · los cortados de la primera pasada (los que alcancen) · hoja de fórmulas G5 a G8: versión final + temas flojos
+* *Ej 9 (G6)* — IC para θ en Uniforme[0,θ]: dos formas, comparar longitud — 🎥 "IC media — σ conocido" — https://www.youtube.com/watch?v=91gR7Up9LZc
+* *Ej 4 (G7)* — Comparar la prueba de hipótesis con el IC del ej. 5 de G6 — 🎥 "Prueba de hipótesis — media, Z" — https://www.youtube.com/watch?v=RS5F_bhNugw
+* *Ej 12 (G7)* — Prueba de proporción: donantes de sangre tipo A — 🎥 "Prueba de hipótesis — proporción" — https://www.youtube.com/watch?v=EsTm9MGZacI
+* *Ej 14 (G7)* — Comparar p-valor con distintos niveles de significación (6 pares) — 🎥 "p-valor en pruebas de hipótesis" — https://www.youtube.com/watch?v=47vZXLESRWc
+* *Tarea* — Los cortados de la primera pasada (los que alcancen).
+* *Tarea* — Hoja de fórmulas G5 a G8: versión final + temas flojos.
+
+**Dom 1 Nov** *(4h: 8:30-10:30 y 11:30-13:30)* — simulacro #2 de parcial viejo (2 h) · corregir y repasar errores típicos
+* *Tarea* — Simulacro #2 de parcial viejo (2 h).
+* *Tarea* — Corregir y repasar errores típicos.
+
+**Lun 2 Nov** *(5h: 8:30-11:30 y 15:00-17:00)* — repaso liviano: hoja de fórmulas y errores típicos, sin ejercicios nuevos · lectura final de la hoja y descanso; dejar todo listo para el parcial
+* *Tarea* — Repaso liviano: hoja de fórmulas y errores típicos, sin ejercicios nuevos.
+* *Tarea* — Lectura final de la hoja y descanso; dejar todo listo para el parcial.
+
+**Mar 3 Nov** *(9:00-13:00)* — **PARCIAL 2 de PyE**
+* *Tarea* — Antes: lectura de 30 min de la hoja de fórmulas, sin ejercicios nuevos. Después: no repasar el parcial; seguir con lo planeado del día.
+
+**Mié 4 Nov** — Descanso post-parcial de PyE
+* *Tarea* — PyE descansa; el día es de Álgebra.
 
 ### Objetivos por día — PyE (con el calendar real)
 
 | Día | Mínimo | Objetivo | Extra |
 |---|---|---|---|
-| Mié 14 | — | — | — |
 | Jue 15 | 1 h de HI-PyE-06 | HI-PyE-06 completa (2 h) | Copiar la clase del 13/10 |
 | Vie 16 | Copiar la clase + G5 ej. 1, 2 | Copiar la clase + G5 ej. 1 a 4 | G5 ej. 5 |
-| Sáb 17 | G5 ej. 5, 6, 7 | G5 ej. 5 a 9 | G5 ej. 10 |
-| Dom 18 | G5 ej. 10 · HI-PyE-07 | G5 ej. 10 · HI-PyE-07 · G6 ej. 1, 2, 3 | G6 ej. 4 |
-| Lun 19 | G6 ej. 4, 5, 6 | G6 ej. 4 a 8 (cierra G6) | G7 ej. 1 |
-| Mar 20 | HI-PyE-08 | HI-PyE-08 · G7 ej. 1, 2 | G7 ej. 3 |
+| Mié 21 | G5 ej. 4, 5 | G5 ej. 4, 5, 6 | G5 ej. 7 |
+| Jue 22 | G5 ej. 7, 8, 9 | G5 ej. 7, 8, 9 | G5 ej. 10 |
+| Vie 23 | G5 ej. 10 · mini-teoría de IC (30-40 min) | G5 ej. 10 · mini-teoría de IC (30-40 min) · G6 ej. 1, 2 | G6 ej. 3 |
+| Sáb 24 | G6 ej. 3, 4, 5 | G6 ej. 3, 4, 5, 6, 7, 8 | mini-teoría de pruebas de hipótesis (30-40 min) |
+| Dom 25 | mini-teoría de pruebas de hipótesis (30-40 min) · G7 ej. 1, 2 | mini-teoría de pruebas de hipótesis (30-40 min) · G7 ej. 1, 2, 3, 5, 6 | G7 ej. 7 |
+| Lun 26 | G7 ej. 7, 8, 9, 10 | G7 ej. 7, 8, 9, 10 | G7 ej. 11 |
+| Mar 27 | G7 ej. 11, 13, 15, 16, 17 | G7 ej. 11, 13, 15, 16, 17 · mini-teoría de 2 muestras (si la clase no la cubre) | G8 ej. 1 |
+| Mié 28 | G8 ej. 1, 2, 3 | G8 ej. 1, 2, 3, 4, 5, 6 | G8 ej. 7 |
+| Jue 29 | G8 ej. 7, 8 · hoja de fórmulas G5 a G8 (primera versión) | G8 ej. 7, 8 · hoja de fórmulas G5 a G8 (primera versión) · dudas con la docente: G7 y G8 · repaso de lo que costó | simulacro de parcial viejo (2 h, con tiempo, sin apuntes) |
+| Vie 30 | simulacro de parcial viejo (2 h, con tiempo, sin apuntes) | simulacro de parcial viejo (2 h, con tiempo, sin apuntes) · corregir el simulacro y rehacer lo que falló | G6 ej. 9 |
+| Sáb 31 | G6 ej. 9 · G7 ej. 4, 12, 14 | G6 ej. 9 · G7 ej. 4, 12, 14 · los cortados de la primera pasada (los que alcancen) · hoja de fórmulas G5 a G8: versión final + temas flojos | simulacro #2 de parcial viejo (2 h) |
+| Dom 1 | simulacro #2 de parcial viejo (2 h) | simulacro #2 de parcial viejo (2 h) · corregir y repasar errores típicos | repaso liviano: hoja de fórmulas y errores típicos, sin ejercicios nuevos |
+| Lun 2 | repaso liviano: hoja de fórmulas y errores típicos, sin ejercicios nuevos | repaso liviano: hoja de fórmulas y errores típicos, sin ejercicios nuevos · lectura final de la hoja y descanso; dejar todo listo para el parcial | PARCIAL 2 de PyE |
+| Mar 3 | PARCIAL 2 de PyE | PARCIAL 2 de PyE | — |
 
-Con el miércoles perdido y sin el ej. 9* de G6, G6 cierra el Lun 19 (igual que antes), G7 el **Lun 26** (antes el Dom 25) y G8 el **Mié 28** (igual): el repaso previo al parcial del 3/11 queda en unos 4 días (Jue 29, Sáb 31, Dom 1 y Lun 2, más lo que sobre de la tarde del Mié 28, con el Vie 30 libre). A cambio, los días quedan más justos: 4 o 5 ejercicios por bloque, a unos 40-45 min cada uno, sin el aire que había antes.
+**Plan del 21/10.** Con el calendar real: PyE tiene unas 47 h de bloques hasta el Lun 2/11. Quedan 37 ejercicios de la primera pasada (G5 ej. 4 a 10, G6 ej. 1 a 8, G7 menos los ej. 4, 12 y 14, y G8) más 3 mini-teorías de 30-40 min. Cierres: G5 el Vie 23, G6 el Sáb 24, G7 el Mar 27 y G8 el Jue 29. Del Vie 30 al Lun 2 queda el repaso: 2 simulacros de parcial viejo, los 4 ejercicios cortados (G6 ej. 9\*, G7 ej. 4, 12 y 14) y la hoja de fórmulas única. Si un bloque no sale entero, lo que falta pasa al bloque siguiente, no a la noche.
 
-Si el Dom 25 se llega con más de un día de atraso, los primeros ejercicios para cortar (comparten técnica con otro de la guía) son, como candidatos a confirmar: **G7 ej. 4** (comparar con el IC), **G7 ej. 12** (misma técnica que el 11) y **G7 ej. 14** (misma técnica que el 15): unas 2 h en total.
+
 
 ### Errores del Parcial 1 (3,7/10) — qué rehacer para el recuperatorio
 
@@ -576,13 +581,8 @@ Se aprueba con 4: faltaron 0,3 puntos. Con un solo ítem más (por ejemplo la co
 
 ## Notas del método
 
-- **Corrida del 14/10:** el miércoles 14 se perdió (día de viaje y descanso). Se corta el único ejercicio con estrella de G5 a G8 (G6 ej. 9) y los días de fin de semana se compactan (4 o 5 ejercicios por bloque): G6 cierra el Lun 19, G7 el **Lun 26** y G8 el **Mié 28** (igual que antes); el repaso previo al 3/11 queda en unos 4 días. Candidatos a cortar si hay atraso: G7 ej. 4, 12 y 14.
-- **Corrida del 13/10:** con el calendar real, el miércoles 14 ya se estudia (teoría atrasada + G5 ej. 1, 2). G6 cierra el Lun 19, G7 el Dom 25 y G8 el **Mié 28** (antes el Jue 29), así que el repaso antes del 3/11 sube a unos 4 días y medio. Se agregan los errores concretos del Parcial 1 (3,7/10) para el recuperatorio.
-- **Corrida del 12/10:** en Rosario no se estudió (la teoría atrasada, tampoco). Fin de semana de estudio del Jue 15 (tarde) al Lun 19; la teoría atrasada va el jueves 15 y G6 cierra el Mar 20. Desde el Jue 22 el plan sigue igual. El margen de repaso antes del 3/11 no cambia.
-- **Corrida del 8/10 (noche):** día sin avance tras recibir las notas; la teoría atrasada pasa al lunes 12/10 (Rosario). Los jueves y domingos que eran de AyED2 pasan a repaso de recuperatorios de Lógica y Álgebra (AyED2 se va a febrero); PyE conserva su bloque de repaso del 5 al 16/11. Nota del Parcial 1 a confirmar (3,7/10).
+- **Corrida del 21/10:** el plan se recalculó con los bloques reales del calendar (ver el estado actual): G5 cierra el Vie 23, G6 el Sáb 24, G7 el Mar 27 y G8 el Jue 29; el Vie 30 al Lun 2 son de repaso.
 - **Corrida del 6/10 (noche):** el Parcial 1 salió 3,70 y se recupera el 17/11. Se agregó el bloque de repaso de G1 a G4 del 5 al 16/11 (los días libres de PyE entre los parciales de Álgebra y Lógica). Los ejercicios concretos se definen con el parcial corregido.
-- **Corrida del 7/10:** los ejercicios de PyE arrancan después de Rosario (jueves 15/10); sáb 10/10 y dom 11/10 quedan sin PyE. Para sostener el margen se cargaron más los findes sin clases ni compañeros (sáb/dom 17-18 y 24-25, ~3,5 h, 5 ejercicios por día) y se usó el miércoles 28/10 a la tarde (Álgebra y Lógica ya están en repaso). G8 cierra el jueves 29/10 y quedan 3 días de repaso completos (31/10, 1/11 y 2/11).
-- **Corrida del 6/10:** la teoría atrasada no alcanzó el martes; el jueves 8/10 se usa para terminarla y los ejercicios de G5 corren un slot. El margen de repaso antes del 3/11 pasó de 2 días a 1 día (lunes 2/11).
 - **Corrida del 5/10:** el Parcial 2 se adelantó al 3/11 y el plan se reconstruyó desde cero con las fechas reales (clases, Rosario, particular). Se tomó el finde del 3-4/10 de descanso tras los parciales.
 - **Teoría primero:** cada guía arranca con su hoja de investigación (HI-PyE-06 a 09) y recién después los ejercicios; es el método que funcionó en el Parcial 1: más calma y mejor estudiado.
 - **Clase en vivo:** las primeras 2 h de cada clase son teoría para anotar e interpretar; el práctico (11-13) es para ejercicios.
@@ -590,11 +590,9 @@ Se aprueba con 4: faltaron 0,3 puntos. Con un solo ítem más (por ejemplo la co
 - **Parcial 1:** si hace falta recuperar, el plan de G1 a G4 se arma cuando se sepa la nota y la fecha; el repaso liviano de G1 a G4 sirve en los dos escenarios.
 - El archivo del cronograma del Parcial 1 (hasta el 29/9) está al final.
 
-- **Corrida del 1/9:** el lunes de PyE fue un día disperso, sin avance — se corrió al martes 1/9: 4 ejercicios en el práctico + 4 más a la tarde post-facu.
 - **Corrida del 28/8:** el viernes de Álgebra rindió menos de lo esperado, así que se corrió el sprint un lugar: Sáb=Álgebra, Dom=Lógica, Lun=PyE, Martes=AyED2.
 - **Sprint post-TP (26-28/8):** decidió retomar desde G1 ej.4 (en vez de seguir desde el 7) para afianzar mejor la base, tras sentir que no había aprendido bien esos ejercicios la primera vez. El martes 25 no se avanzó nada (semana dedicada a Lógica para el TP sorpresa). Jueves 27 fue paro no docente (libre).
 - **Corrección de fecha:** el Parcial 1 es el **29 de septiembre**, no el 22.
-- **Corrida del 22/8 (gripe):** se perdió el Jue 20 por gripe.
 - **Corrida anterior (17/8):** Sáb 15, Dom 16 y Lun 17 se perdieron por un imprevisto familiar.
 
 - Recursada a full profundidad: no se asume nada previo, cada guía nueva arranca con INV completa.
