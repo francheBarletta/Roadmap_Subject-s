@@ -18,7 +18,7 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 
 ## Estado actual (21 Octubre)
 
-- **Estado al 21/10 (miércoles): Lógica entra en bloques cortos del calendar** (Vie 23, Sáb 24, Dom 25 y Lun 26 de 19 a 20, y Vie 30, Sáb 31 y Dom 1) y no se va a las clases de los miércoles y viernes (dan la Unidad 3, que no entra en el Parcial 2). La Unidad 2 sigue sin empezar: 5 filminas y 35 ejercicios. Con esos 7 bloques (~9,5 h) se llega al Dom 1/11 con las 5 filminas y 15 ejercicios (P1 completo, P2 completo y P3 ej. 1 y 2); quedan P3 ej. 3 a 6, P4 (7) y P5 (9) para el **6 al 12/11**, con el calendar libre de PyE y Álgebra. **El Vie 6/11 se confirma** si se va por el Parcial 2 (13/11) o por el recuperatorio de la Unidad 1 (20/11) y el resto para febrero.
+- **Estado al 24/10 (sábado): Lógica entra en bloques cortos del calendar** (Dom 25 y Lun 26 de 19 a 20, y Vie 30, Sáb 31 y Dom 1) y no se va a las clases de los miércoles y viernes (dan la Unidad 3, que no entra en el Parcial 2). El jueves 22, el viernes 23 y el sábado 24 no hubo Lógica, así que se corrió todo para arrancar desde la Filmina 1 y el P1 ej. 1. La Unidad 2 tiene 5 filminas y 35 ejercicios. Con esos 5 bloques (~7 h) se llega al Dom 1/11 con las 5 filminas y 9 ejercicios (P1 completo y P2 ej. 1 a 3); quedan P2 ej. 4 a 7, P3, P4 y P5 (26 ejercicios) para el **6 al 12/11**, con el calendar libre de PyE y Álgebra. **El Vie 6/11 se confirma** si se va por el Parcial 2 (13/11) o por el recuperatorio de la Unidad 1 (20/11) y el resto para febrero.
 - **Primer parcial reprobado (2.4).** Se rinden el segundo parcial (13/11) y el recuperatorio (20/11). **El recuperatorio es de la Unidad 1** (confirmado el 8/10): el banco de la unidad 1 queda archivado al final del archivo y se usa en los bloques de repaso.
 - **Unidad 2 (lógica proposicional):** 5 filminas de teoría y 5 prácticos (35 ejercicios), **nada empezado todavía**: Lógica no se tocó hasta el 7/10. Arranca el **viernes 23/10**.
 - Método para esta unidad: teoría primero (filmina o video + resumen con ejemplos), después el ejercicio; pista antes que solución; las demostraciones no se copian.
@@ -164,22 +164,19 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 | Sáb 12 Sep → Lun 5 Oct | — | Sin plan registrado en este archivo. **Vie 11 Sep: Primer Parcial — reprobado (2.4).** Se pasó a la Unidad 2. |
 | **— Desde acá: plan nuevo (corrida del 5/10) —** | | |
 | Mar 6 Oct | Mar | otras: Álgebra, PyE |
-| Mié 21 Oct | Mié | otras: PyE (11:30-13:00 y 19:00-20:00), Álgebra (15:30-17:00) · sin Lógica · cita médica 14:00 · particular 17-19 · gym 20-21 |
-| Jue 22 Oct | Jue | otras: PyE (clase 11:00-13:00), Álgebra (clase 14:00-18:00) · sin Lógica · gym 18-19 · viaje a Huerta Grande 19:30-21:45 |
-| Vie 23 Oct | Vie | **Lógica** (1,5h, 20:00-21:30) — Filmina 1 · P1 ej. 1, 2 · otras: PyE (9:30-12:30), Álgebra (16:00-19:00) |
-| Sáb 24 Oct | Sáb | **Lógica** (1,5h, 20:00-21:30) — Filmina 2 · P1 ej. 3, 4 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (16:00-19:00) |
-| Dom 25 Oct | Dom | **Lógica** (1,5h, 20:00-21:30) — Filmina 3 · P1 ej. 5, 6 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (16:00-19:00) · checkpoint de la semana (21:30) |
-| Lun 26 Oct | Lun | **Lógica** (1h, 19:00-20:00) — Filmina 4 · P2 ej. 1 · otras: PyE (8:30-11:15), Álgebra (15:00-17:00) · psicóloga 11:45-12:45 · particular 17-19 · viaje 20:40-22:10 |
+| Mié 21 Oct | Mié | otras: PyE (11:30-13:00 y 19:00-20:00) · sin Lógica · cita médica 14:00 · particular 17-19 · gym 20-21 |
+| Dom 25 Oct | Dom | **Lógica** (1,5h, 20:00-21:30) — Filmina 1 · P1 ej. 1, 2 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (16:00-19:00) · checkpoint de la semana (21:30) |
+| Lun 26 Oct | Lun | **Lógica** (1h, 19:00-20:00) — Filmina 2 · P1 ej. 3 · otras: PyE (8:30-11:15), Álgebra (15:00-17:00) · psicóloga 11:45-12:45 · particular 17-19 · viaje 20:40-22:10 |
 | Mar 27 Oct | Mar | otras: PyE (8:30-10:30 y clase 11:00-13:00), Álgebra (clase 14:00-18:00 y 19:00-21:00) · sin Lógica |
 | Mié 28 Oct | Mié | otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (15:00-17:00 y 19:30-21:30) · sin Lógica · particular 17-19 |
 | Jue 29 Oct | Jue | otras: PyE (8:30-10:30 y clase 11:00-13:00), Álgebra (clase 14:00-18:00 y 19:00-21:00) · sin Lógica |
-| Vie 30 Oct | Vie | **Lógica** (1,5h, 20:00-21:30) — Filmina 5 · P2 ej. 2, 3 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (16:00-19:00) |
-| Sáb 31 Oct | Sáb | **Lógica** (1,5h, 20:00-21:30) — P2 ej. 4, 5, 6 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (15:00-17:00) · particular 17-18:30 |
-| Dom 1 Nov | Dom | **Lógica** (1,5h, 20:00-21:30) — P2 ej. 7 · P3 ej. 1, 2 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (16:00-19:00) · checkpoint antes del parcial de PyE (21:30) |
+| Vie 30 Oct | Vie | **Lógica** (1,5h, 20:00-21:30) — Filmina 3 · P1 ej. 4, 5 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (16:00-19:00) |
+| Sáb 31 Oct | Sáb | **Lógica** (1,5h, 20:00-21:30) — Filmina 4 · P1 ej. 6 · P2 ej. 1 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (15:00-17:00) · particular 17-18:30 |
+| Dom 1 Nov | Dom | **Lógica** (1,5h, 20:00-21:30) — Filmina 5 · P2 ej. 2, 3 · otras: PyE (8:30-10:30 y 11:30-13:30), Álgebra (16:00-19:00) · checkpoint antes de los parciales (21:30) |
 | Lun 2 Nov | Lun | otras: PyE (8:30-11:30 y 15:00-17:00) · sin Lógica · psicóloga 11:45-12:45 · particular 17-19 · viaje 20:40-22:10 |
 | Mar 3 Nov | Mar | otras: PyE (9:00-13:00), Álgebra (15:00-17:00 y 18:00-20:00) · sin Lógica |
-| Mié 4 Nov | Mié | otras: Álgebra (8:30-10:30 y 11:30-13:30 y 15:00-17:00) · sin Lógica · particular 17-19 |
-| Jue 5 Nov | Jue | **PARCIAL 2 de Álgebra** |
+| Mié 4 Nov | Mié | otras: PyE (8:30-10:30), Álgebra (11:30-13:30 y 15:00-17:00) · sin Lógica · particular 17-19 |
+| Jue 5 Nov | Jue | otras: PyE (9:00-10:00 y 18:30-21:00), Álgebra (10:15-11:15 y 14:00-18:00) · sin Lógica · comer algo liviano entre un parcial y el otro |
 | Vie 6 Nov | Vie | **DECISIÓN sobre Lógica** (parcial 2 el 13/11 o recuperatorio de la Unidad 1 el 20/11; ver el estado actual) · **Lógica** (2h) — repaso / SR / parciales viejos |
 | Sáb 7 Nov | Sáb | **Lógica** (2h) — repaso / SR / parciales viejos |
 | Dom 8 Nov | Dom | otras: repaso recup. Álgebra |
@@ -255,56 +252,44 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 
 > **Desde acá: plan nuevo (corrida del 5/10).** Todo lo de arriba es historial, tal cual estaba.
 
-> **Corrida del 21/10 (calendar real).** Lógica queda en los bloques de la noche (20:00-21:30 el Vie 23, Sáb 24, Dom 25, Vie 30, Sáb 31 y Dom 1; 1 h el Lun 26). Los miércoles ya no hay Lógica en el calendar; si el Mié 28 hay un hueco, se usa para adelantar P2.
+> **Corrida del 24/10.** Lógica queda en los bloques de la noche (20:00-21:30 el Dom 25, Vie 30, Sáb 31 y Dom 1; 1 h el Lun 26). El Jue 22, el Vie 23 y el Sáb 24 se sacaron del plan y se corrió todo: arranca de la Filmina 1.
 
-**Vie 23 Oct** *(1,5h)* — Filmina 1 · P1 ej. 1, 2  ·  _20:00-21:30_
+**Dom 25 Oct** *(1,5h)* — Filmina 1 · P1 ej. 1, 2  ·  _20:00-21:30_
 * *Teoría* — Filmina 1 de la unidad 2: leer y resumir con ejemplos (~45 min); el resto del bloque, ejercicios.
-* *Ej 1 (P1)* — Para las cadenas dadas decidir cuáles están en Σ*, cuáles en PROP y cuáles en ninguno: (a) p0→p1; (b) ((p∧p)→p); (c) (φ∨ψ); (d) (((p1→p2)→p1)→p2) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: chequeá símbolo por símbolo contra el alfabeto (variables pᵢ, ⊥, conectivos, paréntesis) y después contra la definición inductiva de PROP
-* *Ej 2 (P1)* — Demostrar que toda φ∈PROP tiene tantos “(” como “)”, y que la cantidad total de paréntesis es el doble de la cantidad de conectivos distintos de ⊥ que ocurren — 🎥 "MÉTODO de INDUCCIÓN para demostrar PROPOSICIONES" *(video general del tema)* — https://www.youtube.com/watch?v=bNB2Mb3O5C4 · 💡 Pista: inducción estructural sobre φ: una base (pᵢ, ⊥) y un paso por cada forma de construir fórmulas
+* *Ej 1 (P1)* — (ver banco de ejercicios)
+* *Ej 2 (P1)* — (ver banco de ejercicios)
 
-**Sáb 24 Oct** *(1,5h)* — Filmina 2 · P1 ej. 3, 4  ·  _20:00-21:30_
+**Lun 26 Oct** *(1h)* — Filmina 2 · P1 ej. 3  ·  _19:00-20:00_
 * *Teoría* — Filmina 2 de la unidad 2: leer y resumir con ejemplos (~45 min); el resto del bloque, ejercicios.
 * *Ej 3 (P1)* — Definir recursivamente ocur(k,φ): la cantidad de ocurrencias de pₖ en φ, para cada φ∈PROP — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: un caso por cada cláusula de PROP; en la variable, distinguí pᵢ con i=k de i≠k
-* *Ej 4 (P1)* — Definir recursivamente la función “longitud”: cantidad de símbolos de una proposición, incluyendo paréntesis — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: en (φ□ψ) contá los 2 paréntesis y el conectivo, más la longitud de cada subfórmula
 
-**Dom 25 Oct** *(1,5h)* — Filmina 3 · P1 ej. 5, 6  ·  _20:00-21:30_
+**Vie 30 Oct** *(1,5h)* — Filmina 3 · P1 ej. 4, 5  ·  _20:00-21:30_
 * *Teoría* — Filmina 3 de la unidad 2: leer y resumir con ejemplos (~45 min); el resto del bloque, ejercicios.
+* *Ej 4 (P1)* — Definir recursivamente la función “longitud”: cantidad de símbolos de una proposición, incluyendo paréntesis — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: en (φ□ψ) contá los 2 paréntesis y el conectivo, más la longitud de cada subfórmula
 * *Ej 5 (P1)* — Definir recursivamente S:PROP→P(PROP) tal que S(φ) sea el conjunto de subfórmulas de φ (ej.: S(⊥)={⊥}, S((p0∧p1))={p0,p1,(p0∧p1)}) — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: S de una fórmula compuesta = {la fórmula} ∪ S de cada una de sus partes
-* *Ej 6 (P1)* — (a) Calcular φ[((p7→⊥)→p3)/p7] para dos fórmulas dadas. (b)(*) Definir recursivamente la sustitución G(φ,ψ,pᵢ)=φ[ψ/pᵢ] — (b) es de cierre, opcional — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: sustituí cada ocurrencia de p7 por la fórmula completa con sus paréntesis; para (b) un caso por cláusula de PROP (pᵢ vs pⱼ con j≠i)
 
-**Lun 26 Oct** *(1h)* — Filmina 4 · P2 ej. 1  ·  _19:00-20:00_
+**Sáb 31 Oct** *(1,5h)* — Filmina 4 · P1 ej. 6 · P2 ej. 1  ·  _20:00-21:30_
 * *Teoría* — Filmina 4 de la unidad 2: leer y resumir con ejemplos (~45 min); el resto del bloque, ejercicios.
+* *Ej 6 (P1)* — (a) Calcular φ[((p7→⊥)→p3)/p7] para dos fórmulas dadas. (b)(*) Definir recursivamente la sustitución G(φ,ψ,pᵢ)=φ[ψ/pᵢ] — (b) es de cierre, opcional — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: sustituí cada ocurrencia de p7 por la fórmula completa con sus paréntesis; para (b) un caso por cláusula de PROP (pᵢ vs pⱼ con j≠i)
 * *Ej 1 (P2)* — Diagramas de Hasse A,B,C: maximales/minimales, máximo/mínimo, qué cubre a "e", cotas y supremos/ínfimos de conjuntos dados — 🎥 "Diagrama de Hasse — cota superior, maximales, minimales, máximo, mínimo" — https://www.youtube.com/watch?v=BCH9auS9yi8
 
-**Vie 30 Oct** *(1,5h)* — Filmina 5 · P2 ej. 2, 3  ·  _20:00-21:30_
+**Dom 1 Nov** *(1,5h)* — Filmina 5 · P2 ej. 2, 3  ·  _20:00-21:30_
 * *Teoría* — Filmina 5 de la unidad 2: leer y resumir con ejemplos (~45 min); el resto del bloque, ejercicios.
 * *Ej 2 (P2)* — V o F sobre posets: único maximal ⟹ máximo (finito / general) — 🎥 "Objetos Maximales y Minimales — Conjuntos Ordenados" — https://www.youtube.com/watch?v=RDxwk9Vjth4
 * *Ej 3 (P2)* — Dar diagramas de Hasse de P={a,b,c,d,e} que satisfagan condiciones sobre sup/ínf — 🎥 "Estructuras de orden — Elementos maximales, máximo, minimales, mínimo" — https://www.youtube.com/watch?v=5NRQPEKluTg
-
-**Sáb 31 Oct** *(1,5h)* — P2 ej. 4, 5, 6  ·  _20:00-21:30_
-* *Ej 4 (P2)* — Poset [0,1)∪[2,3) con orden heredado: V o F sobre existencia de supremos — 🎥 "Poset de Z — Matemática Discreta" — https://www.youtube.com/watch?v=6n6ZgStal4E
-* *Ej 5 (P2)* — Probar que sup(S) e ínf(S) existen para todo S finito no vacío en un poset reticulado — 🎥 "Supremo e Ínfimo — Cotas y Conjuntos Ordenados" — https://www.youtube.com/watch?v=L3rgqDYANYM
-* *Ej 6 (P2)* — Diagramas de Hasse de (A,|) y (B,|) con divisores de 12; ¿cuáles son reticulados?; calcular 4∧(2∨3); subconjunto de P({a,b,c}) — 🎥 "Supremo e Ínfimo — Explicación con ejemplo" — https://www.youtube.com/watch?v=SslId-CutLQ
-
-**Dom 1 Nov** *(1,5h)* — P2 ej. 7 · P3 ej. 1, 2  ·  _20:00-21:30_
-* *Ej 7 (P2)* — Dada una asignación f, hallar g tal que ⟦φ⟧g = ⟦φ[⊥/p0]⟧f para toda φ∈PROP; caracterizar las φ con ⟦φ⟧f = ⟦φ⟧g — *(sin video específico; apoyate en la filmina correspondiente)* · 💡 Pista: definí g igual que f salvo en p0 y probá por inducción sobre φ
-* *Ej 1 (P3)* — En el reticulado L2: encontrar v∨x, s∨v y u∨v — 🎥 "Video lección Retículos y álgebras de Boole — parte 2" *(general, no resuelve la cuenta exacta)* — https://www.youtube.com/watch?v=cn5_iePGK9o · pista: leer del diagrama las cotas superiores comunes de cada par y tomar la menor
-* *Ej 2 (P3)* — Demostrar x∨(y∧z) ≤ (x∨y)∧(x∨z) en todo poset reticulado — 🎥 "Video lección Retículos y álgebras de Boole — parte 1" *(general)* — https://www.youtube.com/watch?v=R9zzpsSIVig · pista: x≤x∨y, y∧z≤y≤x∨y, y∧z≤z≤x∨z ⟹ y∧z≤(x∨y)∧(x∨z)
 
 
 ### Objetivos por día — Lógica (con el calendar real)
 
 | Día | Mínimo | Objetivo | Extra |
 |---|---|---|---|
-| Vie 23 | Filmina 1 | Filmina 1 · P1 ej. 1, 2 | Filmina 2 |
-| Sáb 24 | Filmina 2 | Filmina 2 · P1 ej. 3, 4 | Filmina 3 |
-| Dom 25 | Filmina 3 | Filmina 3 · P1 ej. 5, 6 | Filmina 4 |
-| Lun 26 | Filmina 4 | Filmina 4 · P2 ej. 1 | Filmina 5 |
-| Vie 30 | Filmina 5 | Filmina 5 · P2 ej. 2, 3 | P2 ej. 4 |
-| Sáb 31 | P2 ej. 4, 5, 6 | P2 ej. 4, 5, 6 | P2 ej. 7 |
-| Dom 1 | P2 ej. 7 | P2 ej. 7 · P3 ej. 1, 2 | — |
+| Dom 25 | Filmina 1 | Filmina 1 · P1 ej. 1, 2 | Filmina 2 |
+| Lun 26 | Filmina 2 | Filmina 2 · P1 ej. 3 | Filmina 3 |
+| Vie 30 | Filmina 3 | Filmina 3 · P1 ej. 4, 5 | Filmina 4 |
+| Sáb 31 | Filmina 4 · P1 ej. 6 | Filmina 4 · P1 ej. 6 · P2 ej. 1 | Filmina 5 |
+| Dom 1 | Filmina 5 | Filmina 5 · P2 ej. 2, 3 | — |
 
-**Corrida del 21/10.** Lógica va en los bloques de la noche del calendar (ver arriba); el Vie 6/11 se decide cómo seguir (ver el estado actual).
+**Corrida del 24/10.** Lógica va en los bloques de la noche del calendar (ver arriba); el Vie 6/11 se decide cómo seguir (ver el estado actual).
 
 ### Errores del Parcial 1 (2.4) — qué rehacer para el recuperatorio (Unidad 1)
 
@@ -329,7 +314,7 @@ Unidad 1 (estructuras de orden): primer parcial rendido el 11/9. Unidad 2 (lógi
 
 ## Notas del método
 
-- **Corrida del 21/10:** Lógica pasa a los bloques de la noche del calendar (20:00-21:30 los viernes, sábados y domingos; 1 h el Lun 26); P1 y P2 completos y P3 ej. 1 y 2 hasta el Dom 1/11; lo demás, del 6 al 12/11.
+- **Corrida del 24/10:** Lógica en los bloques de la noche (20:00-21:30 domingos, el Vie 30 y el Sáb 31; 1 h el Lun 26), arrancando desde la Filmina 1; P1 completo y P2 ej. 1 a 3 hasta el Dom 1/11; lo demás, del 6 al 12/11.
 - **Teoría primero:** antes de cada ejercicio, filmina o video y resumen con ejemplos; lo que falte en el resumen se agrega al resolver. Es lo que cambió entre el primer parcial y los parciales de PyE y Álgebra, y funcionó.
 - **Clase en vivo:** las primeras 2 h de cada clase son teoría para anotar e interpretar; el tramo de práctico es para ejercicios (unos 3 cada 2 h).
 - **Pista antes que solución:** si una demostración no sale, se vuelve a la definición y se pide una pista; no se copia.
